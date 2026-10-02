@@ -35,12 +35,14 @@
             "id": "cca9702b26f1ce68",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw-v2.png"
+                "file": "The Last Wish/Locations/Theros.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "De Zilvermeeuw-v2"
+              "icon": "lucide-file",
+              "title": "Theros"
             }
           }
         ],
@@ -123,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw-v2.png",
+                "file": "The Last Wish/Locations/Theros.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,12 +308,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "700f22b8a8bcec66",
+  "active": "cca9702b26f1ce68",
   "lastOpenFiles": [
-    "Locations/Altrisos.md",
+    "The Last Wish/Locations/Altrisos/Places of Interest.md",
+    "The Last Wish/Locations/Altrisos.md",
+    "The Last Wish/Locations/Altrisos/General.md",
+    "The Last Wish/Locations/Altrisos",
+    "Locations/Altrisos",
     "Locations",
-    "The Last Wish/Sessions/000 - Backstories/Media/ship_reference.avif",
+    "The Last Wish/Locations/Theros.md",
+    "The Last Wish/Locations/Agrotekea.md",
     "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw-v2.png",
+    "The Last Wish/Sessions/000 - Backstories/Media/ship_reference.avif",
     "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw.png",
     "The Last Wish/Sessions/000 - Backstories/Media/ship_reference.avif.crdownload",
     "The Last Wish/Sessions/000 - Backstories/Drafts/Plink.md",
@@ -342,18 +350,12 @@
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Hippocamp.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Ironscale Hydra.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Hythonia.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Alseid.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Akroan Hoplite.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-209-002.png",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-209-001.png",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-209-000.png",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Doomwake Giant.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-247-000.png",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-214-001.png",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-214-000.png",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images",
-    "The Last Wish/Sessions/001 - Phanarax Brug/001 - Phanarax Brug.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Source",
     "Untitled.canvas"
   ]
 }
