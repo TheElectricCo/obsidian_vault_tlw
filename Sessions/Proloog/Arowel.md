@@ -4,7 +4,6 @@ fase: "Proloog"
 ---
 ### Current Situation
 
-
 ### Brief
 
 ### Chat Log
