@@ -1,0 +1,36 @@
+# Alter Self
+
+[[Spells Glossary|← Spells Glossary]]
+
+*2nd-level transmutation*
+
+## Spell Details
+
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour
+- **Concentration:** Yes
+- **Ritual:** No
+- **Classes:** Sorcerer, Wizard
+
+## Description
+
+You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.
+
+Aquatic Adaptation. You adapt your body to an aquatic environment, sprouting gills and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed.
+
+Change Appearance. You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can’t appear as a creature of a different size than you, and your basic shape stays the same; if you’re bipedal, you can’t use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again.
+
+Natural Weapons. You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
+
+## Sources
+
+- [Basic Rules (2014): Alter Self](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/spells#AlterSelf)
+- [SRD 5.1, p. 114](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=114)
+
+### Attribution
+
+This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
+
+Changes: spell text reformatted as Markdown; class lists and reference fields organized for quick lookup; local spell links added. Named spells retain their Basic Rules titles, with their SRD equivalents identified.

@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Last Wish/Locations/Agrotekea.md",
+                "file": "AGENTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agrotekea"
+              "title": "AGENTS"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Last Wish/Locations/Agrotekea.md",
+                "file": "AGENTS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Last Wish/Locations/Agrotekea.md",
+                "file": "AGENTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -320,41 +320,41 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "700f22b8a8bcec66",
+  "active": "4e43f9debb98e068",
   "lastOpenFiles": [
-    "The Last Wish/Sessions/20261029 - Session 1.md",
+    "D&D 5E/Base Edition/Magic Items Glossary.md",
     "AGENTS.md",
+    "D&D 5E/Base Edition",
+    "The Last Wish/Locations/Agrotekea.md",
+    "The Last Wish/Sessions/20261029 - Session 1.md",
     "The Last Wish/Artefacts/Random/Goden Stamboom.png",
     "Untitled.canvas",
     "Ideas/THEROS.jpeg",
     "Ideas/Random.md",
     "Ideas/Pasted image 20260807094353.png",
-    "D&D 5E/Magic Items Glossary.md",
-    "D&D 5E/Spells/Fireball.md",
-    "D&D 5E/Magic Items/Wings of Flying.md",
-    "D&D 5E/Magic Items/Winged Boots.md",
-    "D&D 5E/Magic Items/Wind Fan.md",
-    "D&D 5E/Magic Items/Well of Many Worlds.md",
-    "D&D 5E/Magic Items/Weapon, +1, +2, or +3.md",
-    "D&D 5E/Magic Items/Wand of the War Mage, +1, +2, or +3.md",
-    "D&D 5E/Magic Items/Wand of Wonder.md",
-    "D&D 5E/Magic Items/Wand of Web.md",
-    "D&D 5E/Magic Items/Wand of Secrets.md",
-    "D&D 5E/Magic Items/Wand of Polymorph.md",
-    "D&D 5E/Magic Items/Wand of Paralysis.md",
-    "D&D 5E/Magic Items/Wand of Magic Missiles.md",
-    "D&D 5E/Magic Items/Wand of Magic Detection.md",
-    "D&D 5E/Magic Items/Wand of Lightning Bolts.md",
-    "D&D 5E/Magic Items/Wand of Fireballs.md",
-    "D&D 5E/Magic Items/Wand of Fear.md",
-    "D&D 5E/Magic Items/Wand of Enemy Detection.md",
-    "D&D 5E/Magic Items/Wand of Binding.md",
-    "D&D 5E/Magic Items/Vorpal Sword.md",
-    "D&D 5E/Magic Items/Vicious Weapon.md",
-    "D&D 5E/Magic Items/Universal Solvent.md",
-    "D&D 5E/Magic Items",
-    "D&D 5E/Spells",
-    "D&D 5E/Monsters",
+    "D&D 5E/Base Edition/Spells/Fireball.md",
+    "D&D 5E/Base Edition/Magic Items/Wings of Flying.md",
+    "D&D 5E/Base Edition/Magic Items/Winged Boots.md",
+    "D&D 5E/Base Edition/Magic Items/Wind Fan.md",
+    "D&D 5E/Base Edition/Magic Items/Well of Many Worlds.md",
+    "D&D 5E/Base Edition/Magic Items/Weapon, +1, +2, or +3.md",
+    "D&D 5E/Base Edition/Magic Items/Wand of the War Mage, +1, +2, or +3.md",
+    "D&D 5E/Base Edition/Magic Items/Wand of Wonder.md",
+    "D&D 5E/Base Edition/Magic Items/Wand of Web.md",
+    "D&D 5E/Base Edition/Magic Items/Wand of Secrets.md",
+    "D&D 5E/Base Edition/Magic Items/Wand of Polymorph.md",
+    "D&D 5E/Base Edition/Magic Items/Wand of Paralysis.md",
+    "D&D 5E/Base Edition/Magic Items/Wand of Magic Missiles.md",
+    "D&D 5E/Base Edition/Magic Items/Wand of Magic Detection.md",
+    "D&D 5E/Base Edition/Magic Items/Wand of Lightning Bolts.md",
+    "D&D 5E/Base Edition/Magic Items/Wand of Fireballs.md",
+    "D&D 5E/Base Edition/Magic Items/Wand of Fear.md",
+    "D&D 5E/Base Edition/Magic Items/Wand of Enemy Detection.md",
+    "D&D 5E/Base Edition/Magic Items/Wand of Binding.md",
+    "D&D 5E/Base Edition/Magic Items/Vorpal Sword.md",
+    "D&D 5E/Base Edition/Magic Items",
+    "D&D 5E/Base Edition/Spells",
+    "D&D 5E/Base Edition/Monsters",
     "The Last Wish",
     "D&D 5E",
     "The Last Wish/Artefacts/Items/De Eerste Lauwer.jpg",
@@ -366,7 +366,6 @@
     "atlas-vtt/collections/The Last Wish/maps/map-1790939785723-4ve5j8.json",
     "atlas-vtt/assets/thumbnails/Pasted_image_20261002131331_1790939785720_zraomr-751abb7b.webp",
     "atlas-vtt/assets/Pasted_image_20261002131331_1790939785720_zraomr.webp",
-    "atlas-vtt/collections/The Last Wish/players",
     "atlas-vtt/assets/thumbnails/Occultist_1790930131574_glnmdi-f50d3655.webp",
     "atlas-vtt/assets/thumbnails/Assassin_1790930131573_laq2vz-05bb83a0.webp"
   ]
