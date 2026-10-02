@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Proloog/Arowel.md",
+                "file": "Sessions/EPILOOG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arowel"
+              "title": "EPILOOG"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Proloog/Arowel.md",
+                "file": "Sessions/EPILOOG.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Proloog/Arowel.md",
+                "file": "Sessions/EPILOOG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -282,12 +282,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae4ed6d6d5583b19",
+  "active": "85f91935a2c2dfd0",
   "lastOpenFiles": [
+    "Creatures/Griffon.md",
+    "Sessions/Proloog/Arowel.md",
     "Sessions/Proloog/Plink.md",
     "Sessions/Proloog/Dorian.md",
     "Sessions/Proloog/Darius.md",
-    "Sessions/Proloog/Arowel.md",
     "Players/Darius Voss.md",
     "Players/Arowel Starweaver.md",
     "Untitled.canvas",
@@ -322,7 +323,6 @@
     "Locations/Akros/THE TITAN STAIRS.md",
     "Locations/Akros/THE AKROAN - Army of Akros.md",
     "Locations/Akros/AKROS - The city of wishes.md",
-    "Creatures/Griffon.md",
     "Ideas/Random.md",
     "Sessions/2026-08-28.md",
     "NPCS/Khea.md",
