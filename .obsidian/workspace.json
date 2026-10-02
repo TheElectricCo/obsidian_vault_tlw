@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D 5E/Monsters Glossary.md",
+                "file": "D&D 5E/Monsters/Camel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monsters Glossary"
+              "title": "Camel"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D 5E/Monsters Glossary.md",
+                "file": "D&D 5E/Monsters/Camel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D 5E/Monsters Glossary.md",
+                "file": "D&D 5E/Monsters/Camel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -334,21 +334,40 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ae4ed6d6d5583b19",
+  "active": "b280eca0c00dd58f",
   "lastOpenFiles": [
-    "D&D 5E/Monsters",
-    "D&D 5E/Rules Glossary.md",
     "D&D 5E/Monsters Glossary.md",
-    "AGENTS.md",
-    "The Last Wish/Sessions/20261029 - Session 1.md",
+    "The Last Wish/Lore/1ste versie overkoepelend verhaal.md",
+    "D&D 5E/Monsters/Veteran.md",
+    "D&D 5E/Monsters/Tribal Warrior.md",
+    "D&D 5E/Monsters/Thug.md",
+    "D&D 5E/Monsters/Spy.md",
+    "D&D 5E/Monsters/Scout.md",
+    "D&D 5E/Monsters/Priest.md",
+    "D&D 5E/Monsters/Noble.md",
+    "D&D 5E/Monsters/Mage.md",
+    "D&D 5E/Monsters/Knight.md",
+    "D&D 5E/Monsters/Guard.md",
+    "D&D 5E/Monsters/Gladiator.md",
+    "D&D 5E/Monsters/Druid.md",
+    "D&D 5E/Monsters/Cult Fanatic.md",
+    "D&D 5E/Monsters/Cultist.md",
+    "D&D 5E/Monsters/Commoner.md",
+    "D&D 5E/Monsters/Berserker.md",
+    "D&D 5E/Monsters/Bandit Captain.md",
+    "D&D 5E/Monsters/Bandit.md",
+    "D&D 5E/Monsters/Assassin.md",
+    "D&D 5E/Monsters/Archmage.md",
+    "D&D 5E/Monsters/Acolyte.md",
+    "D&D 5E/Monsters/Zombie.md",
+    "D&D 5E/Monsters/Young White Dragon.md",
+    "D&D 5E/Monsters/Young Silver Dragon.md",
+    "D&D 5E/Monsters",
     "The Last Wish",
     "D&D 5E",
-    "The Last Wish/Locations/Akros/De brug van Phanarax.md",
-    "The Last Wish/Locations/Theros.md",
     "The Last Wish/Artefacts/Random/Goden Stamboom.png",
     "The Last Wish/Artefacts/Items/De Eerste Lauwer.jpg",
     "Untitled.canvas",
-    "The Last Wish/Sessions/Proloog/__ReadMeFirst.md",
     "The Last Wish/Artefacts/Maps/Theros.png",
     "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
     "The Last Wish/Artefacts/Maps",
@@ -360,28 +379,9 @@
     "atlas-vtt/collections/The Last Wish/players",
     "atlas-vtt/collections/The Last Wish/encounters",
     "atlas-vtt/collections/The Last Wish/scenes",
-    "atlas-vtt/collections/The Last Wish/characters",
     "atlas-vtt/assets/thumbnails/Occultist_1790930131574_glnmdi-f50d3655.webp",
     "atlas-vtt/assets/thumbnails/Assassin_1790930131573_laq2vz-05bb83a0.webp",
     "atlas-vtt/assets/thumbnails/Knight_1790930131573_36dk2u-7f982103.webp",
-    "atlas-vtt/assets/thumbnails/Wizard_1790930131572_x8ede0-e3149011.webp",
-    "The Last Wish/NPCS/Khea.md",
-    "The Last Wish/Creatures/Griffon.md",
-    "The Last Wish/Sessions/Proloog/Arowel.md",
-    "The Last Wish/Sessions/Proloog/Plink.md",
-    "The Last Wish/Sessions/Proloog/Dorian.md",
-    "The Last Wish/Sessions/Proloog/Darius.md",
-    "The Last Wish/Players/Darius Voss.md",
-    "The Last Wish/Players/Arowel Starweaver.md",
-    "The Last Wish/Locations/Agrotekea.md",
-    "The Last Wish/Players/Plink Bugmoss (RIB).md",
-    "The Last Wish/History/1ste versie overkoepelend verhaal.md",
-    "The Last Wish/Players/Dorian Veldt.md",
-    "The Last Wish/NPCS/CYMEDE - Chancellor.md",
-    "The Last Wish/Locations/Akros/THE TITAN STAIRS.md",
-    "The Last Wish/Locations/Akros/THE AKROAN - Army of Akros.md",
-    "The Last Wish/Locations/Akros/AKROS - The city of wishes.md",
-    "Ideas/Random.md",
-    "Sessions/2026-08-28.md"
+    "atlas-vtt/assets/thumbnails/Wizard_1790930131572_x8ede0-e3149011.webp"
   ]
 }
