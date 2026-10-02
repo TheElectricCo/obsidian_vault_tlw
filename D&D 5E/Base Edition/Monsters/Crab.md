@@ -1,4 +1,38 @@
-# Crab
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Crab
+size: Tiny
+type: beast
+alignment: unaligned
+ac: 11
+hp: 2
+hit_dice: 1d4
+speed: 20 ft., swim 20 ft.
+stats:
+- 2
+- 11
+- 10
+- 1
+- 8
+- 2
+cr: '0'
+ac_class: natural armor
+skillsaves:
+- stealth: 2
+senses: blindsight 30 ft., passive Perception 9
+languages: —
+traits:
+- name: Amphibious
+  desc: The crab can breathe air and water.
+actions:
+- name: Claw
+  desc: 'Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

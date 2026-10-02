@@ -1,4 +1,56 @@
-# Glabrezu
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Glabrezu
+size: Large
+type: fiend (demon)
+alignment: chaotic evil
+ac: 17
+hp: 157
+hit_dice: 15d10 + 75
+speed: 40 ft.
+stats:
+- 20
+- 15
+- 21
+- 19
+- 17
+- 16
+cr: '9'
+ac_class: natural armor
+saves:
+- strength: 9
+- constitution: 9
+- wisdom: 7
+- charisma: 7
+damage_resistances: cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+damage_immunities: poison
+condition_immunities: poisoned
+senses: truesight 120 ft., passive Perception 13
+languages: Abyssal, telepathy 120 ft.
+traits:
+- name: Innate Spellcasting
+  desc: 'The glabrezu’s spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:
+
+
+    At will: darkness, detect magic, dispel magic
+
+
+    1/day each: confusion, fly, power word stun'
+- name: Magic Resistance
+  desc: The glabrezu has advantage on saving throws against spells and other magical effects.
+actions:
+- name: Multiattack
+  desc: 'The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.'
+- name: Pincer
+  desc: 'Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.'
+- name: Fist
+  desc: '. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

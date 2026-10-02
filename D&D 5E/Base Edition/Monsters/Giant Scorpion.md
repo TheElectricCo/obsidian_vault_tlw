@@ -1,4 +1,37 @@
-# Giant Scorpion
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Giant Scorpion
+size: Large
+type: beast
+alignment: unaligned
+ac: 15
+hp: 52
+hit_dice: 7d10 + 14
+speed: 40 ft.
+stats:
+- 15
+- 13
+- 15
+- 1
+- 9
+- 3
+cr: '3'
+ac_class: natural armor
+senses: blindsight 60 ft., passive Perception 9
+languages: —
+actions:
+- name: Multiattack
+  desc: 'The scorpion makes three attacks: two with its claws and one with its sting.'
+- name: Claw
+  desc: 'Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.'
+- name: Sting
+  desc: 'Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

@@ -1,4 +1,38 @@
-# Pegasus
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Pegasus
+size: Large
+type: celestial
+alignment: chaotic good
+ac: 12
+hp: 59
+hit_dice: 7d10 + 21
+speed: 60 ft., fly 90 ft.
+stats:
+- 18
+- 15
+- 16
+- 10
+- 15
+- 13
+cr: '2'
+saves:
+- dexterity: 4
+- wisdom: 4
+- charisma: 3
+skillsaves:
+- perception: 6
+senses: passive Perception 16
+languages: understands Celestial, Common, Elvish, and Sylvan but can’t speak
+actions:
+- name: Hooves
+  desc: 'Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

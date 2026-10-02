@@ -1,4 +1,40 @@
-# Giant Shark
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Giant Shark
+size: Huge
+type: beast
+alignment: unaligned
+ac: 13
+hp: 126
+hit_dice: 11d12 + 55
+speed: 0 ft., swim 50 ft.
+stats:
+- 23
+- 11
+- 21
+- 1
+- 10
+- 5
+cr: '5'
+ac_class: natural armor
+skillsaves:
+- perception: 3
+senses: blindsight 60 ft., passive Perception 13
+languages: —
+traits:
+- name: Blood Frenzy
+  desc: The shark has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
+- name: Water Breathing
+  desc: The shark can breathe only underwater.
+actions:
+- name: Bite
+  desc: 'Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 (3d10 + 6) piercing damage.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

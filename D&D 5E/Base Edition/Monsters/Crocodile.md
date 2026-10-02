@@ -1,4 +1,38 @@
-# Crocodile
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Crocodile
+size: Large
+type: beast
+alignment: unaligned
+ac: 12
+hp: 19
+hit_dice: 3d10 + 3
+speed: 20 ft., swim 30 ft.
+stats:
+- 15
+- 10
+- 13
+- 2
+- 10
+- 5
+cr: 1/2
+ac_class: natural armor
+skillsaves:
+- stealth: 2
+senses: passive Perception 10
+languages: —
+traits:
+- name: Hold Breath
+  desc: The crocodile can hold its breath for 15 minutes.
+actions:
+- name: Bite
+  desc: 'Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can’t bite another target.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

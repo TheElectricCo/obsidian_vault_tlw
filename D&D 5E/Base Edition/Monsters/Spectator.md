@@ -1,4 +1,36 @@
-# Spectator
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Spectator
+size: Medium
+type: aberration
+alignment: lawful neutral
+ac: 14
+hp: 39
+hit_dice: 6d8 + 12
+speed: 0 ft., fly 30 ft. (hover)
+stats:
+- 8
+- 14
+- 14
+- 13
+- 14
+- 11
+cr: '3'
+ac_class: natural armor
+skillsaves:
+- perception: 6
+condition_immunities: prone
+senses: darkvision 120 ft., passive Perception 16
+languages: Deep Speech, Undercommon, telepathy 120 ft.
+traits:
+- name: Ability summary (see source for full rules)
+  desc: 'A hovering aberration with four different eye rays: confusion, paralysis, fear, and necrotic injury. It can fire two different rays per turn, sustain itself magically, and redirect certain unsuccessful spells with its reaction.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

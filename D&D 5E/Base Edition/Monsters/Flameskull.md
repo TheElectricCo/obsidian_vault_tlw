@@ -1,4 +1,38 @@
-# Flameskull
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Flameskull
+size: Tiny
+type: undead
+alignment: neutral evil
+ac: 13
+hp: 40
+hit_dice: 9d4 + 18
+speed: 0 ft., fly 40 ft. (hover)
+stats:
+- 1
+- 17
+- 14
+- 16
+- 10
+- 11
+cr: '4'
+skillsaves:
+- arcana: 5
+- perception: 2
+damage_resistances: lightning, necrotic, piercing
+damage_immunities: cold, fire, poison
+condition_immunities: charmed, frightened, paralyzed, poisoned, prone
+senses: darkvision 60 ft., passive Perception 12
+languages: Common
+traits:
+- name: Ability summary (see source for full rules)
+  desc: A hovering undead skull that casts wizard spells and launches paired fire rays. It resists magic and can return after destruction unless its remains receive the specified treatment.
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

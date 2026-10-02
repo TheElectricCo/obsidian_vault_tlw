@@ -1,4 +1,33 @@
-# Cyclops
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Cyclops
+size: Huge
+type: giant
+alignment: chaotic neutral
+ac: 14
+hp: 138
+hit_dice: 12d12 + 60
+speed: 30 ft.
+stats:
+- 22
+- 11
+- 20
+- 8
+- 6
+- 10
+cr: '6'
+ac_class: natural armor
+senses: passive Perception 8
+languages: Giant
+traits:
+- name: Ability summary (see source for full rules)
+  desc: A towering giant that fights with a greatclub or thrown rocks. It can swing its club twice per action, but its poor depth perception hampers attacks beyond 30 feet.
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

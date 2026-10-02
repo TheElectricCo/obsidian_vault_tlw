@@ -1,4 +1,33 @@
-# Ankylosaurus
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Ankylosaurus
+size: Huge
+type: beast
+alignment: unaligned
+ac: 15
+hp: 68
+hit_dice: 8d12 + 16
+speed: 30 ft.
+stats:
+- 19
+- 11
+- 15
+- 2
+- 12
+- 5
+cr: '3'
+ac_class: natural armor
+senses: passive Perception 11
+languages: —
+traits:
+- name: Ability summary (see source for full rules)
+  desc: An armored dinosaur whose long-reaching tail delivers heavy bludgeoning damage and can knock a creature prone.
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

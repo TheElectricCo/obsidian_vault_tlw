@@ -1,4 +1,39 @@
-# Cultist
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Cultist
+size: Medium
+type: humanoid (any race)
+alignment: any non-good alignment
+ac: 12
+hp: 9
+hit_dice: 2d8
+speed: 30 ft.
+stats:
+- 11
+- 12
+- 10
+- 10
+- 11
+- 10
+cr: 1/8
+ac_class: leather armor
+skillsaves:
+- deception: 2
+- religion: 2
+senses: passive Perception 10
+languages: any one language (usually Common)
+traits:
+- name: Dark Devotion
+  desc: The cultist has advantage on saving throws against being charmed or frightened.
+actions:
+- name: Scimitar
+  desc: 'Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) slashing damage.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

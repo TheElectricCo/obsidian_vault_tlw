@@ -1,4 +1,35 @@
-# Allosaurus
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Allosaurus
+size: Large
+type: beast
+alignment: unaligned
+ac: 13
+hp: 51
+hit_dice: 6d10 + 18
+speed: 60 ft.
+stats:
+- 19
+- 13
+- 17
+- 2
+- 12
+- 5
+cr: '2'
+ac_class: natural armor
+skillsaves:
+- perception: 5
+senses: passive Perception 15
+languages: —
+traits:
+- name: Ability summary (see source for full rules)
+  desc: A fast predatory dinosaur. A charging claw strike can topple its prey and enable a bonus-action bite. Its bite is more damaging than its claws.
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

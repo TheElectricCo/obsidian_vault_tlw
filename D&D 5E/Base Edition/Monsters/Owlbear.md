@@ -1,4 +1,42 @@
-# Owlbear
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Owlbear
+size: Large
+type: monstrosity
+alignment: unaligned
+ac: 13
+hp: 59
+hit_dice: 7d10 + 21
+speed: 40 ft.
+stats:
+- 20
+- 12
+- 17
+- 3
+- 12
+- 7
+cr: '3'
+ac_class: natural armor
+skillsaves:
+- perception: 3
+senses: darkvision 60 ft., passive Perception 13
+languages: —
+traits:
+- name: Keen Sight and Smell
+  desc: The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.
+actions:
+- name: Multiattack
+  desc: 'The owlbear makes two attacks: one with its beak and one with its claws.'
+- name: Beak
+  desc: 'Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 10 (1d10 + 5) piercing damage.'
+- name: Claws
+  desc: 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

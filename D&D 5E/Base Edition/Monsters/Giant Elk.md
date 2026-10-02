@@ -1,4 +1,40 @@
-# Giant Elk
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Giant Elk
+size: Huge
+type: beast
+alignment: unaligned
+ac: 14
+hp: 42
+hit_dice: 5d12 + 10
+speed: 60 ft.
+stats:
+- 19
+- 16
+- 14
+- 7
+- 14
+- 10
+cr: '2'
+ac_class: natural armor
+skillsaves:
+- perception: 4
+senses: passive Perception 14
+languages: Giant Elk, understands Common, Elvish, and Sylvan but can’t speak them
+traits:
+- name: Charge
+  desc: If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+actions:
+- name: Ram
+  desc: 'Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.'
+- name: Hooves
+  desc: 'Melee Weapon Attack: +6 to hit, reach 5 ft., one prone creature. Hit: 22 (4d8 + 4) bludgeoning damage.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

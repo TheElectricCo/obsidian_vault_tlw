@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D 5E/Base Edition/Monsters/Aboleth.md",
-                "mode": "source",
+                "file": "The Last Wish/Sessions/001 - Phanarax Brug/001 - Phanarax Brug.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aboleth"
+              "title": "001 - Phanarax Brug"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D 5E/Base Edition/Monsters/Aboleth.md",
+                "file": "The Last Wish/Sessions/001 - Phanarax Brug/001 - Phanarax Brug.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,8 +320,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4e43f9debb98e068",
+  "active": "700f22b8a8bcec66",
   "lastOpenFiles": [
+    "The Last Wish/Sessions/001 - Phanarax Brug",
+    "The Last Wish/Sessions/000 - Backstories/Plink.md",
+    "The Last Wish/Sessions/001 - Phanarax Brug/001 - Phanarax Brug.md",
+    "The Last Wish/Sessions/000 - Backstories/Darius.md",
+    "The Last Wish/Sessions/000 - Backstories/Arowel.md",
+    "The Last Wish/Sessions/000 - Backstories/__ReadMeFirst.md",
+    "D&D 5E/Base Edition/Monsters/Adult Blue Dragon.md",
+    "D&D 5E/Base Edition/Monsters/Aboleth.md",
     "agents/docs/obsidian-plugins/README.md",
     "agents/docs/obsidian-plugins/initiative-tracker/README.md",
     "agents/docs/obsidian-plugins/atlas-vtt/README.md",
@@ -343,7 +351,6 @@
     "agents/docs/obsidian-plugins/obsidian-git/README.md",
     "D&D 5E/Base Edition/Magic Items Glossary.md",
     "The Last Wish/Locations/Agrotekea.md",
-    "The Last Wish/Sessions/20261029 - Session 1.md",
     "The Last Wish/Artefacts/Random/Goden Stamboom.png",
     "Untitled.canvas",
     "Ideas/THEROS.jpeg",
@@ -355,13 +362,6 @@
     "D&D 5E/Base Edition/Magic Items/Wind Fan.md",
     "D&D 5E/Base Edition/Magic Items/Well of Many Worlds.md",
     "D&D 5E/Base Edition/Magic Items/Weapon, +1, +2, or +3.md",
-    "D&D 5E/Base Edition/Magic Items/Wand of the War Mage, +1, +2, or +3.md",
-    "D&D 5E/Base Edition/Magic Items/Wand of Wonder.md",
-    "D&D 5E/Base Edition/Magic Items/Wand of Web.md",
-    "D&D 5E/Base Edition/Magic Items/Wand of Secrets.md",
-    "D&D 5E/Base Edition/Magic Items/Wand of Polymorph.md",
-    "D&D 5E/Base Edition/Magic Items/Wand of Paralysis.md",
-    "D&D 5E/Base Edition/Magic Items/Wand of Magic Missiles.md",
     "The Last Wish/Artefacts/Items/De Eerste Lauwer.jpg",
     "The Last Wish/Artefacts/Maps/Theros.png",
     "atlas-vtt/collections/The Last Wish/scenes/Theros.thumb.jpg",

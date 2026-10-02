@@ -1,4 +1,63 @@
-# Pit Fiend
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Pit Fiend
+size: Large
+type: fiend (devil)
+alignment: lawful evil
+ac: 19
+hp: 300
+hit_dice: 24d10 + 168
+speed: 30 ft., fly 60 ft.
+stats:
+- 26
+- 14
+- 24
+- 22
+- 18
+- 24
+cr: '20'
+ac_class: natural armor
+saves:
+- dexterity: 8
+- constitution: 13
+- wisdom: 10
+damage_resistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+damage_immunities: fire, poison
+condition_immunities: poisoned
+senses: truesight 120 ft., passive Perception 14
+languages: Infernal, telepathy 120 ft.
+traits:
+- name: Fear Aura
+  desc: Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature’s saving throw is successful, the creature is immune to the pit fiend’s Fear Aura for the next 24 hours.
+- name: Magic Resistance
+  desc: The pit fiend has advantage on saving throws against spells and other magical effects.
+- name: Magic Weapons
+  desc: The pit fiend’s weapon attacks are magical.
+- name: Innate Spellcasting
+  desc: 'The pit fiend’s spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:
+
+
+    At will: detect magic, fireball
+
+
+    3/day each: hold monster, wall of fire'
+actions:
+- name: Multiattack
+  desc: 'The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.'
+- name: Bite
+  desc: 'Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can’t regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.'
+- name: Claw
+  desc: 'Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) slashing damage.'
+- name: Mace
+  desc: 'Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.'
+- name: Tail
+  desc: 'Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 24 (3d10 + 8) bludgeoning damage.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

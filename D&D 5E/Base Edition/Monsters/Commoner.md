@@ -1,4 +1,32 @@
-# Commoner
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Commoner
+size: Medium
+type: humanoid (any race)
+alignment: any alignment
+ac: 10
+hp: 4
+hit_dice: 1d8
+speed: 30 ft.
+stats:
+- 10
+- 10
+- 10
+- 10
+- 10
+- 10
+cr: '0'
+senses: passive Perception 10
+languages: any one language (usually Common)
+actions:
+- name: Club
+  desc: 'Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

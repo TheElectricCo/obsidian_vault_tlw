@@ -1,4 +1,38 @@
-# Homunculus
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Homunculus
+size: Tiny
+type: construct
+alignment: neutral
+ac: 13
+hp: 5
+hit_dice: 2d4
+speed: 20 ft., fly 40 ft.
+stats:
+- 4
+- 15
+- 11
+- 10
+- 10
+- 7
+cr: '0'
+ac_class: natural armor
+damage_immunities: poison
+condition_immunities: charmed, poisoned
+senses: darkvision 60 ft., passive Perception 10
+languages: understands the languages of its creator but can’t speak
+traits:
+- name: Telepathic Bond
+  desc: While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.
+actions:
+- name: Bite
+  desc: 'Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

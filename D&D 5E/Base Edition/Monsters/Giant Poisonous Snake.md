@@ -1,4 +1,34 @@
-# Giant Poisonous Snake
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Giant Poisonous Snake
+size: Medium
+type: beast
+alignment: unaligned
+ac: 14
+hp: 11
+hit_dice: 2d8 + 2
+speed: 30 ft., swim 30 ft.
+stats:
+- 10
+- 18
+- 13
+- 2
+- 10
+- 3
+cr: 1/4
+skillsaves:
+- perception: 2
+senses: blindsight 10 ft., passive Perception 12
+languages: —
+actions:
+- name: Bite
+  desc: 'Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

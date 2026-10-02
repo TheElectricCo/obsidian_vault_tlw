@@ -1,4 +1,39 @@
-# Tyrannosaurus Rex
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Tyrannosaurus Rex
+size: Huge
+type: beast
+alignment: unaligned
+ac: 13
+hp: 136
+hit_dice: 13d12 + 52
+speed: 50 ft.
+stats:
+- 25
+- 10
+- 19
+- 2
+- 12
+- 9
+cr: '8'
+ac_class: natural armor
+skillsaves:
+- perception: 4
+senses: passive Perception 14
+languages: —
+actions:
+- name: Multiattack
+  desc: 'The tyrannosaurus makes two attacks: one with its bite and one with its tail. It can’t make both attacks against the same target.'
+- name: Bite
+  desc: 'Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 33 (4d12 + 7) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the tyrannosaurus can’t bite another target.'
+- name: Tail
+  desc: 'Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

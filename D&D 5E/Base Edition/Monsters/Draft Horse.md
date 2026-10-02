@@ -1,4 +1,32 @@
-# Draft Horse
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Draft Horse
+size: Large
+type: beast
+alignment: unaligned
+ac: 10
+hp: 19
+hit_dice: 3d10 + 3
+speed: 40 ft.
+stats:
+- 18
+- 10
+- 12
+- 2
+- 11
+- 7
+cr: 1/4
+senses: passive Perception 10
+languages: —
+actions:
+- name: Hooves
+  desc: 'Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

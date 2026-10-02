@@ -1,4 +1,41 @@
-# Grick
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Grick
+size: Medium
+type: monstrosity
+alignment: neutral
+ac: 14
+hp: 27
+hit_dice: 6d8
+speed: 30 ft., climb 30 ft.
+stats:
+- 14
+- 14
+- 11
+- 3
+- 14
+- 5
+cr: '2'
+ac_class: natural armor
+damage_resistances: bludgeoning, piercing, and slashing damage from nonmagical attacks
+senses: darkvision 60 ft., passive Perception 12
+languages: —
+traits:
+- name: Stone Camouflage
+  desc: The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+actions:
+- name: Multiattack
+  desc: The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.
+- name: Tentacles
+  desc: 'Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.'
+- name: Beak
+  desc: 'Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

@@ -1,4 +1,38 @@
-# Nothic
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Nothic
+size: Medium
+type: aberration
+alignment: neutral evil
+ac: 15
+hp: 45
+hit_dice: 6d8 + 18
+speed: 30 ft.
+stats:
+- 14
+- 16
+- 16
+- 13
+- 10
+- 8
+cr: '2'
+ac_class: natural armor
+skillsaves:
+- arcana: 3
+- insight: 4
+- perception: 2
+- stealth: 5
+senses: truesight 120 ft., passive Perception 12
+languages: Undercommon
+traits:
+- name: Ability summary (see source for full rules)
+  desc: An aberration with truesight and unusually sharp vision. It attacks with paired claws or a necrotic gaze, and can magically uncover a creature’s secrets through a contest of insight and deception.
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

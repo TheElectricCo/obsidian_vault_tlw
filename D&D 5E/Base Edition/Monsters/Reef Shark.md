@@ -1,4 +1,40 @@
-# Reef Shark
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Reef Shark
+size: Medium
+type: beast
+alignment: unaligned
+ac: 12
+hp: 22
+hit_dice: 4d8 + 4
+speed: 0 ft., swim 40 ft.
+stats:
+- 14
+- 13
+- 13
+- 1
+- 10
+- 4
+cr: 1/2
+ac_class: natural armor
+skillsaves:
+- perception: 2
+senses: blindsight 30 ft., passive Perception 12
+languages: —
+traits:
+- name: Pack Tactics
+  desc: The shark has advantage on an attack roll against a creature if at least one of the shark’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+- name: Water Breathing
+  desc: The shark can breathe only underwater.
+actions:
+- name: Bite
+  desc: 'Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

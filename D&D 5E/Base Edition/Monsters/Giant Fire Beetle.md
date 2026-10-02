@@ -1,4 +1,36 @@
-# Giant Fire Beetle
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Giant Fire Beetle
+size: Small
+type: beast
+alignment: unaligned
+ac: 13
+hp: 4
+hit_dice: 1d6 + 1
+speed: 30 ft.
+stats:
+- 8
+- 10
+- 12
+- 1
+- 7
+- 3
+cr: '0'
+ac_class: natural armor
+senses: blindsight 30 ft., passive Perception 8
+languages: —
+traits:
+- name: Illumination
+  desc: The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+actions:
+- name: Bite
+  desc: 'Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 − 1) slashing damage.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

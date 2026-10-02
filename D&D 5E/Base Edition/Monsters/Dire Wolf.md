@@ -1,4 +1,41 @@
-# Dire Wolf
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Dire Wolf
+size: Large
+type: beast
+alignment: unaligned
+ac: 14
+hp: 37
+hit_dice: 5d10 + 10
+speed: 50 ft.
+stats:
+- 17
+- 15
+- 15
+- 3
+- 12
+- 7
+cr: '1'
+ac_class: natural armor
+skillsaves:
+- perception: 3
+- stealth: 4
+senses: passive Perception 13
+languages: —
+traits:
+- name: Keen Hearing and Smell
+  desc: The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+- name: Pack Tactics
+  desc: The wolf has advantage on an attack roll against a creature if at least one of the wolf’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+actions:
+- name: Bite
+  desc: 'Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

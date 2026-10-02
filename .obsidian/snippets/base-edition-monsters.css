@@ -1,0 +1,4 @@
+/* Keep Obsidian’s file title; suppress the repeated name inside these statblocks. */
+.base-edition-monster .statblock-heading.name {
+  display: none;
+}

@@ -1,4 +1,38 @@
-# Swarm of Insects
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Swarm of Insects
+size: Medium
+type: swarm of Tiny beasts
+alignment: unaligned
+ac: 12
+hp: 22
+hit_dice: 5d8
+speed: 20 ft., climb 20 ft.
+stats:
+- 3
+- 13
+- 10
+- 1
+- 7
+- 1
+cr: 1/2
+ac_class: natural armor
+damage_resistances: bludgeoning, piercing, slashing
+condition_immunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+senses: blindsight 10 ft., passive Perception 8
+languages: —
+traits:
+- name: Swarm
+  desc: The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can’t regain hit points or gain temporary hit points.
+actions:
+- name: Bites
+  desc: 'Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm’s space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

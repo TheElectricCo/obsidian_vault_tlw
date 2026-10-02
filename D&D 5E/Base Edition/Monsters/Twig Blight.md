@@ -1,4 +1,37 @@
-# Twig Blight
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Twig Blight
+size: Small
+type: plant
+alignment: neutral evil
+ac: 13
+hp: 4
+hit_dice: 1d6 + 1
+speed: 20 ft.
+stats:
+- 6
+- 13
+- 12
+- 4
+- 8
+- 3
+cr: 1/8
+ac_class: natural armor
+skillsaves:
+- stealth: 3
+damage_vulnerabilities: fire
+condition_immunities: blinded, deafened
+senses: blindsight 60 ft. (blind beyond this radius),passive Perception 9
+languages: understands Common but can’t speak
+traits:
+- name: Ability summary (see source for full rules)
+  desc: A small plant creature that resembles a dead shrub while still. It attacks with claws, perceives nearby creatures through blindsight, and is vulnerable to fire.
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

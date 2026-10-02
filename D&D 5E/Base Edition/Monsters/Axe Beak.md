@@ -1,4 +1,32 @@
-# Axe Beak
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Axe Beak
+size: Large
+type: beast
+alignment: unaligned
+ac: 11
+hp: 19
+hit_dice: 3d10 + 3
+speed: 50 ft.
+stats:
+- 14
+- 12
+- 12
+- 2
+- 10
+- 5
+cr: 1/4
+senses: passive Perception 10
+languages: —
+actions:
+- name: Beak
+  desc: 'Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

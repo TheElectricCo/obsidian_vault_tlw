@@ -1,4 +1,45 @@
-# Scout
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Scout
+size: Medium
+type: humanoid (any race)
+alignment: any alignment
+ac: 13
+hp: 16
+hit_dice: 3d8 + 3
+speed: 30 ft.
+stats:
+- 11
+- 14
+- 12
+- 11
+- 13
+- 11
+cr: 1/2
+ac_class: leather armor
+skillsaves:
+- nature: 4
+- perception: 5
+- stealth: 6
+- survival: 5
+senses: passive Perception 15
+languages: any one language (usually Common)
+traits:
+- name: Keen Hearing and Sight
+  desc: The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+actions:
+- name: Multiattack
+  desc: The scout makes two melee attacks or two ranged attacks.
+- name: Shortsword
+  desc: 'Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.'
+- name: Longbow
+  desc: 'Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

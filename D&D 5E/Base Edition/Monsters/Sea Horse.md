@@ -1,4 +1,34 @@
-# Sea Horse
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Sea Horse
+size: Tiny
+type: beast
+alignment: unaligned
+ac: 11
+hp: 1
+hit_dice: 1d4 − 1
+speed: 0 ft., swim 20 ft.
+stats:
+- 1
+- 12
+- 8
+- 1
+- 10
+- 2
+cr: '0'
+senses: passive Perception 10
+languages: —
+traits:
+- name: Experience Points
+  desc: This creature awards 0 XP (the standard layout displays 10 XP for CR 0). See the Statistics table below.
+- name: Water Breathing
+  desc: The sea horse can breathe only underwater.
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

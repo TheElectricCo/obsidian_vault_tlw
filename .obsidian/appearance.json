@@ -5,5 +5,8 @@
   "textFontFamily": "Geist",
   "baseFontSize": 16,
   "translucency": true,
-  "monospaceFontFamily": "Monaco,Andale Mono"
+  "monospaceFontFamily": "Monaco,Andale Mono",
+  "enabledCssSnippets": [
+    "base-edition-monsters"
+  ]
 }

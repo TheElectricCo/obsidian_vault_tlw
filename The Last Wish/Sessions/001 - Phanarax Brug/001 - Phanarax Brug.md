@@ -1,4 +1,5 @@
-# Sessie 1 — Waar de doden klimmen
+
+## Waar de doden klimmen
 
 *Een avontuur op de brug van Phanarax, aan de poorten van Akros.*
 

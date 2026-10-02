@@ -1,4 +1,44 @@
-# Earth Elemental
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Earth Elemental
+size: Large
+type: elemental
+alignment: neutral
+ac: 17
+hp: 126
+hit_dice: 12d10 + 60
+speed: 30 ft., burrow 30 ft.
+stats:
+- 20
+- 8
+- 20
+- 5
+- 10
+- 5
+cr: '5'
+ac_class: natural armor
+damage_vulnerabilities: thunder
+damage_resistances: bludgeoning, piercing, and slashing from nonmagical attacks
+damage_immunities: poison
+condition_immunities: exhaustion, paralyzed, petrified, poisoned, unconscious
+senses: darkvision 60 ft., tremorsense 60 ft.,passive Perception 10
+languages: Terran
+traits:
+- name: Earth Glide
+  desc: The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn’t disturb the material it moves through.
+- name: Siege Monster
+  desc: The elemental deals double damage to objects and structures.
+actions:
+- name: Multiattack
+  desc: The elemental makes two slam attacks.
+- name: Slam
+  desc: 'Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

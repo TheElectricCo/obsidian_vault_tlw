@@ -1,4 +1,38 @@
-# Banshee
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Banshee
+size: Medium
+type: undead
+alignment: chaotic evil
+ac: 12
+hp: 58
+hit_dice: 13d8
+speed: 0 ft., fly 40 ft. (hover)
+stats:
+- 1
+- 14
+- 10
+- 12
+- 11
+- 17
+cr: '4'
+saves:
+- wisdom: 2
+- charisma: 5
+damage_resistances: acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+damage_immunities: cold, necrotic, poison
+condition_immunities: charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+senses: darkvision 60 ft., passive Perception 10
+languages: Common, Elvish
+traits:
+- name: Ability summary (see source for full rules)
+  desc: A spectral undead that senses nearby life and passes through solid matter. Its appearance terrifies witnesses, its touch deals necrotic damage, and its daily wail can drop listeners to zero hit points. Sunlight prevents the wail.
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 

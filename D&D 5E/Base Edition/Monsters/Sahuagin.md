@@ -1,4 +1,51 @@
-# Sahuagin
+---
+cssclasses:
+  - base-edition-monster
+---
+
+```statblock
+layout: Basic 5e Layout
+name: Sahuagin
+size: Medium
+type: humanoid (sahuagin)
+alignment: lawful evil
+ac: 12
+hp: 22
+hit_dice: 4d8 + 4
+speed: 30 ft., swim 40 ft.
+stats:
+- 13
+- 11
+- 12
+- 12
+- 13
+- 9
+cr: 1/2
+ac_class: natural armor
+skillsaves:
+- perception: 5
+senses: darkvision 120 ft., passive Perception 15
+languages: Sahuagin
+traits:
+- name: Blood Frenzy
+  desc: The sahuagin has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
+- name: Limited Amphibiousness
+  desc: The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.
+- name: Shark Telepathy
+  desc: The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
+actions:
+- name: Actions
+  desc: 'Multiattack. The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.
+
+
+    Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
+
+
+    Claws. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.
+
+
+    Spear. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.'
+```
 
 [[Monsters Glossary|← Monsters Glossary]]
 
