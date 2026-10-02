@@ -16,7 +16,6 @@ De helden betreden [[De brug van Phanarax]], nadat hun sherpa [[Khea]] hen vijf 
 Vanaf het tweede station klinkt gerommel onder de brug. Ondoden — zombies, ondode harpies en een wight — klimmen omhoog. Een magisch effect beperkt de beweging van de helden sterk. Ze moeten elkaar helpen en proberen het einde te bereiken terwijl de situatie uit de hand loopt.
 
 Op het laatste kritieke moment grijpen wachters van Akros in. Met hun pegasi weren ze de vijanden af en beschermen ze de groep op weg naar de ingang van de stad.
-
 ## References
 
 - **Plaatsen:** [[De brug van Phanarax]], [[AKROS - The city of wishes]], [[THE TITAN STAIRS]].

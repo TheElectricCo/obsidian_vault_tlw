@@ -50,6 +50,8 @@ actions:
 
 [[../Monsters Glossary|← Monsters Glossary]]
 
+![Doomwake Giant reference artwork](Images/doomwake-page-000.png)
+
 ## Source
 
 - [Mythic Odysseys of Theros, p. 224](source_book.pdf#page=224)

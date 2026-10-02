@@ -1,5 +1,17 @@
 # Molten Bronze Skin
 
+```itemcard
+name: "Molten Bronze Skin"
+source: "MOT"
+page: 197
+type: "Armor"
+rarity: "rare"
+attunement: "Requires attunement"
+entries:
+  - |
+    While wearing this armor, you can use an action to activate it. The armor transforms into molten bronze and grants its magical benefits for 1 hour, after which it can't be activated again until the next dawn.
+```
+
 [[../Magic Items Glossary|← Magic Items Glossary]]
 
 *Armor, rare (requires attunement)*
