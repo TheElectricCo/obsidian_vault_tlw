@@ -1,8 +1,8 @@
 {
   "userName": "",
   "permissionMode": "auto-review",
-  "model": "haiku",
-  "effortLevel": "high",
+  "model": "openai-codex/gpt-6.1-sol",
+  "effortLevel": "medium",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationLocale": "",
@@ -134,10 +134,19 @@
     }
   },
   "settingsProvider": "codex",
-  "lastSelectedChatModel": null,
-  "savedProviderModel": {},
-  "savedProviderEffort": {},
-  "savedProviderServiceTier": {},
+  "lastSelectedChatModel": {
+    "providerId": "codex",
+    "model": "openai-codex/gpt-6.1-sol"
+  },
+  "savedProviderModel": {
+    "codex": "openai-codex/gpt-6.1-sol"
+  },
+  "savedProviderEffort": {
+    "codex": "medium"
+  },
+  "savedProviderServiceTier": {
+    "codex": "default"
+  },
   "savedProviderPermissionMode": {
     "claude": "auto",
     "codex": "auto-review"

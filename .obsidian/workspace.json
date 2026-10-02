@@ -300,7 +300,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.796875
+    "width": 390.796875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -311,7 +312,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "windrose-md:Open map view": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "realclaudian:Open Claudian": false,
@@ -320,10 +320,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4e43f9debb98e068",
+  "active": "700f22b8a8bcec66",
   "lastOpenFiles": [
-    "D&D 5E/Base Edition/Magic Items Glossary.md",
+    "agents/docs",
+    "agents",
+    "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
     "AGENTS.md",
+    "D&D 5E/Base Edition/Magic Items Glossary.md",
     "D&D 5E/Base Edition",
     "The Last Wish/Locations/Agrotekea.md",
     "The Last Wish/Sessions/20261029 - Session 1.md",
@@ -359,11 +362,9 @@
     "D&D 5E",
     "The Last Wish/Artefacts/Items/De Eerste Lauwer.jpg",
     "The Last Wish/Artefacts/Maps/Theros.png",
-    "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
     "The Last Wish/Artefacts/Maps",
     "atlas-vtt/collections/The Last Wish/scenes/Theros.thumb.jpg",
     "atlas-vtt/collections/The Last Wish/scenes/scene-1790939812075-cr7q40.json",
-    "atlas-vtt/collections/The Last Wish/maps/map-1790939785723-4ve5j8.json",
     "atlas-vtt/assets/thumbnails/Pasted_image_20261002131331_1790939785720_zraomr-751abb7b.webp",
     "atlas-vtt/assets/Pasted_image_20261002131331_1790939785720_zraomr.webp",
     "atlas-vtt/assets/thumbnails/Occultist_1790930131574_glnmdi-f50d3655.webp",
