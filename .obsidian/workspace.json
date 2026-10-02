@@ -30,9 +30,23 @@
               "icon": "home",
               "title": "Atlas dashboard"
             }
+          },
+          {
+            "id": "c79e4dc2afdbc277",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Akros/De brug van Phanarax.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "De brug van Phanarax"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Theros.md",
+                "file": "Locations/Akros/De brug van Phanarax.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Theros.md",
+                "file": "Locations/Akros/De brug van Phanarax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -233,7 +247,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       },
       {
         "id": "84d04260cec706bb",
@@ -290,32 +305,37 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "realclaudian:Open Claudian": false,
       "atlas-vtt:Display image on player view": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b168aa0abc2e5fb1",
+  "active": "c79e4dc2afdbc277",
   "lastOpenFiles": [
+    "Sessions/20261029 - Session 1.md",
+    "AGENTS.md",
+    "Untitled.canvas",
+    "Sessions/Proloog/__ReadMeFirst.md",
+    "Locations/Theros.md",
+    "Artefacts/Maps/Theros.png",
+    "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
+    "Artefacts/Maps",
+    "atlas-vtt/collections/The Last Wish/scenes/Theros.thumb.jpg",
+    "atlas-vtt/collections/The Last Wish/scenes/scene-1790939812075-cr7q40.json",
+    "atlas-vtt/collections/The Last Wish/maps/map-1790939785723-4ve5j8.json",
+    "atlas-vtt/assets/thumbnails/Pasted_image_20261002131331_1790939785720_zraomr-751abb7b.webp",
+    "atlas-vtt/assets/Pasted_image_20261002131331_1790939785720_zraomr.webp",
     "atlas-vtt/collections/The Last Wish/players",
     "atlas-vtt/collections/The Last Wish/encounters",
     "atlas-vtt/collections/The Last Wish/scenes",
     "atlas-vtt/collections/The Last Wish/characters",
     "atlas-vtt/collections/The Last Wish/maps",
     "atlas-vtt/collections/The Last Wish/statblocks",
-    "atlas-vtt/collections/The Last Wish/notes",
-    "atlas-vtt/collections/The Last Wish/tokens",
-    "atlas-vtt/collections/The Last Wish",
     "atlas-vtt/assets/thumbnails/Occultist_1790930131574_glnmdi-f50d3655.webp",
     "atlas-vtt/assets/thumbnails/Assassin_1790930131573_laq2vz-05bb83a0.webp",
     "atlas-vtt/assets/thumbnails/Knight_1790930131573_36dk2u-7f982103.webp",
     "atlas-vtt/assets/thumbnails/Wizard_1790930131572_x8ede0-e3149011.webp",
     "atlas-vtt/assets/thumbnails/Warlock_1790930131571_qto2k4-90516e73.webp",
     "atlas-vtt/assets/thumbnails/Rogue_1790930131571_etn0po-8f13c98b.webp",
-    "atlas-vtt/assets/thumbnails/Ranger_1790930131570_ezn7ow-864a4c47.webp",
-    "atlas-vtt/assets/thumbnails/Paladin_1790930131569_g0gd4c-63202676.webp",
-    "atlas-vtt/assets/thumbnails/Cleric_1790930131566_znc1dx-ea6957f3.webp",
-    "atlas-vtt/assets/thumbnails/Fighter_1790930131568_b2aedp-d9f0c6d2.webp",
-    "atlas-vtt/assets/thumbnails",
-    "Sessions/20261029 - Session 1.md",
     "NPCS/Khea.md",
     "Locations/Akros/De brug van Phanarax.md",
     "Creatures/Griffon.md",
@@ -325,22 +345,17 @@
     "Sessions/Proloog/Darius.md",
     "Players/Darius Voss.md",
     "Players/Arowel Starweaver.md",
-    "Untitled.canvas",
-    "Artefacts/Random",
     "Locations/Agrotekea.md",
-    "Sessions/Proloog/__ReadMeFirst.md",
     "Players/Plink Bugmoss (RIB).md",
     "History/1ste versie overkoepelend verhaal.md",
     "Players/Dorian Veldt.md",
     "NPCS/CYMEDE - Chancellor.md",
-    "Locations/Theros.md",
     "Locations/Akros/THE TITAN STAIRS.md",
     "Locations/Akros/THE AKROAN - Army of Akros.md",
     "Locations/Akros/AKROS - The city of wishes.md",
     "Ideas/Random.md",
     "Sessions/2026-08-28.md",
     "NPCS/DAXOS - Trapped Hero of Meletis.md",
-    "NPCS/RIVEN - The Ahamkara.md",
-    "NPCS/MACAR - King of Akros.md"
+    "NPCS/RIVEN - The Ahamkara.md"
   ]
 }

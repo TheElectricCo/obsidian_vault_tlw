@@ -277,6 +277,31 @@
       "createdAt": 1790930131574,
       "modifiedAt": 1790930131574,
       "thumbnailPath": "atlas-vtt/assets/thumbnails/Occultist_1790930131574_glnmdi-f50d3655.webp"
+    },
+    "map-1790939785723-4ve5j8": {
+      "type": "map",
+      "name": "Pasted image 20261002131331",
+      "mapFilePath": "atlas-vtt/assets/Pasted_image_20261002131331_1790939785720_zraomr.webp",
+      "collection": "The Last Wish",
+      "tags": [],
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Pasted_image_20261002131331_1790939785720_zraomr-751abb7b.webp",
+      "id": "map-1790939785723-4ve5j8",
+      "createdAt": 1790939785723,
+      "modifiedAt": 1790939785723,
+      "filePath": "atlas-vtt/collections/The Last Wish/maps/map-1790939785723-4ve5j8.json"
+    },
+    "scene-1790939812075-cr7q40": {
+      "type": "scene",
+      "name": "Theros",
+      "collection": "The Last Wish",
+      "tags": [],
+      "data": {
+        "mapPath": "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap"
+      },
+      "id": "scene-1790939812075-cr7q40",
+      "createdAt": 1790939812075,
+      "modifiedAt": 1790939812075,
+      "filePath": "atlas-vtt/collections/The Last Wish/scenes/scene-1790939812075-cr7q40.json"
     }
   },
   "version": 2,
