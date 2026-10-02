@@ -35,18 +35,44 @@
             "id": "c79e4dc2afdbc277",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Artefacts/Random/Goden Stamboom.png"
+              },
+              "icon": "lucide-image",
+              "title": "Goden Stamboom"
+            }
+          },
+          {
+            "id": "4e43f9debb98e068",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Akros/De brug van Phanarax.md",
+                "file": "Sessions/20261029 - Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "De brug van Phanarax"
+              "title": "20261029 - Session 1"
+            }
+          },
+          {
+            "id": "b280eca0c00dd58f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/20261029 - Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20261029 - Session 1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Akros/De brug van Phanarax.md",
+                "file": "Sessions/20261029 - Session 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Akros/De brug van Phanarax.md",
+                "file": "Sessions/20261029 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -227,7 +253,9 @@
                   "openTabs": [
                     {
                       "tabId": "tab-1790929921733-z0sv1oa",
-                      "conversationId": "conv-1790936094315-pbpqriwmt"
+                      "conversationId": null,
+                      "draftModel": "openai-codex/gpt-6.1-sol",
+                      "providerId": "codex"
                     }
                   ],
                   "activeTabId": "tab-1790929921733-z0sv1oa"
@@ -248,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       },
       {
         "id": "84d04260cec706bb",
@@ -309,13 +337,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c79e4dc2afdbc277",
+  "active": "d8c3e7c156c9d299",
   "lastOpenFiles": [
+    "Locations/Akros/De brug van Phanarax.md",
     "Sessions/20261029 - Session 1.md",
+    "Locations/Theros.md",
+    "Artefacts/Random/Goden Stamboom.png",
+    "Artefacts/Items/De Eerste Lauwer.jpg",
     "AGENTS.md",
     "Untitled.canvas",
     "Sessions/Proloog/__ReadMeFirst.md",
-    "Locations/Theros.md",
     "Artefacts/Maps/Theros.png",
     "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
     "Artefacts/Maps",
@@ -334,10 +365,7 @@
     "atlas-vtt/assets/thumbnails/Assassin_1790930131573_laq2vz-05bb83a0.webp",
     "atlas-vtt/assets/thumbnails/Knight_1790930131573_36dk2u-7f982103.webp",
     "atlas-vtt/assets/thumbnails/Wizard_1790930131572_x8ede0-e3149011.webp",
-    "atlas-vtt/assets/thumbnails/Warlock_1790930131571_qto2k4-90516e73.webp",
-    "atlas-vtt/assets/thumbnails/Rogue_1790930131571_etn0po-8f13c98b.webp",
     "NPCS/Khea.md",
-    "Locations/Akros/De brug van Phanarax.md",
     "Creatures/Griffon.md",
     "Sessions/Proloog/Arowel.md",
     "Sessions/Proloog/Plink.md",

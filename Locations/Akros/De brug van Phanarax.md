@@ -1,1 +1,5 @@
-De brug van phanarax is een 
+De brug van phanarax is een oeroude brug, naar de mythe is deze passage het overblijfsel van een oude twist tussen Phurpuros en Erebos, wanneer de eerste de stad Akros onder de hoede van zijn zoon Iroas had geplaatst. Erebos had echter de stad beloofd aan Mogis, de tweelingsbroer van Iroas. De strijd die losbarstte zorgde voor een aardverschuiving waarbij er een kloof ontstaan is die tot aan de onderwereld rijkt. De strijd werd gewonnen door Purphuros & Iroas waarbij Mogis verbannen werd. Omdat Akros volledig afgesloten was van de buitenwereld door de kloof maakte purphoros een brug over deze kloof, de brug van Phanarax. 
+
+De brug bestaat uit 4 grote delen, waarbij de delen ondersteunt worden door  uithouwingen in gigantische stalagmieten. 
+
+Aan de andere kant staat een gigantische kolossus die de wacht houdt.
