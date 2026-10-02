@@ -1,5 +1,7 @@
 # Polukranos
 
+![Polukranos reference artwork](Images/source-page-231-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Polukranos

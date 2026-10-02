@@ -1,5 +1,7 @@
 # Returned Kakomantis
 
+![Returned Kakomantis reference artwork](Images/source-page-240-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Returned Kakomantis

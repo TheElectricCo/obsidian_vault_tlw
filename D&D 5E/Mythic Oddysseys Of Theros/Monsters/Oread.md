@@ -1,5 +1,7 @@
 # Oread
 
+![Oread reference artwork](Images/source-page-237-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Oread

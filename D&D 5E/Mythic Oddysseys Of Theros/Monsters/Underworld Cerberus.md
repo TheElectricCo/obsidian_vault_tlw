@@ -1,5 +1,7 @@
 # Underworld Cerberus
 
+![Underworld Cerberus reference artwork](Images/source-page-215-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Underworld Cerberus

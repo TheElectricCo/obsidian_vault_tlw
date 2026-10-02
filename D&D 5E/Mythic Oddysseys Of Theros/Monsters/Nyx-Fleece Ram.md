@@ -1,5 +1,7 @@
 # Nyx-Fleece Ram
 
+![Nyx-Fleece Ram reference artwork](Images/source-page-233-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Nyx-Fleece Ram

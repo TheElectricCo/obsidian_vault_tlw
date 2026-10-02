@@ -1,5 +1,7 @@
 # Tromokratis
 
+![Tromokratis reference artwork](Images/source-page-254-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Tromokratis

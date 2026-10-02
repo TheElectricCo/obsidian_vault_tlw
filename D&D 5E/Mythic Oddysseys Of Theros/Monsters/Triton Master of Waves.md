@@ -1,5 +1,7 @@
 # Triton Master of Waves
 
+![Triton Master of Waves reference artwork](Images/source-page-245-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Triton Master of Waves

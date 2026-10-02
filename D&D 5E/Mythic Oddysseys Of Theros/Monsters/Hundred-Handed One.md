@@ -1,5 +1,7 @@
 # Hundred-Handed One
 
+![Hundred-Handed One reference artwork](Images/source-page-225-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Hundred-Handed One

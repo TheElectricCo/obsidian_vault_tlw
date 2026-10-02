@@ -1,5 +1,7 @@
 # Oracle
 
+![Oracle reference artwork](Images/source-page-238-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Oracle

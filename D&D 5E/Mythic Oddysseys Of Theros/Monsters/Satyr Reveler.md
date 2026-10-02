@@ -1,5 +1,7 @@
 # Satyr Reveler
 
+![Satyr Reveler reference artwork](Images/source-page-242-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Satyr Reveler

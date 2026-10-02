@@ -1,5 +1,7 @@
 # Anvilwrought Raptor
 
+![Anvilwrought Raptor reference artwork](Images/source-page-209-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Anvilwrought Raptor

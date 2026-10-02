@@ -32,17 +32,17 @@
             }
           },
           {
-            "id": "952344d16d2f04b7",
+            "id": "cca9702b26f1ce68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Doomwake Giant.md",
+                "file": "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Abhorrent Overlord.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Doomwake Giant"
+              "title": "Abhorrent Overlord"
             }
           }
         ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Doomwake Giant.md",
+                "file": "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Abhorrent Overlord.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,9 +308,28 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "952344d16d2f04b7",
+  "active": "cca9702b26f1ce68",
   "lastOpenFiles": [
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/doomwake-page-000.png",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Amphisbaena.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-237-000.png",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Gold-Forged Sentinel.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Hippocamp.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Ironscale Hydra.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Hythonia.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Lampad.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Alseid.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Akroan Hoplite.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Abhorrent Overlord.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-209-002.png",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-209-001.png",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-209-000.png",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Doomwake Giant.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-247-000.png",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-214-001.png",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-214-000.png",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-246-000.png",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-215-000.png",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-254-002.png",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters Glossary.md",
     "The Last Wish/Sessions/001 - Phanarax Brug/001 - Phanarax Brug.md",
@@ -320,26 +339,15 @@
     "D&D 5E/Mythic Oddysseys Of Theros/Magic Items/Helm of the Gods.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Magic Items/Dekella, Bident of Thassa.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Spells Glossary.md",
-    "The Last Wish/Artefacts/Random/Goden Stamboom.png",
     "D&D 5E/Mythic Oddysseys Of Theros/Source/source_book.pdf",
     "D&D 5E/Mythic Oddysseys Of Theros/Magic Items/Akmon, Hammer of Purphoros.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Magic Items/Flying Chariot.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Magic Items/Ephixis, Bow of Nylea.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Anvilwrought Raptor.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Abhorrent Overlord.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Rules/Chariots.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Rules/Character Creation.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Rules Glossary.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Rules/Underworld Rules.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Rules/Supernatural Gifts.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Rules/Piety and Divine Favor.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Magic Items Glossary.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Rules/Mythic Monsters.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Doomwake Giant.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Amphisbaena.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Magic Items/Khrusor, Spear of Heliod.md",
-    "The Last Wish/Sessions/000 - Backstories/__ReadMeFirst.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Rules/Heroic Drive.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Rules",
     "D&D 5E/Mythic Oddysseys Of Theros/Spells",
     "D&D 5E/Mythic Oddysseys Of Theros/Magic Items",
@@ -347,15 +355,6 @@
     "D&D 5E/Mytic Oddysseys Of Theros/pdfcoffee.com_mythic-odysseys-of-theros-deluxe-coverpdf-pdf-free.pdf",
     "D&D 5E/Mythic Oddysseys Of Theros",
     "The Last Wish/Sessions/001 - Phanarax Brug",
-    "Untitled.canvas",
-    "Ideas/THEROS.jpeg",
-    "Ideas/Pasted image 20260807094353.png",
-    "The Last Wish/Artefacts/Items/De Eerste Lauwer.jpg",
-    "The Last Wish/Artefacts/Maps/Theros.png",
-    "atlas-vtt/collections/The Last Wish/scenes/Theros.thumb.jpg",
-    "atlas-vtt/assets/thumbnails/Pasted_image_20261002131331_1790939785720_zraomr-751abb7b.webp",
-    "atlas-vtt/assets/Pasted_image_20261002131331_1790939785720_zraomr.webp",
-    "atlas-vtt/assets/thumbnails/Occultist_1790930131574_glnmdi-f50d3655.webp",
-    "atlas-vtt/assets/thumbnails/Assassin_1790930131573_laq2vz-05bb83a0.webp"
+    "Untitled.canvas"
   ]
 }

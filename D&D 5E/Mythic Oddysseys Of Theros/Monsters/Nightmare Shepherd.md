@@ -1,5 +1,7 @@
 # Nightmare Shepherd
 
+![Nightmare Shepherd reference artwork](Images/source-page-221-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Nightmare Shepherd

@@ -1,5 +1,7 @@
 # Blood-Toll Harpy
 
+![Blood-Toll Harpy reference artwork](Images/source-page-227-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Blood-Toll Harpy

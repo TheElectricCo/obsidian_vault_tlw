@@ -1,5 +1,7 @@
 # Returned Sentry
 
+![Returned Sentry reference artwork](Images/source-page-241-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Returned Sentry

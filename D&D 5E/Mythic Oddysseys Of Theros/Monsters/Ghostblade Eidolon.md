@@ -1,5 +1,7 @@
 # Ghostblade Eidolon
 
+![Ghostblade Eidolon reference artwork](Images/source-page-222-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Ghostblade Eidolon

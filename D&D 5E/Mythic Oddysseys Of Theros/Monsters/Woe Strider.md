@@ -1,5 +1,7 @@
 # Woe Strider
 
+![Woe Strider reference artwork](Images/source-page-247-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Woe Strider

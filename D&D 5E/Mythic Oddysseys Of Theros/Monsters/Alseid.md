@@ -1,5 +1,7 @@
 # Alseid
 
+![Alseid reference artwork](Images/source-page-235-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Alseid

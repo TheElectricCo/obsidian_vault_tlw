@@ -1,5 +1,7 @@
 # Amphisbaena
 
+![Amphisbaena reference artwork](Images/source-page-208-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Amphisbaena

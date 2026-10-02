@@ -1,5 +1,7 @@
 # Meletian Hoplite
 
+![Meletian Hoplite reference artwork](Images/source-page-229-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Meletian Hoplite

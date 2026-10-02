@@ -1,5 +1,7 @@
 # Hythonia
 
+![Hythonia reference artwork](Images/source-page-252-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Hythonia

@@ -1,5 +1,7 @@
 # Bronze Sable
 
+![Bronze Sable reference artwork](Images/source-page-210-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Bronze Sable

@@ -1,5 +1,7 @@
 # Fleecemane Lion
 
+![Fleecemane Lion reference artwork](Images/source-page-223-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Fleecemane Lion

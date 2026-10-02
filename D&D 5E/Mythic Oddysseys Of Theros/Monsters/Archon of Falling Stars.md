@@ -1,5 +1,7 @@
 # Archon of Falling Stars
 
+![Archon of Falling Stars reference artwork](Images/source-page-212-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Archon of Falling Stars

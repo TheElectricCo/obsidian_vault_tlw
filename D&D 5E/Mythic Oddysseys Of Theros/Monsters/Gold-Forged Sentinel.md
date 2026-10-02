@@ -1,5 +1,7 @@
 # Gold-Forged Sentinel
 
+![Gold-Forged Sentinel reference artwork](Images/source-page-211-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Gold-Forged Sentinel

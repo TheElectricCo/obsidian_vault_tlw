@@ -1,5 +1,7 @@
 # Theran Chimera
 
+![Theran Chimera reference artwork](Images/source-page-216-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Theran Chimera

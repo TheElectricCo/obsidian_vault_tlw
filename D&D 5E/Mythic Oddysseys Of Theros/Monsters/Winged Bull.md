@@ -1,5 +1,7 @@
 # Winged Bull
 
+![Winged Bull reference artwork](Images/source-page-214-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Winged Bull

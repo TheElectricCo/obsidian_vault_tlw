@@ -1,5 +1,7 @@
 # Triton Shorestalker
 
+![Triton Shorestalker reference artwork](Images/source-page-244-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Triton Shorestalker

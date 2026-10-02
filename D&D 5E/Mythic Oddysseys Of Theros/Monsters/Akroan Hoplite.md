@@ -1,5 +1,7 @@
 # Akroan Hoplite
 
+![Akroan Hoplite reference artwork](Images/source-page-228-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Akroan Hoplite

@@ -1,5 +1,7 @@
 # Arasta
 
+![Arasta reference artwork](Images/source-page-248-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Arasta

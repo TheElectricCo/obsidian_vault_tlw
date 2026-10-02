@@ -1,5 +1,7 @@
 # Eater of Hope
 
+![Eater of Hope reference artwork](Images/source-page-220-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Eater of Hope

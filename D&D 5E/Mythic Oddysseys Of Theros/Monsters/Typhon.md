@@ -1,5 +1,7 @@
 # Typhon
 
+![Typhon reference artwork](Images/source-page-246-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Typhon

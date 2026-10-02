@@ -1,5 +1,7 @@
 # Ashen Rider
 
+![Ashen Rider reference artwork](Images/source-page-213-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Ashen Rider

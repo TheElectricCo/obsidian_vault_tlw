@@ -1,5 +1,7 @@
 # Leonin Iconoclast
 
+![Leonin Iconoclast reference artwork](Images/source-page-232-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Leonin Iconoclast

@@ -1,5 +1,7 @@
 # Two-Headed Cerberus
 
+![Two-Headed Cerberus reference artwork](Images/source-page-215-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Two-Headed Cerberus

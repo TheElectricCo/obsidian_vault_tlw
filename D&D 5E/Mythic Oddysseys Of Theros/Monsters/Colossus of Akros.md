@@ -1,5 +1,7 @@
 # Colossus of Akros
 
+![Colossus of Akros reference artwork](Images/source-page-218-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Colossus of Akros

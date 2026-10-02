@@ -1,5 +1,7 @@
 # Flitterstep Eidolon
 
+![Flitterstep Eidolon reference artwork](Images/source-page-222-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Flitterstep Eidolon

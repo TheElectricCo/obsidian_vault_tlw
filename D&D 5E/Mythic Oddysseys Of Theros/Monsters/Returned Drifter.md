@@ -1,5 +1,7 @@
 # Returned Drifter
 
+![Returned Drifter reference artwork](Images/source-page-240-000.png)
+
 ```statblock
 layout: Basic 5e Layout
 name: Returned Drifter
