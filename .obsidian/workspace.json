@@ -35,14 +35,12 @@
             "id": "cca9702b26f1ce68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "The Last Wish/Sessions/000 - Backstories/Log/Plink.md",
-                "mode": "source",
-                "source": false
+                "file": "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw-v2.png"
               },
-              "icon": "lucide-file",
-              "title": "Plink"
+              "icon": "lucide-image",
+              "title": "De Zilvermeeuw-v2"
             }
           }
         ],
@@ -125,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Last Wish/Sessions/000 - Backstories/Log/Plink.md",
+                "file": "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw-v2.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,24 +306,31 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cca9702b26f1ce68",
+  "active": "700f22b8a8bcec66",
   "lastOpenFiles": [
-    "The Last Wish/Sessions/000 - Backstories/__ReadMeFirst.md",
+    "Locations/Altrisos.md",
+    "Locations",
+    "The Last Wish/Sessions/000 - Backstories/Media/ship_reference.avif",
+    "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw-v2.png",
+    "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw.png",
+    "The Last Wish/Sessions/000 - Backstories/Media/ship_reference.avif.crdownload",
     "The Last Wish/Sessions/000 - Backstories/Drafts/Plink.md",
-    "AGENTS.md",
+    "The Last Wish/Sessions/000 - Backstories/Media",
     "The Last Wish/Sessions/000 - Backstories/Drafts/Arowel.md",
     "The Last Wish/Sessions/000 - Backstories/Drafts/Dorian.md",
+    "The Last Wish/Sessions/000 - Backstories/Log/Plink.md",
+    "The Last Wish/Sessions/000 - Backstories/Log/Dorian.md",
+    "The Last Wish/Sessions/000 - Backstories/__ReadMeFirst.md",
+    "AGENTS.md",
     "The Last Wish/Sessions/000 - Backstories/Log/Arowel.md",
     "The Last Wish/NPCS/LYSA - De Bewaarder.md",
     "The Last Wish/NPCS/Khea.md",
-    "The Last Wish/Sessions/000 - Backstories/Log/Dorian.md",
     "The Last Wish/Sessions/000 - Backstories/Drafts",
     "The Last Wish/Sessions/000 - Backstories/Onverzonden - Ontmoeting op de Zilvermeeuw.md",
     "The Last Wish/Sessions/000 - Backstories/Log/Darius.md",
     "The Last Wish/Sessions/000 - Backstories/Log",
     "The Last Wish/Sessions/001 - Phanarax Brug/Media",
     "The Last Wish/Sessions/002 - Akros",
-    "The Last Wish/Sessions/000 - Backstories/Log/Plink.md",
     "The Last Wish/Players/Arowel Starweaver.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters Glossary.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Lampad.md",
@@ -346,16 +351,9 @@
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-247-000.png",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-214-001.png",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-214-000.png",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-246-000.png",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-215-000.png",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-254-002.png",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images",
     "The Last Wish/Sessions/001 - Phanarax Brug/001 - Phanarax Brug.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Source",
-    "D&D 5E/Mythic Oddysseys Of Theros/Magic Items/Potion of Aqueous Form.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Rules",
-    "D&D 5E/Mythic Oddysseys Of Theros/Spells",
-    "D&D 5E/Mythic Oddysseys Of Theros/Magic Items",
     "Untitled.canvas"
   ]
 }
