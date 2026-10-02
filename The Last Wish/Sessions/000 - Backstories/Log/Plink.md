@@ -2,7 +2,6 @@
 personage: "[[Plink Bugmoss (RIB)]]"
 fase: Proloog
 ---
-### Brief
 
 ### Chat Log
 

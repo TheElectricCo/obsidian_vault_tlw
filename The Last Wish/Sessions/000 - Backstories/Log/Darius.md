@@ -3,7 +3,6 @@ personage: "[[Darius Voss]]"
 fase: Proloog
 ---
 
-### Brief
 
 ### Chat Log
 

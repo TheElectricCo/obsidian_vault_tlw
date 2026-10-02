@@ -2,9 +2,7 @@
 personage: "[[Arowel Starweaver]]"
 fase: Proloog
 ---
-### Current Situation
 
-### Brief
 
 ### Chat Log
 

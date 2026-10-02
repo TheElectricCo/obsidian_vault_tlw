@@ -3,8 +3,6 @@ personage: "[[Dorian Veldt]]"
 fase: Proloog
 ---
 
-### Brief
-
 ### Chat Log
 
 ####  13/09 Dorian:
