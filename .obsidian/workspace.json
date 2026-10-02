@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Last Wish/Sessions/000 - Backstories/__ReadMeFirst.md",
+                "file": "The Last Wish/Sessions/000 - Backstories/Drafts/Plink.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "__ReadMeFirst"
+              "title": "Plink"
             }
           }
         ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Last Wish/Sessions/000 - Backstories/__ReadMeFirst.md",
+                "file": "The Last Wish/Sessions/000 - Backstories/Drafts/Plink.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,8 +308,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "700f22b8a8bcec66",
+  "active": "cca9702b26f1ce68",
   "lastOpenFiles": [
+    "The Last Wish/Sessions/000 - Backstories/__ReadMeFirst.md",
     "The Last Wish/Sessions/000 - Backstories/Drafts/Plink.md",
     "The Last Wish/Sessions/000 - Backstories/Drafts/Arowel.md",
     "The Last Wish/Sessions/000 - Backstories/Drafts/Dorian.md",
@@ -321,7 +322,6 @@
     "The Last Wish/Sessions/000 - Backstories/Onverzonden - Ontmoeting op de Zilvermeeuw.md",
     "The Last Wish/Sessions/000 - Backstories/Log/Darius.md",
     "The Last Wish/Sessions/000 - Backstories/Log",
-    "The Last Wish/Sessions/000 - Backstories/__ReadMeFirst.md",
     "AGENTS.md",
     "The Last Wish/Sessions/001 - Phanarax Brug/Media",
     "The Last Wish/Sessions/002 - Akros",
