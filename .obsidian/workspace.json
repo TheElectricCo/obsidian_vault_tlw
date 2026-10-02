@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D 5E/Monsters Glossary.md",
+                "file": "D&D 5E/Spells Glossary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monsters Glossary"
+              "title": "Spells Glossary"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D 5E/Monsters Glossary.md",
+                "file": "D&D 5E/Spells Glossary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D 5E/Monsters Glossary.md",
+                "file": "D&D 5E/Spells Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -336,11 +336,11 @@
   },
   "active": "b280eca0c00dd58f",
   "lastOpenFiles": [
+    "D&D 5E/Monsters Glossary.md",
     "D&D 5E/Rules Glossary.md",
     "D&D 5E/Spells Glossary.md",
     "D&D 5E/Monsters/Camel.md",
     "D&D 5E/Spells",
-    "D&D 5E/Monsters Glossary.md",
     "The Last Wish/Lore/1ste versie overkoepelend verhaal.md",
     "D&D 5E/Monsters/Veteran.md",
     "D&D 5E/Monsters/Tribal Warrior.md",
