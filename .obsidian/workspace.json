@@ -253,9 +253,7 @@
                   "openTabs": [
                     {
                       "tabId": "tab-1790929921733-z0sv1oa",
-                      "conversationId": null,
-                      "draftModel": "openai-codex/gpt-6.1-sol",
-                      "providerId": "codex"
+                      "conversationId": "conv-1790941107905-xb28avjs9"
                     }
                   ],
                   "activeTabId": "tab-1790929921733-z0sv1oa"
