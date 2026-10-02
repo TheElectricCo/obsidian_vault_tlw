@@ -4,7 +4,9 @@
   "hotkeys": {},
   "onboarding": {
     "enabled": true,
-    "completed": {},
+    "completed": {
+      "assets": true
+    },
     "tokenImported": false
   },
   "starterTokensAdded": true,

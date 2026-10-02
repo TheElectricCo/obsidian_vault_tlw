@@ -18,6 +18,122 @@
       },
       "createdAt": 1790930131522,
       "modifiedAt": 1790930131522
+    },
+    "The Last Wish": {
+      "id": "The Last Wish",
+      "uid": "1d5e8b88-b49b-4e78-84ae-d64ed57f90ca",
+      "version": 1,
+      "name": "The Last Wish",
+      "tags": {},
+      "settings": {
+        "conditions": [
+          {
+            "id": "dnd5e-blinded",
+            "name": "Blinded",
+            "color": "#475569",
+            "icon": "blindfold"
+          },
+          {
+            "id": "dnd5e-charmed",
+            "name": "Charmed",
+            "color": "#db2777",
+            "icon": "heart"
+          },
+          {
+            "id": "dnd5e-deafened",
+            "name": "Deafened",
+            "color": "#0891b2",
+            "icon": "hearing-disabled"
+          },
+          {
+            "id": "dnd5e-exhaustion",
+            "name": "Exhaustion",
+            "color": "#92400e",
+            "icon": "tired-eye",
+            "valued": true
+          },
+          {
+            "id": "dnd5e-frightened",
+            "name": "Frightened",
+            "color": "#7c3aed",
+            "icon": "terror"
+          },
+          {
+            "id": "dnd5e-grappled",
+            "name": "Grappled",
+            "color": "#ea580c",
+            "icon": "grab"
+          },
+          {
+            "id": "dnd5e-incapacitated",
+            "name": "Incapacitated",
+            "color": "#b91c1c",
+            "icon": "knockout"
+          },
+          {
+            "id": "dnd5e-invisible",
+            "name": "Invisible",
+            "color": "#c7d2fe",
+            "icon": "invisible"
+          },
+          {
+            "id": "dnd5e-paralyzed",
+            "name": "Paralyzed",
+            "color": "#38bdf8",
+            "icon": "frozen-body"
+          },
+          {
+            "id": "dnd5e-petrified",
+            "name": "Petrified",
+            "color": "#78716c",
+            "icon": "stoned-skull"
+          },
+          {
+            "id": "dnd5e-poisoned",
+            "name": "Poisoned",
+            "color": "#16a34a",
+            "icon": "poison"
+          },
+          {
+            "id": "dnd5e-prone",
+            "name": "Prone",
+            "color": "#d97706",
+            "icon": "foot-trip"
+          },
+          {
+            "id": "dnd5e-restrained",
+            "name": "Restrained",
+            "color": "#0d9488",
+            "icon": "imprisoned"
+          },
+          {
+            "id": "dnd5e-stunned",
+            "name": "Stunned",
+            "color": "#facc15",
+            "icon": "knocked-out-stars"
+          },
+          {
+            "id": "dnd5e-unconscious",
+            "name": "Unconscious",
+            "color": "#1e3a8a",
+            "icon": "sleepy"
+          }
+        ],
+        "gridDefaults": {
+          "unitType": "feet",
+          "unitDistance": 5,
+          "measurementMode": "metric",
+          "diagonalRule": "equidistant",
+          "abstractRangeBands": []
+        },
+        "defaultWidgets": {
+          "hpBar": true
+        },
+        "systemPresetId": "builtin:dnd5e"
+      },
+      "createdAt": 1790939738191,
+      "modifiedAt": 1790939738212,
+      "publisherId": "0c31b7b8-61ef-4f16-8cc5-7b46ee60ced6"
     }
   },
   "defaultCollectionId": "Default",
@@ -33,7 +149,8 @@
       "type": "token",
       "id": "token-1790930131567-t3ikea",
       "createdAt": 1790930131567,
-      "modifiedAt": 1790930131567
+      "modifiedAt": 1790930131567,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Cleric_1790930131566_znc1dx-ea6957f3.webp"
     },
     "token-1790930131569-jrtn04": {
       "name": "Fighter",
@@ -46,7 +163,8 @@
       "type": "token",
       "id": "token-1790930131569-jrtn04",
       "createdAt": 1790930131569,
-      "modifiedAt": 1790930131569
+      "modifiedAt": 1790930131569,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Fighter_1790930131568_b2aedp-d9f0c6d2.webp"
     },
     "token-1790930131569-cw51d2": {
       "name": "Paladin",
@@ -59,7 +177,8 @@
       "type": "token",
       "id": "token-1790930131569-cw51d2",
       "createdAt": 1790930131569,
-      "modifiedAt": 1790930131569
+      "modifiedAt": 1790930131569,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Paladin_1790930131569_g0gd4c-63202676.webp"
     },
     "token-1790930131570-fjggoh": {
       "name": "Ranger",
@@ -72,7 +191,8 @@
       "type": "token",
       "id": "token-1790930131570-fjggoh",
       "createdAt": 1790930131570,
-      "modifiedAt": 1790930131570
+      "modifiedAt": 1790930131570,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Ranger_1790930131570_ezn7ow-864a4c47.webp"
     },
     "token-1790930131571-9brsqd": {
       "name": "Rogue",
@@ -85,7 +205,8 @@
       "type": "token",
       "id": "token-1790930131571-9brsqd",
       "createdAt": 1790930131571,
-      "modifiedAt": 1790930131571
+      "modifiedAt": 1790930131571,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Rogue_1790930131571_etn0po-8f13c98b.webp"
     },
     "token-1790930131572-v7l2dq": {
       "name": "Warlock",
@@ -98,7 +219,8 @@
       "type": "token",
       "id": "token-1790930131572-v7l2dq",
       "createdAt": 1790930131572,
-      "modifiedAt": 1790930131572
+      "modifiedAt": 1790930131572,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Warlock_1790930131571_qto2k4-90516e73.webp"
     },
     "token-1790930131572-3b2g4d": {
       "name": "Wizard",
@@ -111,7 +233,8 @@
       "type": "token",
       "id": "token-1790930131572-3b2g4d",
       "createdAt": 1790930131572,
-      "modifiedAt": 1790930131572
+      "modifiedAt": 1790930131572,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Wizard_1790930131572_x8ede0-e3149011.webp"
     },
     "token-1790930131573-dmw22s": {
       "name": "Knight",
@@ -124,7 +247,8 @@
       "type": "token",
       "id": "token-1790930131573-dmw22s",
       "createdAt": 1790930131573,
-      "modifiedAt": 1790930131573
+      "modifiedAt": 1790930131573,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Knight_1790930131573_36dk2u-7f982103.webp"
     },
     "token-1790930131574-tra58x": {
       "name": "Assassin",
@@ -137,7 +261,8 @@
       "type": "token",
       "id": "token-1790930131574-tra58x",
       "createdAt": 1790930131574,
-      "modifiedAt": 1790930131574
+      "modifiedAt": 1790930131574,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Assassin_1790930131573_laq2vz-05bb83a0.webp"
     },
     "token-1790930131574-0ea1bd": {
       "name": "Occultist",
@@ -150,7 +275,8 @@
       "type": "token",
       "id": "token-1790930131574-0ea1bd",
       "createdAt": 1790930131574,
-      "modifiedAt": 1790930131574
+      "modifiedAt": 1790930131574,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Occultist_1790930131574_glnmdi-f50d3655.webp"
     }
   },
   "version": 2,

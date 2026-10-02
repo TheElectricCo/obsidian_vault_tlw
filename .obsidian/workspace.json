@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/EPILOOG.md",
+                "file": "Locations/Theros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EPILOOG"
+              "title": "Theros"
+            }
+          },
+          {
+            "id": "b168aa0abc2e5fb1",
+            "type": "leaf",
+            "state": {
+              "type": "atlas-vtt-dashboard",
+              "state": {},
+              "icon": "home",
+              "title": "Atlas dashboard"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/EPILOOG.md",
+                "file": "Locations/Theros.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/EPILOOG.md",
+                "file": "Locations/Theros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -282,8 +293,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85f91935a2c2dfd0",
+  "active": "b168aa0abc2e5fb1",
   "lastOpenFiles": [
+    "atlas-vtt/collections/The Last Wish/players",
+    "atlas-vtt/collections/The Last Wish/encounters",
+    "atlas-vtt/collections/The Last Wish/scenes",
+    "atlas-vtt/collections/The Last Wish/characters",
+    "atlas-vtt/collections/The Last Wish/maps",
+    "atlas-vtt/collections/The Last Wish/statblocks",
+    "atlas-vtt/collections/The Last Wish/notes",
+    "atlas-vtt/collections/The Last Wish/tokens",
+    "atlas-vtt/collections/The Last Wish",
+    "atlas-vtt/assets/thumbnails/Occultist_1790930131574_glnmdi-f50d3655.webp",
+    "atlas-vtt/assets/thumbnails/Assassin_1790930131573_laq2vz-05bb83a0.webp",
+    "atlas-vtt/assets/thumbnails/Knight_1790930131573_36dk2u-7f982103.webp",
+    "atlas-vtt/assets/thumbnails/Wizard_1790930131572_x8ede0-e3149011.webp",
+    "atlas-vtt/assets/thumbnails/Warlock_1790930131571_qto2k4-90516e73.webp",
+    "atlas-vtt/assets/thumbnails/Rogue_1790930131571_etn0po-8f13c98b.webp",
+    "atlas-vtt/assets/thumbnails/Ranger_1790930131570_ezn7ow-864a4c47.webp",
+    "atlas-vtt/assets/thumbnails/Paladin_1790930131569_g0gd4c-63202676.webp",
+    "atlas-vtt/assets/thumbnails/Cleric_1790930131566_znc1dx-ea6957f3.webp",
+    "atlas-vtt/assets/thumbnails/Fighter_1790930131568_b2aedp-d9f0c6d2.webp",
+    "atlas-vtt/assets/thumbnails",
+    "Sessions/20261029 - Session 1.md",
+    "NPCS/Khea.md",
+    "Locations/Akros/De brug van Phanarax.md",
     "Creatures/Griffon.md",
     "Sessions/Proloog/Arowel.md",
     "Sessions/Proloog/Plink.md",
@@ -292,29 +326,9 @@
     "Players/Darius Voss.md",
     "Players/Arowel Starweaver.md",
     "Untitled.canvas",
-    "Artefacts/Random/Goden Stamboom.png",
-    "Artefacts/Items/De Eerste Lauwer.jpg",
     "Artefacts/Random",
-    "atlas-vtt/assets/Fighter_1790930131568_b2aedp.webp",
-    "Artefacts/Letters",
-    "Artefacts/Items",
-    "Artefacts",
-    "atlas-vtt/assets/Cleric_1790930131566_znc1dx.webp",
-    "atlas-vtt/assets/Assassin_1790930131573_laq2vz.webp",
-    "Artefacts/Letters/brief.pdf",
-    "Artefacts/Letters/catalog.pdf",
     "Locations/Agrotekea.md",
     "Sessions/Proloog/__ReadMeFirst.md",
-    "Sessions/Proloog",
-    "Players/Untitled",
-    "atlas-vtt/assets/Occultist_1790930131574_glnmdi.webp",
-    "atlas-vtt/assets/Knight_1790930131573_36dk2u.webp",
-    "atlas-vtt/assets/Wizard_1790930131572_x8ede0.webp",
-    "atlas-vtt/assets/Warlock_1790930131571_qto2k4.webp",
-    "atlas-vtt/assets/Rogue_1790930131571_etn0po.webp",
-    "atlas-vtt/collections/Default/players",
-    "atlas-vtt/collections/Default/encounters",
-    "Sessions/EPILOOG.md",
     "Players/Plink Bugmoss (RIB).md",
     "History/1ste versie overkoepelend verhaal.md",
     "Players/Dorian Veldt.md",
@@ -325,8 +339,6 @@
     "Locations/Akros/AKROS - The city of wishes.md",
     "Ideas/Random.md",
     "Sessions/2026-08-28.md",
-    "NPCS/Khea.md",
-    "Locations/Akros/THE BRIDGE OF CLOUDS.md",
     "NPCS/DAXOS - Trapped Hero of Meletis.md",
     "NPCS/RIVEN - The Ahamkara.md",
     "NPCS/MACAR - King of Akros.md"

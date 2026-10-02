@@ -1,4 +1,0 @@
-
-Alle helden hebben een gepersonaliseerde brief gekregen met een uitnodiging om [[AKROS - The city of wishes]], de stad der wensen, te komen bezoeken. Uitgenodigd door de stadschef, een hoog aangeschreven wizard, de koning zelf - de helden worden elk apart persoonlijk ontvangen in het rijk van [[Theros]]. Een gezant verwelkomt hen persoonlijk aan de grens en vergezelt hen terwijl ze reizen naar [[Agrotekea]], waar ze [[Khea]] ontmoeten voor de laatste deel van hun reis. Alle helden worden in verschillende accomodaties te slapen gelegd en ontmoeten elkaar voor de eerste keer 's ochtends in de Inn samen met [[Khea]]. 
-
-De reis van Agrotekea naar Akros is lastig en verraderlijk en zal in totaal 5 dagen duren eer de helden samen met [[Khea]] het laatste kamp voor ze de mythische [[THE BRIDGE OF CLOUDS]] mogen betreden. 
