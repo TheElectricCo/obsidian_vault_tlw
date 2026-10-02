@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D 5E/Monsters/Camel.md",
+                "file": "D&D 5E/Monsters Glossary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Camel"
+              "title": "Monsters Glossary"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D 5E/Monsters/Camel.md",
+                "file": "D&D 5E/Monsters Glossary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D 5E/Monsters/Camel.md",
+                "file": "D&D 5E/Monsters Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -336,6 +336,10 @@
   },
   "active": "b280eca0c00dd58f",
   "lastOpenFiles": [
+    "D&D 5E/Rules Glossary.md",
+    "D&D 5E/Spells Glossary.md",
+    "D&D 5E/Monsters/Camel.md",
+    "D&D 5E/Spells",
     "D&D 5E/Monsters Glossary.md",
     "The Last Wish/Lore/1ste versie overkoepelend verhaal.md",
     "D&D 5E/Monsters/Veteran.md",
@@ -359,9 +363,6 @@
     "D&D 5E/Monsters/Assassin.md",
     "D&D 5E/Monsters/Archmage.md",
     "D&D 5E/Monsters/Acolyte.md",
-    "D&D 5E/Monsters/Zombie.md",
-    "D&D 5E/Monsters/Young White Dragon.md",
-    "D&D 5E/Monsters/Young Silver Dragon.md",
     "D&D 5E/Monsters",
     "The Last Wish",
     "D&D 5E",
@@ -378,7 +379,6 @@
     "atlas-vtt/assets/Pasted_image_20261002131331_1790939785720_zraomr.webp",
     "atlas-vtt/collections/The Last Wish/players",
     "atlas-vtt/collections/The Last Wish/encounters",
-    "atlas-vtt/collections/The Last Wish/scenes",
     "atlas-vtt/assets/thumbnails/Occultist_1790930131574_glnmdi-f50d3655.webp",
     "atlas-vtt/assets/thumbnails/Assassin_1790930131573_laq2vz-05bb83a0.webp",
     "atlas-vtt/assets/thumbnails/Knight_1790930131573_36dk2u-7f982103.webp",
