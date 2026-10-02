@@ -223,3 +223,5 @@ In zijn plaats zou ik als plicht naar mensen in nood al het noodzakelijke gedaan
 Zoals ik mij de verhalen herinner was het doel steeds streven naar rechtvaardigheid en hulp aan mensen in nood. De relieken zouden hen daarbij helpen mochten ze hier in staat zijn, maar ze zouden hen nooit belemmeren.
 
 Wat was jouw antwoord dan, maakte jouw vader het verhaal dan verder af?
+
+

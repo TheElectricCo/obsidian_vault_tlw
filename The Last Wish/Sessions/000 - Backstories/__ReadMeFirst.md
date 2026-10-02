@@ -7,7 +7,8 @@ De prologen zijn hier te vinden:
 [[Plink]]
 
 Nog te verzenden hoofdstuk:
-[[Onverzonden - Ontmoeting op de Zilvermeeuw]]
+[[Onverzonden/Arowel]]
+[[Onverzonden/Dorian]]
 
 Alle party members hebben eerst een persoonlijke brief gekregen om hun reis te starten. De dagen voor de eerste sessie is een back- and forward geweest op Whatsapp tussen de DM & de spelers.
 
