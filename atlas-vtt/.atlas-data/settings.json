@@ -1,0 +1,31 @@
+{
+  "showChangelogOnUpdate": true,
+  "changelogMajorUpdatesOnly": false,
+  "hotkeys": {},
+  "onboarding": {
+    "enabled": true,
+    "completed": {},
+    "tokenImported": false
+  },
+  "starterTokensAdded": true,
+  "navigation": {
+    "inputMode": "trackpad"
+  },
+  "laserPointer": {
+    "color": "#ff0059",
+    "size": 16
+  },
+  "systemPresets": [],
+  "localPlayerView": {
+    "showToolbar": false,
+    "showTokenHP": false,
+    "showTokenStress": false,
+    "showTokenNameplates": false,
+    "showNotePreviews": false,
+    "showGrid": true,
+    "showWidgets": true,
+    "showInitiative": true,
+    "showDiceRolls": false,
+    "showCommandPalette": false
+  }
+}

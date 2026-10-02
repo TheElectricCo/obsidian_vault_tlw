@@ -1,0 +1,3 @@
+De stad van Akros is enkel bereikbaar via de brug van Pharanax, die over een diepe chasm gaat tot in de onderwereld - beschermd door Erebos. Erebos heeft Akros afgesneden omdat zijn masker uit de onderwereld is gestolen en hij informatie heeft gewonnen dat het zich ergens in Akros bevindt. 
+
+Phenax - vermomd als sherpa - heeft de opdracht laten uitvoeren om het masker te ontvoeren omdat hij stervende is en het masker nodig heeft om te overleven. Hij is te zwak om de brug zelf over te gaan en heeft met een list de 4 helden naar Akros laten komen. Zij dienen in contact te komen met [Naam], de teruggekeerde. De persoon is echter 

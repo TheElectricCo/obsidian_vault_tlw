@@ -1,0 +1,220 @@
+/* Obsidian loads this automatically from the plugin folder. No snippet system needed. */
+
+.callout[data-callout="compendium-highlight"] {
+    --callout-color: 233, 69, 96;
+    --callout-icon: lucide-flask-conical;
+    background-color: rgba(26, 26, 46, 0.6);
+    border-left: 3px solid rgba(233, 69, 96, 0.8);
+}
+
+.callout[data-callout="compendium-highlight"] .callout-title {
+    color: #e94560;
+    font-family: monospace;
+    font-size: 0.8em;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+.callout[data-callout="compendium-highlight"] .callout-content {
+    color: #eaeaea;
+    font-family: monospace;
+}
+
+.compendium-spell-card {
+    max-width: 420px;
+    padding: 1rem;
+    border: 2px solid var(--text-muted);
+    border-radius: 8px;
+    background: var(--background-primary);
+    color: var(--text-normal);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.compendium-spell-card__header {
+    border-bottom: 2px solid var(--text-muted);
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.compendium-spell-card__header h2 {
+    margin: 0;
+    font-size: 1.6rem;
+    letter-spacing: 0.03em;
+}
+
+.compendium-spell-card__header p {
+    margin: 0.15rem 0;
+    font-style: italic;
+    color: var(--text-muted);
+    text-transform: capitalize;
+}
+
+.compendium-spell-card__header span {
+    font-size: 0.8rem;
+    color: var(--text-faint);
+}
+
+.compendium-spell-card__meta {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.compendium-spell-card__meta-item {
+    padding: 0.45rem 0.55rem;
+    border-radius: 8px;
+    background: var(--background-secondary);
+}
+
+.compendium-spell-card__meta-item strong {
+    display: block;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+
+.compendium-spell-card__meta-item span {
+    font-size: 0.95rem;
+}
+
+.compendium-spell-card__entry > :first-child {
+    margin-top: 0;
+}
+
+.compendium-spell-card__entry > :last-child {
+    margin-bottom: 0;
+}
+
+.compendium-spell-card__entry + .compendium-spell-card__entry {
+    margin-top: 0.85rem;
+}
+
+.compendium-spell-card__body,
+.compendium-spell-card__higher-body {
+    line-height: 1.45;
+}
+
+.compendium-spell-card__higher {
+    margin-top: 1rem;
+    padding-top: 0.75rem;
+    border-top: 1px solid var(--background-modifier-border);
+}
+
+.compendium-spell-card__higher h3 {
+    margin: 0 0 0.35rem;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+.compendium-spell-card-error {
+    padding: 0.75rem;
+    border: 1px solid var(--text-error);
+    border-radius: 8px;
+    color: var(--text-error);
+    background: var(--background-primary);
+}
+
+.compendium-item-card {
+    max-width: 460px;
+    padding: 1rem;
+    border: 2px solid var(--background-modifier-border);
+    border-radius: 8px;
+    background: var(--background-primary);
+    color: var(--text-normal);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.14);
+}
+
+.compendium-item-card__header {
+    padding-bottom: 0.55rem;
+    margin-bottom: 0.8rem;
+    border-bottom: 2px solid var(--background-modifier-border);
+}
+
+.compendium-item-card__header h2 {
+    margin: 0;
+    font-size: 1.45rem;
+}
+
+.compendium-item-card__header p {
+    margin: 0.2rem 0;
+    color: var(--text-muted);
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+.compendium-item-card__header span {
+    color: var(--text-faint);
+    font-size: 0.8rem;
+}
+
+.compendium-item-card__meta {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.5rem;
+    margin-bottom: 0.85rem;
+}
+
+.compendium-item-card__meta-item {
+    padding: 0.45rem 0.55rem;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 8px;
+    background: var(--background-secondary);
+}
+
+.compendium-item-card__meta-item strong,
+.compendium-item-card__tags strong {
+    display: block;
+    margin-bottom: 0.15rem;
+    color: var(--text-muted);
+    font-size: 0.68rem;
+    text-transform: uppercase;
+}
+
+.compendium-item-card__meta-item span {
+    font-size: 0.95rem;
+}
+
+.compendium-item-card__tags {
+    margin: 0.7rem 0;
+}
+
+.compendium-item-card__tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+}
+
+.compendium-item-card__tag-list span {
+    padding: 0.18rem 0.45rem;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 999px;
+    background: var(--background-secondary);
+    color: var(--text-muted);
+    font-size: 0.78rem;
+}
+
+.compendium-item-card__body {
+    margin-top: 0.8rem;
+    line-height: 1.45;
+}
+
+.compendium-item-card__entry > :first-child {
+    margin-top: 0;
+}
+
+.compendium-item-card__entry > :last-child {
+    margin-bottom: 0;
+}
+
+.compendium-item-card__entry + .compendium-item-card__entry {
+    margin-top: 0.85rem;
+}
+
+.compendium-item-card-error {
+    padding: 0.75rem;
+    border: 1px solid var(--text-error);
+    border-radius: 8px;
+    color: var(--text-error);
+    background: var(--background-primary);
+}
