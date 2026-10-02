@@ -1,6 +1,6 @@
 ---
-personage: "[[Players/Dorian Veldt.md]]"
-fase: "Proloog"
+personage: "[[Dorian Veldt]]"
+fase: Proloog
 ---
 
 ### Brief

@@ -1,6 +1,6 @@
 ---
-personage: "[[Players/Arowel Starweaver.md]]"
-fase: "Proloog"
+personage: "[[Arowel Starweaver]]"
+fase: Proloog
 ---
 ### Current Situation
 

@@ -1,6 +1,6 @@
 ---
-personage: "[[Players/Darius Voss.md]]"
-fase: "Proloog"
+personage: "[[Darius Voss]]"
+fase: Proloog
 ---
 
 ### Brief

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Theros.md",
+                "file": "The Last Wish/Locations/Theros.md",
                 "mode": "source",
                 "source": false
               },
@@ -37,7 +37,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Artefacts/Random/Goden Stamboom.png"
+                "file": "The Last Wish/Artefacts/Random/Goden Stamboom.png"
               },
               "icon": "lucide-image",
               "title": "Goden Stamboom"
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/20261029 - Session 1.md",
+                "file": "The Last Wish/Sessions/20261029 - Session 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/20261029 - Session 1.md",
+                "file": "D&D 5E/Rules Glossary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20261029 - Session 1"
+              "title": "Rules Glossary"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/20261029 - Session 1.md",
+                "file": "D&D 5E/Rules Glossary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/20261029 - Session 1.md",
+                "file": "D&D 5E/Rules Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -253,7 +253,7 @@
                   "openTabs": [
                     {
                       "tabId": "tab-1790929921733-z0sv1oa",
-                      "conversationId": "conv-1790941107905-xb28avjs9"
+                      "conversationId": "conv-1790942995989-h91xzkd1t"
                     }
                   ],
                   "activeTabId": "tab-1790929921733-z0sv1oa"
@@ -337,17 +337,20 @@
   },
   "active": "d8c3e7c156c9d299",
   "lastOpenFiles": [
-    "Locations/Akros/De brug van Phanarax.md",
-    "Sessions/20261029 - Session 1.md",
-    "Locations/Theros.md",
-    "Artefacts/Random/Goden Stamboom.png",
-    "Artefacts/Items/De Eerste Lauwer.jpg",
+    "The Last Wish/Sessions/20261029 - Session 1.md",
+    "D&D 5E/Rules Glossary.md",
+    "The Last Wish",
+    "D&D 5E",
+    "The Last Wish/Locations/Akros/De brug van Phanarax.md",
+    "The Last Wish/Locations/Theros.md",
+    "The Last Wish/Artefacts/Random/Goden Stamboom.png",
+    "The Last Wish/Artefacts/Items/De Eerste Lauwer.jpg",
     "AGENTS.md",
     "Untitled.canvas",
-    "Sessions/Proloog/__ReadMeFirst.md",
-    "Artefacts/Maps/Theros.png",
+    "The Last Wish/Sessions/Proloog/__ReadMeFirst.md",
+    "The Last Wish/Artefacts/Maps/Theros.png",
     "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
-    "Artefacts/Maps",
+    "The Last Wish/Artefacts/Maps",
     "atlas-vtt/collections/The Last Wish/scenes/Theros.thumb.jpg",
     "atlas-vtt/collections/The Last Wish/scenes/scene-1790939812075-cr7q40.json",
     "atlas-vtt/collections/The Last Wish/maps/map-1790939785723-4ve5j8.json",
@@ -357,31 +360,29 @@
     "atlas-vtt/collections/The Last Wish/encounters",
     "atlas-vtt/collections/The Last Wish/scenes",
     "atlas-vtt/collections/The Last Wish/characters",
-    "atlas-vtt/collections/The Last Wish/maps",
-    "atlas-vtt/collections/The Last Wish/statblocks",
     "atlas-vtt/assets/thumbnails/Occultist_1790930131574_glnmdi-f50d3655.webp",
     "atlas-vtt/assets/thumbnails/Assassin_1790930131573_laq2vz-05bb83a0.webp",
     "atlas-vtt/assets/thumbnails/Knight_1790930131573_36dk2u-7f982103.webp",
     "atlas-vtt/assets/thumbnails/Wizard_1790930131572_x8ede0-e3149011.webp",
-    "NPCS/Khea.md",
-    "Creatures/Griffon.md",
-    "Sessions/Proloog/Arowel.md",
-    "Sessions/Proloog/Plink.md",
-    "Sessions/Proloog/Dorian.md",
-    "Sessions/Proloog/Darius.md",
-    "Players/Darius Voss.md",
-    "Players/Arowel Starweaver.md",
-    "Locations/Agrotekea.md",
-    "Players/Plink Bugmoss (RIB).md",
-    "History/1ste versie overkoepelend verhaal.md",
-    "Players/Dorian Veldt.md",
-    "NPCS/CYMEDE - Chancellor.md",
-    "Locations/Akros/THE TITAN STAIRS.md",
-    "Locations/Akros/THE AKROAN - Army of Akros.md",
-    "Locations/Akros/AKROS - The city of wishes.md",
+    "The Last Wish/NPCS/Khea.md",
+    "The Last Wish/Creatures/Griffon.md",
+    "The Last Wish/Sessions/Proloog/Arowel.md",
+    "The Last Wish/Sessions/Proloog/Plink.md",
+    "The Last Wish/Sessions/Proloog/Dorian.md",
+    "The Last Wish/Sessions/Proloog/Darius.md",
+    "The Last Wish/Players/Darius Voss.md",
+    "The Last Wish/Players/Arowel Starweaver.md",
+    "The Last Wish/Locations/Agrotekea.md",
+    "The Last Wish/Players/Plink Bugmoss (RIB).md",
+    "The Last Wish/History/1ste versie overkoepelend verhaal.md",
+    "The Last Wish/Players/Dorian Veldt.md",
+    "The Last Wish/NPCS/CYMEDE - Chancellor.md",
+    "The Last Wish/Locations/Akros/THE TITAN STAIRS.md",
+    "The Last Wish/Locations/Akros/THE AKROAN - Army of Akros.md",
+    "The Last Wish/Locations/Akros/AKROS - The city of wishes.md",
     "Ideas/Random.md",
     "Sessions/2026-08-28.md",
-    "NPCS/DAXOS - Trapped Hero of Meletis.md",
-    "NPCS/RIVEN - The Ahamkara.md"
+    "The Last Wish/NPCS/DAXOS - Trapped Hero of Meletis.md",
+    "The Last Wish/NPCS/RIVEN - The Ahamkara.md"
   ]
 }

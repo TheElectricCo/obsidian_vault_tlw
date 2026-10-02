@@ -1,6 +1,6 @@
 ---
-personage: "[[Players/Plink Bugmoss (RIB).md]]"
-fase: "Proloog"
+personage: "[[Plink Bugmoss (RIB)]]"
+fase: Proloog
 ---
 ### Brief
 
