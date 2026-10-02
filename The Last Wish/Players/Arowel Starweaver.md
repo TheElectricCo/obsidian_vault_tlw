@@ -4,7 +4,7 @@ hp: 49
 level: 5
 modifier: 4
 Languages: Elvish
-proloog: "[[Arowel]]"
+proloog: "[[The Last Wish/Sessions/000 - Backstories/Log/Arowel]]"
 fase: Proloog
 laatste_chatdatum: 2026-10-02
 locatie: Aan boord van de Zilvermeeuw, onderweg van Waterdeep naar Meletis

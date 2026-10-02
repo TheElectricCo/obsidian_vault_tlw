@@ -1,5 +1,5 @@
 ---
-proloog: "[[Dorian]]"
+proloog: "[[The Last Wish/Sessions/000 - Backstories/Log/Dorian]]"
 fase: Proloog
 laatste_chatdatum: 2026-09-26
 locatie: Aan boord van de Zilvermeeuw, na vertrek uit Neverwinter richting Theros

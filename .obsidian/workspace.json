@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Last Wish/Sessions/000 - Backstories/Onverzonden/Arowel.md",
+                "file": "The Last Wish/Sessions/000 - Backstories/__ReadMeFirst.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arowel"
+              "title": "__ReadMeFirst"
             }
           }
         ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Last Wish/Sessions/000 - Backstories/Onverzonden/Arowel.md",
+                "file": "The Last Wish/Sessions/000 - Backstories/__ReadMeFirst.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,15 +308,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cca9702b26f1ce68",
+  "active": "700f22b8a8bcec66",
   "lastOpenFiles": [
-    "The Last Wish/Sessions/000 - Backstories/Onverzonden/Dorian.md",
+    "The Last Wish/Sessions/000 - Backstories/Drafts/Plink.md",
+    "The Last Wish/Sessions/000 - Backstories/Drafts/Arowel.md",
+    "The Last Wish/Sessions/000 - Backstories/Drafts/Dorian.md",
+    "The Last Wish/Sessions/000 - Backstories/Log/Arowel.md",
+    "The Last Wish/NPCS/LYSA - De Bewaarder.md",
+    "The Last Wish/NPCS/Khea.md",
     "The Last Wish/Sessions/000 - Backstories/Log/Dorian.md",
-    "The Last Wish/Sessions/000 - Backstories/Onverzonden/Arowel.md",
-    "The Last Wish/Sessions/000 - Backstories/Onverzonden",
+    "The Last Wish/Sessions/000 - Backstories/Drafts",
     "The Last Wish/Sessions/000 - Backstories/Onverzonden - Ontmoeting op de Zilvermeeuw.md",
     "The Last Wish/Sessions/000 - Backstories/Log/Darius.md",
-    "The Last Wish/Sessions/000 - Backstories/Log/Arowel.md",
     "The Last Wish/Sessions/000 - Backstories/Log",
     "The Last Wish/Sessions/000 - Backstories/__ReadMeFirst.md",
     "AGENTS.md",
@@ -350,9 +353,6 @@
     "The Last Wish/Sessions/001 - Phanarax Brug/001 - Phanarax Brug.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Source",
     "D&D 5E/Mythic Oddysseys Of Theros/Magic Items/Potion of Aqueous Form.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Magic Items/Siren Song Lyre.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Magic Items/Helm of the Gods.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Magic Items/Dekella, Bident of Thassa.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Rules",
     "D&D 5E/Mythic Oddysseys Of Theros/Spells",
     "D&D 5E/Mythic Oddysseys Of Theros/Magic Items",
