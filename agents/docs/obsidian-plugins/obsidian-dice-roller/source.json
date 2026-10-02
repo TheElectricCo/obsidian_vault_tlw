@@ -1,0 +1,15 @@
+{
+  "id": "obsidian-dice-roller",
+  "name": "Dice Roller",
+  "installed_version": "11.4.2",
+  "repository": "https://github.com/obsidian-ttrpg-community/dice-roller",
+  "documentation_ref": "11.4.2",
+  "matches_installed_version": true,
+  "original_filename": "README.md",
+  "source_url": "https://github.com/Obsidian-TTRPG-Community/dice-roller/blob/11.4.2/README.md",
+  "download_url": "https://raw.githubusercontent.com/Obsidian-TTRPG-Community/dice-roller/11.4.2/README.md",
+  "git_blob_sha": "e41244c59a12c45a899e2cdfee22eec71fd48059",
+  "sha256": "71ba15c54359e33f9df8f8efbbb3518cfa448263d83195a0c622daecb0109fa7",
+  "retrieved_at_utc": "2026-10-02T13:48:39.387888+00:00",
+  "local_file": "obsidian-dice-roller/README.md"
+}

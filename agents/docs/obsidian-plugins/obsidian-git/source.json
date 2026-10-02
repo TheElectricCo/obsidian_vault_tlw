@@ -1,0 +1,15 @@
+{
+  "id": "obsidian-git",
+  "name": "Git",
+  "installed_version": "2.41.0",
+  "repository": "https://github.com/vinzent03/obsidian-git",
+  "documentation_ref": "2.41.0",
+  "matches_installed_version": true,
+  "original_filename": "README.md",
+  "source_url": "https://github.com/Vinzent03/obsidian-git/blob/2.41.0/README.md",
+  "download_url": "https://raw.githubusercontent.com/Vinzent03/obsidian-git/2.41.0/README.md",
+  "git_blob_sha": "6fbeb1d74eaa9224ba0483c29b57604707169bf8",
+  "sha256": "1bb9aad4f321f4e033f21c42bb03483c1fd7fe27a3c54318431da850e48a8dae",
+  "retrieved_at_utc": "2026-10-02T13:48:39.297407+00:00",
+  "local_file": "obsidian-git/README.md"
+}

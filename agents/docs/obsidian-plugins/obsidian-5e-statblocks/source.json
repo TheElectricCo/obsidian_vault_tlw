@@ -1,0 +1,15 @@
+{
+  "id": "obsidian-5e-statblocks",
+  "name": "Fantasy Statblocks",
+  "installed_version": "4.10.3",
+  "repository": "https://github.com/obsidian-ttrpg-community/fantasy-statblocks",
+  "documentation_ref": "4.10.3",
+  "matches_installed_version": true,
+  "original_filename": "README.md",
+  "source_url": "https://github.com/Obsidian-TTRPG-Community/fantasy-statblocks/blob/4.10.3/README.md",
+  "download_url": "https://raw.githubusercontent.com/Obsidian-TTRPG-Community/fantasy-statblocks/4.10.3/README.md",
+  "git_blob_sha": "cebbe6c20c02742e49bc63986547f69540aea7ac",
+  "sha256": "56a8c956dd3905079677fcf2b1a8dd2fcab1e5a9b511f07d3550e26d7d5854e5",
+  "retrieved_at_utc": "2026-10-02T13:48:39.334056+00:00",
+  "local_file": "obsidian-5e-statblocks/README.md"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "atlas-vtt",
+  "name": "Atlas VTT",
+  "installed_version": "0.4.2",
+  "repository": "https://github.com/bytemirror/atlas-vtt",
+  "documentation_ref": "0.4.2",
+  "matches_installed_version": true,
+  "original_filename": "README.md",
+  "source_url": "https://github.com/ByteMirror/atlas-vtt/blob/0.4.2/README.md",
+  "download_url": "https://raw.githubusercontent.com/ByteMirror/atlas-vtt/0.4.2/README.md",
+  "git_blob_sha": "3f1fc9b79bb130278581e3ff9b5c93f105004741",
+  "sha256": "b95c2d9941b385c1e963abcf40806a802deacd122aac5d03983fa46e0c814867",
+  "retrieved_at_utc": "2026-10-02T13:48:39.254239+00:00",
+  "local_file": "atlas-vtt/README.md"
+}

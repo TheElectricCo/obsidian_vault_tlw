@@ -1,0 +1,15 @@
+{
+  "id": "realclaudian",
+  "name": "Claudian",
+  "installed_version": "2.3.11",
+  "repository": "https://github.com/yishentu/claudian",
+  "documentation_ref": "2.3.11",
+  "matches_installed_version": true,
+  "original_filename": "README.md",
+  "source_url": "https://github.com/YishenTu/claudian/blob/2.3.11/README.md",
+  "download_url": "https://raw.githubusercontent.com/YishenTu/claudian/2.3.11/README.md",
+  "git_blob_sha": "76dd9200ebc8437cc7f139e141dc58d39cc58108",
+  "sha256": "bfa9018a8f075a26669fe54143034ec3b2564c9c701abe2eebd3c697bd76a6b8",
+  "retrieved_at_utc": "2026-10-02T13:48:39.355267+00:00",
+  "local_file": "realclaudian/README.md"
+}

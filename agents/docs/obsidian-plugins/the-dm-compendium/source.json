@@ -1,0 +1,15 @@
+{
+  "id": "the-dm-compendium",
+  "name": "The DM Compendium",
+  "installed_version": "1.0.7",
+  "repository": "https://github.com/guykahalani/the-dm-compendium",
+  "documentation_ref": "1.0.7",
+  "matches_installed_version": true,
+  "original_filename": "README.md",
+  "source_url": "https://github.com/guykahalani/the-dm-compendium/blob/1.0.7/README.md",
+  "download_url": "https://raw.githubusercontent.com/guykahalani/the-dm-compendium/1.0.7/README.md",
+  "git_blob_sha": "b551dceaba307990a065253e2c207f7334bdde4f",
+  "sha256": "469c1484f9075bc4ac8ab27d688ae3e0ef83219d9695fd5105aab7129257bf39",
+  "retrieved_at_utc": "2026-10-02T13:48:39.376557+00:00",
+  "local_file": "the-dm-compendium/README.md"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "initiative-tracker",
+  "name": "Initiative Tracker",
+  "installed_version": "13.0.21",
+  "repository": "https://github.com/obsidian-ttrpg-community/initiative-tracker",
+  "documentation_ref": "13.0.21",
+  "matches_installed_version": true,
+  "original_filename": "README.md",
+  "source_url": "https://github.com/Obsidian-TTRPG-Community/initiative-tracker/blob/13.0.21/README.md",
+  "download_url": "https://raw.githubusercontent.com/Obsidian-TTRPG-Community/initiative-tracker/13.0.21/README.md",
+  "git_blob_sha": "d62e581d8f91bac6f2ca132534a8805cbdbc9307",
+  "sha256": "fd019531cd65cf68525f7dca00d52d827e074784e24c288ba6e45a5f2847ad62",
+  "retrieved_at_utc": "2026-10-02T13:48:39.337667+00:00",
+  "local_file": "initiative-tracker/README.md"
+}
