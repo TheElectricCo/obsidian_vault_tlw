@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Last Wish/Sessions/001 - Phanarax Brug/001 - Phanarax Brug.md",
-                "mode": "preview",
+                "file": "The Last Wish/Sessions/000 - Backstories/__ReadMeFirst.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 - Phanarax Brug"
+              "title": "__ReadMeFirst"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Last Wish/Sessions/001 - Phanarax Brug/001 - Phanarax Brug.md",
+                "file": "The Last Wish/Sessions/000 - Backstories/__ReadMeFirst.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,11 +320,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "700f22b8a8bcec66",
+  "active": "4e43f9debb98e068",
   "lastOpenFiles": [
+    "D&D 5E/Mythic Oddysseys Of Theros/source_book.pdf",
+    "The Last Wish/Sessions/001 - Phanarax Brug/001 - Phanarax Brug.md",
+    "D&D 5E/Mytic Oddysseys Of Theros/pdfcoffee.com_mythic-odysseys-of-theros-deluxe-coverpdf-pdf-free.pdf",
+    "D&D 5E/Mythic Oddysseys Of Theros",
     "The Last Wish/Sessions/001 - Phanarax Brug",
     "The Last Wish/Sessions/000 - Backstories/Plink.md",
-    "The Last Wish/Sessions/001 - Phanarax Brug/001 - Phanarax Brug.md",
     "The Last Wish/Sessions/000 - Backstories/Darius.md",
     "The Last Wish/Sessions/000 - Backstories/Arowel.md",
     "The Last Wish/Sessions/000 - Backstories/__ReadMeFirst.md",
@@ -343,11 +346,7 @@
     "agents/docs/obsidian-plugins/realclaudian/source.json",
     "agents/docs/obsidian-plugins/realclaudian/README.md",
     "agents/docs/obsidian-plugins/realclaudian",
-    "agents/docs/obsidian-plugins/initiative-tracker/source.json",
-    "agents/docs/obsidian-plugins/initiative-tracker",
-    "agents/docs/obsidian-plugins/obsidian-5e-statblocks/source.json",
     "agents/docs/obsidian-plugins/obsidian-5e-statblocks/README.md",
-    "agents/docs/obsidian-plugins/obsidian-5e-statblocks",
     "agents/docs/obsidian-plugins/obsidian-git/README.md",
     "D&D 5E/Base Edition/Magic Items Glossary.md",
     "The Last Wish/Locations/Agrotekea.md",
