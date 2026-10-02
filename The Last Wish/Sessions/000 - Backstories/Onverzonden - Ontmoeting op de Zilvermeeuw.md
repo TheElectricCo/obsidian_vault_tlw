@@ -57,7 +57,7 @@ Arowel keek naar de broche onder haar kraag, en daarna naar de eindeloze lijn wa
 
 Nu glimlachte hij wel, maar kort. Zijn hand rustte niet op het zwaard. Toch leek het wapen hun gesprek te volgen; niet met dreiging, eerder met aandacht. Arowel voelde een vreemde trilling in de snaren onder haar hand, hoewel ze ze niet had aangeraakt.
 
-Ze speelde een paar tonen. Niet de mislukte melodie van daarnet, maar een eenvoudiger wijsje uit Nieuw Sharandar, een lied over een reiziger die de nacht tegemoet ging omdat achter hem het vuur al was gedoofd.
+Ze speelde een paar tonen. Niet de mislukte melodie van daarnet, maar een eenvoudiger wijsje, een lied over een reiziger die de nacht tegemoet ging omdat achter hem het vuur al was gedoofd.
 
 Toen ze eindigde, was het even alsof de zee minder ver weg lag.
 
