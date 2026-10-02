@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D 5E/Rules Glossary.md",
+                "file": "D&D 5E/Monsters Glossary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rules Glossary"
+              "title": "Monsters Glossary"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D 5E/Rules Glossary.md",
+                "file": "D&D 5E/Monsters Glossary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D 5E/Rules Glossary.md",
+                "file": "D&D 5E/Monsters Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -273,8 +273,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "84d04260cec706bb",
@@ -315,7 +314,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 533.046875
+    "width": 390.796875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -335,17 +334,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d8c3e7c156c9d299",
+  "active": "ae4ed6d6d5583b19",
   "lastOpenFiles": [
-    "The Last Wish/Sessions/20261029 - Session 1.md",
+    "D&D 5E/Monsters",
     "D&D 5E/Rules Glossary.md",
+    "D&D 5E/Monsters Glossary.md",
+    "AGENTS.md",
+    "The Last Wish/Sessions/20261029 - Session 1.md",
     "The Last Wish",
     "D&D 5E",
     "The Last Wish/Locations/Akros/De brug van Phanarax.md",
     "The Last Wish/Locations/Theros.md",
     "The Last Wish/Artefacts/Random/Goden Stamboom.png",
     "The Last Wish/Artefacts/Items/De Eerste Lauwer.jpg",
-    "AGENTS.md",
     "Untitled.canvas",
     "The Last Wish/Sessions/Proloog/__ReadMeFirst.md",
     "The Last Wish/Artefacts/Maps/Theros.png",
@@ -381,8 +382,6 @@
     "The Last Wish/Locations/Akros/THE AKROAN - Army of Akros.md",
     "The Last Wish/Locations/Akros/AKROS - The city of wishes.md",
     "Ideas/Random.md",
-    "Sessions/2026-08-28.md",
-    "The Last Wish/NPCS/DAXOS - Trapped Hero of Meletis.md",
-    "The Last Wish/NPCS/RIVEN - The Ahamkara.md"
+    "Sessions/2026-08-28.md"
   ]
 }

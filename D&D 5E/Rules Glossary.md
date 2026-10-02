@@ -47,8 +47,6 @@ For every ability check, the GM decides which of the six abilities is relevant t
 
 The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
 
-
-
 | Task Difficulty | DC |
 | --- | --- |
 | Very easy | 5 |
@@ -58,13 +56,33 @@ The more difficult a task, the higher its DC. The Typical Difficulty Classes tab
 | Very hard | 25 |
 | Nearly impossible | 30 |
 
- To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success—the creature overcomes the challenge at hand. Otherwise, it’s a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM.
+To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success—the creature overcomes the challenge at hand. Otherwise, it’s a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM.
 
 ## Ability Modifier
 
 *[SRD 5.1, p. 76](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=76)*
 
 Each ability also has a modifier, derived from the score and ranging from −5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
+
+| Score | Modifier |
+| --- | --- |
+| 1 | −5 |
+| 2–3 | −4 |
+| 4–5 | −3 |
+| 6–7 | −2 |
+| 8–9 | −1 |
+| 10–11 | +0 |
+| 12–13 | +1 |
+| 14–15 | +2 |
+| 16–17 | +3 |
+| 18–19 | +4 |
+| 20–21 | +5 |
+| 22–23 | +6 |
+| 24–25 | +7 |
+| 26–27 | +8 |
+| 28–29 | +9 |
+| 30 | +10 |
+
 
 To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the total by 2 (round down). Because ability modifiers affect almost every attack roll, ability check, and saving throw, ability modifiers come up in play more often than their associated scores.
 
@@ -76,7 +94,7 @@ Each of a creature’s abilities has a score, a number that defines the magnitud
 
 A score of 10 or 11 is the normal human average, but adventurers and many monsters are a cut above average in most abilities. A score of 18 is the highest that a person usually reaches. Adventurers can have scores as high as 20, and monsters and divine beings can have scores as high as 30.
 
-Each ability also has a modifier, derived from the score and ranging from −5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
+Each ability also has a modifier, derived from the score and ranging from −5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30. See [[#Ability Modifier]] for the table.
 
 ## Action
 
@@ -124,7 +142,9 @@ Certain features, such as the Extra Attack feature of the fighter, allow you to 
 
 When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target’s Armor Class (AC), the attack hits. The AC of a character is determined at character creation, whereas the AC of a monster is in its stat block.
 
-Modifiers to the Roll When a character makes an attack roll, the two most common modifiers to the roll are an ability modifier and the character’s proficiency bonus. When a monster makes an attack roll, it uses whatever modifier is provided in its stat block.
+### Modifiers to the Roll
+
+When a character makes an attack roll, the two most common modifiers to the roll are an ability modifier and the character’s proficiency bonus. When a monster makes an attack roll, it uses whatever modifier is provided in its stat block.
 
 Ability Modifier. The ability modifier used for a melee weapon attack is Strength, and the ability modifier used for a ranged weapon attack is Dexterity. Weapons that have the finesse or thrown property break this rule.
 
@@ -132,7 +152,9 @@ Some spells also require an attack roll. The ability modifier used for a spell a
 
 Proficiency Bonus. You add your proficiency bonus to your attack roll when you attack using a weapon with which you have proficiency, as well as when you attack with a spell.
 
-Rolling 1 or 20 Sometimes fate blesses or curses a combatant, causing the novice to hit and the veteran to miss.
+### Rolling 1 or 20
+
+Sometimes fate blesses or curses a combatant, causing the novice to hit and the veteran to miss.
 
 If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target’s AC. This is called a critical hit.
 
@@ -200,7 +222,7 @@ Spellcasters such as wizards and clerics, as well as many monsters, have access 
 
 *[SRD 5.1, p. 100](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=100)*
 
-When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. For instance, if Umara casts magic missile using one of her 2nd--level slots, that magic missile is 2nd level. Effectively, the spell expands to fill the slot it is put into.
+When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. For instance, if Umara casts magic missile using one of her 2nd-level slots, that magic missile is 2nd level. Effectively, the spell expands to fill the slot it is put into.
 
 Some spells, such as magic missile and cure wounds, have more powerful effects when cast at a higher level, as detailed in a spell’s description.
 
@@ -220,8 +242,6 @@ The effects of different spells add together while the durations of those spells
 
 For example, if two clerics cast bless on the same target, that character gains the spell’s benefit only once; he or she doesn’t get to roll two bonus dice.
 
-Spell Lists
-
 ## Concentration
 
 *[SRD 5.1, p. 102](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=102)*
@@ -236,7 +256,9 @@ Normal activity, such as moving and attacking, doesn’t interfere with concentr
 
 - Taking damage. Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon’s breath, you make a separate saving throw for each source of damage.
 
-- Being incapacitated or killed. You lose concentration on a spell if you are incapacitated or if you die. The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm--tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell.
+- Being incapacitated or killed. You lose concentration on a spell if you are incapacitated or if you die.
+
+The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell.
 
 ## Condition
 
@@ -268,11 +290,11 @@ If the contest results in a tie, the situation remains the same as it was before
 
 Walls, trees, creatures, and other obstacles can provide cover during combat, making a target more difficult to harm. A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover.
 
-There are three degrees of cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren’t added together. For example, if a target is behind a creature that gives half cover and a tree trunk that gives three--quarters cover, the target has three--quarters cover.
+There are three degrees of cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren’t added together. For example, if a target is behind a creature that gives half cover and a tree trunk that gives three-quarters cover, the target has three-quarters cover.
 
 A target with half cover has a +2 bonus to AC and Dexterity saving throws. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.
 
-A target with three--quarters cover has a +5 bonus to AC and Dexterity saving throws. A target has three--quarters cover if about three--quarters of it is covered by an obstacle. The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.
+A target with three-quarters cover has a +5 bonus to AC and Dexterity saving throws. A target has three-quarters cover if about three-quarters of it is covered by an obstacle. The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.
 
 A target with total cover can’t be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect.
 
@@ -302,7 +324,7 @@ Resistance and then vulnerability are applied after all other modifiers to damag
 
 The creature is also within a magical aura that reduces all damage by 5. The 25 damage is first reduced by 5 and then halved, so the creature takes 10 damage.
 
-Multiple instances of resistance or vulnerability that affect the same damage type count as only one instance. For example, if a creature has resistance to fire damage as well as resistance to all nonmagical damage, the damage of a nonmagical fire is reduced by half against the creature, not reduced by three-- quarters.
+Multiple instances of resistance or vulnerability that affect the same damage type count as only one instance. For example, if a creature has resistance to fire damage as well as resistance to all nonmagical damage, the damage of a nonmagical fire is reduced by half against the creature, not reduced by three-quarters.
 
 ## Damage Roll
 
@@ -368,7 +390,7 @@ Any increase or decrease to your speed changes this additional movement by the s
 
 *[SRD 5.1, p. 358](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=358)*
 
-- A deafened creature can’thear and automatically fails any ability check that requires hearing.
+- A deafened creature can’t hear and automatically fails any ability check that requires hearing.
 
 ## Death Saving Throw
 
@@ -390,7 +412,7 @@ Damage at 0 Hit Points. If you take any damage while you have 0 hit points, you 
 
 *[SRD 5.1, p. 91](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=91)*
 
-Combat rarely takes place in bare rooms or on featureless plains. Boulder--strewn caverns, briar-- choked forests, treacherous staircases—the setting of a typical fight contains difficult terrain.
+Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briar-choked forests, treacherous staircases—the setting of a typical fight contains difficult terrain.
 
 Every foot of movement in difficult terrain costs 1 extra foot. This rule is true even if multiple things in a space count as difficult terrain.
 
@@ -406,15 +428,13 @@ If you take the Disengage action, your movement doesn’t provoke opportunity at
 
 *[SRD 5.1, p. 93](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=93)*
 
-When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are incapacitated (as explained in appendix PH--A) or if your speed drops to 0.
+When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are incapacitated (as explained in appendix PH-A) or if your speed drops to 0.
 
 ## Exhaustion
 
 *[SRD 5.1, p. 358](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=358)*
 
-Some special abilities and environmental hazards, such as starvation and the long--term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect’s description.
-
-
+Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect’s description.
 
 | Level | Effect |
 | --- | --- |
@@ -425,7 +445,7 @@ Some special abilities and environmental hazards, such as starvation and the lon
 | 5 | Speed reduced to 0 |
 | 6 | Death |
 
- If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect’s description.
+If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect’s description.
 
 A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.
 
@@ -443,7 +463,7 @@ A fall from a greatheight is one of the most common hazards facing an adventurer
 
 *[SRD 5.1, p. 98](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=98)*
 
-If damage reduces you to 0 hit points and fails to kill you, you fall unconscious (see appendix PH--A). This unconsciousness ends if you regain any hit points.
+If damage reduces you to 0 hit points and fails to kill you, you fall unconscious (see appendix PH-A). This unconsciousness ends if you regain any hit points.
 
 ## Frightened
 
@@ -461,7 +481,7 @@ If damage reduces you to 0 hit points and fails to kill you, you fall unconsciou
 
 - The condition ends if the grappler is incapacitated (see the condition).
 
-- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunder--wave spell.
+- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunderwave spell.
 
 ## Grappling
 
@@ -469,7 +489,7 @@ If damage reduces you to 0 hit points and fails to kill you, you fall unconsciou
 
 When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
 
-The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Athletics) check contested by the target’s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition (see appendix PH--A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
+The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Athletics) check contested by the target’s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition (see appendix PH-A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
 
 Escaping a Grapple. A grappled creature can use its action to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) check.
 
@@ -529,7 +549,7 @@ An invisible creature can always try to hide. Signs of its passage might still b
 
 In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the GM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen.
 
-Passive Perception. When you hide, there’s a chance someone will notice you even if they aren’t searching. To determine whether such a creature notices you, the GM compares your Dexterity (Stealth) check with that creature’s passive Wisdom (Perception) score, which equals 10 + the creature’s Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st--level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
+Passive Perception. When you hide, there’s a chance someone will notice you even if they aren’t searching. To determine whether such a creature notices you, the GM compares your Dexterity (Stealth) check with that creature’s passive Wisdom (Perception) score, which equals 10 + the creature’s Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
 
 What Can You See? One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be lightly or heavily obscured, as explained in "The Environment.”
 
@@ -559,7 +579,7 @@ The GM ranks the combatants in order from the one with the highest Dexterity che
 
 The initiative order remains the same from round to round.
 
-If a tie occurs, the GM decides the order among tied GM--controlled creatures, and the players decide the order among their tied characters. The GM can decide the order if the tie is between a monster and a player character. Optionally, the GM can have the tied characters and monsters each roll a d20 to determine the order, highest roll going first.
+If a tie occurs, the GM decides the order among tied GM-controlled creatures, and the players decide the order among their tied characters. The GM can decide the order if the tie is between a monster and a player character. Optionally, the GM can have the tied characters and monsters each roll a d20 to determine the order, highest roll going first.
 
 ## Instant Death
 
@@ -599,17 +619,17 @@ A long rest is a period of extended downtime, at least 8 hours long, during whic
 
 At the end of a long rest, a character regains all lost hit points. The character also regains spent Hit Dice, up to a number of dice equal to half of the character’s total number of them (minimum of one die). For example, if a character has eight Hit Dice, he or she can regain four spent Hit Dice upon finishing a long rest.
 
-A character can’t benefit from more than one long rest in a 24--hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits.
+A character can’t benefit from more than one long rest in a 24-hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits.
 
 ## Melee Attack and Unarmed Strike
 
 *[SRD 5.1, p. 95](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=95)*
 
-Used in hand--to--hand combat, a melee attack allows you to attack a foe within your reach. A melee attack typically uses a handheld weapon such as a sword, a warhammer, or an axe. A typical monster makes a melee attack when it strikes with its claws, horns, teeth, tentacles, or other body part. A few spells also involve making a melee attack.
+Used in hand-to-hand combat, a melee attack allows you to attack a foe within your reach. A melee attack typically uses a handheld weapon such as a sword, a warhammer, or an axe. A typical monster makes a melee attack when it strikes with its claws, horns, teeth, tentacles, or other body part. A few spells also involve making a melee attack.
 
-Most creatures have a 5--foot reach and can thus attack targets within 5 feet of them when making a melee attack. Certain creatures (typically those larger than Medium) have melee attacks with a greater reach than 5 feet, as noted in their descriptions.
+Most creatures have a 5-foot reach and can thus attack targets within 5 feet of them when making a melee attack. Certain creatures (typically those larger than Medium) have melee attacks with a greater reach than 5 feet, as noted in their descriptions.
 
-Instead of using a weapon to make a melee weapon attack, you can use an unarmed strike: a punch, kick, head--butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.
+Instead of using a weapon to make a melee weapon attack, you can use an unarmed strike: a punch, kick, head-butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.
 
 ## Opportunity Attack
 
@@ -639,17 +659,17 @@ You can avoid provoking an opportunity attack by taking the Disengage action. Yo
 
 A passive check is a special kind of ability check that doesn’t involve any die rolls. Such a check can represent the average result for a task done repeatedly, such as searching for secret doors over and over again, or can be used when the GM wants to secretly determine whether the characters succeed at something without rolling dice, such as noticing a hidden monster.
 
-Here’s how to determine a character’s total for a passive check: 10 + all modifiers that normally apply to the check If the character has advantage on the check, add 5.
+Here’s how to determine a character’s total for a passive check: **10 + all modifiers that normally apply to the check** If the character has advantage on the check, add 5.
 
 For disadvantage, subtract 5. The game refers to a passive check total as a score.
 
-For example, if a 1st--level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
+For example, if a 1st-level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
 
 The rules on hiding in the “Dexterity” section below rely on passive checks, as do the exploration rules.
 
 ## Petrified
 
-*[SRD 5.1, p. 358](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=358)*
+*[SRD 5.1, p. 359](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=359)*
 
 - A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
 
@@ -665,7 +685,7 @@ The rules on hiding in the “Dexterity” section below rely on passive checks,
 
 ## Poisoned
 
-*[SRD 5.1, p. 358](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=358)*
+*[SRD 5.1, p. 359](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=359)*
 
 - A poisoned creature has disadvantage on attack rolls and ability checks.
 
@@ -685,7 +705,7 @@ In general, you don’t multiply your proficiency bonus for attack rolls or savi
 
 ## Prone
 
-*[SRD 5.1, p. 358](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=358)*
+*[SRD 5.1, p. 359](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=359)*
 
 - A prone creature’s only movement option is to crawl, unless it stands up and thereby ends the condition.
 
@@ -699,13 +719,17 @@ In general, you don’t multiply your proficiency bonus for attack rolls or savi
 
 When you make a ranged attack, you fire a bow or a crossbow, hurl a handaxe, or otherwise send projectiles to strike a foe at a distance. A monster might shoot spines from its tail. Many spells also involve making a ranged attack.
 
-Range You can make ranged attacks only against targets within a specified range.
+### Range
+
+You can make ranged attacks only against targets within a specified range.
 
 If a ranged attack, such as one made with a spell, has a single range, you can’t attack a target beyond this range.
 
 Some ranged attacks, such as those made with a longbow or a shortbow, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has disadvantage when your target is beyond normal range, and you can’t attack a target beyond the long range.
 
-Ranged Attacks in Close Combat Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn’t incapacitated.
+### Ranged Attacks in Close Combat
+
+Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn’t incapacitated.
 
 ## Reaction
 
@@ -729,7 +753,7 @@ When you ready a spell, you cast it as normal but hold its energy, which you rel
 
 ## Restrained
 
-*[SRD 5.1, p. 358](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=358)*
+*[SRD 5.1, p. 359](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=359)*
 
 - A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
 
@@ -841,13 +865,15 @@ The skills related to each ability score are shown in the following list. (No sk
 
 - Performance
 
-- Persuasion Sometimes, the GM might ask for an ability check using a specific skill—for example, “Make a Wisdom (Perception) check.” At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check. For example, if a character attempts to climb up a dangerous cliff, the GM might ask for a Strength (Athletics) check. If the character is proficient in Athletics, the character’s proficiency bonus is added to the Strength check. If the character lacks that proficiency, he or she just makes a Strength check.
+- Persuasion
+
+Sometimes, the GM might ask for an ability check using a specific skill—for example, “Make a Wisdom (Perception) check.” At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check. For example, if a character attempts to climb up a dangerous cliff, the GM might ask for a Strength (Athletics) check. If the character is proficient in Athletics, the character’s proficiency bonus is added to the Strength check. If the character lacks that proficiency, he or she just makes a Strength check.
 
 ## Speed
 
 *[SRD 5.1, p. 84](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=84)*
 
-Every character and monster has a speed, which is the distance in feet that the character or monster can walk in 1 round. This number assumes short bursts of energetic movement in the midst of a life-- threatening situation.
+Every character and monster has a speed, which is the distance in feet that the character or monster can walk in 1 round. This number assumes short bursts of energetic movement in the midst of a life-threatening situation.
 
 The following rules determine how far a character or monster can move in a minute, an hour, or a day.
 
@@ -857,13 +883,19 @@ The following rules determine how far a character or monster can move in a minut
 
 A spell’s components are the physical requirements you must meet in order to cast it. Each spell’s description indicates whether it requires verbal (V), somatic (S), or material (M) components. If you can’t provide one or more of a spell’s components, you are unable to cast the spell.
 
-Verbal (V) Most spells require the chanting of mystic words.
+### Verbal (V)
+
+Most spells require the chanting of mystic words.
 
 The words themselves aren’t the source of the spell’s power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the silence spell, can’t cast a spell with a verbal component.
 
-Somatic (S) Spellcasting gestures might include a forceful gesticulation or an intricate set of gestures. If a spell requires a somatic component, the caster must have free use of at least one hand to perform these gestures.
+### Somatic (S)
 
-Material (M) Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a component pouch or a spellcasting focus (found in “Equipment”) in place of the components specified for a spell. But if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.
+Spellcasting gestures might include a forceful gesticulation or an intricate set of gestures. If a spell requires a somatic component, the caster must have free use of at least one hand to perform these gestures.
+
+### Material (M)
+
+Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a component pouch or a spellcasting focus (found in “Equipment”) in place of the components specified for a spell. But if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.
 
 If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell.
 
@@ -879,17 +911,17 @@ A spell’s duration is the length of time the spell persists. A duration can be
 
 *[SRD 5.1, p. 100](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=100)*
 
-Every spell has a level from 0 to 9. A spell’s level is a general indicator of how powerful it is, with the lowly (but still impressive) magic missile at 1st level and the earth--shaking wish at 9th. Cantrips—simple but powerful spells that characters can cast almost by rote—are level 0. The higher a spell’s level, the higher level a spellcaster must be to use that spell.
+Every spell has a level from 0 to 9. A spell’s level is a general indicator of how powerful it is, with the lowly (but still impressive) magic missile at 1st level and the earth-shaking wish at 9th. Cantrips—simple but powerful spells that characters can cast almost by rote—are level 0. The higher a spell’s level, the higher level a spellcaster must be to use that spell.
 
-Spell level and character level don’t correspond directly. Typically, a character has to be at least 17th level, not 9th level, to cast a 9th--level spell.
+Spell level and character level don’t correspond directly. Typically, a character has to be at least 17th level, not 9th level, to cast a 9th-level spell.
 
 ## Spell Slot
 
 *[SRD 5.1, p. 100](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=100)*
 
-Regardless of how many spells a caster knows or prepares, he or she can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher-- level spells are even more so. Thus, each spellcasting class’s description (except that of the warlock) includes a table showing how many spell slots of each spell level a character can use at each character level. For example, the 3rd--level wizard Umara has four 1st--level spell slots and two 2nd--level slots.
+Regardless of how many spells a caster knows or prepares, he or she can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher-level spells are even more so. Thus, each spellcasting class’s description (except that of the warlock) includes a table showing how many spell slots of each spell level a character can use at each character level. For example, the 3rd-level wizard Umara has four 1st-level spell slots and two 2nd-level slots.
 
-When a character casts a spell, he or she expends a slot of that spell’s level or higher, effectively “filling” a slot with the spell. You can think of a spell slot as a groove of a certain size—small for a 1st--level slot, larger for a spell of higher level. A 1st--level spell fits into a slot of any size, but a 9th--level spell fits only in a 9th--level slot. So when Umara casts magic missile, a 1st--level spell, she spends one of her four 1st--level slots and has three remaining.
+When a character casts a spell, he or she expends a slot of that spell’s level or higher, effectively “filling” a slot with the spell. You can think of a spell slot as a groove of a certain size—small for a 1st-level slot, larger for a spell of higher level. A 1st-level spell fits into a slot of any size, but a 9th-level spell fits only in a 9th-level slot. So when Umara casts magic missile, a 1st-level spell, she spends one of her four 1st-level slots and has three remaining.
 
 Finishing a long rest restores any expended spell slots.
 
@@ -915,7 +947,7 @@ A stable creature doesn’t make death saving throws, even though it has 0 hit p
 
 *[SRD 5.1, p. 91](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=91)*
 
-Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are prone, a condition described in appendix PH--A.
+Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are prone, a condition described in appendix PH-A.
 
 You can drop prone without using any of your speed. Standing up takes more effort; doing so costs an amount of movement equal to half your speed.
 
@@ -925,7 +957,7 @@ To move while prone, you must crawl or use magic such as teleportation. Every fo
 
 ## Stunned
 
-*[SRD 5.1, p. 358](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=358)*
+*[SRD 5.1, p. 359](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=359)*
 
 - A stunned creature is incapacitated (see the condition), can’t move, and can speak only falteringly.
 
@@ -1001,7 +1033,7 @@ If either weapon has the thrown property, you can throw the weapon, instead of m
 
 ## Unconscious
 
-*[SRD 5.1, p. 358](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=358)*
+*[SRD 5.1, p. 359](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf#page=359)*
 
 - An unconscious creature is incapacitated (see the condition), can’t move or speak, and is unaware of its surroundings
 
@@ -1047,7 +1079,7 @@ In a lightly obscured area, such as dim light, patchy fog, or moderate foliage, 
 
 A heavily obscured area—such as darkness, opaque fog, or dense foliage—blocks vision entirely.
 
-A creature effectively suffers from the blinded condition (see appendix PH--A) when trying to see something in that area.
+A creature effectively suffers from the blinded condition (see appendix PH-A) when trying to see something in that area.
 
 The presence or absence of light in an environment creates three categories of illumination: bright light, dim light, and darkness.
 
