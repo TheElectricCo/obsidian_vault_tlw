@@ -294,3 +294,30 @@ Toen hij haar blik ving, draaide ze zich om en liep weg.
 De vrouw keek niet om en liep weg in een van de stegen.
 
 “De gezant wil weten of ge de zevenentwintigste sleutel bij u draagt,” zei de jongen.
+
+### 05/10 Plink:
+Plink loopt er meteen achterna nadat hij een sleight of hand check heeft gedaan op  bronzen plaatje van de jongen (indien dat los hangt)
+
+### 05/10: DM 
+vraagt voor een sleight of hand roll, Plink gooit 24
+
+### 06/10: DM
+De jongen wees nog naar de steeg toen Plink in beweging kwam.
+
+Het bronzen plaatje bungelde aan een dun koord om zijn pols. Een eenvoudige knoop, losgetrokken door zout en dagelijks gebruik. De gevleugelde helm ving even het zonlicht.
+
+Meer tijd had Plink niet nodig.
+
+Zijn vingers streken langs de veel te ruime mouw. Eén vingernagel onder de lus, een nauwelijks merkbare draai — en de knoop gaf mee. Voordat het brons tegen de pols van de jongen kon tikken, lag het al tussen Plinks vingers. Hij ving het koord in dezelfde beweging op.
+
+Geen ruk aan de huid. Geen metaal dat rinkelde.
+
+De jongen liet zijn arm zakken en klemde de bundel touw steviger onder zijn oksel. Zijn blik bleef op de stenen boog gericht. Hij had niets gemerkt.
+
+Plink was hem al voorbij.
+
+In zijn gesloten hand voelde het plaatje warm aan. De rand was gladgesleten; het reliëf van de helm drukte tegen zijn duim. Achter hem hervatte de haven haar rumoer: het schrapen van een kist over steen, een sjouwer die vloekte, meeuwen boven de masten.
+
+Aan de monding van de steeg verdween het laatste rood van de sluier achter een hoek.
+
+Het bronzen plaatje gleed ongezien in Plinks zak.
