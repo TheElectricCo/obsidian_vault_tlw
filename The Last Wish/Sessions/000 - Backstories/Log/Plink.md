@@ -321,3 +321,4 @@ In zijn gesloten hand voelde het plaatje warm aan. De rand was gladgesleten; het
 Aan de monding van de steeg verdween het laatste rood van de sluier achter een hoek.
 
 Het bronzen plaatje gleed ongezien in Plinks zak.
+

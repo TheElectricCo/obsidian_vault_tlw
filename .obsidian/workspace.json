@@ -11,12 +11,14 @@
             "id": "85f91935a2c2dfd0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "The Last Wish/Sessions/000 - Backstories/Media/Meletis - Haven bij ochtendlicht.png"
+                "file": "The Last Wish/Sessions/000 - Backstories/Drafts/Plink.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Meletis - Haven bij ochtendlicht"
+              "icon": "lucide-file",
+              "title": "Plink"
             }
           }
         ]
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Last Wish/Sessions/000 - Backstories/Media/Meletis - Haven bij ochtendlicht.png",
+                "file": "The Last Wish/Sessions/000 - Backstories/Drafts/Plink.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,13 +286,14 @@
   },
   "active": "85f91935a2c2dfd0",
   "lastOpenFiles": [
+    "The Last Wish/Sessions/000 - Backstories/Log/Plink.md",
+    "The Last Wish/Sessions/000 - Backstories/Media/Meletis - Haven bij ochtendlicht.png",
+    "The Last Wish/Sessions/000 - Backstories/Media/WhatsApp Image 2026-10-06 at 21.09.48.jpeg",
     "The Last Wish/Sessions/000 - Backstories/Log/Dorian.md",
     "The Last Wish/Sessions/000 - Backstories/Media/Meletis - Haven bij ochtendlicht.prompt.txt",
-    "The Last Wish/Sessions/000 - Backstories/Media/Meletis - Haven bij ochtendlicht.png",
     "The Last Wish/Sessions/000 - Backstories/Log/Arowel en Dorian.md",
     "The Last Wish/Sessions/000 - Backstories/Media/Meletis.webp",
     "The Last Wish/Sessions/000 - Backstories/Log/Untitled.md",
-    "The Last Wish/Sessions/000 - Backstories/Log/Plink.md",
     "The Last Wish/Artefacts/Maps/Theros.png",
     "The Last Wish/Artefacts/Items/Zegel van de Gevleugelde Helm.md",
     "AGENTS.md",
@@ -328,7 +331,6 @@
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-237-000.png",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-209-002.png",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-209-001.png",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-209-000.png",
     "Untitled.canvas"
   ]
 }
