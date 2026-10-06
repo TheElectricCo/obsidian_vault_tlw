@@ -312,3 +312,6 @@ Hij wist evenmin wat hem in Theros te wachten stond. Maar nu kende hij tenminste
 
 **Arowel Starweaver.**
 
+#### 06/10 DM — Voorlopige samenkomst met Arowel
+
+Dorian en [[Arowel Starweaver]] komen samen aan in de haven van Meletis. Vanaf deze aankomst lopen hun backstories voorlopig samen. Het gezamenlijke vervolg wordt bijgehouden in [[The Last Wish/Sessions/000 - Backstories/Log/Arowel en Dorian|Arowel en Dorian — gezamenlijke log]]. Deze persoonlijke log blijft behouden voor Dorians eigen verhaallijn.

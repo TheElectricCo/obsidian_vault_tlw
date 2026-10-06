@@ -339,3 +339,7 @@ De Zilvermeeuw helde zacht over. Twee reizigers, op hetzelfde schip, met ieder e
 Arowel wist nog niet welk lied hun ontmoeting zou worden.
 
 Maar ze hoorde de eerste maat al.
+
+#### 06/10 DM — Voorlopige samenkomst met Dorian
+
+Arowel en [[Dorian Veldt]] komen samen aan in de haven van Meletis. Vanaf deze aankomst lopen hun backstories voorlopig samen. Het gezamenlijke vervolg wordt bijgehouden in [[The Last Wish/Sessions/000 - Backstories/Log/Arowel en Dorian|Arowel en Dorian — gezamenlijke log]]. Deze persoonlijke log blijft behouden voor Arowels eigen verhaallijn.
