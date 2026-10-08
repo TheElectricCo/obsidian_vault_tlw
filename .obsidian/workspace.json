@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D 5E/Base Edition/Magic Items/Arrow-Catching Shield.md",
+                "file": "D&D 5E/Base Edition/Spells/Detect Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arrow-Catching Shield"
+              "title": "Detect Magic"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "health potion",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -265,8 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.796875,
-    "collapsed": true
+    "width": 390.796875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,8 +283,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "211d96376753d4fd",
+  "active": "700f22b8a8bcec66",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2026-10-08.md",
+    "D&D 5E/Base Edition/Magic Items/Arrow-Catching Shield.md",
     "The Last Wish/Sessions/000 - Backstories/Drafts/Plink.md",
     "The Last Wish/Sessions/000 - Backstories/Log/Plink.md",
     "The Last Wish/Sessions/000 - Backstories/Media/Meletis - Haven bij ochtendlicht.png",
@@ -327,11 +328,8 @@
     "The Last Wish/Players/Arowel Starweaver.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters Glossary.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Lampad.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Abhorrent Overlord.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Amphisbaena.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-237-000.png",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-209-002.png",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-209-001.png",
-    "Untitled.canvas"
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-209-001.png"
   ]
 }
