@@ -19,4 +19,5 @@ test("the distribution loads without any relative filesystem dependencies", t =>
   assert.ok(external.includes("obsidian"));
   assert.deepEqual(fs.readdirSync(folder).sort(), ["assets", "main.js", "manifest.json", "styles.css"]);
   assert.deepEqual(fs.readFileSync(path.join(folder, "assets/farore-logo.png")), fs.readFileSync(path.join(__dirname, "assets/farore-logo.png")));
+  assert.deepEqual(fs.readFileSync(path.join(folder, "assets/farore-logo-transparent.png")), fs.readFileSync(path.join(__dirname, "assets/farore-logo-transparent.png")));
 });

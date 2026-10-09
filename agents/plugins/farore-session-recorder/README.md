@@ -17,7 +17,7 @@ Nieuwe geïnstalleerde plugins met een ID dat begint met `farore-` verschijnen a
 
 Wisselen van tabblad behoudt de sessienaam, scènebeschrijving en opname. De bestaande opdracht **Open sessieopname** blijft direct het opnamepaneel openen. De geluidsvisualisatie toont gemeten microfoonniveaus; sprekeridentificatie wordt niet ondersteund. De indeling past zich aan de breedte van de zijbalk aan.
 
-Het oorspronkelijke logo staat ongewijzigd in `assets/farore-logo.png` en wordt meegebouwd en geïnstalleerd. CSS verzorgt de uitsnede en kleurweergave per thema.
+Het oorspronkelijke logo staat ongewijzigd in `assets/farore-logo.png`. Het paneel gebruikt `assets/farore-logo-transparent.png`, een PNG met echte achtergrondtransparantie, gemaakt met de ingebouwde imagegen-tool. Beide bestanden worden meegebouwd en geïnstalleerd. CSS verzorgt de uitsnede en kleurweergave per thema.
 
 ## Vereisten
 

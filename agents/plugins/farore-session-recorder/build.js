@@ -8,7 +8,8 @@ function build(destination = path.join(__dirname, "dist")) {
   fs.mkdirSync(destination, { recursive: true }); fs.writeFileSync(path.join(destination, "main.js"), bundle);
   for (const file of ["manifest.json", "styles.css"]) fs.copyFileSync(path.join(__dirname, file), path.join(destination, file));
   fs.mkdirSync(path.join(destination, "assets"), { recursive: true });
-  fs.copyFileSync(path.join(__dirname, "assets/farore-logo.png"), path.join(destination, "assets/farore-logo.png"));
+  for (const file of ["farore-logo.png", "farore-logo-transparent.png"])
+    fs.copyFileSync(path.join(__dirname, "assets", file), path.join(destination, "assets", file));
   return destination;
 }
 if (require.main === module) console.log(build());

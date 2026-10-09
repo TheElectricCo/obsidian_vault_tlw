@@ -11,10 +11,14 @@
             "id": "e0f302dee933f98b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "agents/plugins/farore-session-recorder/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -75,12 +79,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 512.44140625
+    "width": 361.359375
   },
   "right": {
     "id": "24e8f7d792e9aae3",
@@ -138,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "agents/plugins/farore-session-recorder/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -180,6 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "agents/plugins/farore-session-recorder/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -223,13 +228,15 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "agents/plugins/farore-session-recorder/README.md"
+              },
               "icon": "lucide-info",
               "title": "File properties"
             }
           },
           {
-            "id": "ff36c7b4e07e9413",
+            "id": "f4d9782b4999df36",
             "type": "leaf",
             "state": {
               "type": "farore-session-recorder-view",
@@ -243,7 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.00390625
+    "width": 536.34765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,14 +271,16 @@
       "farore-session-recorder:Tales from Farore — open het kompas": false
     }
   },
-  "active": "ff36c7b4e07e9413",
+  "active": "f4d9782b4999df36",
   "lastOpenFiles": [
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Verslag-2026-10-09T13-44-29-987Z-e7c719b4.md",
+    "agents/plugins/farore-session-recorder/dist/assets/farore-logo-transparent.png",
+    "agents/plugins/farore-session-recorder/assets/farore-logo-transparent.png",
     "agents/plugins/farore-session-recorder/dist/assets/farore-logo.png",
+    "agents/plugins/farore-session-recorder/assets/farore-logo.png",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Verslag-2026-10-09T13-44-29-987Z-e7c719b4.md",
     "agents/plugins/farore-session-recorder/dist/assets",
     "agents/plugins/farore-session-recorder/gateway.test.js",
     "agents/plugins/farore-session-recorder/gateway.js",
-    "agents/plugins/farore-session-recorder/assets/farore-logo.png",
     "agents/plugins/farore-session-recorder/assets",
     "2026-10-08.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Transcript.md",
@@ -310,7 +319,6 @@
     "The Last Wish/Sessions/000 - Backstories/Log/Dorian.md",
     "The Last Wish/Sessions/000 - Backstories/Media/Meletis.webp",
     "The Last Wish/Artefacts/Maps/Theros.png",
-    "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw-v2.png",
-    "The Last Wish/Sessions/000 - Backstories/Media/ship_reference.avif"
+    "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw-v2.png"
   ]
 }

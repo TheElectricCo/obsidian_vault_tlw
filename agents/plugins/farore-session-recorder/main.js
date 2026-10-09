@@ -139,7 +139,7 @@ class RecorderView extends ItemView {
     const hero = parent.createDiv({ cls: "farore-hero" });
     const logo = hero.createDiv({ cls: "farore-logo-frame" });
     const adapter = this.plugin.app.vault.adapter;
-    const logoPath = `${this.plugin.manifest.dir || `${this.plugin.app.vault.configDir || ".obsidian"}/plugins/${this.plugin.manifest.id}`}/assets/farore-logo.png`;
+    const logoPath = `${this.plugin.manifest.dir || `${this.plugin.app.vault.configDir || ".obsidian"}/plugins/${this.plugin.manifest.id}`}/assets/farore-logo-transparent.png`;
     logo.createEl("img", { cls: "farore-logo", attr: { src: adapter?.getResourcePath?.(logoPath) || "", alt: "Tales from Farore" } });
     hero.createEl("p", { cls: "farore-hero-kicker", text: "JOUW WERELD. JOUW VERHALEN." });
     hero.createEl("h2", { text: "Een nieuw hoofdstuk wacht." });

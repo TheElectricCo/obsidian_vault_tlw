@@ -89,7 +89,7 @@ test("the recorder view builds with Obsidian's own history field and exposes the
   assert.equal(view.navButtons.recording.attr["aria-current"], "page");
   const leaves = []; const collect = el => { leaves.push(el); el.children.forEach(collect); }; collect(view.pages.home);
   const logo = leaves.find(el => el.tag === "img");
-  assert.equal(logo.attr.src, "app://local/.obsidian/plugins/farore-session-recorder/assets/farore-logo.png");
+  assert.equal(logo.attr.src, "app://local/.obsidian/plugins/farore-session-recorder/assets/farore-logo-transparent.png");
 });
 test("manual images work without recording or Ollama and preserve the gallery on repeated clicks", async () => {
   const { p, files } = fixture(); const prompts = [];
