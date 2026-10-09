@@ -158,3 +158,12 @@ Darius verlaat meteen het huis en probeert de indringer alsnog op te sporen. Nie
 Darius laat alles exact liggen zoals hij het gevonden heeft. De volgende ochtend gaat hij gewoon verder met zijn afspraken en onderzoek. Als iemand hem in de gaten houdt, wil hij liever dat diegene denkt dat de waarschuwing gewerkt heeft.
 *C — Een val zetten*
 Darius gebruikt de belangstelling in zijn onderzoek in zijn voordeel. Hij laat bewust valse informatie circuleren over één van de drie kavels en kijkt wie erop reageert. Als iemand hem bespioneert, kan diegene misschien ook misleid worden.
+
+### 02/10: Darius:
+Darius kiest ervoor om de niet inbreker te volgen, maar hij laat het ook niet ongestraft. Hij is een handelaar op zoek naar rijkdom, geen held. Hij doet alsof hij niets gemerkt heeft, maar hij verspreidt bewust verschillende versies van zijn onderzoek.
+Hij vertelt het gilde dat hij vooral geïnteresseerd is in Lot XV. Hij vertelt een koper dat hij denkt dat Lot XXI het belangrijkste kavel is. En hij laat vallen dat hij de catalogus naar een specifiek contact heeft doorgestuurd.
+Dan observeert hij wie er reageert. Als iemand zijn bewegingen volgt, wil hij weten wie dat is en waarom.
+Hij slaapt die nacht met een mes onder zijn kussen en de catalogus niet meer op zijn bureau, maar in zijn register, tussen onbelangrijke pagina’s.
+Darius begrijpt dat iemand hem waarschuwt. Maar hij begrijpt ook dat waarschuwingen alleen nodig zijn als iemand ergens bang voor is.
+En dat maakt hem alleen maar nieuwsgieriger.
+
