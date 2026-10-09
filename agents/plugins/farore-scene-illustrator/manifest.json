@@ -1,0 +1,9 @@
+{
+  "id": "farore-scene-illustrator",
+  "name": "Farore Scènebeelden",
+  "version": "1.0.0",
+  "minAppVersion": "1.10.0",
+  "description": "Lokale Theros-illustraties om de tien minuten tijdens een LexVoice-opname.",
+  "author": "Farore Vault",
+  "isDesktopOnly": true
+}

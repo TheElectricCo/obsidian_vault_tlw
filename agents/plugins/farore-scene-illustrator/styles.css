@@ -1,0 +1,9 @@
+.farore-scene-preview img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 12px 0;
+}
+.farore-scene-preview button { margin: 6px 8px 6px 0; }
+.farore-scene-preview p { color: var(--text-muted); }

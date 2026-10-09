@@ -13,6 +13,12 @@ printf 'Whisper wordt gestart. Eerste start kan iets langer duren.\n'
 for farore_attempt in {1..45}; do
   if curl -fsS --max-time 2 http://127.0.0.1:8178/health >/dev/null 2>&1; then
     if curl -fsS --max-time 3 http://127.0.0.1:11434/api/tags >/dev/null 2>&1; then
+      farore_script_dir="$(cd -- "$(dirname -- "$0")" && pwd)"
+      if [[ -x "$farore_script_dir/Start lokale afbeeldingen.command" ]]; then
+        if ! "$farore_script_dir/Start lokale afbeeldingen.command"; then
+          printf 'Transcriptie werkt; de beeldservice is nog niet beschikbaar.\n'
+        fi
+      fi
       printf 'Klaar: lokale transcriptie en Ollama zijn bereikbaar. Open LexVoice in Obsidian.\n'
       exit 0
     fi
