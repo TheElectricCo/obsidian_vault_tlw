@@ -167,3 +167,34 @@ Hij slaapt die nacht met een mes onder zijn kussen en de catalogus niet meer op 
 Darius begrijpt dat iemand hem waarschuwt. Maar hij begrijpt ook dat waarschuwingen alleen nodig zijn als iemand ergens bang voor is.
 En dat maakt hem alleen maar nieuwsgieriger.
 
+### 09/10: DM
+Twee dagen lang blijft het stil rond je woning. Geen geopende laden. Geen voetstappen achter je in de avond.
+
+Elders worden wel vragen gesteld.
+
+De verzamelaar aan wie je vertelde dat Lot XXI het belangrijkste kavel was, stuurt zijn bediende langs. Een onbekende heeft hem geld aangeboden voor jouw bevindingen over de sleutel. De man beweerde namens een andere geïnteresseerde bieder te handelen.
+
+Hij vroeg uitdrukkelijk naar Lot XXI.
+
+Bij het gilde is intussen iemand komen informeren hoeveel krediet je voor Lot XV hebt vrijgemaakt. De klerk die je borgstelling verzorgt, heeft de aanvraag genoteerd: **Leontes, aankoopbemiddelaar uit Akros**. Op diens verzoek moest het gesprek buiten de gewone correspondentie blijven.
+
+De beschrijving die de klerk geeft, komt overeen met die van de bezoeker bij je klant. Dezelfde smalle baard. Dezelfde bleke brandwond boven zijn linkeroog.
+
+Die avond ontvang je een dichtgevouwen vel van de geleerde. Er staat geen naam op de buitenzijde.
+
+*Heer Voss,*
+
+*Ik was niet eerlijk toen ik zei dat ik de naam Varyas niet kende. Sinds uw bezoek is ook bij mij iemand naar uw onderzoek komen vragen. Ik verkies dat u begrijpt waarmee u handelt, voordat anderen voor ons beiden beslissen wat wij mogen weten.*
+
+*Varyas werd de Wetende genoemd. Hij was een ziener, verbonden aan Phenax. De overlevering zegt dat hij zich naar de onderwereld begaf om daar een geheim te achterhalen, en vervolgens terugkeerde naar de wereld van de levenden.*
+
+*Als Teruggekeerde had hij zijn herinneringen verloren. Daarom had hij vóór zijn ontsnapping vastgelegd wat hij ontdekt had. Op een masker. In code.*
+
+*Het geschrift dat ik hierover bezit, vermeldt fijne inscripties aan de binnenzijde. Als Lot XVII werkelijk zijn masker is, moet u daar kijken. De buitenzijde vertelt u weinig over de werkelijke waarde.*
+
+*Ik kan u geen vertaling geven. Evenmin kan ik bevestigen dat het aangeboden stuk echt is. Maar u weet nu iets wat de catalogus verzwijgt, en waarop u tijdens de bezichtiging kunt letten.*
+
+*Over de ring en de sleutel heb ik geen verdere zekerheid. Koop ze niet enkel omdat iemand wil dat u er een verband tussen ziet.*
+
+*Verbrand deze brief nadat u hem gelezen hebt.*
+
