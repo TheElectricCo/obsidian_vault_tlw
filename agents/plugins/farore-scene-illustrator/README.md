@@ -1,13 +1,13 @@
 # Farore Scènebeelden
 
-Desktopplugin voor deze Obsidian-vault. Selecteert tijdens een LexVoice-opname om de tien minuten een recente scène en maakt met lokale diensten een Theros-illustratie, zijpaneel en Markdown-galerij.
+Desktopplugin voor deze Obsidian-vault. Selecteert tijdens een Farore- of LexVoice-opname om de tien minuten een recente scène en maakt met lokale diensten een Theros-illustratie, zijpaneel en Markdown-galerij.
 
 Gebruiksinstructies: [Automatische scenebeelden](../../docs/session-recording/Automatische%20scenebeelden.md).
 
 ## Vereisten
 
 - Obsidian 1.10.0 of nieuwer, desktop.
-- LexVoice 2.6.0; de plugin gebruikt `session`, transcriptfragmenten en `recorder.getInfo()` van deze versie.
+- Farore Sessieopname 1.0.0 via `getSceneSnapshot()`, of LexVoice 2.6.0 via `session`, transcriptfragmenten en `recorder.getInfo()`.
 - Lokaal `llama3.1:8b` op `127.0.0.1:11434` voor scèneselectie.
 - Lokaal `x/flux2-klein:4b` op de afzonderlijke beeldservice `127.0.0.1:11435`.
 

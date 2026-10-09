@@ -11,8 +11,8 @@ function run(file, args) {
 }
 class LocalServices {
   constructor() { this.requests = new Set(); this.cancelled = false; }
-  request(url, { method = "GET", body, headers = {}, timeout = 5000 } = {}) {
-    const target = new URL(url); localUrl(target.origin);
+  async request(url, { method = "GET", body, headers = {}, timeout = 5000 } = {}) {
+    const target = new URL(url); localUrl(url);
     if (this.cancelled) return Promise.reject(new Error("Verbindingen zijn gesloten."));
     return new Promise((resolve, reject) => {
       if (body) headers = { ...headers, "Content-Length": Buffer.byteLength(body) };

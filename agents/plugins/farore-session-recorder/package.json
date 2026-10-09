@@ -1,0 +1,12 @@
+{
+  "name": "farore-session-recorder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lokale D&D-sessieopname voor Obsidian desktop",
+  "scripts": {
+    "build": "node build.js",
+    "test": "node --test *.test.js",
+    "smoke": "node smoke-local.js --run",
+    "install:vault": "node install.js"
+  }
+}

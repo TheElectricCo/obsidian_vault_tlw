@@ -6,3 +6,7 @@
 
 # Installed copy and local runtime state; maintained source is under agents/plugins.
 /.obsidian/plugins/farore-scene-illustrator/
+
+# Farore recorder installation and local runtime; source remains versioned.
+/.obsidian/plugins/farore-session-recorder/
+/agents/plugins/farore-session-recorder/dist/

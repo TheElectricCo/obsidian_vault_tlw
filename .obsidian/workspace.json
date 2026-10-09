@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Last Wish/Sessions/Opnames/Verslagen/2026-10-09 1402.md",
+                "file": "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Verslag-2026-10-09T12-46-14-241Z-16752355.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-09 1402"
+              "title": "Verslag-2026-10-09T12-46-14-241Z-16752355"
             }
           }
         ]
@@ -92,8 +92,30 @@
       {
         "id": "3bd0fe16407d4ba3",
         "type": "tabs",
-        "dimension": 63.09963099630996,
         "children": [
+          {
+            "id": "28150024b71f7c2d",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          },
+          {
+            "id": "1900567c753a2577",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {
+                "creatureId": null,
+                "creatureName": null
+              },
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          },
           {
             "id": "ae4ed6d6d5583b19",
             "type": "leaf",
@@ -114,12 +136,22 @@
             }
           },
           {
+            "id": "f29e0e0e02a2d593",
+            "type": "leaf",
+            "state": {
+              "type": "farore-session-recorder-view",
+              "state": {},
+              "icon": "audio-lines",
+              "title": "Farore — sessieopname"
+            }
+          },
+          {
             "id": "fa4e1e672ea2549b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AGENTS.md",
+                "file": "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Verslag-2026-10-09T12-46-14-241Z-16752355.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -228,51 +260,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Last Wish/Sessions/Opnames/Verslagen/2026-10-09 1402.md"
+                "file": "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Verslag-2026-10-09T12-46-14-241Z-16752355.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
             }
           }
         ],
-        "currentTab": 9
-      },
-      {
-        "id": "84d04260cec706bb",
-        "type": "tabs",
-        "dimension": 18.45018450184502,
-        "children": [
-          {
-            "id": "1900567c753a2577",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {
-                "creatureId": null,
-                "creatureName": null
-              },
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a416e27aea08914b",
-        "type": "tabs",
-        "dimension": 18.45018450184502,
-        "children": [
-          {
-            "id": "28150024b71f7c2d",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -294,24 +289,31 @@
       "realclaudian:Open Claudian": false,
       "atlas-vtt:Display image on player view": false,
       "obsidian-git:Open Git source control": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "farore-session-recorder:Farore — sessieopname": false
     }
   },
-  "active": "700f22b8a8bcec66",
+  "active": "1d63ae1a84719d2f",
   "lastOpenFiles": [
-    "Recording 20261009140208.m4a",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-42-15-838Z-86073114/Verslag-2026-10-09T12-42-22-388Z-462a15e2.md",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Verslag-2026-10-09T12-46-14-241Z-16752355.md",
+    "Untitled.canvas",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Audio/00002-01-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Audio/00001-00-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Etat.json",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Transcript.md",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Audio",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-42-15-838Z-86073114/Audio/00001-00-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-42-15-838Z-86073114/Transcript.md",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-42-15-838Z-86073114/Etat.json",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-42-15-838Z-86073114/Audio",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-42-15-838Z-86073114",
+    "The Last Wish/Sessions/Opnames/Farore",
+    "agents/docs/session-recording/Farore Sessieopname.md",
+    "agents/plugins/farore-session-recorder/README.md",
     "The Last Wish/Sessions/Opnames/Verslagen/2026-10-09 1402.md",
-    "agents/plugins/farore-session-recorder/services.test.js",
-    "agents/plugins/farore-session-recorder/audio.test.js",
-    "agents/plugins/farore-session-recorder/core.test.js",
     "The Last Wish/Sessions/Opnames/Verslagen/2026-10-09 1435.md",
-    "The Last Wish/Sessions/Opnames/Audio/lex-20261009-140210.m4a",
-    "agents/plugins/farore-session-recorder/styles.css",
-    "agents/plugins/farore-session-recorder/main.js",
-    "agents/plugins/farore-session-recorder/audio.js",
-    "agents/plugins/farore-session-recorder/services.js",
-    "agents/plugins/farore-session-recorder/manifest.json",
-    "agents/plugins/farore-session-recorder/core.js",
     "agents/plugins/farore-scene-illustrator/README.md",
     "agents/docs/session-recording/Automatische scenebeelden.md",
     "agents/docs/session-recording/Voorbeeld-scene-v2.png",
@@ -324,7 +326,6 @@
     "The Last Wish/Sessions/000 - Backstories/Log/Darius.md",
     "The Last Wish/Artefacts/Items/Loep van de Tweede Blik.md",
     "D&D 5E/Base Edition/Spells/Detect Magic.md",
-    "Untitled.canvas",
     "2026-10-08.md",
     "D&D 5E/Base Edition/Magic Items/Arrow-Catching Shield.md",
     "The Last Wish/Sessions/000 - Backstories/Drafts/Plink.md",
@@ -336,12 +337,6 @@
     "The Last Wish/Sessions/000 - Backstories/Media/Meletis.webp",
     "The Last Wish/Sessions/000 - Backstories/Log/Untitled.md",
     "The Last Wish/Artefacts/Maps/Theros.png",
-    "The Last Wish/Artefacts/Items/Zegel van de Gevleugelde Helm.md",
-    "The Last Wish/Locations/Theros.md",
-    "The Last Wish/Locations/Altrisos/Places of Interest.md",
-    "The Last Wish/Locations/Altrisos.md",
-    "The Last Wish/Locations/Altrisos/General.md",
-    "The Last Wish/Locations/Agrotekea.md",
     "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw-v2.png",
     "The Last Wish/Sessions/000 - Backstories/Media/ship_reference.avif",
     "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw.png",

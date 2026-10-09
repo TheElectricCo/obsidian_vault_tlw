@@ -97,3 +97,12 @@ test("HTTP requests cannot use a remote or cloud destination", async () => {
   const h = setup(async () => {});
   await assert.rejects(ScenePlugin.prototype.request.call(h.plugin, "https://example.com/api/generate", {}, 100), /lokale verwerking/);
 });
+
+test("Farore's recording snapshot is preferred while LexVoice remains a fallback", () => {
+  const h = setup(async () => {});
+  const snap = { id: "farore", elapsed: 600000, sourceEnd: 590000, transcript: "De groep bereikt de brug." };
+  h.plugin.app.plugins.plugins["farore-session-recorder"] = { getSceneSnapshot: () => snap };
+  assert.equal(h.plugin.current(), snap);
+  h.plugin.app.plugins.plugins["farore-session-recorder"].getSceneSnapshot = () => null;
+  assert.equal(h.plugin.current().id, "live-test");
+});

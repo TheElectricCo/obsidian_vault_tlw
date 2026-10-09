@@ -1,5 +1,7 @@
 # Opname, transcriptie en sessienotities
 
+**Nieuwe opnameflow:** [[Farore Sessieopname]] beschrijft de zelfstandige Farore-plugin. Die regelt microfoonopname, lokaal diensten starten, transcriptie, herstel en conceptverslagen binnen Obsidian. De `.command`-scripts zijn daarvoor niet meer nodig. De onderstaande LexVoice-handleiding blijft gelden voor eerdere LexVoice-opnames.
+
 **Status:** lokaal geïnstalleerd, ingesteld en technisch getest. LexVoice wordt bij de volgende heropening van Obsidian geladen. Een echte microfoonopname en de volledige opnameflow in Obsidian zijn nog niet getest.
 
 ## Eerste gebruik
