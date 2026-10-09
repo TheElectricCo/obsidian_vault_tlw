@@ -3,6 +3,8 @@ const { Plugin, PluginSettingTab, Setting, ItemView, Notice, TFile } = require("
 const core = require("./core");
 const { LocalServices } = require("./services");
 const { MicrophoneCapture } = require("./audio");
+const images = require("./images");
+const { randomUUID } = require("crypto");
 const VIEW = "farore-session-recorder-view";
 
 function button(el, text, action, disabled = false, primary = false) {
@@ -47,6 +49,15 @@ class RecorderView extends ItemView {
     this.retryButton = button(notes, "Probeer transcriptie opnieuw", () => this.plugin.retry());
     this.latestButton = button(notes, "Open laatste verslag", () => this.plugin.openNote(this.plugin.engine.session.summaries.at(-1)?.path));
     this.detailEl = el.createEl("p");
+    el.createEl("h3", { text: "Scènebeeld met OpenAI" });
+    el.createEl("p", { text: "Laat de beschrijving leeg voor de recente gespeelde scène, of beschrijf zelf een beeld. Alleen de beeldprompt gaat naar OpenAI; API-generatie wordt apart aangerekend." });
+    const sceneLabel = el.createEl("label", { text: "Eigen scènebeschrijving (optioneel)" });
+    this.sceneInput = sceneLabel.createEl("textarea", { attr: { rows: "3", maxlength: "8000", "aria-label": "Eigen scènebeschrijving", placeholder: "Bijvoorbeeld: de natuurlijke brug van Phanarax boven een diepe kloof…" } });
+    const imageActions = el.createDiv({ cls: "farore-actions" });
+    this.imageButton = button(imageActions, "Genereer afbeelding", () => this.plugin.generateImage(this.sceneInput.value), false, true);
+    this.galleryButton = button(imageActions, "Open beeldgalerij", () => this.plugin.openNote(this.plugin.latestImage?.gallery));
+    this.imageStatusEl = el.createEl("p", { attr: { role: "status", "aria-live": "polite" } });
+    this.imagePreview = el.createDiv({ cls: "farore-image-preview" });
     el.createEl("h3", { text: "Recente transcriptie" });
     this.transcriptEl = el.createDiv({ cls: "farore-transcript" });
     el.createEl("h3", { text: "Vorige sessies en herstel" });
@@ -81,18 +92,28 @@ class RecorderView extends ItemView {
     this.serviceEl.setText(`Whisper: ${h.whisper ? "klaar" : "niet bereikbaar"} · Ollama: ${h.model ? "model klaar" : h.ollama ? "model ontbreekt" : "niet bereikbaar"} · Beelden: ${h.images ? "klaar" : "niet bereikbaar"}`);
     this.clock.setText(core.time(p.capture?.elapsed() || s?.elapsedMs || 0));
     this.meter.value = Math.min(1, (p.level || 0) * 5);
-    this.startButton.disabled = !!active || !!busy || !!p.engine?.running || !!p.engine?.summaryRunning;
+    this.startButton.disabled = !!active || !!busy || !!p.imageBusy || !!p.engine?.running || !!p.engine?.summaryRunning;
     this.pauseButton.disabled = !active || !!busy;
     this.pauseButton.setText(s?.status === "paused" ? "Hervat" : "Pauzeer");
     this.stopButton.disabled = !active || !!busy;
     this.titleInput.disabled = !!active || !!busy; this.deviceSelect.disabled = !!active || !!busy;
     this.startService.disabled = !!busy;
-    this.stopService.disabled = !!active || !!busy || !!p.engine?.running || !!p.engine?.summaryRunning;
+    this.stopService.disabled = !!active || !!busy || !!p.imageBusy || !!p.engine?.running || !!p.engine?.summaryRunning;
     this.transcriptButton.disabled = !s;
     this.summaryButton.disabled = !s || !!busy || !!p.engine?.summaryRunning || !s.chunks.some(c => c.status === "done" && c.text?.trim());
     this.retryButton.disabled = !s || !!busy || !!p.engine?.running || (!p.pendingAudio.length && !s.chunks.some(c => c.status === "failed" || c.status === "pending"));
     this.latestButton.disabled = !s?.summaries.length;
-    this.loadButton.disabled = !!active || !!busy || !!p.engine?.running || !!p.engine?.summaryRunning;
+    this.loadButton.disabled = !!active || !!busy || !!p.imageBusy || !!p.engine?.running || !!p.engine?.summaryRunning;
+    this.imageButton.disabled = !!busy || !!p.imageBusy;
+    this.sceneInput.disabled = !!p.imageBusy;
+    this.imageButton.setText(p.imageBusy ? "Afbeelding wordt gemaakt…" : "Genereer afbeelding");
+    this.galleryButton.disabled = !p.latestImage;
+    this.imageStatusEl.setText(p.imageStatus || (p.getImageKey() ? "OpenAI-key ingesteld. Klaar om een beeld te maken." : "Stel je OpenAI API-key in onder Settings → Farore Sessieopname."));
+    if (this.previewPath !== p.latestImage?.path) {
+      this.imagePreview.empty(); this.previewPath = p.latestImage?.path;
+      const file = this.previewPath && p.app.vault.getAbstractFileByPath(this.previewPath);
+      if (file instanceof TFile) this.imagePreview.createEl("img", { attr: { src: p.app.vault.getResourcePath(file), alt: p.latestImage.title } });
+    }
     this.detailEl.setText(s ? `${s.title} · ${core.coverage(s)}${s.summaryError ? ` Verslag: ${s.summaryError}` : ""}${p.engine.error ? ` Opslag: ${p.engine.error}` : ""}` : "Audio wordt tijdens de opname in WAV-fragmenten bewaard.");
     const text = s?.chunks.filter(c => c.status === "done" && c.text).slice(-4).map(c => `[${core.time(c.startMs)}] ${c.text}`).join("\n\n") || "De eerste woorden verschijnen na het ingestelde fragmentinterval en de verwerkingstijd.";
     if (text !== this.lastText) { this.transcriptEl.setText(text); this.lastText = text; }
@@ -129,6 +150,27 @@ class RecorderSettings extends PluginSettingTab {
       for (const v of [2, 5, 10, 15]) d.addOption(String(v), String(v));
       d.setValue(String(p.settings.summaryMinutes)).onChange(v => change("summaryMinutes", Number(v)));
     });
+    el.createEl("h3", { text: "Afbeeldingen met OpenAI" });
+    el.createEl("p", { text: "Deze beeldinstellingen gelden meteen, ook voor een geopende sessie. Audio, transcriptie en verslagen blijven lokaal. OpenAI ontvangt alleen de beeldprompt; generatie gebruikt betaald API-tegoed." });
+    let enteredKey = "";
+    new Setting(el).setName("OpenAI API-key").setDesc(p.app.secretStorage ? "Bewaard in Obsidian-sleutelopslag, niet in plugininstellingen of sessiebestanden." : "Deze Obsidian-versie bewaart de key alleen in het geheugen tot je de plugin sluit. Vanaf 1.11.4 is sleutelopslag beschikbaar.")
+      .addText(t => { t.inputEl.type = "password"; t.inputEl.autocomplete = "off";
+        t.setPlaceholder(p.getImageKey() ? "Key ingesteld" : "sk-…").onChange(value => { enteredKey = value; }); })
+      .addButton(b => b.setButtonText("Bewaar key").onClick(() => {
+        try { if (!enteredKey.trim()) throw new Error("Vul eerst een API-key in."); p.setImageKey(enteredKey); this.display(); new Notice("OpenAI-key ingesteld."); } catch (e) { new Notice(e.message); }
+      }))
+      .addButton(b => b.setButtonText("Verwijder key").onClick(() => { p.setImageKey(""); this.display(); }));
+    for (const [key, name, options] of [
+      ["imageModel", "OpenAI-beeldmodel", { "gpt-image-1.5": "GPT Image 1.5", "gpt-image-2.5-flare": "GPT Image 2.5 Flare", "gpt-image-1-mini": "GPT Image 1 Mini" }],
+      ["imageSize", "Beeldformaat", { "1536x1024": "Liggend (1536 × 1024)", "1024x1024": "Vierkant (1024 × 1024)", "1024x1536": "Staand (1024 × 1536)" }],
+      ["imageQuality", "Beeldkwaliteit", { low: "Laag", medium: "Gemiddeld", high: "Hoog" }],
+    ]) new Setting(el).setName(name).addDropdown(d => { for (const [value, label] of Object.entries(options)) d.addOption(value, label); d.setValue(p.settings[key]).onChange(value => change(key, value)); });
+    new Setting(el).setName("Automatisch OpenAI-beelden maken").setDesc("Tijdens opname, alleen bij nieuwe recente transcriptie. Schakel automatische beelden in Farore Scènebeelden uit om dubbele beelden te voorkomen.")
+      .addToggle(t => t.setValue(p.settings.autoImages).onChange(value => change("autoImages", value)));
+    new Setting(el).setName("Beeldinterval in minuten").addDropdown(d => {
+      for (const value of [5, 10, 15, 20, 30]) d.addOption(String(value), String(value));
+      d.setValue(String(p.settings.imageMinutes)).onChange(value => change("imageMinutes", Number(value)));
+    });
     el.createEl("p", { text: "Selecteer de microfoon in het opnamepaneel. Geen automatische sprekeridentificatie. Verslagen zijn concepten voor controle door de DM. Stop de opname en wacht op verwerking voordat je Obsidian sluit." });
   }
 }
@@ -141,6 +183,8 @@ module.exports = class FaroreSessionRecorder extends Plugin {
     this.recent = Array.isArray(data.recent) ? data.recent.filter(p => typeof p === "string").slice(-100) : [];
     this.history = []; this.devices = []; this.services = new LocalServices(); this.status = "Klaar voor een nieuwe sessie.";
     this.audioWrites = Promise.resolve(); this.pendingAudio = []; this.unloaded = false;
+    this.imageService = new images.OpenAIImages(); this.imageBusy = false; this.imageRuns = {};
+    this.latestImage = data.latestImage && typeof data.latestImage.path === "string" && typeof data.latestImage.gallery === "string" ? data.latestImage : null;
     this.registerView(VIEW, leaf => { const v = new RecorderView(leaf); v.plugin = this; return v; });
     this.addSettingTab(new RecorderSettings(this.app, this));
     this.addRibbonIcon("audio-lines", "Farore — sessieopname", () => this.safe(() => this.show()));
@@ -153,11 +197,13 @@ module.exports = class FaroreSessionRecorder extends Plugin {
       ["stop-services", "Stop lokale diensten", () => this.stopServices()],
       ["retry-transcription", "Herstel ontbrekende transcriptie", () => this.retry()],
       ["make-summary", "Maak conceptverslag", () => this.manualSummary()],
+      ["generate-image", "Genereer afbeelding van de recente scène met OpenAI", () => this.generateImage()],
     ]) this.addCommand({ id, name, callback: () => this.safe(action) });
     this.statusBar = this.addStatusBarItem(); this.statusBar.addClass("farore-recorder-status");
     this.registerDomEvent(this.statusBar, "click", () => this.safe(() => this.show()));
     this.registerInterval(window.setInterval(() => { this.update(); this.liveSummary(); }, 1000));
     this.registerInterval(window.setInterval(() => this.checkServices().catch(() => {}), 30000));
+    this.registerInterval(window.setInterval(() => this.autoImage().catch(e => { this.imageStatus = e.message; this.update(); }), 5000));
     if (navigator.mediaDevices) this.registerDomEvent(navigator.mediaDevices, "devicechange", () => this.safe(() => this.refreshDevices()));
     this.app.workspace.onLayoutReady(() => {
       this.safe(async () => { await Promise.all([this.refreshHistory(), this.refreshDevices(), this.checkServices()]); });
@@ -182,8 +228,23 @@ module.exports = class FaroreSessionRecorder extends Plugin {
     if (file instanceof TFile) await this.app.workspace.getLeaf(false).openFile(file);
     else throw new Error("Er is nog geen bestand om te openen.");
   }
-  async persist() { await this.saveData({ settings: this.settings, recent: this.recent.slice(-100) }); }
-  async changeSettings(changes) { this.settings = core.settingsFrom({ ...this.settings, ...changes }); await this.persist(); this.update(); }
+  async persist() { await this.saveData({ settings: this.settings, recent: this.recent.slice(-100), latestImage: this.latestImage }); }
+  async changeSettings(changes) {
+    this.settings = core.settingsFrom({ ...this.settings, ...changes });
+    if (Object.hasOwn(changes, "autoImages") || Object.hasOwn(changes, "imageMinutes")) {
+      const snap = this.imageSnapshot();
+      if (snap) this.imageRuns[snap.id] = { bucket: Math.floor(snap.elapsed / (this.settings.imageMinutes * 60000)), sourceEnd: snap.sourceEnd };
+    }
+    await this.persist(); this.update();
+  }
+  getImageKey() { return this.app.secretStorage?.getSecret(images.SECRET) || this.temporaryImageKey || ""; }
+  setImageKey(key) {
+    key = key.trim();
+    if (key && /\s/.test(key)) throw new Error("De API-key mag geen spaties of regeleinden bevatten.");
+    if (this.app.secretStorage) this.app.secretStorage.setSecret(images.SECRET, key);
+    else this.temporaryImageKey = key;
+    this.imageStatus = ""; this.update();
+  }
   async refreshDevices() {
     this.devices = navigator.mediaDevices ? (await navigator.mediaDevices.enumerateDevices()).filter(d => d.kind === "audioinput") : [];
     for (const leaf of this.app.workspace.getLeavesOfType(VIEW)) leaf.view.devices();
@@ -202,7 +263,7 @@ module.exports = class FaroreSessionRecorder extends Plugin {
     } finally { this.serviceBusy = false; this.update(); }
   }
   async stopServices() {
-    if (this.busy || this.serviceBusy || this.capture || this.engine?.running || this.engine?.summaryRunning || this.app.plugins.plugins["farore-scene-illustrator"]?.busy ||
+    if (this.busy || this.serviceBusy || this.capture || this.imageBusy || this.engine?.running || this.engine?.summaryRunning || this.app.plugins.plugins["farore-scene-illustrator"]?.busy ||
         this.app.plugins.plugins.lexvoice?.recorder?.getInfo?.()?.state === "recording" || this.app.plugins.plugins.lexvoice?.recorder?.getInfo?.()?.state === "paused")
       throw new Error("Stop eerst de opname en wacht tot de verwerking klaar is.");
     this.serviceBusy = true; this.update("Lokale diensten stoppen…");
@@ -241,7 +302,7 @@ module.exports = class FaroreSessionRecorder extends Plugin {
       summarize: (prompt, text, settings) => this.services.summarize(prompt, text, settings), onChange: () => this.update() });
   }
   assertIdle() {
-    if (this.busy || this.capture || this.engine?.running || this.engine?.summaryRunning || this.serviceBusy) throw new Error("Er loopt nog een opname of verwerking.");
+    if (this.busy || this.capture || this.imageBusy || this.engine?.running || this.engine?.summaryRunning || this.serviceBusy) throw new Error("Er loopt nog een opname of verwerking.");
   }
   async startRecording(title) {
     this.assertIdle();
@@ -363,11 +424,60 @@ module.exports = class FaroreSessionRecorder extends Plugin {
     } finally { this.busy = false; this.update(); }
   }
   getSceneSnapshot() { return this.capture ? this.engine?.sceneSnapshot(this.capture.elapsed()) : null; }
+  imageSnapshot() { return images.recentScene(this.engine?.session, this.capture?.elapsed() ?? this.engine?.session.elapsedMs); }
+  async autoImage() {
+    if (this.unloaded || this.busy || this.imageBusy || !this.settings.autoImages || !this.getImageKey() || !this.capture || this.engine?.session.status !== "recording") return;
+    const snap = this.imageSnapshot();
+    const record = this.imageRuns[snap.id] || {};
+    if (images.scenes.due(snap, record, { enabled: true, intervalMinutes: this.settings.imageMinutes })) await this.generateImage("", true);
+  }
+  async generateImage(description = "", automatic = false) {
+    if (this.unloaded || this.busy || this.imageBusy) throw new Error("Wacht tot de lopende verwerking klaar is.");
+    const key = this.getImageKey();
+    if (!key) throw new Error("Stel eerst je OpenAI API-key in onder Settings → Farore Sessieopname.");
+    const engine = this.engine, session = engine?.session, snap = this.imageSnapshot();
+    const config = core.settingsFrom(this.settings);
+    const custom = !!description.trim();
+    if (!custom && !snap?.transcript.trim()) throw new Error("Nog geen transcriptie om een scène uit te kiezen. Vul een eigen scènebeschrijving in of open een bewaarde sessie.");
+    this.imageBusy = true; this.imageStatus = custom ? "De afbeelding wordt door OpenAI gemaakt…" : "De recente gespeelde scène wordt lokaal gekozen…"; this.update();
+    let scene;
+    try {
+      if (custom) scene = images.customScene(description);
+      else {
+        const text = await this.services.summarize(images.scenes.SCENE_INSTRUCTIONS, snap.transcript, session.settings, "json");
+        scene = images.scenes.sceneFrom({ message: { content: text } });
+        if (!scene) { this.imageStatus = "Geen concrete gespeelde scène gevonden; er is geen OpenAI-aanvraag gedaan."; return null; }
+      }
+      if (this.unloaded) throw new Error("Beeldgeneratie onderbroken.");
+      this.imageStatus = "De afbeelding wordt door OpenAI gemaakt…"; this.update();
+      const bytes = await this.imageService.generate(scene.prompt, config, key);
+      if (this.unloaded) throw new Error("Beeldgeneratie onderbroken.");
+      const store = this.store(), folder = session ? core.outputPath(session.folder) : `${core.outputPath(config.outputFolder)}/Losse scenebeelden`;
+      await store.folder(`${folder}/Beelden`);
+      const id = `${new Date().toISOString().replace(/[:.]/g, "-")}-${randomUUID().slice(0, 8)}`;
+      const path = `${folder}/Beelden/${id}.png`, gallery = `${folder}/Beeldgalerij.md`;
+      await store.binary(path, bytes);
+      if (!this.app.vault.getAbstractFileByPath(gallery)) await store.create(gallery, `# Scènebeelden — ${session ? session.title : "losse beelden"}\n\nArtistieke conceptbeelden met OpenAI; controleer de voorstelling.\n`);
+      await store.appendOnce(gallery, `<!-- farore-image:${id} -->`, `\n<!-- farore-image:${id} -->\n## ${scene.title}\n\n${custom ? "Eigen beschrijving" : `Recente scène bij ${core.time(snap.sourceEnd)}`} · ${config.imageModel}\n\n![[${path}]]\n\n<details>\n<summary>Beeldprompt</summary>\n\n~~~text\n${scene.prompt.replace(/~/g, "～")}\n~~~\n\n</details>\n`);
+      this.latestImage = { path, gallery, title: scene.title };
+      await this.persist();
+      this.imageStatus = `Afbeelding bewaard: ${scene.title}.`; return this.latestImage;
+    } catch (e) {
+      this.imageStatus = `Afbeelding niet voltooid: ${e.message}`;
+      if (automatic && snap) this.imageRuns[snap.id] = { ...(this.imageRuns[snap.id] || {}), failedAt: Date.now() };
+      throw e;
+    } finally {
+      // Consume this interval even on failure: never repeat a potentially billed call automatically.
+      if (automatic && snap) this.imageRuns[snap.id] = { ...(this.imageRuns[snap.id] || {}), bucket: Math.floor(snap.elapsed / (config.imageMinutes * 60000)), sourceEnd: snap.sourceEnd };
+      this.imageBusy = false; this.update();
+    }
+  }
   async shutdown() {
     this.unloaded = true;
     // Obsidian doesn't await onunload. Saving the tail is best effort; completed chunks are already durable.
     const engine = this.engine;
     this.services.close();
+    this.imageService?.close(); this.temporaryImageKey = "";
     const capture = this.capture;
     if (capture) {
       if (capture.active) {

@@ -1,6 +1,6 @@
 # Farore Sessieopname
 
-Een zelfstandige Obsidian-plugin voor het opnemen, lokaal transcriberen en samenvatten van The Last Wish-sessies. Je hoeft geen `.command` te openen en LexVoice is niet nodig voor nieuwe Farore-opnames.
+Een zelfstandige Obsidian-plugin voor het opnemen, lokaal transcriberen en samenvatten van The Last Wish-sessies, met optionele afbeeldingen via OpenAI. Je hoeft geen `.command` te openen en LexVoice is niet nodig voor nieuwe Farore-opnames.
 
 **Installatiestatus (9 oktober 2026):** geïnstalleerd en ingeschakeld in deze vault. Het opnamepaneel en de instellingen zijn in Obsidian gecontroleerd; de lokale diensten zijn bereikbaar. Microfoonstart en geluidsmeter werken; het eerste echte audiofragment van één minuut is opgeslagen en getranscribeerd. Een synthetische Nederlandse opname is met echte Whisper en Ollama verwerkt tot transcript en conceptverslag; 44 automatische tests slagen. Een volledige sessie aan de speeltafel en langdurige opname moeten nog praktisch getest worden.
 
@@ -19,6 +19,20 @@ Transcriptie verschijnt standaard per **60 seconden**, plus verwerkingstijd. Tus
 
 Gebruik één recorder tegelijk. Farore voorkomt starten als LexVoice nog opneemt of gepauzeerd staat. De bestaande LexVoice-opnames blijven beschikbaar via LexVoice; zij worden niet automatisch naar Farore geïmporteerd.
 
+## Een afbeelding genereren met OpenAI
+
+1. Open **Settings → Farore Sessieopname → Afbeeldingen met OpenAI**.
+2. Vul je **OpenAI API-key** in en klik **Bewaar key**. In de huidige Obsidian-versie wordt hij in de sleutelopslag bewaard, buiten de plugininstellingen en sessiebestanden. Met **Verwijder key** kun je hem wissen. Geef je key niet door in sessienotities.
+3. Kies eventueel een beeldmodel, kwaliteit en formaat. Standaard wordt één liggend beeld gemaakt met GPT Image 1.5 en gemiddelde kwaliteit.
+4. Klik in het opnamepaneel op **Genereer afbeelding**. Laat **Eigen scènebeschrijving** leeg om de laatste gespeelde scène uit het transcript te laten kiezen. Dit werkt ook bij een gepauzeerde of geopende eerdere sessie. Zonder bruikbare transcriptie kun je zelf een scènebeschrijving invullen; daarvoor is geen opname of lokale Ollama nodig.
+5. Wacht tot het beeld in het paneel verschijnt. **Open beeldgalerij** opent de bewaarde beelden met hun prompts. Opname en transcriptie kunnen ondertussen doorgaan.
+
+De stijl blijft schilderachtige Theros-fantasy, met oud-Griekse materialen en architectuur waar die bij de scène passen. Scèneselectie gebeurt lokaal en negeert spelersplannen, theorieën, regelsgesprekken en onbevestigde geheimen. Een beeld blijft een artistieke interpretatie die de DM moet controleren.
+
+Voor automatische OpenAI-beelden kun je **Automatisch OpenAI-beelden maken** aanzetten en een interval kiezen. Dit staat standaard uit. Automatische generatie gebruikt alleen nieuwe recente transcriptie tijdens opname; pauzetijd telt niet mee. Schakel automatische beelden in de afzonderlijke plugin **Farore Scènebeelden** uit als je geen dubbele lokale en OpenAI-beelden wilt.
+
+OpenAI ontvangt alleen de beeldprompt; audio en volledig transcript worden niet naar OpenAI gestuurd. Iedere generatie gebruikt betaald API-tegoed. Bij een ongeldige key, ontbrekende modeltoegang of bereikt tegoed toont de plugin een melding. De opname blijft bewaard. Er is geen automatische herhaling van een mislukte beeldgeneratie; probeer handmatig opnieuw zodra het probleem is opgelost.
+
 ## Waar staan de bestanden?
 
 Standaard krijgt elke opname een eigen map onder **The Last Wish/Sessions/Opnames/Farore**:
@@ -28,7 +42,11 @@ Standaard krijgt elke opname een eigen map onder **The Last Wish/Sessions/Opname
 | `Audio/*.wav` | Afzonderlijk afspeelbare audiofragmenten, standaard één minuut |
 | `Transcript.md` | Transcriptblokken met tijdcodes en links naar de bijbehorende audio |
 | `Verslag-*.md` | Tussentijdse concepten en eindverslag; ieder concept is een nieuw bestand |
+| `Beelden/*.png` | Met OpenAI gemaakte scènebeelden |
+| `Beeldgalerij.md` | Galerij met beelden en de gebruikte prompts |
 | `Etat.json` | Bewaarde voortgang, instellingen, prompt, audioverwijzingen en herkenbare tekst |
+
+Een eigen beeld zonder geopende sessie wordt bewaard onder **The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden** (of je aangepaste uitvoermap).
 
 Je kunt een transcriptnotitie aanvullen; de plugin voegt nieuwe blokken toe. Verwijder de verborgen fragmentmarkers niet zolang de sessie nog verwerkt wordt. Eigen correcties in het transcript worden niet automatisch aan het AI-verslag meegegeven: het verslag gebruikt de herkenbare tekst uit de bewaarde sessievoortgang. Werk belangrijke inhoudelijke correcties daarom ook in je uiteindelijke, gecontroleerde verslag bij.
 
@@ -40,12 +58,14 @@ Als de schijf vol is of schrijven mislukt, kan nog niet bewaarde audio tijdelijk
 
 ## Instellingen
 
-Onder **Settings → Farore Sessieopname** kun je de uitvoermap, promptnotitie, taal, fragmentduur, verslaginterval, Ollama-model en lokale serviceadressen aanpassen. Instellingen gelden voor volgende opnames; bestaande sessies behouden hun instellingen en prompt. Modellen en diensten moeten al lokaal geïnstalleerd zijn. Automatisch starten gebruikt de bestaande macOS LaunchAgents; andere systemen starten hun diensten handmatig.
+Onder **Settings → Farore Sessieopname** kun je de uitvoermap, promptnotitie, taal, fragmentduur, verslaginterval, Ollama-model en lokale serviceadressen aanpassen. Opname- en verslaginstellingen gelden voor volgende opnames; bestaande sessies behouden hun instellingen en prompt. OpenAI-beeldinstellingen gelden meteen, ook bij een geopende eerdere sessie. Modellen en diensten moeten al lokaal geïnstalleerd zijn. Automatisch starten gebruikt de bestaande macOS LaunchAgents; andere systemen starten hun diensten handmatig.
 
 [[Sessienotities-prompt]] wordt bij elke nieuwe opname gelezen en met de sessie bewaard. De verslagen volgen de D&D-instructies: huisregels uit Farore gaan voor de basisregels van 2014, theorieën blijven theorieën, plannen blijven plannen en er wordt geen spelersdialoog verzonnen. De plugin doet geen automatische sprekeridentificatie en neemt geen beslissingen over loot of rulings.
 
 ## Lokaal en synchronisatie
 
-De plugin gebruikt Whisper en Ollama op `127.0.0.1`. Er is geen externe AI-dienst of API-sleutel. Audio en verslagen staan wel in de vault. De bestaande opname-uitzondering in Git geldt ook voor Farore; Obsidian Sync heeft afzonderlijke instellingen. Sluit **The Last Wish/Sessions/Opnames** daar uit als je die bestanden niet wilt synchroniseren.
+De plugin gebruikt Whisper en Ollama op `127.0.0.1` voor transcriptie, verslagen en scèneselectie. De optionele beeldgeneratie gebruikt de OpenAI Images API met je eigen key. Die key wordt niet met een sessie bewaard. Voor Obsidian ouder dan 1.11.4 blijft de key alleen in het geheugen tot de plugin sluit. Audio en verslagen staan wel in de vault. De bestaande opname-uitzondering in Git geldt ook voor Farore; Obsidian Sync heeft afzonderlijke instellingen. Sluit **The Last Wish/Sessions/Opnames** daar uit als je die bestanden niet wilt synchroniseren.
 
 Broncode en onderhoud: [[agents/plugins/farore-session-recorder/README|Farore Sessieopname — ontwikkeling]].
+
+API-integratie: [officiële OpenAI-documentatie](https://developers.openai.com/api/reference/resources/images/methods/generate).

@@ -108,13 +108,13 @@ class LocalServices {
     if (typeof result.text !== "string") throw new Error("Whisper gaf geen geldig transcript terug.");
     return result.text.trim();
   }
-  async summarize(instructions, text, settings) {
+  async summarize(instructions, text, settings, format) {
     // An installed local model is required before each generation, including recovery.
     const tags = await this.request(`${settings.ollamaUrl}/api/tags`);
     const model = (tags.models || []).find(m => m.name === settings.textModel || m.name === `${settings.textModel}:latest`);
     if (!model || /cloud/i.test(model.name) || model.remote_host || model.remote_model) throw new Error("Het gekozen lokale Ollama-model is niet geïnstalleerd.");
     const result = await this.json(`${settings.ollamaUrl}/api/chat`, {
-      model: model.name, stream: false, keep_alive: "5m",
+      model: model.name, stream: false, keep_alive: "5m", ...(format ? { format } : {}),
       messages: [{ role: "system", content: instructions }, { role: "user", content: text }],
       options: { temperature: 0.15, num_ctx: 16384, num_predict: 2200 },
     }, 240000);

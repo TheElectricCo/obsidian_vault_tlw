@@ -1,6 +1,6 @@
 {
   "name": "farore-session-recorder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "description": "Lokale D&D-sessieopname voor Obsidian desktop",
   "scripts": {

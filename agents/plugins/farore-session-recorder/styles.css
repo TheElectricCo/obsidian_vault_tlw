@@ -10,3 +10,5 @@
 .farore-services { color: var(--text-muted); font-size: var(--font-ui-small); }
 .farore-transcript { white-space: pre-wrap; overflow-wrap: anywhere; max-height: 320px; overflow-y: auto; padding: 12px; border: 1px solid var(--background-modifier-border); border-radius: 8px; }
 .farore-recorder-status { cursor: pointer; font-variant-numeric: tabular-nums; }
+.farore-recorder label textarea { display: block; width: 100%; margin-top: 6px; resize: vertical; font-weight: normal; }
+.farore-image-preview img { display: block; width: 100%; height: auto; border-radius: 8px; margin: 12px 0; }

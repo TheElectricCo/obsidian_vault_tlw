@@ -13,14 +13,15 @@ const { DEFAULTS } = require("./core");
 function fixture() {
   const p = new Recorder(), files = new Map(), objects = new Map();
   const put = (path, value, folder = false) => { files.set(path, value); objects.set(path, folder ? { path } : new TFile(path)); };
-  p.app = { plugins: { plugins: {} }, workspace: { getLeavesOfType: () => [], getLeaf: () => ({ openFile: async () => {} }) }, vault: {
+  const secrets = new Map();
+  p.app = { secretStorage: { getSecret: id => secrets.get(id), setSecret: (id, value) => secrets.set(id, value) }, plugins: { plugins: {} }, workspace: { getLeavesOfType: () => [], getLeaf: () => ({ openFile: async () => {} }) }, vault: {
     getAbstractFileByPath: path => objects.get(path), getFiles: () => [...objects.values()].filter(o => o instanceof TFile),
     createFolder: async path => put(path, "folder", true), create: async (path, text) => put(path, text),
     createBinary: async (path, bytes) => put(path, Buffer.from(bytes)), modify: async (file, text) => put(file.path, text),
     read: async file => files.get(file.path), readBinary: async file => files.get(file.path),
     process: async (file, fn) => put(file.path, fn(files.get(file.path))),
   } };
-  p.settings = { ...DEFAULTS }; p.recent = []; p.pendingAudio = []; p.audioWrites = Promise.resolve();
+  p.settings = { ...DEFAULTS }; p.recent = []; p.pendingAudio = []; p.audioWrites = Promise.resolve(); p.imageRuns = {};
   p.saveData = async () => {}; p.services = { transcribe: async () => "De groep bereikt Akros.", summarize: async () => "## Recap\nDe groep bereikt Akros.", close: () => {} };
   return { p, files, put };
 }
@@ -32,6 +33,66 @@ test("audio write failure pauses recording and retry retains the buffered fragme
   await p.audioWrites; await Promise.resolve();
   assert.equal(p.pendingAudio.length, 1); assert.equal(pauses, 1);
   await p.retry(); assert.equal(p.pendingAudio.length, 0); assert.equal(p.audioSaveError, null);
+});
+test("manual images work without recording or Ollama and preserve the gallery on repeated clicks", async () => {
+  const { p, files } = fixture(); const prompts = [];
+  p.setImageKey("test-key"); let persisted;
+  p.saveData = async data => { persisted = data; };
+  p.services.summarize = async () => { throw new Error("Ollama must not be used"); };
+  p.imageService = { generate: async (prompt, _settings, key) => { prompts.push(prompt); assert.equal(key, "test-key"); return Buffer.from("image"); } };
+  const first = await p.generateImage("Een natuurlijke brug boven een kloof");
+  files.set(first.gallery, files.get(first.gallery) + "\nEigen DM-notitie.\n");
+  const second = await p.generateImage("Een haven bij zonsopgang");
+  assert.notEqual(first.path, second.path); assert.ok(files.has(first.path)); assert.ok(files.has(second.path));
+  assert.match(files.get(first.gallery), /Eigen DM-notitie/); assert.equal(prompts.length, 2);
+  assert.equal(p.imageBusy, false); assert.doesNotMatch(JSON.stringify(persisted), /test-key/);
+});
+test("a restored stopped session selects the scene locally and sends only the illustration prompt to OpenAI", async () => {
+  const { p, files } = fixture(); p.engine = p.newEngine(); await p.engine.create("Test", DEFAULTS);
+  await p.engine.addAudio(Buffer.from("audio"), 0, 60000); await p.engine.running;
+  p.engine.session.status = "stopped"; p.setImageKey("key");
+  p.services.summarize = async (system, transcript, _settings, format) => {
+    assert.match(system, /Never write dialogue/); assert.match(transcript, /Akros/); assert.equal(format, "json");
+    return JSON.stringify({ illustratable: true, titleNl: "Akros", sceneEn: "The city of Akros seen in daylight from the nearby mountains." });
+  };
+  p.imageService = { generate: async prompt => { assert.match(prompt, /Current played scene/); assert.doesNotMatch(prompt, /De groep bereikt/); return Buffer.from("image"); } };
+  const result = await p.generateImage(); assert.ok(result.path.startsWith(p.engine.session.folder));
+  assert.match(files.get(result.gallery), /Recente scène bij 01:00/);
+});
+test("nonvisual discussion, missing keys and missing transcript do not call OpenAI", async () => {
+  const { p } = fixture(); let calls = 0;
+  p.imageService = { generate: async () => { calls++; } };
+  await assert.rejects(p.generateImage("Een brug"), /API-key/);
+  p.setImageKey("key"); await assert.rejects(p.generateImage(), /Nog geen transcriptie/);
+  p.engine = p.newEngine(); await p.engine.create("Test", DEFAULTS);
+  await p.engine.addAudio(Buffer.from("audio"), 0, 60000); await p.engine.running;
+  p.services.summarize = async () => JSON.stringify({ illustratable: false });
+  assert.equal(await p.generateImage(), null); assert.equal(calls, 0); assert.equal(p.imageBusy, false);
+});
+test("image generation blocks double clicks and session switching while recording controls remain available", async () => {
+  const { p } = fixture(); p.setImageKey("key"); let complete;
+  p.imageService = { generate: () => new Promise(resolve => { complete = resolve; }) };
+  const first = p.generateImage("Een brug");
+  assert.equal(p.imageBusy, true); await assert.rejects(p.generateImage("Nog een brug"), /Wacht/);
+  await assert.rejects(p.loadSession("test/Etat.json"), /opname of verwerking/);
+  complete(Buffer.from("image")); await first; assert.equal(p.imageBusy, false);
+});
+test("automatic images use new recent speech, respect pauses and consume failed billed intervals", async () => {
+  const { p } = fixture(); p.setImageKey("key"); p.settings.autoImages = true;
+  p.engine = p.newEngine(); await p.engine.create("Test", DEFAULTS);
+  await p.engine.addAudio(Buffer.from("audio"), 540000, 600000); await p.engine.running;
+  p.engine.session.chunks[0].text = "De groep bereikt Akros en kijkt vanaf de bergen uit over de oude stad.";
+  p.capture = { elapsed: () => 600000 }; let calls = 0;
+  p.services.summarize = async () => JSON.stringify({ illustratable: true, titleNl: "Akros", sceneEn: "The ancient city of Akros seen from the nearby mountains." });
+  p.imageService = { generate: async () => { calls++; throw new Error("429"); } };
+  await assert.rejects(p.autoImage(), /429/); await p.autoImage(); assert.equal(calls, 1);
+  p.engine.session.status = "paused"; p.capture.elapsed = () => 1200000; await p.autoImage(); assert.equal(calls, 1);
+});
+test("unload prevents late image writes and clears temporary credentials on older Obsidian", async () => {
+  const { p, files } = fixture(); delete p.app.secretStorage; p.setImageKey("temporary-key");
+  let complete; p.imageService = { generate: () => new Promise(resolve => { complete = resolve; }), close: () => {} };
+  const generating = p.generateImage("Een brug"); await p.shutdown(); complete(Buffer.from("image"));
+  await assert.rejects(generating, /onderbroken/); assert.equal(p.getImageKey(), ""); assert.equal(files.size, 0);
 });
 test("stop flushes the tail before closing the microphone and summarizing", async () => {
   const { p } = fixture(); const order = [];
