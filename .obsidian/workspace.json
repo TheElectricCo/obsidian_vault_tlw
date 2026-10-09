@@ -78,12 +78,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "9b8e66f2ace03f51",
+            "type": "leaf",
+            "state": {
+              "type": "farore-session-recorder-view",
+              "state": {},
+              "icon": "audio-lines",
+              "title": "Farore — sessieopname"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 450.26953125
   },
   "right": {
     "id": "24e8f7d792e9aae3",
@@ -136,16 +147,6 @@
             }
           },
           {
-            "id": "f29e0e0e02a2d593",
-            "type": "leaf",
-            "state": {
-              "type": "farore-session-recorder-view",
-              "state": {},
-              "icon": "audio-lines",
-              "title": "Farore — sessieopname"
-            }
-          },
-          {
             "id": "fa4e1e672ea2549b",
             "type": "leaf",
             "state": {
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Darius Voss.md",
+                "file": "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Verslag-2026-10-09T12-46-14-241Z-16752355.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -224,27 +225,6 @@
             }
           },
           {
-            "id": "d8c3e7c156c9d299",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {
-                "tabWorkspace": {
-                  "version": 1,
-                  "openTabs": [
-                    {
-                      "tabId": "tab-1790929921733-z0sv1oa",
-                      "conversationId": "conv-1790942995989-h91xzkd1t"
-                    }
-                  ],
-                  "activeTabId": "tab-1790929921733-z0sv1oa"
-                }
-              },
-              "icon": "bot",
-              "title": "Claudian"
-            }
-          },
-          {
             "id": "eb45f05b973162a5",
             "type": "leaf",
             "state": {
@@ -267,7 +247,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -275,8 +255,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "lexvoice:LexVoice: click to start/stop; hover for controls": false,
-      "lexvoice:LexVoice live notes": false,
+      "farore-session-recorder:Farore — sessieopname": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -289,11 +268,10 @@
       "realclaudian:Open Claudian": false,
       "atlas-vtt:Display image on player view": false,
       "obsidian-git:Open Git source control": false,
-      "audio-recorder:Start/stop recording": false,
-      "farore-session-recorder:Farore — sessieopname": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bf65f3072442cfce",
+  "active": "9b8e66f2ace03f51",
   "lastOpenFiles": [
     "agents/plugins/farore-session-recorder/images.test.js",
     "agents/plugins/farore-session-recorder/images.js",

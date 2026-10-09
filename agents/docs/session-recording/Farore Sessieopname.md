@@ -2,7 +2,9 @@
 
 Een zelfstandige Obsidian-plugin voor het opnemen, lokaal transcriberen en samenvatten van The Last Wish-sessies, met optionele afbeeldingen via OpenAI. Je hoeft geen `.command` te openen en LexVoice is niet nodig voor nieuwe Farore-opnames.
 
-**Installatiestatus (9 oktober 2026):** geïnstalleerd en ingeschakeld in deze vault. Het opnamepaneel en de instellingen zijn in Obsidian gecontroleerd; de lokale diensten zijn bereikbaar. Microfoonstart en geluidsmeter werken; het eerste echte audiofragment van één minuut is opgeslagen en getranscribeerd. Een synthetische Nederlandse opname is met echte Whisper en Ollama verwerkt tot transcript en conceptverslag; 44 automatische tests slagen. Een volledige sessie aan de speeltafel en langdurige opname moeten nog praktisch getest worden.
+**Installatiestatus (9 oktober 2026):** geïnstalleerd en ingeschakeld in deze vault. Het opnamepaneel en de instellingen zijn in Obsidian gecontroleerd; de lokale diensten zijn bereikbaar. Microfoonstart en geluidsmeter werken; het eerste echte audiofragment van één minuut is opgeslagen en getranscribeerd. Een synthetische Nederlandse opname is met echte Whisper en Ollama verwerkt tot transcript en conceptverslag; 58 automatische tests slagen. Een volledige sessie aan de speeltafel en langdurige opname moeten nog praktisch getest worden.
+
+**Uitbreiding 1.1.0:** OpenAI-scènebeelden, een handmatige generatieknop en optionele automatische beelden zijn toegevoegd. De API-tests gebruiken nagebootste antwoorden; een echte OpenAI-generatie is nog niet uitgevoerd. Herlaad de plugin (uit- en inschakelen bij Community plugins) of heropen de vault na deze update, wanneer er geen opname loopt.
 
 ## Een sessie opnemen
 

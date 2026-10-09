@@ -4,8 +4,14 @@ const assert = require("node:assert/strict");
 const Module = require("node:module");
 const original = Module._load;
 class TFile { constructor(path) { this.path = path; this.name = path.split("/").at(-1); } }
+function element() {
+  return { children: [], empty() { this.children = []; }, addClass() {}, addEventListener() {}, setText(text) { this.text = text; },
+    createEl(tag, options = {}) { const child = Object.assign(element(), { tag }, options); this.children.push(child); return child; },
+    createDiv(options) { return this.createEl("div", options); } };
+}
 Module._load = function (id, ...args) {
-  if (id === "obsidian") return { Plugin: class {}, PluginSettingTab: class {}, Setting: class {}, ItemView: class {}, Notice: class {}, TFile };
+  if (id === "obsidian") return { Plugin: class {}, PluginSettingTab: class {}, Setting: class {},
+    ItemView: class { constructor() { this.history = []; this.contentEl = element(); } }, Notice: class {}, TFile };
   return original.call(this, id, ...args);
 };
 const Recorder = require("./main"); Module._load = original;
@@ -33,6 +39,19 @@ test("audio write failure pauses recording and retry retains the buffered fragme
   await p.audioWrites; await Promise.resolve();
   assert.equal(p.pendingAudio.length, 1); assert.equal(pauses, 1);
   await p.retry(); assert.equal(p.pendingAudio.length, 0); assert.equal(p.audioSaveError, null);
+});
+test("the recorder view builds with Obsidian's own history field and exposes the image controls", async t => {
+  const { p } = fixture(); const previousWindow = global.window; global.window = { setInterval: () => 1 };
+  t.after(() => { global.window = previousWindow; p.services.close(); p.imageService.close(); });
+  let viewFactory;
+  p.loadData = async () => ({}); p.registerView = (_type, factory) => { viewFactory = factory; };
+  for (const method of ["addSettingTab", "addRibbonIcon", "addCommand", "registerDomEvent", "registerInterval"]) p[method] = () => {};
+  p.addStatusBarItem = () => element(); p.app.workspace.onLayoutReady = () => {};
+  await p.onload(); const view = viewFactory({}); await view.onOpen();
+  assert.ok(Array.isArray(view.history)); assert.equal(typeof view.renderHistoryList, "function");
+  assert.equal(view.imageButton.text, "Genereer afbeelding"); assert.equal(view.imageButton.disabled, false);
+  assert.equal(view.galleryButton.disabled, true); assert.equal(view.sceneInput.attr["aria-label"], "Eigen scènebeschrijving");
+  assert.match(view.imageStatusEl.text, /API-key/);
 });
 test("manual images work without recording or Ollama and preserve the gallery on repeated clicks", async () => {
   const { p, files } = fixture(); const prompts = [];

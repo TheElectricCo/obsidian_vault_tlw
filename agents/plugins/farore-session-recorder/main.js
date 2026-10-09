@@ -66,8 +66,8 @@ class RecorderView extends ItemView {
     this.historySelect.addEventListener("change", () => { this.historyChoice = this.historySelect.value; });
     const historyActions = el.createDiv({ cls: "farore-actions" });
     this.loadButton = button(historyActions, "Open sessie", () => this.plugin.loadSession(this.historySelect.value));
-    button(historyActions, "Ververs sessies", async () => { await this.plugin.refreshHistory(); this.history(); });
-    this.history(); this.refresh();
+    button(historyActions, "Ververs sessies", async () => { await this.plugin.refreshHistory(); this.renderHistoryList(); });
+    this.renderHistoryList(); this.refresh();
   }
   devices() {
     if (!this.deviceSelect) return;
@@ -76,7 +76,7 @@ class RecorderView extends ItemView {
       this.deviceSelect.createEl("option", { text: d.label || `Microfoon ${d.deviceId.slice(0, 6)} (naam na toestemming)`, value: d.deviceId });
     this.deviceSelect.value = this.plugin.settings.deviceId;
   }
-  history() {
+  renderHistoryList() {
     if (!this.historySelect) return;
     const selected = this.historyChoice || this.historySelect.value;
     this.historySelect.empty(); this.historySelect.createEl("option", { text: "Kies een sessie…", value: "" });
@@ -252,7 +252,7 @@ module.exports = class FaroreSessionRecorder extends Plugin {
   async refreshHistory() {
     const found = this.app.vault.getFiles().filter(f => f.name === "Etat.json" && f.path.startsWith(`${this.settings.outputFolder}/`)).map(f => f.path);
     this.history = [...new Set([...this.recent, ...found])].filter(p => this.app.vault.getAbstractFileByPath(p)).sort().reverse().slice(0, 100);
-    for (const leaf of this.app.workspace.getLeavesOfType(VIEW)) leaf.view.history();
+    for (const leaf of this.app.workspace.getLeavesOfType(VIEW)) leaf.view.renderHistoryList();
   }
   async checkServices() { this.health = await this.services.health(this.settings); this.update(); return this.health; }
   async startServices() {

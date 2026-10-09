@@ -63,5 +63,4 @@ De tests behandelen PCM/WAV, pauzegrenzen, serialisatie, mislukte diensten, hers
 - [whisper.cpp-server en multipart uploads](https://github.com/ggml-org/whisper.cpp/tree/master/examples/server).
 - [Ollama Chat API](https://docs.ollama.com/api/chat).
 - [AudioWorkletNode](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorkletNode).
-
 - [Officiële OpenAI-documentatie: Images API](https://developers.openai.com/api/reference/resources/images/methods/generate).
