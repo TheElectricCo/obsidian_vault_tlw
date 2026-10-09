@@ -1,8 +1,8 @@
 {
   "name": "farore-session-recorder",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "private": true,
-  "description": "Lokale D&D-sessieopname voor Obsidian desktop",
+  "description": "Tales from Farore — centrale toegang tot je D&D-tools in Obsidian",
   "scripts": {
     "build": "node build.js",
     "test": "node --test *.test.js",

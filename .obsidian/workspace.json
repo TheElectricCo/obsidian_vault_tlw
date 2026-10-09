@@ -271,8 +271,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "700f22b8a8bcec66",
+  "active": "0f7f03fadd339557",
   "lastOpenFiles": [
+    "agents/plugins/farore-session-recorder/gateway.test.js",
+    "agents/plugins/farore-session-recorder/gateway.js",
+    "agents/plugins/farore-session-recorder/assets/farore-logo.png",
+    "agents/plugins/farore-session-recorder/assets",
     "2026-10-08.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Verslag-2026-10-09T13-44-29-987Z-e7c719b4.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Transcript.md",
@@ -287,9 +291,7 @@
     "Untitled.canvas",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Audio/00002-01-00.wav",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Audio/00001-00-00.wav",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Etat.json",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Transcript.md",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Audio",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-42-15-838Z-86073114/Transcript.md",
     "agents/docs/session-recording/Farore Sessieopname.md",
     "agents/plugins/farore-session-recorder/README.md",
@@ -317,7 +319,6 @@
     "The Last Wish/Artefacts/Maps/Theros.png",
     "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw-v2.png",
     "The Last Wish/Sessions/000 - Backstories/Media/ship_reference.avif",
-    "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw.png",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-237-000.png"
+    "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw.png"
   ]
 }

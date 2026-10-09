@@ -9,6 +9,8 @@ const destination = path.join(vault, ".obsidian/plugins/farore-session-recorder"
 fs.mkdirSync(destination, { recursive: true });
 for (const file of ["manifest.json", "main.js", "styles.css"])
   fs.copyFileSync(path.join(source, file), path.join(destination, file));
+fs.mkdirSync(path.join(destination, "assets"), { recursive: true });
+fs.copyFileSync(path.join(source, "assets/farore-logo.png"), path.join(destination, "assets/farore-logo.png"));
 const configPath = path.join(vault, ".obsidian/community-plugins.json");
 const enabled = JSON.parse(fs.readFileSync(configPath, "utf8"));
 if (!Array.isArray(enabled)) throw new Error("Ongeldige community-plugins.json");

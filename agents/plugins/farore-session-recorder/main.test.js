@@ -5,22 +5,25 @@ const Module = require("node:module");
 const original = Module._load;
 class TFile { constructor(path) { this.path = path; this.name = path.split("/").at(-1); } }
 function element() {
-  return { children: [], style: {}, empty() { this.children = []; }, addClass() {}, addEventListener() {}, setAttribute(key, value) { (this.attr ||= {})[key] = value; }, setText(text) { this.text = text; },
+  return { children: [], style: {}, empty() { this.children = []; }, addClass() {}, addEventListener(name, handler) { (this.listeners ||= {})[name] = handler; }, setAttribute(key, value) { (this.attr ||= {})[key] = value; }, setText(text) { this.text = text; },
     createEl(tag, options = {}) { const child = Object.assign(element(), { tag, parentElement: this }, options); this.children.push(child); return child; },
     createDiv(options) { return this.createEl("div", options); } };
 }
 Module._load = function (id, ...args) {
   if (id === "obsidian") return { Plugin: class {}, PluginSettingTab: class {}, Setting: class {},
-    ItemView: class { constructor() { this.history = []; this.contentEl = element(); } }, Notice: class {}, TFile, setIcon() {} };
+    ItemView: class { constructor() { this.history = []; this.contentEl = element(); } },
+    FuzzySuggestModal: class { setPlaceholder() {} open() {} }, Notice: class {}, TFile, setIcon() {} };
   return original.call(this, id, ...args);
 };
 const Recorder = require("./main"); Module._load = original;
 const { DEFAULTS } = require("./core");
 function fixture() {
   const p = new Recorder(), files = new Map(), objects = new Map();
+  p.manifest = { id: "farore-session-recorder", dir: ".obsidian/plugins/farore-session-recorder" };
   const put = (path, value, folder = false) => { files.set(path, value); objects.set(path, folder ? { path } : new TFile(path)); };
   const secrets = new Map();
   p.app = { secretStorage: { getSecret: id => secrets.get(id), setSecret: (id, value) => secrets.set(id, value) }, plugins: { plugins: {} }, workspace: { getLeavesOfType: () => [], getLeaf: () => ({ openFile: async () => {} }) }, vault: {
+    adapter: { getResourcePath: path => `app://local/${path}` },
     getAbstractFileByPath: path => objects.get(path), getFiles: () => [...objects.values()].filter(o => o instanceof TFile),
     createFolder: async path => put(path, "folder", true), create: async (path, text) => put(path, text),
     createBinary: async (path, bytes) => put(path, Buffer.from(bytes)), modify: async (file, text) => put(file.path, text),
@@ -52,6 +55,16 @@ test("the recorder view builds with Obsidian's own history field and exposes the
   assert.equal(view.imageButton.text, "Genereer afbeelding"); assert.equal(view.imageButton.disabled, false);
   assert.equal(view.galleryButton.disabled, true); assert.equal(view.sceneInput.attr["aria-label"], "Eigen scènebeschrijving");
   assert.match(view.imageStatusEl.text, /API-key/);
+  assert.equal(view.page, "home"); assert.equal(view.pages.home.hidden, false);
+  assert.equal(view.pages.recording.hidden, true);
+  view.titleInput.value = "Een bewaard hoofdstuk"; view.sceneInput.value = "Een brug in het maanlicht";
+  view.selectPage("images"); view.selectPage("recording");
+  assert.equal(view.titleInput.value, "Een bewaard hoofdstuk"); assert.equal(view.sceneInput.value, "Een brug in het maanlicht");
+  assert.equal(view.pages.images.hidden, true); assert.equal(view.pages.recording.hidden, false);
+  assert.equal(view.navButtons.recording.attr["aria-current"], "page");
+  const leaves = []; const collect = el => { leaves.push(el); el.children.forEach(collect); }; collect(view.pages.home);
+  const logo = leaves.find(el => el.tag === "img");
+  assert.equal(logo.attr.src, "app://local/.obsidian/plugins/farore-session-recorder/assets/farore-logo.png");
 });
 test("manual images work without recording or Ollama and preserve the gallery on repeated clicks", async () => {
   const { p, files } = fixture(); const prompts = [];

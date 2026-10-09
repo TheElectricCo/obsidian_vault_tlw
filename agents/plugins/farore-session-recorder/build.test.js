@@ -11,11 +11,12 @@ test("the distribution loads without any relative filesystem dependencies", t =>
   vm.runInNewContext(fs.readFileSync(path.join(folder, "main.js"), "utf8"), { module, Buffer, URL,
     require: id => {
       external.push(id); assert.ok(!id.startsWith("."));
-      if (id === "obsidian") return { Plugin: class {}, PluginSettingTab: class {}, ItemView: class {} };
+      if (id === "obsidian") return { Plugin: class {}, PluginSettingTab: class {}, ItemView: class {}, FuzzySuggestModal: class {} };
       return require(id);
     },
   });
   assert.equal(typeof module.exports, "function"); assert.equal(typeof module.exports.prototype.getSceneSnapshot, "function");
   assert.ok(external.includes("obsidian"));
-  assert.deepEqual(fs.readdirSync(folder).sort(), ["main.js", "manifest.json", "styles.css"]);
+  assert.deepEqual(fs.readdirSync(folder).sort(), ["assets", "main.js", "manifest.json", "styles.css"]);
+  assert.deepEqual(fs.readFileSync(path.join(folder, "assets/farore-logo.png")), fs.readFileSync(path.join(__dirname, "assets/farore-logo.png")));
 });
