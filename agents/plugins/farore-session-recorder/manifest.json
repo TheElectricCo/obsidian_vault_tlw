@@ -1,0 +1,9 @@
+{
+  "id": "farore-session-recorder",
+  "name": "Farore Sessieopname",
+  "version": "1.0.0",
+  "minAppVersion": "1.10.0",
+  "description": "Neem D&D-sessies op, transcribeer lokaal en maak Nederlandse conceptverslagen met Whisper en Ollama.",
+  "author": "Farore Vault",
+  "isDesktopOnly": true
+}

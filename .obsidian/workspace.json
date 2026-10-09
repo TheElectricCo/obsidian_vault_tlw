@@ -310,6 +310,11 @@
   },
   "active": "700f22b8a8bcec66",
   "lastOpenFiles": [
+    "agents/plugins/farore-scene-illustrator/README.md",
+    "agents/docs/session-recording/Automatische scenebeelden.md",
+    "agents/docs/session-recording/Voorbeeld-scene-v2.json",
+    "agents/docs/session-recording/Voorbeeld-scene-v2.png",
+    "agents/plugins/farore-scene-illustrator/main.test.js",
     "agents/docs/session-recording/Voorbeeld-scene.json",
     "agents/docs/session-recording/Voorbeeld-scene.png",
     "agents/plugins/farore-scene-illustrator/smoke-local.js",
@@ -319,9 +324,6 @@
     "agents/plugins/farore-scene-illustrator/main.js",
     "agents/plugins/farore-scene-illustrator/core.js",
     "agents/plugins/farore-scene-illustrator",
-    "agents/plugins",
-    "agents/docs/session-recording/Stop lokale afbeeldingen.command",
-    "agents/docs/session-recording/Start lokale afbeeldingen.command",
     "The Last Wish/Sessions/Opnames/Verslagen/2026-10-09 1402.md",
     "agents/docs/session-recording/Sessienotities-prompt.md",
     "agents/docs/session-recording/Opname en transcriptie.md",
@@ -354,8 +356,6 @@
     "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw.png",
     "The Last Wish/Sessions/000 - Backstories/Drafts/Arowel.md",
     "The Last Wish/Sessions/000 - Backstories/Drafts/Dorian.md",
-    "The Last Wish/Sessions/000 - Backstories/__ReadMeFirst.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-237-000.png",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-209-002.png"
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-237-000.png"
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "title": "De reizigers op de brug van Phanarax",
+  "prompt": "Daylight scene: a natural pale blue sky with soft clouds, illuminated by the sun. Painterly high-fantasy illustration for Theros, inspired by ancient Greek mythology. Cinematic wide composition, richly textured brushwork, atmospheric light, mythic scale. Use ancient Greek visual language where appropriate to the described scene: weathered marble and limestone, bronze, linen and draped cloth, terracotta, Mediterranean mountains and vegetation. Keep the described location, creatures and actions; do not replace them with generic temples. No modern objects, no medieval European castles or Gothic architecture, no text, speech bubbles, labels or watermark. Do not add gods, monsters, masks, magical effects or plot revelations absent from the scene description.\n\nCurrent played scene:\nA misty valley below, with a stone bridge stretching across it, bathed in the warm light of dawn. The travelers stand on the bridge, looking out over the chasm, but there are no visible enemies.",
+  "imageModel": "x/flux2-klein:4b",
+  "sourceNote": "Technisch voorbeeld — geen gespeelde sessie.md",
+  "elapsedMs": 600000,
+  "sourceEndMs": 590000,
+  "generatedAt": "2026-10-09T12:18:12.489Z",
+  "artisticInterpretation": true
+}

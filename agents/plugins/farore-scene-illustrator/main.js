@@ -91,7 +91,7 @@ module.exports = class FaroreSceneIllustrator extends Plugin {
   }
   async tick() {
     const snap = this.current();
-    if (!snap || !this.settings.enabled) {
+    if (!snap || (!this.settings.enabled && !this.manualGeneration)) {
       if (this.busy) this.cancel();
       this.update(!this.settings.enabled ? "Automatische scènebeelden staan uit." : "Wacht op een lopende LexVoice-opname; pauzes tellen niet mee.");
       return;
@@ -151,6 +151,7 @@ module.exports = class FaroreSceneIllustrator extends Plugin {
       return;
     }
     this.busy = true;
+    this.manualGeneration = manual;
     const previous = this.runs[snap.id] || {};
     const bucket = Math.floor(snap.elapsed / (this.settings.intervalMinutes * 60_000));
     try {
@@ -200,6 +201,6 @@ module.exports = class FaroreSceneIllustrator extends Plugin {
       this.update(`Scènebeeld niet gemaakt: ${error.message}. Transcriptie blijft doorlopen.`);
       if (manual || !previous.failedAt) new Notice("Scènebeeld niet gemaakt. Controleer de lokale beeldservice; transcriptie blijft werken.");
       console.error("[Farore scènes]", error);
-    } finally { this.busy = false; }
+    } finally { this.busy = false; this.manualGeneration = false; }
   }
 };

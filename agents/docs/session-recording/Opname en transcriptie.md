@@ -15,6 +15,10 @@
 
 Whisper start op verzoek en wordt niet automatisch bij elke login gestart.
 
+## Scènebeelden tijdens de sessie
+
+[[Automatische scenebeelden]] beschrijft de nieuwe uitbreiding: een lokale Theros-illustratie om de tien minuten opnametijd, op basis van recente transcriptie. Het startscript start nu ook de beeldservice; het stopscript stopt die eveneens. Heropen Obsidian eenmalig om **Farore Scènebeelden** te laden.
+
 ## Resultaten en D&D-instructies
 
 De bestanden verschijnen in **The Last Wish/Sessions/Opnames**:

@@ -60,9 +60,15 @@ test("unsupported discussion is skipped, prompts retain the fixed Theros constra
   assert.equal(core.sceneFrom({ message: { content: '{"illustratable":false}' } }), null);
   const scene = core.sceneFrom({ message: { content: JSON.stringify({ illustratable: true, titleNl: "De brug", sceneEn: "A weathered ancient bridge spans a deep chasm, viewed from behind distant travelers." }) } });
   assert.ok(scene.prompt.includes("Theros"));
-  assert.ok(scene.prompt.includes("Nyx sky only"));
+  assert.ok(!scene.prompt.includes("Nyx"));
   assert.ok(scene.prompt.includes("absent from the scene"));
   assert.throws(() => core.sceneFrom({ message: { content: '{"illustratable":true}' } }));
+});
+
+test("daylight prompts do not seed a celestial Nyx sky", () => {
+  const scene = core.sceneFrom({ message: { content: JSON.stringify({ illustratable: true, titleNl: "Ochtend", sceneEn: "Morning sunlight illuminates an ancient stone bridge over a deep misty gorge." }) } });
+  assert.ok(scene.prompt.startsWith("Daylight scene:"));
+  assert.ok(!scene.prompt.includes("Nyx"));
 });
 
 test("invalid image bytes and remote responses are rejected before saving", () => {

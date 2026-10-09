@@ -3,3 +3,6 @@
 
 # LexVoice runtime, local settings and resumable processing state.
 /.obsidian/plugins/lexvoice/
+
+# Installed copy and local runtime state; maintained source is under agents/plugins.
+/.obsidian/plugins/farore-scene-illustrator/

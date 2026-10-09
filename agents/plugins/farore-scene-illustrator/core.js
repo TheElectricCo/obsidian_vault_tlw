@@ -15,7 +15,6 @@ const STYLE = "Painterly high-fantasy illustration for Theros, inspired by ancie
   "Use ancient Greek visual language where appropriate to the described scene: weathered marble and limestone, " +
   "bronze, linen and draped cloth, terracotta, Mediterranean mountains and vegetation. " +
   "Keep the described location, creatures and actions; do not replace them with generic temples. " +
-  "Include a star-filled Nyx sky only if the scene is explicitly at night or in Nyx. " +
   "No modern objects, no medieval European castles or Gothic architecture, no text, speech bubbles, labels or watermark. " +
   "Do not add gods, monsters, masks, magical effects or plot revelations absent from the scene description.";
 
@@ -77,8 +76,13 @@ function sceneFrom(result) {
   if (scene.illustratable === false) return null;
   if (scene.illustratable !== true || typeof scene.sceneEn !== "string" || scene.sceneEn.trim().length < 30 ||
       typeof scene.titleNl !== "string" || !scene.titleNl.trim()) throw new Error("De scènebeschrijving is onvolledig.");
+  const description = scene.sceneEn.trim().slice(0, 2200);
+  let lighting = "";
+  if (/\bnyx\b/i.test(description)) lighting = "Mythic Nyx atmosphere, an immense celestial night sky. ";
+  else if (/\b(dawn|sunrise|morning|daylight|daytime|afternoon|midday|sunlit)\b/i.test(description))
+    lighting = "Daylight scene: a natural pale blue sky with soft clouds, illuminated by the sun. ";
   return { title: scene.titleNl.replace(/[\r\n\[\]<>]/g, " ").trim().slice(0, 100),
-    prompt: `${STYLE}\n\nCurrent played scene:\n${scene.sceneEn.trim().slice(0, 2200)}` };
+    prompt: `${lighting}${STYLE}\n\nCurrent played scene:\n${description}` };
 }
 
 function imageBytes(result) {
