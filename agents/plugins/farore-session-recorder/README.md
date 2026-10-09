@@ -1,10 +1,23 @@
-# Farore Sessieopname
+# Tales from Farore
 
 Zelfstandige Obsidian-desktopplugin voor lokale D&D-sessieopname met Whisper en Ollama, met optionele OpenAI-scènebeelden. Gebouwd voor deze vault, met een Nederlands opnamepaneel, microfoonkeuze, geluidsmeter, pauzeren/hervatten, live transcriptie, tussentijdse concepten en een eindverslag. LexVoice is niet nodig.
 
 Gebruikershandleiding: [Farore Sessieopname](../../docs/session-recording/Farore%20Sessieopname.md).
 
-Het opnamepaneel gebruikt kaarten met paarse accenten: opnamebediening bovenaan, transcriptblokken met tijdcodes en een preview van het laatste scènebeeld. Sessie-instellingen, lokale diensten en herstel zijn inklapbaar. Het tandwiel opent de plugininstellingen. De geluidsvisualisatie toont recente gemeten microfoonniveaus tijdens opname; sprekeridentificatie wordt niet ondersteund. De indeling past zich aan de breedte van de zijbalk en het lichte of donkere Obsidian-thema aan.
+## Het Farore-kompas (1.2.0)
+
+De plugin heet nu **Tales from Farore**. Het bestaande ID `farore-session-recorder` blijft behouden, zodat opnamegegevens, instellingen en koppelingen blijven werken. De kompas-knop in de werkbalk opent **Overzicht** met het aangeleverde logo, bosgroene en gouden accenten in het donkere thema en perkamenttinten in het lichte thema.
+
+- **Overzicht**: sessiestatus, toegang tot opname, beelden en archief; notitiekiezers voor sessies, personages, locaties, lore en huisregels. Huisregels verwijzen naar `D&D 5E/Farore`; een lege map geeft een melding. De gateway wijzigt geen bronmateriaal.
+- **Opname**: microfoon, opnamebediening, transcript, verslagen en herstel.
+- **Beelden**: scènebeschrijving, OpenAI-generatie en de laatste afbeelding.
+- **Tools**: lokale scènebeelden, Atlas VTT, Initiative Tracker, Dice Roller, Fantasy Statblocks, The DM Compendium, Claudian, Git en lokale diensten. Alleen na het kiezen van een actie wordt een pluginopdracht uitgevoerd. Uitgeschakelde plugins verwijzen naar Community plugins en worden niet automatisch ingeschakeld.
+
+Nieuwe geïnstalleerde plugins met een ID dat begint met `farore-` verschijnen automatisch in de gereedschapskist. De opdrachtkiezer leest Obsidian's interne command registry via `gateway.js`; als die niet beschikbaar is, verwijst de gateway naar instellingen. Gebruik **Ververs tools** na een pluginwijziging.
+
+Wisselen van tabblad behoudt de sessienaam, scènebeschrijving en opname. De bestaande opdracht **Open sessieopname** blijft direct het opnamepaneel openen. De geluidsvisualisatie toont gemeten microfoonniveaus; sprekeridentificatie wordt niet ondersteund. De indeling past zich aan de breedte van de zijbalk aan.
+
+Het oorspronkelijke logo staat ongewijzigd in `assets/farore-logo.png` en wordt meegebouwd en geïnstalleerd. CSS verzorgt de uitsnede en kleurweergave per thema.
 
 ## Vereisten
 
@@ -18,7 +31,7 @@ Andere desktops kunnen opnemen en de lokale HTTP-diensten gebruiken, maar automa
 
 ## OpenAI-scènebeelden (1.1.0)
 
-- Stel de key in bij **Settings → Farore Sessieopname → Afbeeldingen met OpenAI**. Vanaf Obsidian 1.11.4 wordt hij via `app.secretStorage` bewaard als `farore-openai-images`; oudere versies bewaren hem alleen in het geheugen. De key komt nooit in `data.json`, `Etat.json`, prompts of galerijen.
+- Stel de key in bij **Settings → Tales from Farore → Afbeeldingen met OpenAI**. Vanaf Obsidian 1.11.4 wordt hij via `app.secretStorage` bewaard als `farore-openai-images`; oudere versies bewaren hem alleen in het geheugen. De key komt nooit in `data.json`, `Etat.json`, prompts of galerijen.
 - Klik **Genereer afbeelding** in het opnamepaneel. Met een eigen beschrijving is geen opname of Ollama nodig. Zonder beschrijving kiest lokale Ollama één gespeelde scène uit maximaal vijf minuten recente, succesvol verwerkte transcriptie. Dit werkt tijdens opname, pauze en bij een geopende bewaarde sessie. Geen concrete scène betekent geen OpenAI-aanvraag.
 - Alleen de samengestelde beeldprompt gaat naar OpenAI, geen audio of volledig transcript. De bestaande Theros-stijl en regels tegen verzonnen spelersdialoog, theorieën als feiten en geheime gebeurtenissen worden hergebruikt uit de scènebeeldenplugin. Die bronmodule wordt meegebundeld; de plugin hoeft niet ingeschakeld te zijn.
 - Standaard: `gpt-image-1.5`, liggend `1536x1024`, kwaliteit `medium`, één PNG. Model, formaat en kwaliteit zijn instelbaar en gelden meteen.
@@ -36,7 +49,7 @@ node agents/plugins/farore-session-recorder/build.js
 node agents/plugins/farore-session-recorder/install.js
 ```
 
-De distributie bevat `manifest.json`, `main.js` en `styles.css` in `dist/`. Het installatiescript kopieert die naar `.obsidian/plugins/farore-session-recorder/` en voegt het plugin-ID aan de bestaande lijst toe. Het behoudt alle andere plugins en een bestaande `data.json`. Laad de nieuwe plugin via Community plugins of heropen de vault nadat een lopende opname afgewerkt is.
+De distributie bevat `manifest.json`, `main.js`, `styles.css` en `assets/farore-logo.png` in `dist/`. Het installatiescript kopieert die naar `.obsidian/plugins/farore-session-recorder/` en voegt het plugin-ID aan de bestaande lijst toe. Het behoudt alle andere plugins en een bestaande `data.json`. Laad de nieuwe plugin via Community plugins of heropen de vault nadat een lopende opname afgewerkt is.
 
 ## Opslag en herstel
 

@@ -385,12 +385,12 @@ module.exports = class FaroreSessionRecorder extends Plugin {
   }
   async show(page = "recording") {
     let leaf = this.app.workspace.getLeavesOfType(VIEW)[0];
-    if (!leaf) { leaf = this.app.workspace.getRightLeaf(true); if (!leaf) throw new Error("Kan geen opnamepaneel openen."); await leaf.setViewState({ type: VIEW, active: true }); }
+    if (!leaf) { leaf = this.app.workspace.getRightLeaf(false); if (!leaf) throw new Error("Kan geen opnamepaneel openen."); await leaf.setViewState({ type: VIEW, active: true }); }
     leaf.view.selectPage(page);
     await this.app.workspace.revealLeaf(leaf);
   }
   openSettings(id = this.manifest.id) {
-    this.app.setting.open(); this.app.setting.openSettingTabById(id);
+    this.app.setting.open(); this.app.setting.openTabById(id);
   }
   pickCommand(tool) {
     const commands = gateway.commandsFor(this.app, tool.id);
@@ -400,7 +400,7 @@ module.exports = class FaroreSessionRecorder extends Plugin {
     new GatewayPicker(this.app, `${tool.name} — kies een actie…`, commands, item => item.name, command => {
       if (!this.app.plugins?.plugins?.[tool.id] || !gateway.commandsFor(this.app, tool.id).some(item => item.id === command.id))
         throw new Error("Deze tool is niet meer actief. Ververs de gereedschapskist.");
-      if (this.app.commands?.executeCommandById?.(command.id) === false)
+      if (!this.app.commands?.executeCommandById || this.app.commands.executeCommandById(command.id) === false)
         throw new Error("Deze actie is momenteel niet beschikbaar.");
     }).open();
   }

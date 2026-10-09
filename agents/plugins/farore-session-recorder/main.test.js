@@ -3,6 +3,7 @@ const test = require("node:test");
 const assert = require("node:assert/strict");
 const Module = require("node:module");
 const original = Module._load;
+let lastPicker;
 class TFile { constructor(path) { this.path = path; this.name = path.split("/").at(-1); } }
 function element() {
   return { children: [], style: {}, empty() { this.children = []; }, addClass() {}, addEventListener(name, handler) { (this.listeners ||= {})[name] = handler; }, setAttribute(key, value) { (this.attr ||= {})[key] = value; }, setText(text) { this.text = text; },
@@ -12,7 +13,7 @@ function element() {
 Module._load = function (id, ...args) {
   if (id === "obsidian") return { Plugin: class {}, PluginSettingTab: class {}, Setting: class {},
     ItemView: class { constructor() { this.history = []; this.contentEl = element(); } },
-    FuzzySuggestModal: class { setPlaceholder() {} open() {} }, Notice: class {}, TFile, setIcon() {} };
+    FuzzySuggestModal: class { setPlaceholder() {} open() { lastPicker = this; } }, Notice: class {}, TFile, setIcon() {} };
   return original.call(this, id, ...args);
 };
 const Recorder = require("./main"); Module._load = original;
@@ -42,6 +43,30 @@ test("audio write failure pauses recording and retry retains the buffered fragme
   await p.audioWrites; await Promise.resolve();
   assert.equal(p.pendingAudio.length, 1); assert.equal(pauses, 1);
   await p.retry(); assert.equal(p.pendingAudio.length, 0); assert.equal(p.audioSaveError, null);
+});
+test("gateway actions run only after selection and disabled plugins cannot run stale commands", async () => {
+  const { p } = fixture(); let executed = 0;
+  const command = { id: "atlas-vtt:open", name: "Open dashboard" };
+  p.app.plugins.plugins["atlas-vtt"] = {};
+  p.app.commands = { listCommands: () => [command], executeCommandById: id => { assert.equal(id, command.id); executed++; return true; } };
+  p.pickCommand({ id: "atlas-vtt", name: "Atlas VTT" });
+  assert.equal(executed, 0); assert.deepEqual(lastPicker.getItems(), [command]);
+  await lastPicker.choose(command); assert.equal(executed, 1);
+  delete p.app.plugins.plugins["atlas-vtt"];
+  assert.throws(() => lastPicker.choose(command), /niet meer actief/); assert.equal(executed, 1);
+});
+test("resource shortcuts limit the note picker to its folder and settings use Obsidian's tab API", async () => {
+  const { p, put } = fixture(); let opened, settingsId, settingsOpened = false;
+  put("The Last Wish/Players/Arowel.md", "Personage");
+  put("The Last Wish/Players/Dorian.md", "Personage");
+  put("The Last Wish/Lore/Geheim.md", "Lore"); put("The Last Wish/Players/Portrait.png", "Image");
+  p.app.workspace.getLeaf = () => ({ openFile: async file => { opened = file.path; } });
+  p.pickNote("The Last Wish/Players", "Personages");
+  assert.deepEqual(lastPicker.getItems().map(file => file.path), ["The Last Wish/Players/Arowel.md", "The Last Wish/Players/Dorian.md"]);
+  await lastPicker.choose(lastPicker.getItems()[0]); assert.equal(opened, "The Last Wish/Players/Arowel.md");
+  p.app.setting = { open: () => { settingsOpened = true; }, openTabById: id => { settingsId = id; } };
+  p.openSettings(); assert.equal(settingsOpened, true); assert.equal(settingsId, p.manifest.id);
+  p.openSettings("community-plugins"); assert.equal(settingsId, "community-plugins");
 });
 test("the recorder view builds with Obsidian's own history field and exposes the image controls", async t => {
   const { p } = fixture(); const previousWindow = global.window; global.window = { setInterval: () => 1 };

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4a88ad31ee7de11a",
+        "id": "ab71dd0dd4eb2f8d",
         "type": "tabs",
         "children": [
           {
-            "id": "85f91935a2c2dfd0",
+            "id": "e0f302dee933f98b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Verslag-2026-10-09T13-44-29-987Z-e7c719b4.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Verslag-2026-10-09T13-44-29-987Z-e7c719b4"
+              "title": "New tab"
             }
           }
         ]
@@ -78,23 +74,13 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "0f7f03fadd339557",
-            "type": "leaf",
-            "state": {
-              "type": "farore-session-recorder-view",
-              "state": {},
-              "icon": "audio-lines",
-              "title": "Farore — sessieopname"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 450.26953125
+    "width": 512.44140625
   },
   "right": {
     "id": "24e8f7d792e9aae3",
@@ -152,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Verslag-2026-10-09T13-44-29-987Z-e7c719b4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -195,7 +180,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Verslag-2026-10-09T13-44-29-987Z-e7c719b4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -239,15 +223,23 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Verslag-2026-10-09T13-44-29-987Z-e7c719b4.md"
-              },
+              "state": {},
               "icon": "lucide-info",
               "title": "File properties"
             }
+          },
+          {
+            "id": "ff36c7b4e07e9413",
+            "type": "leaf",
+            "state": {
+              "type": "farore-session-recorder-view",
+              "state": {},
+              "icon": "compass",
+              "title": "Tales from Farore"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -268,17 +260,20 @@
       "realclaudian:Open Claudian": false,
       "atlas-vtt:Display image on player view": false,
       "obsidian-git:Open Git source control": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "farore-session-recorder:Tales from Farore — open het kompas": false
     }
   },
-  "active": "0f7f03fadd339557",
+  "active": "ff36c7b4e07e9413",
   "lastOpenFiles": [
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Verslag-2026-10-09T13-44-29-987Z-e7c719b4.md",
+    "agents/plugins/farore-session-recorder/dist/assets/farore-logo.png",
+    "agents/plugins/farore-session-recorder/dist/assets",
     "agents/plugins/farore-session-recorder/gateway.test.js",
     "agents/plugins/farore-session-recorder/gateway.js",
     "agents/plugins/farore-session-recorder/assets/farore-logo.png",
     "agents/plugins/farore-session-recorder/assets",
     "2026-10-08.md",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Verslag-2026-10-09T13-44-29-987Z-e7c719b4.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Transcript.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Audio/00001-00-00.wav",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Verslag-2026-10-09T12-46-14-241Z-16752355.md",
@@ -289,8 +284,6 @@
     "agents/plugins/farore-session-recorder/images.js",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-42-15-838Z-86073114/Verslag-2026-10-09T12-42-22-388Z-462a15e2.md",
     "Untitled.canvas",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Audio/00002-01-00.wav",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Audio/00001-00-00.wav",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Transcript.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-42-15-838Z-86073114/Transcript.md",
     "agents/docs/session-recording/Farore Sessieopname.md",
@@ -318,7 +311,6 @@
     "The Last Wish/Sessions/000 - Backstories/Media/Meletis.webp",
     "The Last Wish/Artefacts/Maps/Theros.png",
     "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw-v2.png",
-    "The Last Wish/Sessions/000 - Backstories/Media/ship_reference.avif",
-    "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw.png"
+    "The Last Wish/Sessions/000 - Backstories/Media/ship_reference.avif"
   ]
 }
