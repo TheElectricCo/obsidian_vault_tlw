@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Last Wish/Sessions/000 - Backstories/Log/Darius.md",
+                "file": "The Last Wish/Sessions/000 - Backstories/Drafts/Darius.md",
                 "mode": "source",
                 "source": false
               },
@@ -264,7 +264,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.796875
+    "width": 390.796875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,6 +286,7 @@
   },
   "active": "85f91935a2c2dfd0",
   "lastOpenFiles": [
+    "The Last Wish/Sessions/000 - Backstories/Log/Darius.md",
     "The Last Wish/Sessions/000 - Backstories/Drafts/Darius.md",
     "D&D 5E/Base Edition/Spells/Detect Magic.md",
     "Untitled.canvas",
@@ -324,7 +326,6 @@
     "The Last Wish/NPCS/Khea.md",
     "The Last Wish/Sessions/000 - Backstories/Drafts",
     "The Last Wish/Sessions/000 - Backstories/Onverzonden - Ontmoeting op de Zilvermeeuw.md",
-    "The Last Wish/Sessions/000 - Backstories/Log/Darius.md",
     "The Last Wish/Sessions/000 - Backstories/Log",
     "The Last Wish/Sessions/001 - Phanarax Brug/Media",
     "The Last Wish/Players/Arowel Starweaver.md",
