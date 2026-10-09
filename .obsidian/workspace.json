@@ -221,9 +221,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "bf65f3072442cfce",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "The Last Wish/Lore/Dodenmaskers van Theros.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       },
       {
         "id": "84d04260cec706bb",
@@ -264,8 +276,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.796875,
-    "collapsed": true
+    "width": 390.796875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,8 +295,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "85f91935a2c2dfd0",
+  "active": "bf65f3072442cfce",
   "lastOpenFiles": [
+    "agents/docs/session-recording/Stop lokale transcriptie.command",
+    "agents/docs/session-recording/Start lokale transcriptie.command",
+    "agents/docs/session-recording/Sessienotities-prompt.md",
+    "agents/docs/session-recording/Opname en transcriptie.md",
+    "agents/docs/session-recording",
     "AGENTS.md",
     "The Last Wish/Lore/Dodenmaskers van Theros.md",
     "The Last Wish/Sessions/000 - Backstories/Drafts/Darius.md",
@@ -324,12 +340,7 @@
     "The Last Wish/Sessions/000 - Backstories/Drafts/Dorian.md",
     "The Last Wish/Sessions/000 - Backstories/__ReadMeFirst.md",
     "The Last Wish/Sessions/000 - Backstories/Log/Arowel.md",
-    "The Last Wish/NPCS/LYSA - De Bewaarder.md",
-    "The Last Wish/NPCS/Khea.md",
     "The Last Wish/Sessions/000 - Backstories/Drafts",
-    "The Last Wish/Sessions/000 - Backstories/Onverzonden - Ontmoeting op de Zilvermeeuw.md",
-    "The Last Wish/Sessions/000 - Backstories/Log",
-    "The Last Wish/Sessions/001 - Phanarax Brug/Media",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-237-000.png",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-209-002.png",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-209-001.png"

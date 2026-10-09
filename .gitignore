@@ -1,0 +1,5 @@
+# Local session audio, transcripts and generated drafts.
+/The Last Wish/Sessions/Opnames/
+
+# LexVoice runtime, local settings and resumable processing state.
+/.obsidian/plugins/lexvoice/
