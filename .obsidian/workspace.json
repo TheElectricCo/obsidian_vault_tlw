@@ -80,7 +80,7 @@
             }
           },
           {
-            "id": "9b8e66f2ace03f51",
+            "id": "0f7f03fadd339557",
             "type": "leaf",
             "state": {
               "type": "farore-session-recorder-view",
@@ -247,7 +247,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -271,7 +271,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9b8e66f2ace03f51",
+  "active": "0f7f03fadd339557",
   "lastOpenFiles": [
     "agents/plugins/farore-session-recorder/images.test.js",
     "agents/plugins/farore-session-recorder/images.js",

@@ -4,6 +4,8 @@ Zelfstandige Obsidian-desktopplugin voor lokale D&D-sessieopname met Whisper en 
 
 Gebruikershandleiding: [Farore Sessieopname](../../docs/session-recording/Farore%20Sessieopname.md).
 
+Het opnamepaneel gebruikt kaarten met paarse accenten: opnamebediening bovenaan, transcriptblokken met tijdcodes en een preview van het laatste scènebeeld. Sessie-instellingen, lokale diensten en herstel zijn inklapbaar. Het tandwiel opent de plugininstellingen. De geluidsvisualisatie toont recente gemeten microfoonniveaus tijdens opname; sprekeridentificatie wordt niet ondersteund. De indeling past zich aan de breedte van de zijbalk en het lichte of donkere Obsidian-thema aan.
+
 ## Vereisten
 
 - Obsidian desktop 1.10.0 of nieuwer; geen mobiele ondersteuning.

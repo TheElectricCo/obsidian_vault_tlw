@@ -1,5 +1,5 @@
 "use strict";
-const { Plugin, PluginSettingTab, Setting, ItemView, Notice, TFile } = require("obsidian");
+const { Plugin, PluginSettingTab, Setting, ItemView, Notice, TFile, setIcon } = require("obsidian");
 const core = require("./core");
 const { LocalServices } = require("./services");
 const { MicrophoneCapture } = require("./audio");
@@ -13,6 +13,13 @@ function button(el, text, action, disabled = false, primary = false) {
   b.addEventListener("click", () => Promise.resolve().then(action).catch(e => new Notice(e.message, 10000)));
   return b;
 }
+function card(parent, title, icon, collapsible = false) {
+  const body = parent.createEl(collapsible ? "details" : "section", { cls: "farore-card" });
+  const header = body.createEl(collapsible ? "summary" : "div", { cls: "farore-card-heading" });
+  setIcon(header.createEl("span", { cls: "farore-card-icon", attr: { "aria-hidden": "true" } }), icon);
+  header.createEl("span", { text: title });
+  return { body: body.createDiv({ cls: "farore-card-body" }), header };
+}
 class RecorderView extends ItemView {
   getViewType() { return VIEW; }
   getDisplayText() { return "Farore — sessieopname"; }
@@ -20,51 +27,83 @@ class RecorderView extends ItemView {
   async onOpen() { this.build(); }
   build() {
     const el = this.contentEl; el.empty(); el.addClass("farore-recorder");
-    el.createEl("h2", { text: "Farore sessieopname" });
-    el.createEl("p", { text: "Van tafelgesprek naar transcript en sessieverslag. Verwerking via lokale Whisper en Ollama." });
-    this.serviceEl = el.createEl("p", { cls: "farore-services" });
-    const services = el.createDiv({ cls: "farore-actions" });
-    this.startService = button(services, "Start diensten", () => this.plugin.startServices());
-    button(services, "Controleer", () => this.plugin.checkServices());
-    this.stopService = button(services, "Stop diensten", () => this.plugin.stopServices());
-    const nameLabel = el.createEl("label", { text: "Sessienaam" });
-    this.titleInput = nameLabel.createEl("input", { type: "text", attr: { placeholder: "The Last Wish — sessie", "aria-label": "Sessienaam" } });
-    this.titleInput.value = "The Last Wish — sessie";
-    const micLabel = el.createEl("label", { text: "Microfoon" });
-    this.deviceSelect = micLabel.createEl("select", { attr: { "aria-label": "Microfoon" } });
-    this.deviceSelect.addEventListener("change", () => this.plugin.changeSettings({ deviceId: this.deviceSelect.value }).catch(e => new Notice(e.message)));
-    button(el, "Ververs microfoons", async () => { await this.plugin.refreshDevices(); this.devices(); });
-    this.devices();
-    const meterRow = el.createDiv({ cls: "farore-meter-row" });
-    this.meter = meterRow.createEl("progress", { attr: { max: "1", value: "0", "aria-label": "Microfoonniveau" } });
-    this.clock = meterRow.createEl("strong", { text: "00:00" });
-    this.statusEl = el.createEl("p", { attr: { role: "status", "aria-live": "polite" } });
-    const actions = el.createDiv({ cls: "farore-actions" });
+    this.lastText = null; this.previewPath = null;
+    const header = el.createDiv({ cls: "farore-recorder-heading" });
+    setIcon(header.createEl("span", { cls: "farore-heading-icon", attr: { "aria-hidden": "true" } }), "mic");
+    const heading = header.createDiv();
+    heading.createEl("span", { text: "FARORE", cls: "farore-eyebrow" });
+    heading.createEl("h2", { text: "Sessie opnemen" });
+    const settingsButton = button(header, "", () => {
+      this.plugin.app.setting.open(); this.plugin.app.setting.openSettingTabById(this.plugin.manifest.id);
+    });
+    settingsButton.addClass("farore-icon-button");
+    settingsButton.setAttribute("aria-label", "Open opname-instellingen");
+    settingsButton.setAttribute("title", "Open opname-instellingen");
+    setIcon(settingsButton, "settings");
+
+    const recording = card(el, "Opname", "audio-lines").body;
+    const sessionRow = recording.createDiv({ cls: "farore-session-row" });
+    this.stateEl = sessionRow.createEl("span", { cls: "farore-state" });
+    this.clock = sessionRow.createEl("strong", { cls: "farore-clock", text: "00:00" });
+    this.sessionTitleEl = recording.createEl("p", { cls: "farore-session-title" });
+    const actions = recording.createDiv({ cls: "farore-actions farore-recording-actions" });
     this.startButton = button(actions, "Start opname", () => this.plugin.startRecording(this.titleInput.value), false, true);
     this.pauseButton = button(actions, "Pauzeer", () => this.plugin.togglePause());
-    this.stopButton = button(actions, "Stop en maak verslag", () => this.plugin.stopRecording(), true);
-    const notes = el.createDiv({ cls: "farore-actions" });
+    this.stopButton = button(actions, "Stop & verslag", () => this.plugin.stopRecording(), true);
+    this.stopButton.addClass("farore-stop-button");
+    this.stopButton.setAttribute("title", "Stop de opname, bewaar audio en maak een conceptverslag");
+    const waveform = recording.createDiv({ cls: "farore-waveform", attr: { "aria-hidden": "true" } });
+    this.waveLevels = Array(48).fill(0);
+    this.waveBars = this.waveLevels.map(() => waveform.createEl("span", { cls: "farore-wave-bar" }));
+    const meterRow = recording.createDiv({ cls: "farore-meter-row" });
+    meterRow.createEl("span", { text: "Microfoonniveau" });
+    this.meter = meterRow.createEl("progress", { attr: { max: "1", value: "0", "aria-label": "Microfoonniveau" } });
+    this.statusEl = recording.createEl("p", { cls: "farore-status", attr: { role: "status", "aria-live": "polite" } });
+
+    const setup = card(el, "Sessie instellen", "sliders-horizontal", true).body;
+    setup.parentElement.open = true;
+    const nameLabel = setup.createEl("label", { text: "Sessienaam" });
+    this.titleInput = nameLabel.createEl("input", { type: "text", attr: { placeholder: "The Last Wish — sessie", "aria-label": "Sessienaam" } });
+    this.titleInput.value = "The Last Wish — sessie";
+    const micLabel = setup.createEl("label", { text: "Microfoon" });
+    this.deviceSelect = micLabel.createEl("select", { attr: { "aria-label": "Microfoon" } });
+    this.deviceSelect.addEventListener("change", () => this.plugin.changeSettings({ deviceId: this.deviceSelect.value }).catch(e => new Notice(e.message)));
+    button(setup, "Ververs microfoons", async () => { await this.plugin.refreshDevices(); this.devices(); });
+    this.devices();
+
+    const transcript = card(el, "Live transcriptie", "file-text");
+    transcript.header.createEl("span", { cls: "farore-badge", text: "Lokaal" });
+    this.transcriptEl = transcript.body.createDiv({ cls: "farore-transcript", attr: { tabindex: "0", "aria-label": "Recente transcriptie" } });
+    this.detailEl = transcript.body.createEl("p", { cls: "farore-caption" });
+    const notes = transcript.body.createDiv({ cls: "farore-actions" });
     this.transcriptButton = button(notes, "Open transcript", () => this.plugin.openNote(`${this.plugin.engine.session.folder}/Transcript.md`));
     this.summaryButton = button(notes, "Maak conceptverslag", () => this.plugin.manualSummary());
     this.retryButton = button(notes, "Probeer transcriptie opnieuw", () => this.plugin.retry());
     this.latestButton = button(notes, "Open laatste verslag", () => this.plugin.openNote(this.plugin.engine.session.summaries.at(-1)?.path));
-    this.detailEl = el.createEl("p");
-    el.createEl("h3", { text: "Scènebeeld met OpenAI" });
-    el.createEl("p", { text: "Laat de beschrijving leeg voor de recente gespeelde scène, of beschrijf zelf een beeld. Alleen de beeldprompt gaat naar OpenAI; API-generatie wordt apart aangerekend." });
-    const sceneLabel = el.createEl("label", { text: "Eigen scènebeschrijving (optioneel)" });
-    this.sceneInput = sceneLabel.createEl("textarea", { attr: { rows: "3", maxlength: "8000", "aria-label": "Eigen scènebeschrijving", placeholder: "Bijvoorbeeld: de natuurlijke brug van Phanarax boven een diepe kloof…" } });
-    const imageActions = el.createDiv({ cls: "farore-actions" });
+
+    const scene = card(el, "Scène & afbeeldingen", "images");
+    this.autoImageEl = scene.header.createEl("span", { cls: "farore-badge" });
+    this.imagePreview = scene.body.createDiv({ cls: "farore-image-preview" });
+    this.imagePreview.createEl("p", { cls: "farore-empty-state", text: "Geef de gespeelde scène een beeld. Je laatste afbeelding verschijnt hier." });
+    const sceneLabel = scene.body.createEl("label", { text: "Eigen scènebeschrijving (optioneel)" });
+    this.sceneInput = sceneLabel.createEl("textarea", { attr: { rows: "3", maxlength: "8000", "aria-label": "Eigen scènebeschrijving", placeholder: "Laat leeg voor de recente gespeelde scène, of beschrijf zelf een beeld…" } });
+    const imageActions = scene.body.createDiv({ cls: "farore-actions" });
     this.imageButton = button(imageActions, "Genereer afbeelding", () => this.plugin.generateImage(this.sceneInput.value), false, true);
     this.galleryButton = button(imageActions, "Open beeldgalerij", () => this.plugin.openNote(this.plugin.latestImage?.gallery));
-    this.imageStatusEl = el.createEl("p", { attr: { role: "status", "aria-live": "polite" } });
-    this.imagePreview = el.createDiv({ cls: "farore-image-preview" });
-    el.createEl("h3", { text: "Recente transcriptie" });
-    this.transcriptEl = el.createDiv({ cls: "farore-transcript" });
-    el.createEl("h3", { text: "Vorige sessies en herstel" });
-    el.createEl("p", { text: "Open een bewaarde sessie om ontbrekende fragmenten te verwerken of opnieuw een verslag te maken." });
-    this.historySelect = el.createEl("select", { attr: { "aria-label": "Bewaarde sessies" } });
+    this.imageStatusEl = scene.body.createEl("p", { cls: "farore-caption", attr: { role: "status", "aria-live": "polite" } });
+    scene.body.createEl("p", { cls: "farore-caption", text: "Alleen de beeldprompt gaat naar OpenAI. Beeldgeneratie gebruikt betaald API-tegoed." });
+
+    const serviceCard = card(el, "Lokale diensten", "server", true).body;
+    this.serviceEl = serviceCard.createEl("p", { cls: "farore-services" });
+    const services = serviceCard.createDiv({ cls: "farore-actions" });
+    this.startService = button(services, "Start diensten", () => this.plugin.startServices());
+    button(services, "Controleer", () => this.plugin.checkServices());
+    this.stopService = button(services, "Stop diensten", () => this.plugin.stopServices());
+    const history = card(el, "Vorige sessies & herstel", "history", true).body;
+    history.createEl("p", { cls: "farore-caption", text: "Open een bewaarde sessie om fragmenten te herstellen of een nieuw verslag te maken." });
+    this.historySelect = history.createEl("select", { attr: { "aria-label": "Bewaarde sessies" } });
     this.historySelect.addEventListener("change", () => { this.historyChoice = this.historySelect.value; });
-    const historyActions = el.createDiv({ cls: "farore-actions" });
+    const historyActions = history.createDiv({ cls: "farore-actions" });
     this.loadButton = button(historyActions, "Open sessie", () => this.plugin.loadSession(this.historySelect.value));
     button(historyActions, "Ververs sessies", async () => { await this.plugin.refreshHistory(); this.renderHistoryList(); });
     this.renderHistoryList(); this.refresh();
@@ -88,10 +127,26 @@ class RecorderView extends ItemView {
     const p = this.plugin, s = p.engine?.session, active = p.capture && ["recording", "paused"].includes(s?.status);
     const busy = p.busy || p.serviceBusy || p.unloaded;
     this.statusEl.setText(p.status || "Klaar voor een nieuwe sessie.");
+    const state = busy ? "processing" : active ? s.status : s ? "saved" : "ready";
+    this.stateEl.setAttribute("data-state", state);
+    this.stateEl.setText({ recording: "Actief", paused: "Gepauzeerd", processing: "Verwerken", saved: "Bewaard", ready: "Klaar voor opname" }[state]);
+    this.sessionTitleEl.setText(s?.title || "Een nieuw hoofdstuk aan tafel");
+    this.autoImageEl.setText(p.settings.autoImages ? `Elke ${p.settings.imageMinutes} min` : "Handmatig");
     const h = p.health || {};
     this.serviceEl.setText(`Whisper: ${h.whisper ? "klaar" : "niet bereikbaar"} · Ollama: ${h.model ? "model klaar" : h.ollama ? "model ontbreekt" : "niet bereikbaar"} · Beelden: ${h.images ? "klaar" : "niet bereikbaar"}`);
     this.clock.setText(core.time(p.capture?.elapsed() || s?.elapsedMs || 0));
     this.meter.value = Math.min(1, (p.level || 0) * 5);
+    const waveTime = p.capture?.elapsed() || 0;
+    if (this.waveCapture !== p.capture) {
+      this.waveLevels.fill(0); this.waveTime = null; this.waveCapture = p.capture;
+    }
+    if (s?.status === "recording" && active && waveTime !== this.waveTime) {
+      this.waveLevels.shift(); this.waveLevels.push(this.meter.value); this.waveTime = waveTime;
+    }
+    this.waveBars.forEach((bar, i) => {
+      bar.style.height = `${3 + this.waveLevels[i] * 49}px`;
+      bar.style.opacity = String(0.25 + this.waveLevels[i] * 0.75);
+    });
     this.startButton.disabled = !!active || !!busy || !!p.imageBusy || !!p.engine?.running || !!p.engine?.summaryRunning;
     this.pauseButton.disabled = !active || !!busy;
     this.pauseButton.setText(s?.status === "paused" ? "Hervat" : "Pauzeer");
@@ -112,11 +167,25 @@ class RecorderView extends ItemView {
     if (this.previewPath !== p.latestImage?.path) {
       this.imagePreview.empty(); this.previewPath = p.latestImage?.path;
       const file = this.previewPath && p.app.vault.getAbstractFileByPath(this.previewPath);
-      if (file instanceof TFile) this.imagePreview.createEl("img", { attr: { src: p.app.vault.getResourcePath(file), alt: p.latestImage.title } });
+      if (file instanceof TFile) {
+        this.imagePreview.createEl("img", { attr: { src: p.app.vault.getResourcePath(file), alt: p.latestImage.title } });
+        this.imagePreview.createEl("p", { cls: "farore-image-caption", text: p.latestImage.title });
+      } else this.imagePreview.createEl("p", { cls: "farore-empty-state", text: "Geef de gespeelde scène een beeld. Je laatste afbeelding verschijnt hier." });
     }
     this.detailEl.setText(s ? `${s.title} · ${core.coverage(s)}${s.summaryError ? ` Verslag: ${s.summaryError}` : ""}${p.engine.error ? ` Opslag: ${p.engine.error}` : ""}` : "Audio wordt tijdens de opname in WAV-fragmenten bewaard.");
-    const text = s?.chunks.filter(c => c.status === "done" && c.text).slice(-4).map(c => `[${core.time(c.startMs)}] ${c.text}`).join("\n\n") || "De eerste woorden verschijnen na het ingestelde fragmentinterval en de verwerkingstijd.";
-    if (text !== this.lastText) { this.transcriptEl.setText(text); this.lastText = text; }
+    const chunks = s?.chunks.filter(c => c.status === "done" && c.text).slice(-4) || [];
+    const text = JSON.stringify(chunks.map(c => [c.startMs, c.text]));
+    if (text !== this.lastText) {
+      const follow = !this.lastText || this.transcriptEl.scrollHeight - this.transcriptEl.scrollTop - this.transcriptEl.clientHeight < 32;
+      this.transcriptEl.empty(); this.lastText = text;
+      if (!chunks.length) this.transcriptEl.createEl("p", { cls: "farore-empty-state", text: "De eerste woorden verschijnen na het fragmentinterval en de verwerkingstijd." });
+      for (const chunk of chunks) {
+        const row = this.transcriptEl.createDiv({ cls: "farore-transcript-row" });
+        row.createEl("span", { cls: "farore-timecode", text: core.time(chunk.startMs) });
+        row.createEl("p", { text: chunk.text });
+      }
+      if (follow) this.transcriptEl.scrollTop = this.transcriptEl.scrollHeight;
+    }
   }
 }
 

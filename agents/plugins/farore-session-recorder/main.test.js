@@ -5,13 +5,13 @@ const Module = require("node:module");
 const original = Module._load;
 class TFile { constructor(path) { this.path = path; this.name = path.split("/").at(-1); } }
 function element() {
-  return { children: [], empty() { this.children = []; }, addClass() {}, addEventListener() {}, setText(text) { this.text = text; },
-    createEl(tag, options = {}) { const child = Object.assign(element(), { tag }, options); this.children.push(child); return child; },
+  return { children: [], style: {}, empty() { this.children = []; }, addClass() {}, addEventListener() {}, setAttribute(key, value) { (this.attr ||= {})[key] = value; }, setText(text) { this.text = text; },
+    createEl(tag, options = {}) { const child = Object.assign(element(), { tag, parentElement: this }, options); this.children.push(child); return child; },
     createDiv(options) { return this.createEl("div", options); } };
 }
 Module._load = function (id, ...args) {
   if (id === "obsidian") return { Plugin: class {}, PluginSettingTab: class {}, Setting: class {},
-    ItemView: class { constructor() { this.history = []; this.contentEl = element(); } }, Notice: class {}, TFile };
+    ItemView: class { constructor() { this.history = []; this.contentEl = element(); } }, Notice: class {}, TFile, setIcon() {} };
   return original.call(this, id, ...args);
 };
 const Recorder = require("./main"); Module._load = original;
