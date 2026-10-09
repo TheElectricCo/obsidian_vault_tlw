@@ -233,19 +233,9 @@
               "icon": "lucide-info",
               "title": "File properties"
             }
-          },
-          {
-            "id": "472682aec74c17b1",
-            "type": "leaf",
-            "state": {
-              "type": "lexvoice-outline-view",
-              "state": {},
-              "icon": "list-tree",
-              "title": "LexVoice live notes"
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       },
       {
         "id": "84d04260cec706bb",
@@ -286,8 +276,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.796875,
-    "collapsed": true
+    "width": 390.796875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,21 +299,23 @@
   },
   "active": "700f22b8a8bcec66",
   "lastOpenFiles": [
+    "Recording 20261009140208.m4a",
+    "The Last Wish/Sessions/Opnames/Verslagen/2026-10-09 1402.md",
+    "agents/plugins/farore-session-recorder/services.test.js",
+    "agents/plugins/farore-session-recorder/audio.test.js",
+    "agents/plugins/farore-session-recorder/core.test.js",
+    "The Last Wish/Sessions/Opnames/Verslagen/2026-10-09 1435.md",
+    "The Last Wish/Sessions/Opnames/Audio/lex-20261009-140210.m4a",
+    "agents/plugins/farore-session-recorder/styles.css",
+    "agents/plugins/farore-session-recorder/main.js",
+    "agents/plugins/farore-session-recorder/audio.js",
+    "agents/plugins/farore-session-recorder/services.js",
+    "agents/plugins/farore-session-recorder/manifest.json",
+    "agents/plugins/farore-session-recorder/core.js",
     "agents/plugins/farore-scene-illustrator/README.md",
     "agents/docs/session-recording/Automatische scenebeelden.md",
-    "agents/docs/session-recording/Voorbeeld-scene-v2.json",
     "agents/docs/session-recording/Voorbeeld-scene-v2.png",
-    "agents/plugins/farore-scene-illustrator/main.test.js",
-    "agents/docs/session-recording/Voorbeeld-scene.json",
     "agents/docs/session-recording/Voorbeeld-scene.png",
-    "agents/plugins/farore-scene-illustrator/smoke-local.js",
-    "agents/plugins/farore-scene-illustrator/core.test.js",
-    "agents/plugins/farore-scene-illustrator/styles.css",
-    "agents/plugins/farore-scene-illustrator/manifest.json",
-    "agents/plugins/farore-scene-illustrator/main.js",
-    "agents/plugins/farore-scene-illustrator/core.js",
-    "agents/plugins/farore-scene-illustrator",
-    "The Last Wish/Sessions/Opnames/Verslagen/2026-10-09 1402.md",
     "agents/docs/session-recording/Sessienotities-prompt.md",
     "agents/docs/session-recording/Opname en transcriptie.md",
     "The Last Wish/Lore/Dodenmaskers van Theros.md",
@@ -354,8 +345,6 @@
     "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw-v2.png",
     "The Last Wish/Sessions/000 - Backstories/Media/ship_reference.avif",
     "The Last Wish/Sessions/000 - Backstories/Media/De Zilvermeeuw.png",
-    "The Last Wish/Sessions/000 - Backstories/Drafts/Arowel.md",
-    "The Last Wish/Sessions/000 - Backstories/Drafts/Dorian.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Images/source-page-237-000.png"
   ]
 }

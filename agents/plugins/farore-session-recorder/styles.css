@@ -1,0 +1,12 @@
+.farore-recorder { padding: 16px; }
+.farore-recorder h2 { margin-top: 0; }
+.farore-recorder label { display: block; margin: 16px 0 8px; font-weight: 600; }
+.farore-recorder label input, .farore-recorder label select { display: block; width: 100%; margin-top: 6px; font-weight: normal; }
+.farore-recorder select { max-width: 100%; }
+.farore-actions { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+.farore-meter-row { display: flex; gap: 16px; align-items: center; margin: 16px 0; }
+.farore-meter-row progress { flex: 1; min-width: 0; accent-color: var(--interactive-accent); }
+.farore-meter-row strong { font-variant-numeric: tabular-nums; }
+.farore-services { color: var(--text-muted); font-size: var(--font-ui-small); }
+.farore-transcript { white-space: pre-wrap; overflow-wrap: anywhere; max-height: 320px; overflow-y: auto; padding: 12px; border: 1px solid var(--background-modifier-border); border-radius: 8px; }
+.farore-recorder-status { cursor: pointer; font-variant-numeric: tabular-nums; }

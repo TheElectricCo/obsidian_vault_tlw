@@ -127,7 +127,10 @@ class SessionEngine {
   }
   async addAudio(bytes, startMs, endMs, silent = false) {
     if (this.cancelled) throw new Error("Deze sessie is gesloten.");
+    if (!Number.isFinite(startMs) || !Number.isFinite(endMs) || startMs < 0 || endMs <= startMs) throw new Error("Ongeldig audio-interval.");
     const s = this.session;
+    const existing = s.chunks.find(c => c.startMs === startMs && c.endMs === endMs);
+    if (existing) { await this.persist(); this.kick(); return existing; }
     const c = { id: randomUUID(), audioPath: `${s.folder}/Audio/${String(s.chunks.length + 1).padStart(5, "0")}-${time(startMs).replace(":", "-")}.wav`,
       startMs, endMs, status: "pending", attempts: 0, ...(silent ? { text: "" } : {}) };
     // Audio is durable before a network request is made.
@@ -136,7 +139,10 @@ class SessionEngine {
   }
   kick() {
     if (this.running || this.cancelled) return this.running || Promise.resolve();
-    this.running = this.drain().finally(() => { this.running = null; });
+    this.running = this.drain().finally(() => {
+      this.running = null;
+      if (!this.cancelled && this.session.chunks.some(c => c.status === "pending")) this.kick();
+    });
     // Keep failures visible without unhandled rejections from background work.
     this.running.catch(e => { this.error = e.message; this.onChange(); });
     return this.running;
@@ -168,7 +174,7 @@ class SessionEngine {
     return this.makeSummary(true);
   }
   makeSummary(final = false) {
-    if (this.summaryRunning) return final ? this.summaryRunning.then(() => this.makeSummary(true)) : this.summaryRunning;
+    if (this.summaryRunning) return final ? this.summaryRunning.catch(() => {}).then(() => this.makeSummary(true)) : this.summaryRunning;
     this.summaryRunning = this.buildSummary(final).finally(() => { this.summaryRunning = null; this.onChange(); });
     return this.summaryRunning;
   }

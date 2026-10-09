@@ -72,7 +72,9 @@ module.exports = class FaroreSceneIllustrator extends Plugin {
     this.registerInterval(window.setInterval(() => this.tick().catch(e => console.error("[Farore scènes]", e)), 5000));
   }
   onunload() { this.unloaded = true; this.cancel(); }
-  current() { return core.snapshot(this.app.plugins.plugins.lexvoice); }
+  current() {
+    return this.app.plugins.plugins["farore-session-recorder"]?.getSceneSnapshot?.() || core.snapshot(this.app.plugins.plugins.lexvoice);
+  }
   cancel() { for (const request of this.requests) request.destroy(new Error("Generatie gestopt.")); }
   update(message) { this.status = message; for (const leaf of this.app.workspace.getLeavesOfType(VIEW)) leaf.view.render(); }
   async persist() {
