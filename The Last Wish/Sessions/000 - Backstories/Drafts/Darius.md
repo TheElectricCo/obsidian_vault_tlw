@@ -45,6 +45,12 @@ Onder de laatste regel staat nog één zin, kleiner geschreven:
 
 *Sommige geheimen zijn meer waard zolang niemand weet dat ze te koop zijn.*
 
+Bij de brief ligt een smal houten etui. In het fluweel rust een bronzen loep met een greep van donker olijfhout. Rond het kristal zijn drie woorden gegraveerd: **Kijk nog eens.**
+
+Een kleiner vel ligt onder het etui.
+
+*Mijn eerste antwoord was minder eerlijk dan uw vragen verdienden. Beschouw dit als een kleine vereffening. De loep kan een aanzicht bewaren en het later als lichtbeeld tonen. Wat u ziet, blijft behouden. Wat het betekent, moet u zelf ontdekken. Misschien dient hij u beter aan de andere kant van de bergen.*
+
 De volgende ochtend brengt het gilde je verzegelde borgbrief. Daarbij zit een reisaanbod: morgen bij zonsopgang vertrekt een karavaan richting de bergroute naar Akros. De karavaanmeester heeft nog plaats voor een passagier en bagage. Een van je klanten heeft de reiskosten aangeboden, als voorschot op je vergoeding voor het bieden namens hem.
 
 Aan de voet van het gebergte houdt de wagenroute op. Daar kunnen reizigers een gids huren voor de laatste vijf dagen naar de brug van Phanarax. De hele tocht naar Akros zal ongeveer twintig dagen duren.
@@ -57,6 +63,7 @@ De karavaanmeester houdt de plaats tot vanavond voor je vrij.
 
 ## Voor de DM — niet meesturen
 
+- **Voorwerpbeloning:** de geleerde schenkt de [[Loep van de Tweede Blik]], een uncommon homebrew item dat attunement vereist. De voorwerpkaart en het volledige briefje staan ook in [Figma](https://www.figma.com/design/G8WJB3ZFetbQhPs6OMunYu?node-id=2-2). Het is nog niet uitgereikt of geïdentificeerd in de verzonden log.
 - **Beloning voor inventiviteit:** de twee afzonderlijke verhalen lokken gerichte vragen uit. Darius krijgt een identificeerbare tussenpersoon en ziet dat zijn misleiding de onderzoeker onzeker maakt. Hiervoor is geen extra worp voorzien; het is de opbrengst van zijn uitgewerkte plan. De identiteit van de inbreker en opdrachtgever blijft open. Het derde lokverhaal, over de doorgestuurde catalogus, is nog beschikbaar voor een later gevolg.
 - **Informatiewinst:** Varyas was een ziener van Phenax, werd een Teruggekeerde en smokkelde kennis mee in een gecodeerde inscriptie op zijn masker. Dat komt uit *No Silent Secret* in het lokale Theros-bronboek (gedrukte pp. 184–185; PDF-pagina's 185–186). De geleerde presenteert het als overlevering, niet als authenticiteitsbewijs voor Lot XVII. Het geheim zelf blijft verborgen.
 - **Nieuwe campagne-invulling:** Leontes, zijn herkenningsteken, de reacties op de lokverhalen, de brief van de geleerde, de karavaan en het reisvoorschot zijn voorstellen voor dit vervolg. Het oude geschrift van de geleerde is een nieuw middel om bestaande Varyas-lore te onthullen.
