@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab71dd0dd4eb2f8d",
+        "id": "8e61628aa078f2ee",
         "type": "tabs",
         "children": [
           {
-            "id": "e0f302dee933f98b",
+            "id": "c38a4ada5e487aba",
             "type": "leaf",
             "state": {
               "type": "image",
@@ -139,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Last Wish/Artefacts/Maps/Meletis.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -182,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Last Wish/Artefacts/Maps/Meletis.png",
+                "file": "Untitled 1.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,7 +226,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Last Wish/Artefacts/Maps/Meletis.png"
+                "file": "Untitled 1.canvas"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -270,10 +269,14 @@
       "farore-session-recorder:Tales from Farore — open het kompas": false
     }
   },
-  "active": "e0f302dee933f98b",
+  "active": "700f22b8a8bcec66",
   "lastOpenFiles": [
-    "The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden/Beelden/2026-10-09T14-46-37-294Z-4b74a101.png",
     "The Last Wish/Artefacts/Maps/Meletis.png",
+    "The Last Wish/Artefacts/Maps/Theros.png",
+    "Untitled 1.canvas",
+    "Untitled 1.base",
+    "Untitled.base",
+    "The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden/Beelden/2026-10-09T14-46-37-294Z-4b74a101.png",
     "The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden/Beelden/2026-10-09T14-43-11-088Z-8b81aeca.png",
     "The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden/Beeldgalerij.md",
     "agents/plugins/farore-session-recorder/README.md",
@@ -293,8 +296,6 @@
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Audio/00001-00-00.wav",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Verslag-2026-10-09T12-46-14-241Z-16752355.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Etat.json",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Audio",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-42-15-838Z-86073114/Verslag-2026-10-09T12-42-22-388Z-462a15e2.md",
     "Untitled.canvas",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Transcript.md",
@@ -316,8 +317,6 @@
     "D&D 5E/Base Edition/Spells/Detect Magic.md",
     "D&D 5E/Base Edition/Magic Items/Arrow-Catching Shield.md",
     "The Last Wish/Sessions/000 - Backstories/Drafts/Plink.md",
-    "The Last Wish/Sessions/000 - Backstories/Log/Plink.md",
-    "The Last Wish/Sessions/000 - Backstories/Media/Meletis - Haven bij ochtendlicht.png",
-    "The Last Wish/Sessions/000 - Backstories/Media/WhatsApp Image 2026-10-06 at 21.09.48.jpeg"
+    "The Last Wish/Sessions/000 - Backstories/Log/Plink.md"
   ]
 }
