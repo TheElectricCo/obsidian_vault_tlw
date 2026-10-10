@@ -33,30 +33,12 @@
             "id": "01a3c7b5f02cf8f1",
             "type": "leaf",
             "state": {
-              "type": "atlas-vtt",
+              "type": "image",
               "state": {
-                "file": "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
-                "mapFilePath": "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
-                "tabs": [
-                  {
-                    "id": "tab-1791645656089-ub6r7o",
-                    "filePath": "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
-                    "displayName": "Meletis",
-                    "isLoaded": true,
-                    "isDirty": false
-                  }
-                ],
-                "activeTabId": "tab-1791645656089-ub6r7o",
-                "viewportPerTab": {
-                  "tab-1791645656089-ub6r7o": {
-                    "centerX": 1275,
-                    "centerY": 1015.5,
-                    "scale": 0.46262924667651406
-                  }
-                }
+                "file": "The Last Wish/Artefacts/Maps/Meletis.png"
               },
-              "icon": "map",
-              "title": "Atlas: Meletis.atlasmap"
+              "icon": "lucide-image",
+              "title": "Meletis"
             }
           }
         ],
@@ -180,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
+                "file": "The Last Wish/Artefacts/Maps/Meletis.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -223,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
+                "file": "The Last Wish/Artefacts/Maps/Meletis.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -268,7 +250,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap"
+                "file": "The Last Wish/Artefacts/Maps/Meletis.png"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -313,10 +295,10 @@
   },
   "active": "01a3c7b5f02cf8f1",
   "lastOpenFiles": [
+    "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
     "atlas-vtt/collections/The Last Wish/scenes/Meletis.thumb.jpg",
     "The Last Wish/Artefacts/Maps/Meletis.png",
     "atlas-vtt/collections/The Last Wish/scenes/scene-1791645656018-7k98qz.json",
-    "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
     "atlas-vtt/collections/The Last Wish/maps/map-1791645625534-ipmqxz.json",
     "atlas-vtt/assets/thumbnails/Meletis_1791645625525_8udnsm-039a9c8e.webp",
     "atlas-vtt/assets/Meletis_1791645625525_8udnsm.webp",
@@ -333,7 +315,6 @@
     "agents/plugins/farore-session-recorder/dist/assets/farore-logo-transparent.png",
     "agents/plugins/farore-session-recorder/assets/farore-logo-transparent.png",
     "agents/plugins/farore-session-recorder/dist/assets/farore-logo.png",
-    "agents/plugins/farore-session-recorder/assets/farore-logo.png",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Verslag-2026-10-09T13-44-29-987Z-e7c719b4.md",
     "agents/plugins/farore-session-recorder/dist/assets",
     "agents/plugins/farore-session-recorder/gateway.test.js",
