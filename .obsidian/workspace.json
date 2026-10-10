@@ -30,6 +30,36 @@
             }
           },
           {
+            "id": "02b1f6fd4581dcf8",
+            "type": "leaf",
+            "state": {
+              "type": "atlas-vtt",
+              "state": {
+                "file": "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
+                "mapFilePath": "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
+                "tabs": [
+                  {
+                    "id": "tab-1791648479655-fvfjzz",
+                    "filePath": "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
+                    "displayName": "Theros",
+                    "isLoaded": true,
+                    "isDirty": false
+                  }
+                ],
+                "activeTabId": "tab-1791648479655-fvfjzz",
+                "viewportPerTab": {
+                  "tab-1791648479655-fvfjzz": {
+                    "centerX": -469.43965517241367,
+                    "centerY": -76.5,
+                    "scale": 0.6823529411764706
+                  }
+                }
+              },
+              "icon": "map",
+              "title": "Atlas: Theros.atlasmap"
+            }
+          },
+          {
             "id": "01a3c7b5f02cf8f1",
             "type": "leaf",
             "state": {
@@ -42,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Last Wish/Artefacts/Maps/Meletis.png",
+                "file": "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -205,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Last Wish/Artefacts/Maps/Meletis.png",
+                "file": "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -250,7 +280,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Last Wish/Artefacts/Maps/Meletis.png"
+                "file": "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -293,11 +323,11 @@
       "farore-session-recorder:Tales from Farore — open het kompas": false
     }
   },
-  "active": "01a3c7b5f02cf8f1",
+  "active": "db5a1982020fd335",
   "lastOpenFiles": [
+    "The Last Wish/Artefacts/Maps/Meletis.png",
     "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
     "atlas-vtt/collections/The Last Wish/scenes/Meletis.thumb.jpg",
-    "The Last Wish/Artefacts/Maps/Meletis.png",
     "atlas-vtt/collections/The Last Wish/scenes/scene-1791645656018-7k98qz.json",
     "atlas-vtt/collections/The Last Wish/maps/map-1791645625534-ipmqxz.json",
     "atlas-vtt/assets/thumbnails/Meletis_1791645625525_8udnsm-039a9c8e.webp",
