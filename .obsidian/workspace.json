@@ -18,8 +18,49 @@
               "icon": "lucide-image",
               "title": "Meletis"
             }
+          },
+          {
+            "id": "db5a1982020fd335",
+            "type": "leaf",
+            "state": {
+              "type": "atlas-vtt-dashboard",
+              "state": {},
+              "icon": "home",
+              "title": "Atlas dashboard"
+            }
+          },
+          {
+            "id": "01a3c7b5f02cf8f1",
+            "type": "leaf",
+            "state": {
+              "type": "atlas-vtt",
+              "state": {
+                "file": "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
+                "mapFilePath": "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
+                "tabs": [
+                  {
+                    "id": "tab-1791645656089-ub6r7o",
+                    "filePath": "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
+                    "displayName": "Meletis",
+                    "isLoaded": true,
+                    "isDirty": false
+                  }
+                ],
+                "activeTabId": "tab-1791645656089-ub6r7o",
+                "viewportPerTab": {
+                  "tab-1791645656089-ub6r7o": {
+                    "centerX": 1275,
+                    "centerY": 1015.5,
+                    "scale": 0.46262924667651406
+                  }
+                }
+              },
+              "icon": "map",
+              "title": "Atlas: Meletis.atlasmap"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,6 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -181,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -226,7 +268,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled 1.canvas"
+                "file": "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -269,11 +311,17 @@
       "farore-session-recorder:Tales from Farore — open het kompas": false
     }
   },
-  "active": "700f22b8a8bcec66",
+  "active": "01a3c7b5f02cf8f1",
   "lastOpenFiles": [
+    "atlas-vtt/collections/The Last Wish/scenes/Meletis.thumb.jpg",
     "The Last Wish/Artefacts/Maps/Meletis.png",
-    "The Last Wish/Artefacts/Maps/Theros.png",
+    "atlas-vtt/collections/The Last Wish/scenes/scene-1791645656018-7k98qz.json",
+    "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
+    "atlas-vtt/collections/The Last Wish/maps/map-1791645625534-ipmqxz.json",
+    "atlas-vtt/assets/thumbnails/Meletis_1791645625525_8udnsm-039a9c8e.webp",
+    "atlas-vtt/assets/Meletis_1791645625525_8udnsm.webp",
     "Untitled 1.canvas",
+    "The Last Wish/Artefacts/Maps/Theros.png",
     "Untitled 1.base",
     "Untitled.base",
     "The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden/Beelden/2026-10-09T14-46-37-294Z-4b74a101.png",
@@ -290,12 +338,9 @@
     "agents/plugins/farore-session-recorder/dist/assets",
     "agents/plugins/farore-session-recorder/gateway.test.js",
     "agents/plugins/farore-session-recorder/gateway.js",
-    "agents/plugins/farore-session-recorder/assets",
     "2026-10-08.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Transcript.md",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Audio/00001-00-00.wav",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Verslag-2026-10-09T12-46-14-241Z-16752355.md",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Etat.json",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-42-15-838Z-86073114/Verslag-2026-10-09T12-42-22-388Z-462a15e2.md",
     "Untitled.canvas",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Transcript.md",
@@ -305,8 +350,6 @@
     "The Last Wish/Sessions/Opnames/Verslagen/2026-10-09 1435.md",
     "agents/plugins/farore-scene-illustrator/README.md",
     "agents/docs/session-recording/Automatische scenebeelden.md",
-    "agents/docs/session-recording/Voorbeeld-scene-v2.png",
-    "agents/docs/session-recording/Voorbeeld-scene.png",
     "agents/docs/session-recording/Sessienotities-prompt.md",
     "agents/docs/session-recording/Opname en transcriptie.md",
     "The Last Wish/Lore/Dodenmaskers van Theros.md",

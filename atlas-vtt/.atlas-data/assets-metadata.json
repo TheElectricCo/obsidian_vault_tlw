@@ -302,6 +302,31 @@
       "createdAt": 1790939812075,
       "modifiedAt": 1790939812075,
       "filePath": "atlas-vtt/collections/The Last Wish/scenes/scene-1790939812075-cr7q40.json"
+    },
+    "map-1791645625534-ipmqxz": {
+      "type": "map",
+      "name": "Meletis",
+      "mapFilePath": "atlas-vtt/assets/Meletis_1791645625525_8udnsm.webp",
+      "collection": "The Last Wish",
+      "tags": [],
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Meletis_1791645625525_8udnsm-039a9c8e.webp",
+      "id": "map-1791645625534-ipmqxz",
+      "createdAt": 1791645625534,
+      "modifiedAt": 1791645625534,
+      "filePath": "atlas-vtt/collections/The Last Wish/maps/map-1791645625534-ipmqxz.json"
+    },
+    "scene-1791645656018-7k98qz": {
+      "type": "scene",
+      "name": "Meletis",
+      "collection": "The Last Wish",
+      "tags": [],
+      "data": {
+        "mapPath": "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap"
+      },
+      "id": "scene-1791645656018-7k98qz",
+      "createdAt": 1791645656018,
+      "modifiedAt": 1791645656018,
+      "filePath": "atlas-vtt/collections/The Last Wish/scenes/scene-1791645656018-7k98qz.json"
     }
   },
   "version": 2,
