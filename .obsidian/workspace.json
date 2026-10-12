@@ -20,43 +20,17 @@
             }
           },
           {
-            "id": "db5a1982020fd335",
-            "type": "leaf",
-            "state": {
-              "type": "atlas-vtt-dashboard",
-              "state": {},
-              "icon": "home",
-              "title": "Atlas dashboard"
-            }
-          },
-          {
             "id": "02b1f6fd4581dcf8",
             "type": "leaf",
             "state": {
-              "type": "atlas-vtt",
+              "type": "markdown",
               "state": {
-                "file": "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
-                "mapFilePath": "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
-                "tabs": [
-                  {
-                    "id": "tab-1791648479655-fvfjzz",
-                    "filePath": "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
-                    "displayName": "Theros",
-                    "isLoaded": true,
-                    "isDirty": false
-                  }
-                ],
-                "activeTabId": "tab-1791648479655-fvfjzz",
-                "viewportPerTab": {
-                  "tab-1791648479655-fvfjzz": {
-                    "centerX": -469.43965517241367,
-                    "centerY": -76.5,
-                    "scale": 0.6823529411764706
-                  }
-                }
+                "file": "AGENTS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map",
-              "title": "Atlas: Theros.atlasmap"
+              "icon": "lucide-file",
+              "title": "AGENTS"
             }
           },
           {
@@ -306,7 +280,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "farore-session-recorder:Farore — sessieopname": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -323,8 +296,9 @@
       "farore-session-recorder:Tales from Farore — open het kompas": false
     }
   },
-  "active": "db5a1982020fd335",
+  "active": "02b1f6fd4581dcf8",
   "lastOpenFiles": [
+    "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
     "The Last Wish/Artefacts/Maps/Meletis.png",
     "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
     "atlas-vtt/collections/The Last Wish/scenes/Meletis.thumb.jpg",
