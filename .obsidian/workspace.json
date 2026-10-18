@@ -34,19 +34,31 @@
             }
           },
           {
+            "id": "bba6434e36aa8bcc",
+            "type": "leaf",
+            "state": {
+              "type": "atlas-vtt-dashboard",
+              "state": {},
+              "icon": "home",
+              "title": "Atlas dashboard"
+            }
+          },
+          {
             "id": "01a3c7b5f02cf8f1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "The Last Wish/Artefacts/Maps/Meletis.png"
+                "file": "The Last Wish/NPCS/Daxos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Meletis"
+              "icon": "lucide-file",
+              "title": "Daxos"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -296,18 +308,22 @@
       "farore-session-recorder:Tales from Farore — open het kompas": false
     }
   },
-  "active": "02b1f6fd4581dcf8",
+  "active": "01a3c7b5f02cf8f1",
   "lastOpenFiles": [
-    "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
+    "The Last Wish/NPCS/DAXOS - Trapped Hero of Meletis.md",
+    "The Last Wish/NPCS/Daxos.md",
+    "The Last Wish/Locations/Akros/THE AKROAN - Army of Akros.md",
+    "The Last Wish/Artefacts/Maps/Theros.png",
     "The Last Wish/Artefacts/Maps/Meletis.png",
     "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
+    "AGENTS.md",
+    "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
     "atlas-vtt/collections/The Last Wish/scenes/Meletis.thumb.jpg",
     "atlas-vtt/collections/The Last Wish/scenes/scene-1791645656018-7k98qz.json",
     "atlas-vtt/collections/The Last Wish/maps/map-1791645625534-ipmqxz.json",
     "atlas-vtt/assets/thumbnails/Meletis_1791645625525_8udnsm-039a9c8e.webp",
     "atlas-vtt/assets/Meletis_1791645625525_8udnsm.webp",
     "Untitled 1.canvas",
-    "The Last Wish/Artefacts/Maps/Theros.png",
     "Untitled 1.base",
     "Untitled.base",
     "The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden/Beelden/2026-10-09T14-46-37-294Z-4b74a101.png",
@@ -322,7 +338,6 @@
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Verslag-2026-10-09T13-44-29-987Z-e7c719b4.md",
     "agents/plugins/farore-session-recorder/dist/assets",
     "agents/plugins/farore-session-recorder/gateway.test.js",
-    "agents/plugins/farore-session-recorder/gateway.js",
     "2026-10-08.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Transcript.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Verslag-2026-10-09T12-46-14-241Z-16752355.md",
@@ -338,13 +353,10 @@
     "agents/docs/session-recording/Sessienotities-prompt.md",
     "agents/docs/session-recording/Opname en transcriptie.md",
     "The Last Wish/Lore/Dodenmaskers van Theros.md",
-    "AGENTS.md",
     "The Last Wish/Sessions/000 - Backstories/Drafts/Darius.md",
     "The Last Wish/Sessions/000 - Backstories/Log/Darius.md",
     "The Last Wish/Artefacts/Items/Loep van de Tweede Blik.md",
     "D&D 5E/Base Edition/Spells/Detect Magic.md",
-    "D&D 5E/Base Edition/Magic Items/Arrow-Catching Shield.md",
-    "The Last Wish/Sessions/000 - Backstories/Drafts/Plink.md",
-    "The Last Wish/Sessions/000 - Backstories/Log/Plink.md"
+    "D&D 5E/Base Edition/Magic Items/Arrow-Catching Shield.md"
   ]
 }
