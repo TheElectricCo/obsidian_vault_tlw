@@ -71,30 +71,14 @@
             "id": "56c966b3c8b76d74",
             "type": "leaf",
             "state": {
-              "type": "atlas-vtt",
+              "type": "markdown",
               "state": {
-                "file": "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
-                "mapFilePath": "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
-                "tabs": [
-                  {
-                    "id": "tab-1792323772777-0lkz1s",
-                    "filePath": "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
-                    "displayName": "Meletis",
-                    "isLoaded": true,
-                    "isDirty": false
-                  }
-                ],
-                "activeTabId": "tab-1792323772777-0lkz1s",
-                "viewportPerTab": {
-                  "tab-1792323772777-0lkz1s": {
-                    "centerX": 1275,
-                    "centerY": 1015.5,
-                    "scale": 0.46262924667651406
-                  }
-                }
+                "file": "The Last Wish/Players/Plink Bugmoss (RIB).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map",
-              "title": "Atlas: Meletis.atlasmap"
+              "icon": "lucide-file",
+              "title": "Plink Bugmoss (RIB)"
             }
           }
         ],
@@ -350,12 +334,12 @@
   },
   "active": "56c966b3c8b76d74",
   "lastOpenFiles": [
+    "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
     "The Last Wish/NPCS/Daxos.md",
     "The Last Wish/NPCS/DAXOS - Trapped Hero of Meletis.md",
     "The Last Wish/Locations/Akros/THE AKROAN - Army of Akros.md",
     "The Last Wish/Artefacts/Maps/Theros.png",
     "The Last Wish/Artefacts/Maps/Meletis.png",
-    "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
     "AGENTS.md",
     "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
     "atlas-vtt/collections/The Last Wish/scenes/Meletis.thumb.jpg",
@@ -396,7 +380,6 @@
     "The Last Wish/Sessions/000 - Backstories/Drafts/Darius.md",
     "The Last Wish/Sessions/000 - Backstories/Log/Darius.md",
     "The Last Wish/Artefacts/Items/Loep van de Tweede Blik.md",
-    "D&D 5E/Base Edition/Spells/Detect Magic.md",
-    "D&D 5E/Base Edition/Magic Items/Arrow-Catching Shield.md"
+    "D&D 5E/Base Edition/Spells/Detect Magic.md"
   ]
 }
