@@ -13,6 +13,8 @@ tags: ["npc/akros"]
 
 # Asterion — De Ongebogene
 
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/04-Asterion.png|400]]
+
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 

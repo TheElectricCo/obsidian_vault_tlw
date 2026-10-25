@@ -13,6 +13,8 @@ tags: ["npc/akros"]
 
 # Thaleia — De Lauwer zonder Goud
 
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/05-Thaleia.png|400]]
+
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
