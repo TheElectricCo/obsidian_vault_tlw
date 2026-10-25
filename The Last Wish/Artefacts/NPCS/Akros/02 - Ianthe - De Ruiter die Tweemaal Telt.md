@@ -16,7 +16,7 @@ tags: ["npc/akros"]
 ![[The Last Wish/Artefacts/NPCS/Akros/Portretten/02-Ianthe.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
-> Ianthe is al beschreven in [[001 - Phanarax Brug#Patrouillecommandant Ianthe]]. Haar beschermende houding en het bevel over vier pegasusruiters komen uit dat avontuur; haar leeftijd, persoonlijke voorgeschiedenis en dit lokale verhaalhaakje zijn nieuw. De redding hangt af van wat er daadwerkelijk aan tafel gebeurt.
+> Ianthe is al beschreven in [[001 - Phanarax Brug#Patrouillecommandant Ianthe]]. Haar beschermende houding en het bevel over vier pegasusruiters komen uit dat avontuur; haar leeftijd, persoonlijke voorgeschiedenis en dit lokale verhaalhaakje zijn nieuw. In de herwerkte brugproef ontvangt zij de groep aan de echte overzijde, als die Akros bereikt. Haar patrouille kan hen niet uit de goddelijke omweg of de Onderwereld redden.
 
 **Functie:** Commandant van een Akroaanse pegasuspatrouille  
 **Identiteit:** Menselijke vrouw, 36 jaar; toegewijd aan Iroas en aan de mensen die ze beschermt.
@@ -40,7 +40,7 @@ Kortaf tegen hooggeplaatsten, zacht tegen bange getuigen. Ze vraagt naar verwond
 
 **Drijfveer:** Haar patrouille inzetbaar houden en een eerlijk verslag van het brugincident verkrijgen, als dat heeft plaatsgevonden.
 
-**Wat deze NPC kan bieden:** Een betrouwbare introductie bij de wacht, water en eerste hulp, en hulp bij het vinden van het tijdelijke onderdak dat in het brugavontuur is beloofd. De veldflacons uit dat avontuur blijven een beperkte voorraad.
+**Wat deze NPC kan bieden:** Een betrouwbare introductie bij de wacht, water en eerste hulp, en hulp bij het vinden van tijdelijk onderdak na aankomst in Akros. De veldflacons uit dat avontuur blijven een beperkte voorraad.
 
 ## Geheim
 

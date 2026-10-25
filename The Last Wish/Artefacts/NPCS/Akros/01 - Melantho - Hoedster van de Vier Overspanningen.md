@@ -40,7 +40,7 @@ Ze spreekt eerst tegen de steen, dan pas tegen mensen. Nauwgezet, met een droge 
 
 **Drijfveer:** Een beschadigd onderhoudsanker lang genoeg afsluiten om het te herstellen, zonder de levensader van de stad door te snijden.
 
-**Wat deze NPC kan bieden:** Een ondertekende inspectieschets, veilige toegang voor onderhoud en een kennismaking met Ianthe. Ze herkent vakmanschap en recente schade, maar kan niet vaststellen wie magische was heeft gemaakt.
+**Wat deze NPC kan bieden:** Een ondertekende inspectieschets, veilige toegang voor onderhoud en een kennismaking met Ianthe. Ze herkent vakmanschap en recente schade, maar kan de oorsprong van de goddelijke stiltegrotten niet uit een inspectie afleiden.
 
 ## Geheim
 

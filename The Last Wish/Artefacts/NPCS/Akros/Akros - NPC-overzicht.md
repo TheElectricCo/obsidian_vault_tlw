@@ -57,7 +57,7 @@ De nummers volgen het overzicht van de sfeerbeelden: **21 Woonwijk, 22 Archief d
 
 ## Verhaallijnen om tijdens het spel op te pakken
 
-- **Onveilig metaal en betwiste leveringen:** Melantho (01), Menekles (12), Brontes (14), Myrrine (19) en Antigone (25) bezitten verschillende stukken van een bevoorradingsprobleem. Hun documenten en monsters vormen een bruikbaar spoor; wie verantwoordelijk is, blijft open. Een gebrekkige klinknagel bewijst niet wie het zwarte zegel op de brug heeft geplaatst.
+- **Onveilig metaal en betwiste leveringen:** Melantho (01), Menekles (12), Brontes (14), Myrrine (19) en Antigone (25) bezitten verschillende stukken van een bevoorradingsprobleem. Hun documenten en monsters vormen een bruikbaar spoor; wie verantwoordelijk is, blijft open. Een gebrekkige klinknagel bewijst geen verband met de goddelijke beproeving op de brug.
 - **Wiens overwinning wordt herdacht:** Thaleia (05), Nikomache (06), Philomelos (08), Lysandra (16), Timarete (20), Kallias (22) en Eryx (23) bieden een spoor langs openbare eer, ontbrekende namen en levende getuigen. Verbind hun historische gebeurtenissen alleen als dat bruikbaar is; ze hoeven niet allemaal over dezelfde veldslag te gaan.
 - **De prijs van een levende stad:** Damon (09), Nerissa (11), Chryse (18), Maia (21), Sostrate (27) en Ione (28) tonen wat tekorten met gewone levens doen. Een oplossing voor het bevoorradingsgeschil kan verschillende problemen verlichten zonder de goddelijke crisis op te lossen.
 
@@ -70,7 +70,7 @@ De nummers volgen het overzicht van de sfeerbeelden: **21 Woonwijk, 22 Archief d
 
 ## Samenhang aan tafel
 
-- Het brugavontuur wijst de maker van het zwarte zegel niet aan. Deze NPC’s kunnen bewijs onderzoeken zonder achteraf vast te leggen wie de dader is.
+- Het brugavontuur draait om drie stiltegrotten en de doorgangen van Iroas en Erebos. Deze NPC’s kunnen getuigenissen en zichtbare schade onderzoeken; zij kennen de oorsprong van de beproeving niet automatisch. De eerdere hinderlaag met het zwarte zegel maakt geen deel uit van deze versie.
 - Het overkoepelende verhaalconcept maakt de brug tijdens Akros’ afzondering tot de enige toegangsweg. De bergweg bij de afgebeelde Oostpoort biedt geen bruikbare omweg; Theris’ notitie behoudt die beperking.
 - Macar blijft [[MACAR - King of Akros|koning]] en [[CYMEDE - Chancellor|Cymede]] blijft kanselier. Nieuwe klerken, verzorgers en officieren vervangen hen niet.
 - Geheimen beschrijven feiten over deze nieuwe plaatselijke verhalen; vermoedens van personages blijven vermoedens. Gebruik de gewone regels uit 2014 en alle Farore-huisregels voor worpen, kosten en diensten. Er worden geen nieuwe gevechtswaarden, spreuken, automatische gunsten of dialogen voor spelerspersonages voorgeschreven.
