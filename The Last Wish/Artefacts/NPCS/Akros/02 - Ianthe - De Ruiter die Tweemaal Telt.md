@@ -13,6 +13,8 @@ tags: ["npc/akros"]
 
 # Ianthe — De Ruiter die Tweemaal Telt
 
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/02-Ianthe.png|400]]
+
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Ianthe is al beschreven in [[001 - Phanarax Brug#Patrouillecommandant Ianthe]]. Haar beschermende houding en het bevel over vier pegasusruiters komen uit dat avontuur; haar leeftijd, persoonlijke voorgeschiedenis en dit lokale verhaalhaakje zijn nieuw. De redding hangt af van wat er daadwerkelijk aan tafel gebeurt.
 

@@ -13,6 +13,8 @@ tags: ["npc/akros"]
 
 # Melantho — Hoedster van de Vier Overspanningen
 
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/01-Melantho.png|400]]
+
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 

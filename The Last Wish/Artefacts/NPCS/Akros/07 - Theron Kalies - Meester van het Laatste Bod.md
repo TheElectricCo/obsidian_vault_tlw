@@ -13,6 +13,8 @@ tags: ["npc/akros"]
 
 # Theron Kalies — Meester van het Laatste Bod
 
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/07-Theron-Kalies.png|400]]
+
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Therons naam, titel, veilinghuis, uitnodiging aan [[Darius Voss]] en de aangekondigde band tussen Lot XVII en Varyas zijn vastgelegd in [[The Last Wish/Sessions/000 - Backstories/Log/Darius]]. Zijn karakter en het documentengeschil zijn nieuw. Deze notitie legt de echtheid van het kavel, de werkelijke eigenaar en de identiteit van degene die Darius’ papieren doorzocht niet vast.
 

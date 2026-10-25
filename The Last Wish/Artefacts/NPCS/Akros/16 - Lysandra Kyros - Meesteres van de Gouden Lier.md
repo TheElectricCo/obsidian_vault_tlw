@@ -13,6 +13,8 @@ tags: ["npc/akros"]
 
 # Lysandra Kyros — Meesteres van de Gouden Lier
 
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/16-Lysandra-Kyros.png|400]]
+
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Lysandra’s naam, haar positie als meesteres van de Gouden Lier en haar uitnodiging aan [[Arowel Starweaver]] voor de Iroan Games zijn vastgelegd in Arowels spelersnotitie en proloog. Haar uiterlijk, financieringsgeschil en werkwijze zijn nieuw. Naast het uitgesproken artistieke doel blijft de achterliggende reden voor de uitnodiging open.
 

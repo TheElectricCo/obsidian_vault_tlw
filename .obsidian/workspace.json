@@ -11,12 +11,14 @@
             "id": "ef75541d1052350f",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "The Last Wish/Artefacts/Scenery/Akros/06-Temple-Of-Triumph--Monolith_Animated.mp4"
+                "file": "The Last Wish/Artefacts/Scenery/Akros/Akros - Scenery Gallery.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "06-Temple-Of-Triumph--Monolith_Animated"
+              "title": "Akros - Scenery Gallery"
             }
           },
           {
@@ -27,8 +29,8 @@
               "state": {
                 "payload": {
                   "kind": "image",
-                  "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png?1792943444155",
-                  "filePath": "The Last Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png"
+                  "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Akros/13-Stables.png?1792941393473",
+                  "filePath": "The Last Wish/Artefacts/Scenery/Akros/13-Stables.png"
                 }
               },
               "icon": "layout-dashboard",
@@ -65,16 +67,17 @@
             "id": "9106d4f08eb2eb4d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "The Last Wish/Artefacts/Scenery/Akros/05-Akropolis-of-Iroas.png"
+                "file": "The Last Wish/Artefacts/Scenery/Akros/Akros - Scenery Gallery.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "05-Akropolis-of-Iroas"
+              "icon": "lucide-file",
+              "title": "Akros - Scenery Gallery"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -344,8 +347,8 @@
                   "state": {
                     "payload": {
                       "kind": "image",
-                      "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png?1792943444155",
-                      "filePath": "The Last Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png"
+                      "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Akros/13-Stables.png?1792941393473",
+                      "filePath": "The Last Wish/Artefacts/Scenery/Akros/13-Stables.png"
                     }
                   },
                   "icon": "monitor-up",
@@ -365,20 +368,34 @@
       }
     ]
   },
-  "active": "9106d4f08eb2eb4d",
+  "active": "700f22b8a8bcec66",
   "lastOpenFiles": [
-    "The Last Wish/Artefacts/Scenery/Akros/04-Upper-Gate.png",
-    "The Last Wish/Artefacts/Scenery/Akros/03-Lower-Gate.png",
-    "The Last Wish/Artefacts/Scenery/Akros/02-Colossus-of-Akros.png",
-    "The Last Wish/Artefacts/Scenery/Akros/25-The-Ember-Anvil.png",
-    "The Last Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png",
-    "The Last Wish/Artefacts/Scenery/Akros/27-Temple-Terraces.png",
-    "The Last Wish/Artefacts/Scenery/Akros/28-Olive-Terraces.png",
-    "The Last Wish/Artefacts/Scenery/Akros/29-The-Pilgrim-Road.png",
-    "The Last Wish/Artefacts/Scenery/Akros/30-East-Gate.png",
-    "The Last Wish/Artefacts/Scenery/Akros/22-Archive-of-Deeds.png",
+    "output/pdf/bron/maak_kaarten.py",
+    "output/pdf/bron",
+    "tmp/pdfs/review-3.png",
+    "tmp/pdfs/review-2.png",
+    "tmp/pdfs/review-1.png",
+    "tmp/pdfs/review-0.png",
+    "output/pdf/Het Sintelaambeeld - Diensten en tarieven.pdf",
+    "output/pdf/Klifwacht - Spijzen en dranken.pdf",
+    "output/pdf/De Speer en het Schild - Spijzen en dranken.pdf",
+    "output/pdf/De Rustende Veteraan - Spijzen en dranken.pdf",
+    "The Last Wish/Artefacts/NPCS/Akros/Portretten/16-Lysandra-Kyros.png",
+    "The Last Wish/Artefacts/NPCS/Akros/Portretten/07-Theron-Kalies.png",
+    "The Last Wish/Artefacts/NPCS/Akros/Portretten/02-Ianthe.png",
+    "The Last Wish/Artefacts/NPCS/Akros/Portretten/01-Melantho.png",
+    "tmp/pdfs/maak_kaarten.py",
+    "tmp/pdfs",
+    "tmp",
+    "output/pdf",
+    "output",
+    "The Last Wish/Artefacts/NPCS/Akros/Portretten/Akros - Portretprompts.md",
+    "The Last Wish/Artefacts/Scenery/Akros/Akros - Scenery Gallery.md",
     "The Last Wish/Artefacts/Scenery/Akros - Banner Reduction Prompts.md",
-    "The Last Wish/Artefacts/Scenery/Akros/23-The-Veterans-Rest.png",
+    "The Last Wish/Artefacts/Scenery/Akros - Generation Prompts.md",
+    "The Last Wish/Artefacts/NPCS/Akros/03 - Orestes - De Geduldige Poort.md",
+    "The Last Wish/Artefacts/Scenery/Akros/05-Akropolis-of-Iroas.png",
+    "The Last Wish/Artefacts/Scenery/Akros/04-Upper-Gate.png",
     "The Last Wish/Artefacts/NPCS/Akros/25 - Antigone - De Dochter van de Sintel.md",
     "The Last Wish/Artefacts/NPCS/Akros/27 - Sostrate - Hoedster van de Kleine Vlammen.md",
     "The Last Wish/Artefacts/NPCS/Akros/29 - Timon - De Geleende Staf.md",
@@ -396,23 +413,9 @@
     "The Last Wish/Artefacts/NPCS/Akros/17 - Eudora - Het Ongebroken Zegel.md",
     "The Last Wish/Artefacts/NPCS/Akros/05 - Thaleia - De Lauwer zonder Goud.md",
     "The Last Wish/Artefacts/NPCS/Akros/04 - Asterion - De Ongebogene.md",
-    "The Last Wish/Artefacts/Scenery/Akros/06-Temple-Of-Triumph--Monolith_Animated.mp4",
     "The Last Wish/Artefacts/NPCS/Akros/16 - Lysandra Kyros - Mistress of the Golden Lyre.md",
     "The Last Wish/Artefacts/NPCS/Akros/Akros - NPC-overzicht.md",
     "The Last Wish/Artefacts/NPCS/Akros/19 - Myrrine - De Tweede Snede.md",
-    "The Last Wish/Artefacts/NPCS/Akros/18 - Chryse - De Eerlijke Maat.md",
-    "The Last Wish/Artefacts/NPCS/Akros/15 - Praxilla - De Open Hand.md",
-    "The Last Wish/Artefacts/NPCS/Akros/12 - Menekles - De Laatste Klinknagel.md",
-    "The Last Wish/Artefacts/NPCS/Akros/11 - Nerissa - De Nachtelijke Kom.md",
-    "The Last Wish/Artefacts/NPCS/Akros",
-    "The Last Wish/Artefacts/NPCS",
-    "ElevenLabs_video_google-veo-3-1-lite_Animate this an_2026-10-25T15_16_27.mp4",
-    "The Last Wish/Artefacts/Scenery/Akros/07-House-Of-The-Golden-Spear_Animated.mp4",
-    "The Last Wish/Artefacts/Scenery/Akros/ElevenLabs_video_google-veo-3-1-lite_Animate this an_2026-10-25T15_14_17.mp4",
-    "The Last Wish/Artefacts/Scenery/Akros/02-Colossus-of-Akros_Animated.mp4",
-    "The Last Wish/Artefacts/Scenery/Akros - Before Banner Reduction.zip",
-    "The Last Wish/Artefacts/Scenery/Akros/ElevenLabs_video_google-veo-3-1-lite_Animate this an_2026-10-25T14_55_59.mp4",
-    "The Last Wish/Artefacts/Scenery/Akros/15-Arena_Animated.mp4",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
