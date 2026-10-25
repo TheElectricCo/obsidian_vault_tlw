@@ -41,9 +41,9 @@
               "type": "ttrpg-tools-screen-controller",
               "state": {
                 "payload": {
-                  "kind": "video",
-                  "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Akros/02-Colossus_animated.mp4?1792940171477",
-                  "filePath": "The Last Wish/Artefacts/Scenery/Akros/02-Colossus_animated.mp4"
+                  "kind": "image",
+                  "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Akros/07-House-of-the-Golden-Spear.png?1792941053964",
+                  "filePath": "The Last Wish/Artefacts/Scenery/Akros/07-House-of-the-Golden-Spear.png"
                 }
               },
               "icon": "layout-dashboard",
@@ -330,10 +330,10 @@
             "state": {
               "type": "video",
               "state": {
-                "file": "The Last Wish/Artefacts/Scenery/Akros/02-Colossus_animated.mp4"
+                "file": "The Last Wish/Artefacts/Scenery/Akros/02-Colossus-of-Akros_Animated.mp4"
               },
               "icon": "lucide-file",
-              "title": "02-Colossus_animated"
+              "title": "02-Colossus-of-Akros_Animated"
             }
           },
           {
@@ -342,14 +342,26 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "The Last Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png"
+                "file": "The Last Wish/Artefacts/Scenery/Akros/08-Hall-of-Champions.png"
               },
               "icon": "lucide-image",
-              "title": "26-Cliffwatch"
+              "title": "08-Hall-of-Champions"
+            }
+          },
+          {
+            "id": "a3a17254896d8a8a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Artefacts/Scenery/Akros/07-House-of-the-Golden-Spear.png"
+              },
+              "icon": "lucide-image",
+              "title": "07-House-of-the-Golden-Spear"
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -618,9 +630,9 @@
                   "type": "ttrpg-tools-screen-view",
                   "state": {
                     "payload": {
-                      "kind": "video",
-                      "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Akros/02-Colossus_animated.mp4?1792940171477",
-                      "filePath": "The Last Wish/Artefacts/Scenery/Akros/02-Colossus_animated.mp4"
+                      "kind": "image",
+                      "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Akros/07-House-of-the-Golden-Spear.png?1792941053964",
+                      "filePath": "The Last Wish/Artefacts/Scenery/Akros/07-House-of-the-Golden-Spear.png"
                     }
                   },
                   "icon": "monitor-up",
@@ -640,21 +652,24 @@
       }
     ]
   },
-  "active": "7161add0ddf96242",
+  "active": "88cb076b037a8246",
   "lastOpenFiles": [
-    "The Last Wish/Artefacts/Scenery/Akros/27-Temple-Terraces.png",
+    "The Last Wish/Artefacts/Scenery/Akros/08-Hall-of-Champions.png",
+    "The Last Wish/Artefacts/Scenery/Akros/01-Bridge-of-Pharagax.png",
+    "The Last Wish/Artefacts/Scenery/Akros/05-Akropolis-of-Iroas.png",
+    "The Last Wish/Artefacts/Scenery/Akros/03-Lower-Gate.png",
+    "The Last Wish/Artefacts/Scenery/Akros/04-Upper-Gate.png",
+    "The Last Wish/Artefacts/Scenery/Akros/02-Colossus-of-Akros_Animated.mp4",
     "The Last Wish/Artefacts/Scenery/Akros/28-Olive-Terraces.png",
+    "The Last Wish/Artefacts/Scenery/Akros/29-The-Pilgrim-Road.png",
+    "The Last Wish/Artefacts/Scenery/Akros/30-East-Gate.png",
+    "The Last Wish/Artefacts/Scenery/Akros - Before Banner Reduction.zip",
+    "The Last Wish/Artefacts/Scenery/Akros/Akros - Scenery Gallery.md",
+    "The Last Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png",
+    "The Last Wish/Artefacts/Scenery/Akros/27-Temple-Terraces.png",
     "The Last Wish/Artefacts/Scenery/Akros - Generation Prompts.md",
     "The Last Wish/Artefacts/Scenery/Akros/23-The-Veterans-Rest.png",
-    "The Last Wish/Artefacts/Scenery/Akros/24-The-Spear-and-Shield.png",
-    "The Last Wish/Artefacts/Scenery/Akros/25-The-Ember-Anvil.png",
-    "The Last Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png",
-    "The Last Wish/Artefacts/Scenery/Akros/21-Residential-District.png",
-    "The Last Wish/Artefacts/Scenery/Akros/22-Archive-of-Deeds.png",
-    "The Last Wish/Artefacts/Scenery/Akros/02-Colossus_animated.mp4",
     "The Last Wish/Artefacts/Scenery/Akros/ElevenLabs_video_google-veo-3-1-lite_Animate this an_2026-10-25T14_55_59.mp4",
-    "The Last Wish/Artefacts/Scenery/Akros/20-Artisan-Quarter.png",
-    "The Last Wish/Artefacts/Scenery/Akros/18-Agora---Main-Market.png",
     "The Last Wish/Artefacts/Scenery/Akros/15-Arena_Animated.mp4",
     "The Last Wish/Artefacts/Scenery/Akros/ElevenLabs_video_google-veo-3-1-lite_Animate this an_2026-10-25T14_41_50.mp4",
     "ElevenLabs_video_google-veo-3-1-lite_Animate this an_2026-10-25T14_41_50.mp4",
@@ -662,7 +677,6 @@
     "The Last Wish/Artefacts/Scenery/Road to Pharagax",
     "ZoomMap/PlayerScreen/Fog",
     "ZoomMap/PlayerScreen",
-    "ZoomMap",
     "AGENTS.md",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery - Generation Prompts.md",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Phanarax Brug.md",
@@ -687,7 +701,6 @@
     "agents/plugins/farore-scene-illustrator/README.md",
     "agents/docs/session-recording/Automatische scenebeelden.md",
     "agents/docs/session-recording/Sessienotities-prompt.md",
-    "agents/docs/session-recording/Opname en transcriptie.md",
-    "The Last Wish/Lore/Dodenmaskers van Theros.md"
+    "agents/docs/session-recording/Opname en transcriptie.md"
   ]
 }
