@@ -1,5 +1,8 @@
 # Akros — Portretprompts
 
+> [!info] Vorige versie
+> Deze prompts horen bij de oorspronkelijke portretten. De huidige rassen, uiterlijke kenmerken en beelden staan in [[Akros - Portretprompts v2]].
+
 Gegenereerd op 2026-10-25 met de ingebouwde imagegen-tool. Vier afzonderlijke portretten op basis van de bijbehorende NPC-notities; kleding, gezichten en achtergronden zijn visuele interpretaties.
 
 ## Melantho

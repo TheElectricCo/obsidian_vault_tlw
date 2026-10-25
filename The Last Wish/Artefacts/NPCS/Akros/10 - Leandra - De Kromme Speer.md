@@ -13,7 +13,7 @@ tags: ["npc/akros"]
 
 # Leandra — De Kromme Speer
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/10-Leandra.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/10-Leandra-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een pezige vrouw met een diepe bruine huid, een lang smal gezicht en een strakgevlochten zwarte haarstaart. Haar glimlach trekt één mondhoek hoger dan de andere.
 
 Boven haar bank hangt een kromme oefenspeer. Door een gebarsten armbeschermer heeft ze rood koord gevlochten. Haar gewonde hand sluit niet volledig; ze demonstreert grepen langzaam en zonder haar gebrek te verbergen.
 

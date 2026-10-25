@@ -1,5 +1,8 @@
 # Akros — Overige portretprompts
 
+> [!info] Vorige versie
+> Deze prompts horen bij de oorspronkelijke portretten. De huidige rassen, uiterlijke kenmerken en beelden staan in [[Akros - Portretprompts v2]].
+
 Gegenereerd met de ingebouwde imagegen-tool. Beschrijvingen overgenomen uit de NPC-fiches; overige uiterlijke details zijn visuele interpretaties.
 
 ## 03 — Orestes

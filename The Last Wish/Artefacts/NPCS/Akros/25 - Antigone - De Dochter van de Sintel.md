@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Antigone — De Dochter van de Sintel
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/25-Antigone.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/25-Antigone-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Zelfstandig smid en slotenhersteller  
-**Identiteit:** Menselijke vrouw, 35 jaar; praktische vereerster van Purphoros.
+**Identiteit:** Tieflingvrouw, 35 jaar; praktische vereerster van Purphoros.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een tengere tiefling met diep wijnrode huid, korte zwarte hoorns en zwarte krullen in een hoge knoop. Eén hoornpunt is stomp; een bronzen hamertje bungelt aan haar oor.
 
 Haar schort is te ruim bij de schouders: ze erfde het van haar moeder. In één oor draagt ze een klein bronzen hamertje. Ze weegt beschadigde voorwerpen in beide handen voordat ze besluit wat nog te redden valt.
 

@@ -13,7 +13,7 @@ tags: ["npc/akros"]
 
 # Rhode — De Stille Einder
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/26-Rhode.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/26-Rhode-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een lange vrouw met bleke, door de wind rode huid, een forse haviksneus en een dikke grijze vlecht. Haar gezicht is smal, haar schouders opvallend breed.
 
 Een grijze vlecht hangt over een bijna wit verbleekte jas. Zelfs tijdens het bedienen draagt ze stevige laarzen. Haar bekers hebben brede bodems tegen plotselinge windvlagen.
 

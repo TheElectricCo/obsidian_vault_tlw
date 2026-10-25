@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Maia — De Lantaarn van het Binnenhof
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/21-Maia.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/21-Maia-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Vroedvrouw en buurtorganisator  
-**Identiteit:** Menselijke vrouw, 63 jaar; vertrouwd door huishoudens langs verschillende trapstraten.
+**Identiteit:** Vrouwelijke leonin, 63 jaar; vertrouwd door huishoudens langs verschillende trapstraten.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een oude leonin met roomwitte vacht, een brede zachte snuit en één melkachtig oog. Haar ronde oren verdwijnen half in de wollige wangvacht.
 
 Ze draagt linnen, zeep en een bundeltje verse munt bij zich. Haar schouders zijn gerond door jaren van buigen over bedden. Elk kind in de straat lijkt het recht te hebben aan haar mouw te trekken.
 

@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Brontes — De Beheerste Vlam
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/14-Brontes.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/14-Brontes-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Gieterijmeester en bronsgieter  
-**Identiteit:** Menselijke man, 46 jaar; vereerder van Purphoros met zwaar verlittekende onderarmen.
+**Identiteit:** Mannelijke dragonborn, 46 jaar; vereerder van Purphoros met zwaar verlittekende onderarmen.
 
 ## Positie op de kaart
 
@@ -32,7 +32,9 @@ Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rec
 
 ## Eerste indruk
 
-Zijn baard is kortgeknipt tegen vonken. Op zijn bureau staat een kleien kopje met gestold brons naast een misvormd speelgoedsoldaatje. Rond hitte beweegt hij langzaam, rond dwaasheid snel.
+**Uiterlijk:** Een bronsgeschubde dragonborn met een stompe drakensnuit, een brede nek en een afgebroken hoornkam. Donkere brandsporen tekenen de schubben van zijn onderarmen.
+
+Zijn afgebroken hoornkam blijft vrij van losse versiering die vonken kan vangen. Op zijn bureau staat een kleien kopje met gestold brons naast een misvormd speelgoedsoldaatje. Rond hitte beweegt hij langzaam, rond dwaasheid snel.
 
 ## Brontes spelen
 

@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Melantho — Hoedster van de Vier Overspanningen
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/01-Melantho.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/01-Melantho-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Bruggenbouwster en opzichter van het onderhoud  
-**Identiteit:** Menselijke vrouw, 61 jaar; eert Purphoros door haar werk.
+**Identiteit:** Dwergenvrouw, 161 jaar; eert Purphoros door haar werk.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een gedrongen heuveldwerg met een vierkante, sproetige kop, brede neus en twee korte zilverwitte vlechten. Haar leiblauwe werkjas draagt krijtsporen.
 
 Een kleine vrouw in een veel te grote, opgelapte jas knielt met haar wang tegen het plaveisel. Het krijt heeft een witte halve maan in haar duimnagel gesleten. Aan haar riem hangen vier geknoopte koorden, één voor elke overspanning.
 

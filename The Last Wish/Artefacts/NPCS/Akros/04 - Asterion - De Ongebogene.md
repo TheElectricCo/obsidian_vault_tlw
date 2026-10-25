@@ -13,7 +13,7 @@ tags: ["npc/akros"]
 
 # Asterion — De Ongebogene
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/04-Asterion.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/04-Asterion-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Zijn zwarte vacht heeft een witte bles die scheef over zijn brede rundersnuit loopt. Zijn linkeroor is ingescheurd; de zware hoorns staan laag en breed.
 
 Eén hoorn heeft een bronzen dop; aan beide zitten kleine gewijde knopen. Hij buigt zijn hoofd om kinderen te verstaan en blijft kaarsrecht staan tegenover magistraten.
 

@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Orestes — De Geduldige Poort
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/03-Orestes.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/03-Orestes-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Poortsergeant en klerk voor aankomsten  
-**Identiteit:** Menselijke man, 48 jaar; voormalig infanterist met een beschadigde knie.
+**Identiteit:** Halforkman, 48 jaar; voormalig infanterist met een beschadigde knie.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een grijsgroene halfork met een brede kaak, kleine uitstekende onderhoektanden en een kaalgeschoren hoofd. Achter zijn strenge wenkbrauwen schuilt een geduldige blik.
 
 Zijn speer staat binnen handbereik, maar meestal houdt hij een beker en een stompe schrijfstift vast. Een houten voetenbankje houdt één knie gestrekt onder zijn tafel.
 

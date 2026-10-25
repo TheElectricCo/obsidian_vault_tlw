@@ -13,7 +13,7 @@ tags: ["npc/akros"]
 
 # Nikomache — De Naam onder de Lauwer
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/06-Nikomache.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/06-Nikomache-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een tengere, zeer oude vrouw met koperbruine huid, een scherpe kromme neus en een vrijwel tandeloze mond. Onder haar zwarte sjaal piekt dun, steil wit haar.
 
 Haar vingers zijn blijvend groen van gekneusde laurier. Een donkere sjaal beschut een gezicht dat zon en jaren hebben getekend. Haar mand heeft aparte vakken voor kransen, linten en afgebroken namen.
 

@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Ione — Wortel en Steen
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/28-Ione.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/28-Ione-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Olijventeler en beheerder van de irrigatie  
-**Identiteit:** Menselijke vrouw, 46 jaar; pachtboerin en organisator van seizoenswerk.
+**Identiteit:** Vrouwelijke woudelf, 146 jaar; pachtboerin en organisator van seizoenswerk.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een pezige woudelf met koperkleurige huid, zeer lange oren en amberkleurige ogen. Haar haast witte haar is kort afgesneden onder een verbleekte hoofddoek.
 
 Zilveren bladeren kleven aan een door de zon verbleekte hoofddoek. Haar mes dient om te enten, niet om te dreigen. Wanneer ze een schuld berekent, draait een gladde olijfpit tussen haar vingers.
 

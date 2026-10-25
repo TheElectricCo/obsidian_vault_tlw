@@ -13,7 +13,7 @@ tags: ["npc/akros"]
 
 # Ianthe — De Ruiter die Tweemaal Telt
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/02-Ianthe.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/02-Ianthe-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Ianthe is al beschreven in [[001 - Phanarax Brug#Patrouillecommandant Ianthe]]. Haar beschermende houding en het bevel over vier pegasusruiters komen uit dat avontuur; haar leeftijd, persoonlijke voorgeschiedenis en dit lokale verhaalhaakje zijn nieuw. In de herwerkte brugproef ontvangt zij de groep aan de echte overzijde, als die Akros bereikt. Haar patrouille kan hen niet uit de goddelijke omweg of de Onderwereld redden.
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een lange, donkerbruine vrouw met hoge jukbeenderen, een brede neus en zeer kort kroeshaar. Een bleke inkeping onderbreekt haar linkerwenkbrauw.
 
 Haar rode mantel is zorgvuldig versteld, haar bronzen helm gedeukt boven één oor. Voordat ze een moeilijke vraag beantwoordt, telt ze de mensen om zich heen. Voor haar vertrek telt ze opnieuw.
 

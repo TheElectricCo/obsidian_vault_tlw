@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Philomelos — Hoeder van de Lege Sokkel
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/08-Philomelos.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/08-Philomelos-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Beheerder van openbare eerbewijzen  
-**Identiteit:** Menselijke man, 64 jaar; gepensioneerd heraut die met een wandelstok loopt.
+**Identiteit:** Mannelijke sater, 64 jaar; gepensioneerd heraut die met een wandelstok loopt.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een oude sater met donker kastanjebruine bokkenpoten, korte terugkrullende hoorns en een smal gezicht vol rimpels. Een lange witte sik rust op zijn plechtige gewaad.
 
 Hij kleedt zich alsof er elk ogenblik een koninklijke plechtigheid kan beginnen. Bronsstof zit in de naden van zijn wandelstok. Zijn verzwakte stem wordt onverwacht helder wanneer hij namen opzegt.
 

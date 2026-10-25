@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Dione — Het Schild aan de Deur
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/24-Dione.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/24-Dione-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Waardin en voormalig bevoorradingskoerier  
-**Identiteit:** Menselijke vrouw, 40 jaar; scherpzinnige gastvrouw voor soldaten buiten dienst.
+**Identiteit:** Vrouwelijke minotaurus, 40 jaar; scherpzinnige gastvrouw voor soldaten buiten dienst.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een roodbonte minotaurus met een brede witte snoet, korte opwaarts gebogen hoorns en donkere krullen tussen de oren. Haar rechterhoorn draagt een klein koperen ringetje.
 
 Haar donkere krullen zijn vastgebonden met een strook uit een oude rode mantel. Ze draagt drie kleikruiken zonder dienblad en onthoudt aan welke tafel elke ruzie begon.
 

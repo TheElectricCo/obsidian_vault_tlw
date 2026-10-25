@@ -13,7 +13,7 @@ tags: ["npc/akros"]
 
 # Eryx — De Onvoltooide Heildronk
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/23-Eryx.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/23-Eryx-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een lange, ooit brede man met een diepbruine huid, ingevallen wangen en een kort wit ringbaardje. Zijn kale kruin glanst in het haardlicht.
 
 Een brede man die door ouderdom mager is geworden, met een wollen doek om één knie. Hij poetst een gedeukte beker die hij nooit vult. De stoelen bij de haard blijven altijd gemakkelijk bereikbaar.
 

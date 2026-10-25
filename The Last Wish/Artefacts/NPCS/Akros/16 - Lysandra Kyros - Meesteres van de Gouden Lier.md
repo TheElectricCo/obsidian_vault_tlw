@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Lysandra Kyros — Meesteres van de Gouden Lier
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/16-Lysandra-Kyros.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/16-Lysandra-Kyros-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Lysandra’s naam, haar positie als meesteres van de Gouden Lier en haar uitnodiging aan [[Arowel Starweaver]] voor de Iroan Games zijn vastgelegd in Arowels spelersnotitie en proloog. Haar uiterlijk, financieringsgeschil en werkwijze zijn nieuw. Naast het uitgesproken artistieke doel blijft de achterliggende reden voor de uitnodiging open.
 
 **Functie:** Artistiek leidster en beschermvrouw van gastartiesten  
-**Identiteit:** Menselijke vrouw, 47 jaar; geduchte organisatrice met het gehoor van een musicus.
+**Identiteit:** Vrouwelijke sater, 47 jaar; geduchte organisatrice met het gehoor van een musicus.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een rijzige sater met kleine spiraalhoorns, warmgouden ogen en koperrode krullen tot op haar schouders. Onder haar blauwe gewaad zijn donkerbruine bokkenpoten zichtbaar.
 
 Een gouden lierspeld glanst op donkere blauwe stof. Met twee geheven vingers brengt ze een zaal tot stilte. Daarna luistert ze zo aandachtig dat zelfs het stemmen van een snaar de moeite waard lijkt.
 

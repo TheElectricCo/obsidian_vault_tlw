@@ -13,7 +13,7 @@ tags: ["npc/akros"]
 
 # Damon — Het Rode Grootboek
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/09-Damon.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/09-Damon-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een zware man met rossige huid, een rond kaal hoofd en een korte roodbruine snor. In de plooien onder zijn ogen ligt de vermoeidheid van een slechte nacht.
 
 Zijn borstharnas is degelijk, niet pronkzuchtig. Een oud veldmes houdt een stapel vorderingen op zijn plaats. Zijn vingers dragen evenveel inkt als die van een burgerklerk.
 

@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Praxilla — De Open Hand
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/15-Praxilla.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/15-Praxilla-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Arenascheidsrechter en voormalig worstelkampioene  
-**Identiteit:** Menselijke vrouw, 44 jaar; ervaren wedstrijddeelneemster die eerlijke krachtmetingen verdedigt.
+**Identiteit:** Vrouwelijke halfork, 44 jaar; ervaren wedstrijddeelneemster die eerlijke krachtmetingen verdedigt.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een brede halfork met grijsolijfkleurige huid, een platgebroken neus en één afgebroken onderhoektand. Haar zwarte haar is tot een korte borstel geschoren.
 
 Haar neus is meer dan eens gebroken. Ze draagt een witte scheidsrechtersjerp over een eenvoudige rode tuniek en heeft geen wapen bij zich. Een klein kleifiche tikt tussen twee dikke vingers.
 

@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Menekles — De Laatste Klinknagel
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/12-Menekles.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/12-Menekles-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Wapenmeester en magazijnbeheerder van het garnizoen  
-**Identiteit:** Menselijke man, 53 jaar; nauwgezet metaalbewerker die slecht in de verte ziet.
+**Identiteit:** Dwergenman, 153 jaar; nauwgezet metaalbewerker die slecht in de verte ziet.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een smalle bergdwerg met een lange, in drie punten gevlochten zwarte baard en een groot kalend voorhoofd. Hij knijpt zijn kleine bruine ogen samen wanneer hij opkijkt.
 
 Hij buigt zo dicht over een helm dat zijn adem het brons beslaat. Elk stuk gereedschap ligt in zijn eigen uitgesleten omtrek op tafel. Kleine monsters van gebroken klinknagels vullen een verder sierlijk juwelendoosje.
 

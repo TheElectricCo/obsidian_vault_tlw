@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Nerissa — De Nachtelijke Kom
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/11-Nerissa.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/11-Nerissa-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Kazernekokkin en onofficiële vertrouwenspersoon  
-**Identiteit:** Menselijke vrouw, 58 jaar; burgerwerknemer van het garnizoen.
+**Identiteit:** Halflingvrouw, 58 jaar; burgerwerknemer van het garnizoen.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een ronde halfling met warmbruine huid, brede wangen en een wirwar van korte grijze krullen. Haar grote blote voeten steken onder het schort uit.
 
 Meel ligt in haar wenkbrauwen. Ze heeft een verzameling geschilferde kommen en onthoudt welke soldaat welke kom verkiest. Een verbleekt veldtochtlint dient als schortband.
 

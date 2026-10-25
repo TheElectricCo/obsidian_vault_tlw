@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Theron Kalies — Meester van het Laatste Bod
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/07-Theron-Kalies.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/07-Theron-Kalies-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Therons naam, titel, veilinghuis, uitnodiging aan [[Darius Voss]] en de aangekondigde band tussen Lot XVII en Varyas zijn vastgelegd in [[The Last Wish/Sessions/000 - Backstories/Log/Darius]]. Zijn karakter en het documentengeschil zijn nieuw. Deze notitie legt de echtheid van het kavel, de werkelijke eigenaar en de identiteit van degene die Darius’ papieren doorzocht niet vast.
 
 **Functie:** Eerste veilingsmeester van het Huis van de Gouden Speer  
-**Identiteit:** Menselijke man, 50 jaar; onberispelijke handelaar in reputaties en zeldzame voorwerpen.
+**Identiteit:** Halfelfman, 70 jaar; onberispelijke handelaar in reputaties en zeldzame voorwerpen.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een slanke halfelf met lange puntoren, een smal hoekig gezicht en lichtbruine huid. Zijn zwarte haar is strak naar achteren gekamd, met één brede witte lok bij de slaap.
 
 Een enkele gouden speerspeld sluit zijn donkere mantel. Zijn handen zijn onbedekt en zorgvuldig gewassen; kostbare voorwerpen raakt hij alleen door linnen heen aan. Zijn glimlach volgt een hartslag na zijn oordeel.
 

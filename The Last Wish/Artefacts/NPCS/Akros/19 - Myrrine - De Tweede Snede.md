@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Myrrine — De Tweede Snede
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/19-Myrrine.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/19-Myrrine-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Handelaar in tweedehandswapens en taxateur van uitrusting  
-**Identiteit:** Menselijke vrouw, 37 jaar; voormalig karavaanwachter.
+**Identiteit:** Tieflingvrouw, 37 jaar; voormalig karavaanwachter.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een slanke tiefling met asviolette huid, ivoorkleurige hoorns die langs haar slapen naar achteren buigen en geheel gouden ogen. Een litteken doorsnijdt haar neusbrug.
 
 Een oud litteken loopt over haar neusbrug. Aan elk hersteld voorwerp bindt ze een restje blauwe wol. Ze voelt de balans van een kling voordat ze naar de versiering kijkt.
 

@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Thaleia — De Lauwer zonder Goud
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/05-Thaleia.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/05-Thaleia-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Priesteres voor verzoekschriften en mensen die bescherming zoeken  
-**Identiteit:** Menselijke vrouw, 55 jaar; voormalig atlete en priesteres van Iroas.
+**Identiteit:** Vrouwelijke leonin, 55 jaar; voormalig atlete en priesteres van Iroas.
 
 ## Positie op de kaart
 
@@ -32,7 +32,9 @@ Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rec
 
 ## Eerste indruk
 
-Een krans van gewone olijfbladeren rust op kortgeknipt zilvergrijs haar. Haar ceremoniële gewaad verbergt de oude stijfheid in haar werpschouder niet. Ze draagt de schrijftabletten met verzoekschriften zelf.
+**Uiterlijk:** Een zandkleurige leonin met een brede leeuwensnuit, witgrijze wangvacht en een gekerfd oor. Haar voormalige atletenbouw is nog duidelijk zichtbaar.
+
+Een krans van gewone olijfbladeren rust op kortgeknipte zilvergrijze kopvacht. Haar ceremoniële gewaad verbergt de oude stijfheid in haar werpschouder niet. Ze draagt de schrijftabletten met verzoekschriften zelf.
 
 ## Thaleia spelen
 

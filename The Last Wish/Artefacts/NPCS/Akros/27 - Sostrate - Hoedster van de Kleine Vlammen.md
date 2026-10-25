@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Sostrate — Hoedster van de Kleine Vlammen
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/27-Sostrate.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/27-Sostrate-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Verzorgster en coördinator van de buurtheiligdommen  
-**Identiteit:** Menselijke vrouw, 59 jaar; lekenbedienaar die de eigen riten van elk heiligdom respecteert.
+**Identiteit:** Dwergenvrouw, 159 jaar; lekenbedienaar die de eigen riten van elk heiligdom respecteert.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een brede dwerg met donkerbruine huid en lange, zilvergrijze bakkebaarden die ze achter haar oren vlecht. Een spleetje tussen haar voortanden maakt haar glimlach herkenbaar.
 
 Kleine roetvlekken tekenen elke vinger. Haar sleutels horen bij voorraadkasten, niet bij reliekschrijnen. Ze draagt offers in aparte manden, zodat giften aan het ene heiligdom niet stilzwijgend bij een ander belanden.
 

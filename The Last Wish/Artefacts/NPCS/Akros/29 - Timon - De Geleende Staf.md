@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Timon — De Geleende Staf
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/29-Timon.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/29-Timon-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Pelgrimsgids en informele brievenbezorger  
-**Identiteit:** Menselijke man, 29 jaar; loopt mank en heeft een talent voor het onthouden van gezichten.
+**Identiteit:** Mannelijke halfling, 29 jaar; loopt mank en heeft een talent voor het onthouden van gezichten.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een jonge halfling met rossig kroeshaar, een wipneus en grote hazelnootkleurige ogen. Eén wang heeft een diep kuiltje wanneer hij glimlacht.
 
 Zijn staf is gladgepolijst waar vele andere handen hem hebben geleend. Een belletje aan zijn schoudertas kondigt hem eerder aan dan zijn ongelijke tred. Hij draagt brieven in een rol gewast doek.
 

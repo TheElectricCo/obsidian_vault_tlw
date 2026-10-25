@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Kallias — Hoeder van de Kantlijn
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/22-Kallias.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/22-Kallias-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Plaatsvervangend stadsarchivaris  
-**Identiteit:** Menselijke man, 56 jaar; archivaris met een opmerkelijk geheugen voor fouten.
+**Identiteit:** Elfenman, 156 jaar; archivaris met een opmerkelijk geheugen voor fouten.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een zeer magere hoge elf met lange puntoren, een hoekige bijna ivoorbleke kop en steil zwart haar tot op de kin. Zijn linkerwenkbrauw is merkbaar hoger dan de rechter.
 
 Zijn gewaad heeft een gladgesleten plek waar zijn elleboog op het bureau rust. Een smalle strook perkament houdt zijn plaats in elk gesprek bij; hij schrijft beloften op voordat hij antwoordt.
 

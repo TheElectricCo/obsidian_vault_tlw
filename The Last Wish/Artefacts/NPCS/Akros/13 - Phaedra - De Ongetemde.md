@@ -13,7 +13,7 @@ tags: ["npc/akros"]
 
 # Phaedra — De Ongetemde
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/13-Phaedra.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/13-Phaedra-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Haar roodbruine huid en gladgeschoren slapen steken af tegen een lange zwarte vlecht. De bijna zwarte paardenvacht draagt witte sokken aan de achterbenen.
 
 Haar donkere flank is bestoven met bleek stro. Een leren schort draagt borstels en zachte doeken. Ze laat een nerveus paard eerst aan haar hand ruiken voordat ze het tuig aanraakt.
 

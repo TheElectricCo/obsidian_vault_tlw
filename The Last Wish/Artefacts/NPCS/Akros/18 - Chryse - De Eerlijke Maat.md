@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Chryse — De Eerlijke Maat
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/18-Chryse.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/18-Chryse-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Graanhandelaar en gekozen vertegenwoordiger van de marktkramers  
-**Identiteit:** Menselijke vrouw, 49 jaar; handelaar en kostwinner.
+**Identiteit:** Vrouwelijke triton, 49 jaar; handelaar en kostwinner.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een stevige triton met diep turquoise huid, zilveren sproetjes en vinvormige oren. Haar donkergroene haar is in dikke strengen samengebonden; haar nekplooien bewegen als ze lacht.
 
 Ze draagt bronzen gewichten aan een koord als een halsketting. Haar mouwen ruiken naar meel en sinaasappelschil. Ze voelt een maat met haar handpalm na voordat ze die op de weegschaal zet.
 

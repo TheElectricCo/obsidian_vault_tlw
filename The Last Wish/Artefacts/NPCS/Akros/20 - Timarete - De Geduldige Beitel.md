@@ -13,13 +13,13 @@ tags: ["npc/akros"]
 
 # Timarete — De Geduldige Beitel
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/20-Timarete.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/20-Timarete-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
 **Functie:** Steenhouwer en restaurator  
-**Identiteit:** Menselijke vrouw, 41 jaar; ambachtsvrouw die ook gezichten in klei boetseert.
+**Identiteit:** Vrouwelijke rotsgnome, 141 jaar; ambachtsvrouw die ook gezichten in klei boetseert.
 
 ## Positie op de kaart
 
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een kleine rotsgnome met een uitzonderlijk brede neus, grote oren en een hoge bos peper-en-zoutkleurig haar. Haar zware wenkbrauwen hangen boven scherpe donkere ogen.
 
 Eén ooglid is bleek van steenstof. Haar handen zijn breed, haar kleinste werktuigen fijn. Onder een vochtige doek wacht een onafgewerkt gezicht dat ze vaker controleert dan de betaalde opdracht.
 

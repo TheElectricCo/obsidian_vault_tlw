@@ -13,7 +13,7 @@ tags: ["npc/akros"]
 
 # Eudora — Het Ongebroken Zegel
 
-![[The Last Wish/Artefacts/NPCS/Akros/Portretten/17-Eudora.png|400]]
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/17-Eudora-v2.png|400]]
 
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
@@ -31,6 +31,8 @@ tags: ["npc/akros"]
 Richtingen verwijzen naar de kaart zoals die wordt weergegeven, met de titel rechtop. Dit is de gebruikelijke verblijfplaats van de NPC, geen garantie dat die er altijd aanwezig is.
 
 ## Eerste indruk
+
+**Uiterlijk:** Een kleine vrouw met bleke, sproetige huid, een rond gezicht en rechte donkerblonde haren in een korte vlecht. Een opvallende moedervlek tekent haar rechterwang.
 
 Haar manchetten zijn gestopt met draad in precies dezelfde kleur als de oorspronkelijke stof. Aan haar middel hangt een beschadigde zegelstempel, omwikkeld tegen onbedoelde afdrukken. Elk verzoekschrift leest ze tot het einde.
 
