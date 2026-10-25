@@ -42,8 +42,8 @@
               "state": {
                 "payload": {
                   "kind": "video",
-                  "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Akros/15-Arena_Animated.mp4?1792939392556",
-                  "filePath": "The Last Wish/Artefacts/Scenery/Akros/15-Arena_Animated.mp4"
+                  "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Akros/02-Colossus_animated.mp4?1792940171477",
+                  "filePath": "The Last Wish/Artefacts/Scenery/Akros/02-Colossus_animated.mp4"
                 }
               },
               "icon": "layout-dashboard",
@@ -234,14 +234,122 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "The Last Wish/Artefacts/Scenery/Akros/16-House-of-the-Golden-Lyre.png"
+                "file": "The Last Wish/Artefacts/Scenery/Akros/15-Arena.png"
               },
               "icon": "lucide-image",
-              "title": "16-House-of-the-Golden-Lyre"
+              "title": "15-Arena"
+            }
+          },
+          {
+            "id": "c5fd608e6987611a",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "The Last Wish/Artefacts/Scenery/Akros/15-Arena_Animated.mp4"
+              },
+              "icon": "lucide-file",
+              "title": "15-Arena_Animated"
+            }
+          },
+          {
+            "id": "579c787280aced16",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Artefacts/Scenery/Akros/18-Agora---Main-Market.png"
+              },
+              "icon": "lucide-image",
+              "title": "18-Agora---Main-Market"
+            }
+          },
+          {
+            "id": "c4c14174b6a6055d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Artefacts/Scenery/Akros/06-Temple-of-Triumph---Monolith.png"
+              },
+              "icon": "lucide-image",
+              "title": "06-Temple-of-Triumph---Monolith"
+            }
+          },
+          {
+            "id": "3339c0ebbd4e5ef1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Artefacts/Scenery/Akros/04-Upper-Gate.png"
+              },
+              "icon": "lucide-image",
+              "title": "04-Upper-Gate"
+            }
+          },
+          {
+            "id": "31fe6e0b40371972",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Artefacts/Scenery/Akros/02-Colossus-of-Akros.png"
+              },
+              "icon": "lucide-image",
+              "title": "02-Colossus-of-Akros"
+            }
+          },
+          {
+            "id": "a85fcf621d313ad8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Artefacts/Scenery/Akros/20-Artisan-Quarter.png"
+              },
+              "icon": "lucide-image",
+              "title": "20-Artisan-Quarter"
+            }
+          },
+          {
+            "id": "de499e65480b3126",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Artefacts/Scenery/Akros/21-Residential-District.png"
+              },
+              "icon": "lucide-image",
+              "title": "21-Residential-District"
+            }
+          },
+          {
+            "id": "01b51d19832d574e",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "The Last Wish/Artefacts/Scenery/Akros/02-Colossus_animated.mp4"
+              },
+              "icon": "lucide-file",
+              "title": "02-Colossus_animated"
+            }
+          },
+          {
+            "id": "7161add0ddf96242",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png"
+              },
+              "icon": "lucide-image",
+              "title": "26-Cliffwatch"
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -511,8 +619,8 @@
                   "state": {
                     "payload": {
                       "kind": "video",
-                      "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Akros/15-Arena_Animated.mp4?1792939392556",
-                      "filePath": "The Last Wish/Artefacts/Scenery/Akros/15-Arena_Animated.mp4"
+                      "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Akros/02-Colossus_animated.mp4?1792940171477",
+                      "filePath": "The Last Wish/Artefacts/Scenery/Akros/02-Colossus_animated.mp4"
                     }
                   },
                   "icon": "monitor-up",
@@ -532,22 +640,24 @@
       }
     ]
   },
-  "active": "6f8a9c414c32a5b5",
+  "active": "7161add0ddf96242",
   "lastOpenFiles": [
+    "The Last Wish/Artefacts/Scenery/Akros/27-Temple-Terraces.png",
+    "The Last Wish/Artefacts/Scenery/Akros/28-Olive-Terraces.png",
+    "The Last Wish/Artefacts/Scenery/Akros - Generation Prompts.md",
+    "The Last Wish/Artefacts/Scenery/Akros/23-The-Veterans-Rest.png",
+    "The Last Wish/Artefacts/Scenery/Akros/24-The-Spear-and-Shield.png",
+    "The Last Wish/Artefacts/Scenery/Akros/25-The-Ember-Anvil.png",
+    "The Last Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png",
+    "The Last Wish/Artefacts/Scenery/Akros/21-Residential-District.png",
+    "The Last Wish/Artefacts/Scenery/Akros/22-Archive-of-Deeds.png",
+    "The Last Wish/Artefacts/Scenery/Akros/02-Colossus_animated.mp4",
+    "The Last Wish/Artefacts/Scenery/Akros/ElevenLabs_video_google-veo-3-1-lite_Animate this an_2026-10-25T14_55_59.mp4",
+    "The Last Wish/Artefacts/Scenery/Akros/20-Artisan-Quarter.png",
+    "The Last Wish/Artefacts/Scenery/Akros/18-Agora---Main-Market.png",
     "The Last Wish/Artefacts/Scenery/Akros/15-Arena_Animated.mp4",
-    "The Last Wish/Artefacts/Scenery/Akros/13-Stables.png",
-    "The Last Wish/Artefacts/Scenery/Akros/15-Arena.png",
-    "The Last Wish/Artefacts/Scenery/Akros/14-War-Foundry.png",
-    "The Last Wish/Artefacts/Scenery/Akros/16-House-of-the-Golden-Lyre.png",
-    "The Last Wish/Artefacts/Scenery/Akros/07-House-of-the-Golden-Spear.png",
-    "The Last Wish/Artefacts/Scenery/Akros/11-Barracks.png",
-    "The Last Wish/Artefacts/Scenery/Akros/06-Temple-of-Triumph---Monolith.png",
-    "The Last Wish/Artefacts/Scenery/Akros/08-Hall-of-Champions.png",
-    "The Last Wish/Artefacts/Scenery/Akros/12-Armory.png",
-    "The Last Wish/Artefacts/Scenery/Akros/10-Training-Grounds.png",
     "The Last Wish/Artefacts/Scenery/Akros/ElevenLabs_video_google-veo-3-1-lite_Animate this an_2026-10-25T14_41_50.mp4",
     "ElevenLabs_video_google-veo-3-1-lite_Animate this an_2026-10-25T14_41_50.mp4",
-    "The Last Wish/Artefacts/Scenery/Akros - Generation Prompts.md",
     "The Last Wish/Artefacts/Scenery/Akros",
     "The Last Wish/Artefacts/Scenery/Road to Pharagax",
     "ZoomMap/PlayerScreen/Fog",
@@ -556,9 +666,7 @@
     "AGENTS.md",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery - Generation Prompts.md",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Phanarax Brug.md",
-    "The Last Wish/Artefacts/Scenery",
     "The Last Wish/Players/Plink Bugmoss (RIB).md",
-    "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
     "The Last Wish/NPCS/Daxos.md",
     "The Last Wish/NPCS/DAXOS - Trapped Hero of Meletis.md",
     "The Last Wish/Locations/Akros/THE AKROAN - Army of Akros.md",
