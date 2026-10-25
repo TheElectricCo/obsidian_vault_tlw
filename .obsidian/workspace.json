@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Last Wish/Sessions/001 - Bridge of Pharagax/002 - Encounters op de brugdelen.md",
+                "file": "The Last Wish/Artefacts/NPCS/Akros/14 - Brontes - De Beheerste Vlam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 - Encounters op de brugdelen"
+              "title": "14 - Brontes - De Beheerste Vlam"
             }
           }
         ],
@@ -371,10 +371,23 @@
   },
   "active": "44381cc13d942d6d",
   "lastOpenFiles": [
+    "The Last Wish/Artefacts/NPCS/Akros/01 - Melantho - Hoedster van de Vier Overspanningen.md",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen/01 - Het gewicht van een leven.md",
+    "The Last Wish/NPCS/Media/Nyima - Portret v2 prompt.md",
+    "The Last Wish/NPCS/Media/Nyima - Portret v2.png",
+    "The Last Wish/NPCS/Nyima.md",
+    "The Last Wish/NPCS/Media/Nyima - Portret.png",
+    "The Last Wish/NPCS/Media/Nyima - Portret prompt.md",
+    "The Last Wish/NPCS/Media",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen/06 - Schaduwbrug - De vijfde schaduw.md",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen/05 - Schaduwbrug - De reiziger zonder voetstappen.md",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen/04 - Het laatste vaandel.md",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen/03 - Het bevel dat bleef.md",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen/02 - Het lied onder de stenen.md",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/002 - Encounters op de brugdelen.md",
     "The Last Wish/Artefacts/Scenery/Akros/Akros - Scenery Gallery.md",
     "D&D 5E/Base Edition/Monsters/Animated Armor.md",
-    "The Last Wish/Sessions/001 - Bridge of Pharagax/002 - Encounters op de brugdelen.md",
-    "The Last Wish/NPCS/Nyima.md",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Phanarax Brug.md",
     "The Last Wish/Artefacts/NPCS/Akros/30 - Theris - De Poort die Wacht.md",
     "The Last Wish/Artefacts/NPCS/Akros/Akros - NPC-overzicht.md",
@@ -388,15 +401,6 @@
     "The Last Wish/Artefacts/NPCS/Akros/22 - Kallias - Hoeder van de Kantlijn.md",
     "The Last Wish/Artefacts/NPCS/Akros/21 - Maia - De Lantaarn van het Binnenhof.md",
     "The Last Wish/Artefacts/NPCS/Akros/20 - Timarete - De Geduldige Beitel.md",
-    "The Last Wish/Artefacts/NPCS/Akros/19 - Myrrine - De Tweede Snede.md",
-    "The Last Wish/Artefacts/NPCS/Akros/18 - Chryse - De Eerlijke Maat.md",
-    "The Last Wish/Artefacts/NPCS/Akros/17 - Eudora - Het Ongebroken Zegel.md",
-    "The Last Wish/Artefacts/NPCS/Akros/16 - Lysandra Kyros - Meesteres van de Gouden Lier.md",
-    "The Last Wish/Artefacts/NPCS/Akros/15 - Praxilla - De Open Hand.md",
-    "The Last Wish/Artefacts/NPCS/Akros/14 - Brontes - De Beheerste Vlam.md",
-    "The Last Wish/Artefacts/NPCS/Akros/13 - Phaedra - De Ongetemde.md",
-    "The Last Wish/Artefacts/NPCS/Akros/12 - Menekles - De Laatste Klinknagel.md",
-    "The Last Wish/Artefacts/NPCS/Akros/11 - Nerissa - De Nachtelijke Kom.md",
     "The Last Wish/Artefacts/NPCS/Akros/Portretten/30-Theris-v2.png",
     "The Last Wish/Artefacts/NPCS/Akros/Portretten/29-Timon-v2.png",
     "The Last Wish/Artefacts/NPCS/Akros/Portretten/28-Ione-v2.png",
@@ -405,8 +409,6 @@
     "The Last Wish/Artefacts/NPCS/Akros/Portretten/25-Antigone-v2.png",
     "The Last Wish/Artefacts/NPCS/Akros/Portretten/24-Dione-v2.png",
     "The Last Wish/Artefacts/NPCS/Akros/Portretten/23-Eryx-v2.png",
-    "The Last Wish/Artefacts/NPCS/Akros/Portretten/22-Kallias-v2.png",
-    "The Last Wish/Artefacts/NPCS/Akros/Portretten/21-Maia-v2.png",
     "tmp/npc-diversiteit/generated.json",
     "tmp/npc-diversiteit/update.py",
     "tmp/npc-diversiteit/profiles.json",
@@ -415,8 +417,6 @@
     "The Last Wish/Artefacts/Items/Akros/Klifwacht - Spijzen en dranken.pdf",
     "The Last Wish/Artefacts/Items/Akros",
     "The Last Wish/Artefacts/Items/Akros/De Speer en het Schild - Spijzen en dranken.pdf",
-    "The Last Wish/Artefacts/Items/Akros/Het Sintelaambeeld - Diensten en tarieven.pdf",
-    "output/pdf/bron/maak_kaarten.py",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

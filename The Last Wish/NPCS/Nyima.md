@@ -16,6 +16,8 @@ tags:
 
 # Nyima — de Berggids
 
+![[Nyima - Portret v2.png|400]]
+
 > Haar hoeven vinden houvast waar een laars slechts gladde steen ontmoet. Aan haar rugzak hangen touw, ijzeren haken en vier bekers. Nyima telt haar reizigers vaker dan de munten waarmee ze wordt betaald.
 
 ## Basisgegevens

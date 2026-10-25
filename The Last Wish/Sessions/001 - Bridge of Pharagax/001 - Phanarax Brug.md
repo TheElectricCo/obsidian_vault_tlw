@@ -68,11 +68,11 @@ Gebruik [[002 - Encounters op de brugdelen]] voor de volledige scènes, voorlees
 
 | Moment | Scène |
 | --- | --- |
-| Vóór Grot I | [[002 - Encounters op de brugdelen#Brugdeel 1 — Het gewicht van een leven|Een brugwerker hangt onder een gekantelde kar]]. |
-| Na Iroas 1, vóór Grot II | [[002 - Encounters op de brugdelen#Brugdeel 2 — Het lied onder de stenen|Twee harpies jagen met hun lokzang]]. |
-| Na Iroas 2, vóór Grot III | [[002 - Encounters op de brugdelen#Brugdeel 3 — Het bevel dat bleef|Bronzen wachters houden een herstelde onderhoudspost gesloten]]. |
-| Na Iroas 3, vóór Ianthe | [[002 - Encounters op de brugdelen#Brugdeel 4 — Het laatste vaandel|Een dode vaandeldrager wacht op aflossing]]. |
-| Tijdens Erebos 1 en 2 | [[002 - Encounters op de brugdelen#Eerste schaduwbrug — De reiziger zonder voetstappen|Een verdwaalde ziel]] en [[002 - Encounters op de brugdelen#Tweede schaduwbrug — De vijfde schaduw|de al beschreven extra gestalte]]. |
+| Vóór Grot I | [[01 - Het gewicht van een leven|Een brugwerker hangt onder een gekantelde kar]]. |
+| Na Iroas 1, vóór Grot II | [[02 - Het lied onder de stenen|Twee harpies jagen met hun lokzang]]. |
+| Na Iroas 2, vóór Grot III | [[03 - Het bevel dat bleef|Bronzen wachters houden een herstelde onderhoudspost gesloten]]. |
+| Na Iroas 3, vóór Ianthe | [[04 - Het laatste vaandel|Een dode vaandeldrager wacht op aflossing]]. |
+| Tijdens Erebos 1 en 2 | [[05 - Schaduwbrug - De reiziger zonder voetstappen|Een verdwaalde ziel]] en [[06 - Schaduwbrug - De vijfde schaduw|de al beschreven extra gestalte]]. |
 
 De brugscènes geven geen godenfiches en herhalen zich niet bij omwegen. Drie Iroasdoorgangen brengen de groep op het echte laatste brugdeel; daar kan nog een ontmoeting volgen, maar geen vierde goddelijke toegangsproef. Oplossingen via redding, onderhandeling, reparatie of magie zijn even geldig als een gevecht.
 
@@ -142,7 +142,7 @@ Ze kent de brugmythe uit [[De brug van Phanarax|de plaatsbeschrijving]], maar he
 
 ## 2. De eerste stiltegrot
 
-Speel op het eerste brugdeel eerst [[002 - Encounters op de brugdelen#Brugdeel 1 — Het gewicht van een leven|de redding van Nereon]]. Daarna kan de groep de grotingang onderzoeken en eventuele voorbereiding treffen. Buiten de grot zijn stappen en wind nog hoorbaar.
+Speel op het eerste brugdeel eerst [[01 - Het gewicht van een leven|de redding van Nereon]]. Daarna kan de groep de grotingang onderzoeken en eventuele voorbereiding treffen. Buiten de grot zijn stappen en wind nog hoorbaar.
 
 > [!readaloud] De drempel
 > De laatste voetstap klinkt nog achter jullie. De volgende maakt geen geluid.
@@ -288,7 +288,7 @@ Bij de derde voltooide Iroasproef verschijnt boven zijn deur:
 > *Hij die de dood vreest, zal nooit overwinnen.*  
 > *Hij die enkel de overwinning zoekt, zal nooit begrijpen wat zij kost.*
 
-Het laatste brugdeel voert naar de kolossus. Speel hier [[002 - Encounters op de brugdelen#Brugdeel 4 — Het laatste vaandel|Het laatste vaandel]] vóór de ontvangst hieronder. Erebos' omwegen hebben echte tijd gekost; zij nemen de behaalde overwinning niet weg.
+Het laatste brugdeel voert naar de kolossus. Speel hier [[04 - Het laatste vaandel|Het laatste vaandel]] vóór de ontvangst hieronder. Erebos' omwegen hebben echte tijd gekost; zij nemen de behaalde overwinning niet weg.
 
 > [!readaloud] De stad die klinkt
 > Eerst komt het geluid: metaal op steen, de roep van een verkoper, een verre hoorn boven de muren.
