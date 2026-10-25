@@ -1,30 +1,31 @@
+# De Brug der Twee Bestemmingen
 
-## Waar de doden klimmen
-
-*Een avontuur op de brug van Phanarax, aan de poorten van Akros.*
+*Een woordloze beproeving op de brug van Pharagax, tussen Akros en het rijk van Erebos.*
 
 > [!abstract] In één oogopslag
-> **Groep:** 4 personages, elk level 5 (bevestigd door de DM).  
-> **Speelduur:** circa 3–4 uur, afhankelijk van roleplay en gevechtstempo.  
-> **Verloop:** laatste berghut → afscheid van Khea → de brug → hinderlaag en ontsnapping → redding door pegasuswachters → aankomst in Akros.  
-> **Kernvraag:** niet ‘kunnen we alle vijanden doden?’, maar ‘hoe krijgen we elkaar levend aan de overkant?’
+> **Groep:** 4 personages van level 5.  
+> **Speelduur:** circa 3–4 uur, met ruimte voor omwegen.  
+> **Verloop:** laatste berghut → afscheid van Khea → vier brugdelen en drie stiltegrotten → Akros óf de Onderwereld.  
+> **Kern:** Iroas biedt vooruitgang door opoffering, beheersing en samenwerking. Erebos biedt een andere bestemming.  
+> **DM:** drie doorgangen van Iroas bereiken Akros; de derde doorgang van Erebos bereikt de Onderwereld. Houd beide tellers afzonderlijk bij.
 
 ## Goal
 
-De helden betreden [[De brug van Phanarax]], nadat hun sherpa [[Khea]] hen vijf dagen door het gebergte heeft geleid. De sessie begint wanneer ze wakker worden in de laatste hut vóór de brug, waar Khea afscheid neemt.
+Na vijf dagen door het gebergte bereiken de helden met [[Khea]] de [[De brug van Phanarax|brug van Pharagax]]. De vier overspanningen rusten op reusachtige rotspieken. In de drie tussenliggende steunpunten liggen grotten met telkens twee uitgangen: één van Iroas en één van Erebos.
 
-Vanaf het tweede station klinkt gerommel onder de brug. Ondoden — zombies, ondode harpies en een wight — klimmen omhoog. Een magisch effect beperkt de beweging van de helden sterk. Ze moeten elkaar helpen en proberen het einde te bereiken terwijl de situatie uit de hand loopt.
+In iedere grot verstomt het geluid. De helden moeten zonder gesproken overleg ontdekken hoe de deuren op hun handelingen reageren. De uitgang van Iroas brengt hen werkelijk dichter bij Akros. Die van Erebos voert over een bijna identieke brug in de Onderwereld en terug naar dezelfde, nog niet voltooide proef. Na de derde keuze voor Erebos keert die weg niet meer terug: hij eindigt in zijn rijk.
 
-Op het laatste kritieke moment grijpen wachters van Akros in. Met hun pegasi weren ze de vijanden af en beschermen ze de groep op weg naar de ingang van de stad.
 ## References
 
-- **Plaatsen:** [[De brug van Phanarax]], [[AKROS - The city of wishes]], [[THE TITAN STAIRS]].
-- **Gids en wachters:** [[Khea]], [[THE AKROAN - Army of Akros]].
+- **Bron van de herwerking:** [Chat — Puzzelmechaniek voor Iroas Erebos](https://chatgpt.com/share/6ade306d-a3ec-83eb-98bc-63b5182e8195).
+- **Plaatsen:** [[De brug van Phanarax|Brug van Pharagax]], [[AKROS - The city of wishes]], [[THE TITAN STAIRS]].
+- **NPC's:** [[Khea]], [[02 - Ianthe - De Ruiter die Tweemaal Telt|Ianthe]].
 - **Personages:** [[Arowel Starweaver]], [[Darius Voss]], [[Dorian Veldt]], [[Plink Bugmoss (RIB)]].
 - **Aanloop:** [[__ReadMeFirst|De persoonlijke prologen]].
+- **Regels:** [[D&D 5E/Base Edition/Spells/Silence|Silence (2014)]], [[D&D 5E/Base Edition/Spells/Dispel Magic|Dispel Magic (2014)]].
 
-> [!info] Bestaande lore en nieuwe invulling
-> De godentwist, de kloof naar de onderwereld, de vier brugdelen, de steunpunten in gigantische stalagmieten en de kolossus komen uit de brugnotitie. Khea's karakter, de hut, de patrouillecommandant, het zwarte zegel en hun spelmechanieken zijn **nieuwe voorstellen voor deze sessie**. De lokale notities over Khea en het leger bevatten nog geen verdere beschrijving. Dit avontuur legt niet vast wie achter de aanval zit.
+> [!note] Keuzes uit de chat en verdere uitwerking
+> Deze versie gebruikt de laatst voorgestelde combinatie: **Het Bloed van de Kampioen**, **De Schaduwen van het Verleden** en **De Laatste Vlam**. De oorspronkelijke drie proeven staan onderaan als wisselopties. De chat bevat verschillende voorstellen voor gemengde keuzes; hier blijft de oorspronkelijke regel gelden dat Erebos geen echte brugvoortgang geeft. Zijn teller is cumulatief, niet opeenvolgend. De timing, resetregels en praktische uitvoering hieronder zijn DM-uitwerking voor een speelbare sessie.
 
 ---
 
@@ -32,489 +33,358 @@ Op het laatste kritieke moment grijpen wachters van Akros in. Met hun pegasi wer
 
 ### Wat er werkelijk gebeurt
 
-Onder het tweede station is een zwart, wassen zegel bevestigd aan een oud bronzen anker. Zodra de eerste levende reiziger het station bereikt, breekt het zegel open. Het trekt schaduwen uit de kloof omhoog en legt een onnatuurlijke zwaarte over de brug.
+De oude twist rond Akros heeft in de steunpunten van de brug een grens achtergelaten die niet geheel tot de levende wereld behoort. Wie vandaag de eerste grot binnengaat, wordt door de twee goddelijke wegen beproefd. Dit is nieuwe campagne-invulling; wie de beproeving heeft gewekt en waarom juist nu, blijft open.
 
-De doden komen niet om tol te innen. Ze willen de levenden naar beneden brengen.
+Iroas vraagt wat de reizigers onder overwinning verstaan. Erebos liegt niet: ook zijn deuren leiden verder, maar verder zijn rijk in. Speel hem als een onverbiddelijke gastheer, zonder spot of leedvermaak.
 
-De magische verstoring dooft de bronzen bakenvlammen. De wacht bij de kolossus herkent dit als een noodsignaal en stuurt een patrouille. De wachters moeten eerst opstijgen en de afstand overbruggen: **hulp is onderweg, maar niet onmiddellijk aanwezig.**
+De proeven vervangen de eerdere hinderlaag. Er is geen zwart wassen zegel, vertragingsaura, vaste ondodengolf of geplande redding. Ianthe ontvangt de groep als zij Akros bereiken; haar patrouille kan hen niet uit de goddelijke omweg halen.
 
-> [!warning] Laat de redding hun prestatie niet vervangen
-> De wachters ruimen niet het volledige avontuur op. De spelers kunnen het zegel breken, elkaar redden, het pad vrijmaken, de wight verslaan en zelfs vóór de patrouille de overkant bereiken. Hun keuzes bepalen **waar** de redding plaatsvindt en **hoeveel** hulp nodig is. Haal een geslaagde ontsnapping nooit onderuit om een gepland filmisch moment af te dwingen.
+### Voorbereiding
 
-### Voorbereidingslijst
+- [ ] Leg twee tellers klaar: drie gouden fiches voor Iroas, drie donkere voor Erebos.
+- [ ] Leg papier en potloden klaar voor woordloos overleg.
+- [ ] Teken vier brugdelen, met een grot in ieder tussensteunpunt.
+- [ ] Maak de inscripties zichtbaar als kaartjes of lees ze als beschrijving voor.
+- [ ] Noteer persoonlijke voorwerpen die spelers vrijwillig zouden kunnen aanbieden; kies nooit in hun plaats.
+- [ ] Gebruik de drie hoofdproeven, of vervang een proef vooraf door een wisseloptie.
+- [ ] Houd de Onderwerelduitkomst klaar als volwaardig vervolg.
 
-- [x] Groepsgrootte en level bevestigd: 4 spelers, elk level 5.
-- [ ] Controleer beschikbare spreuken en maximale HP van de groep.
-- [ ] Rond de persoonlijke prologen af tot het gezamenlijke vertrek met Khea; begin deze sessie na de vijf bergdagen.
-- [ ] Teken de vijf stations en vier overspanningen uit [[#De brug als speelveld]].
-- [ ] Leg markers klaar voor 4 zombies, 2 ondode harpies en 1 wight; gebruik niet alles tegelijk.
-- [ ] Leg zes vakjes klaar voor de reddingsklok.
-- [ ] Noteer wie een veiligheidstouw draagt en wie het signaalmiddel meeneemt.
-- [ ] Spreek kort af hoeveel horror en valgevaar prettig is voor deze groep.
+### De brug als speelveld
 
-### Sessie-indeling
+```text
+Bergzijde → Brugdeel 1 → Grot I → Brugdeel 2 → Grot II → Brugdeel 3 → Grot III → Brugdeel 4 → Akros
+                           │                    │                      │
+                           └ Erebos: schaduwbrug, dan terug naar dezelfde grot ┘
+                                      derde Erebosdoorgang → Onderwereld
+```
 
-| Onderdeel | Richttijd | Functie |
-| --- | --- | --- |
-| 1. De laatste haard | 25–40 min | Personages aan tafel brengen; Khea leren waarderen |
-| 2. Een weg door de hemel | 20–30 min | Grootse brug, waarschuwingen en keuzes |
-| 3. Het tweede station | 10–15 min | Omslag van verwondering naar gevaar |
-| 4. Waar de doden klimmen | 60–90 min | Vluchtgevecht met bruikbare tegenmaatregelen |
-| 5. Vleugels boven de afgrond | 15–25 min | Redding en laatste gezamenlijke inspanning |
-| 6. In de schaduw van de kolossus | 20–30 min | Herstel, getuigenis en haakjes voor Akros |
+De vier delen en de steunpunten blijven behouden uit de plaatsbeschrijving. Een grot is uitgehouwen in een steunpunt; zij vervangt geen overspanning. Gebruik buiten gevechten verhalende afstanden. Normaal lopen over de brug vraagt geen checks.
+
+### Voortgang en gemengde keuzes
+
+1. Begin met **Iroas 0 / Erebos 0**, bij Grot I.
+2. Een puzzelhandeling opent een deur. **Pas het daadwerkelijk oversteken van de drempel legt de keuze vast.** Maak de bestemming herkenbaar aan speer en lauwer of zwarte kroon.
+3. Iroas: verhoog zijn teller met één en ga naar het volgende echte brugdeel. De voltooide grot blijft voltooid.
+4. Erebos: verhoog zijn teller met één, zonder Iroasvoortgang te verliezen. Bij Erebos 1 of 2 volgt een schaduwbrug en keren ze terug naar dezelfde onvoltooide grot.
+5. Bij **Iroas 3** bereiken ze Akros. Bij **Erebos 3** bereiken ze de Onderwereld. Geen meerderheid en geen automatische eindbestemming na drie gemengde keuzes.
+
+**Voorbeelden:** E–I–I–I eindigt in Akros met één omweg. I–E–I–E–I eindigt in Akros met twee omwegen. E–I–E–E eindigt in de Onderwereld met één voltooid zegel van Iroas. Maximaal vijf beslissende doorgangen zijn nodig.
+
+**Als beide deuren geopend zijn:** beide blijven beschikbaar; de gekozen drempel beslist. Als de groep over de bestemming verdeeld is, laat de eerste oversteker aan de andere kant zichtbaar wachten, zonder de passage al af te handelen. Vraag iedereen welke deur hun personage neemt. Bij een bewuste splitsing houd je de tellers per subgroep bij; voeg niemand tegen diens keuze bij de andere route. Wissel scènes af en laat omkeerders terugkeren zolang de rest nog niet aan de overzijde verzameld is. Een bevestigde passage naar de Onderwereld is geen gewone terugweg.
+
+**Geen dubbele winst:** een voltooide Iroasproef levert nooit nog een fiche op. Een terugkeer door Erebos zet uitsluitend de onvoltooide proef opnieuw klaar. Dezelfde deur herhaaldelijk open en dicht doen telt niet.
+
+### Stilte in de grotten
+
+Elke grot is maximaal 40 feet in doorsnede en valt geheel binnen een effect met de werking van **Silence (2014)**: geen geluid ontstaat binnen het gebied of dringt erdoorheen; wezens geheel in het gebied zijn deafened en immuun voor thunder damage; spreuken met een verbale component kunnen er niet worden uitgesproken.
+
+**Ontmoetingsvariant:** de stilte blijft door een inscriptie in de grot verankerd, zonder een aanwezige caster of concentration. Die duur en verankering zijn aanvullingen voor deze encounter, geen wijziging van de normale spreuk. Een Dispel Magic van buiten de stilte beëindigt het effect in die grot automatisch, behandeld als een spreuk van level 2. Het herstelt zich pas nadat de groep de grot heeft verlaten. De deuren blijven dan gewoon functioneren.
+
+- Gebaren, tekeningen en briefjes werken. Telepathie werkt als het gebruikte vermogen dat toestaat; Message wordt door magische stilte geblokkeerd.
+- Buiten de grot kunnen personages spreken en een plan maken. Laat hen die mogelijkheid benutten.
+- Aan tafel gebeurt overleg over plannen woordloos zolang de personages binnen zijn. Spelers mogen hun acties, regelvragen en grenzen altijd hardop uitleggen aan de DM.
+- Inscripties zijn zichtbaar in een taal die de personages begrijpen. Het voorlezen ervan is DM-beschrijving, geen geluid in de grot.
+- Stilte verbiedt vliegen, teleportatie of andere geldige middelen niet. De zichtbare overzijde van een schaduwbrug is echter geen gegarandeerde bestemming op het Material Plane. Gebruik de werkelijke beperkingen van de gekozen spreuk; beloon een middel dat de grens daadwerkelijk kan overbruggen.
 
 ---
 
 ## 1. De laatste haard
 
-De laatste hut is een eenvoudig stenen onderkomen, tegen de bergwand gebouwd. Khea heeft er de avond voordien vuur gemaakt. De groep heeft veilig kunnen slapen; behandel de nacht als een voltooide long rest als niets uit de proloog dat verhindert.
+De sessie begint in de laatste berghut. De groep heeft vijf dagen met Khea gereisd. Behandel de nacht als een voltooide long rest als de proloog niets anders bepaalt.
 
 > [!readaloud] Ochtend in de hut
-> Het eerste licht dringt door een spleet tussen de luiken. In de haard gloeien nog een paar kolen. Het ruikt naar houtrook, natte wol en iets bitters dat in een zwarte ketel pruttelt.
+> Onder de as houdt de haard nog een rode gloed vast. Smeltwater tikt van het dak; achter de luiken schuurt de wind langs de stenen.
 >
-> Buiten trekt de wind aan het dak. Vijf dagen lang was dat geluid jullie gezelschap: langs smalle bergpaden, door sneeuwvelden en over passen waar een verkeerde stap genoeg was.
+> Khea heeft vier bekers naast de ketel gezet. Haar rugzak staat bij de deur, dichtgesnoerd. De bergstok ligt erbovenop.
 >
-> Khea zit al aangekleed bij de deur. Haar rugzak is dichtgesnoerd, haar wandelstok rust tegen haar knie. Ze schuift met haar voet een laatste stuk hout naar de kolen.
+> ‘Vandaag geen klim meer,’ zegt ze. ‘Alleen de brug.’
 >
-> ‘Vandaag geen klim meer,’ zegt ze. ‘Alleen nog de brug.’
+> Ze kijkt naar de smalle streep daglicht onder de deur.
 >
-> Ze schenkt de dampende drank in vier bekers.
+> ‘Eet terwijl het warm is.’
+
+Vraag iedere speler wat Khea tijdens de tocht over hun personage heeft geleerd. Laat de antwoorden en het gesprek aan de spelers.
+
+**Khea spelen:** praktisch, weinig woorden, zorg zichtbaar in kleine handelingen. Haar opdracht eindigt aan de bergzijde; ze keert terug naar de pas. Als de groep haar overtuigt mee te gaan, ondersteunt ze hun plannen zonder puzzels voor hen op te lossen.
+
+Ze kent de brugmythe uit [[De brug van Phanarax|de plaatsbeschrijving]], maar heeft de huidige beproeving nooit meegemaakt. Ze kan vertellen over Iroas, Erebos, Mogis en de brug die na de godentwist werd gebouwd. Ze kent geen oplossing of verborgen teller.
+
+### Afscheid aan de kloof
+
+> [!readaloud] Vier overspanningen
+> Het bergpad buigt om een schouder van de rots. Daarachter verdwijnt de grond.
 >
-> ‘Eet eerst. Naar Akros kijkt ge beter met iets in uw maag.’
-
-**Vraag elke speler één ding:** wat heeft Khea tijdens de tocht over jouw personage geleerd? Laat vervolgens ruimte voor ontbijt, plannen en onderlinge gesprekken. De personages zijn vijf dagen samen onderweg geweest; ze hoeven elkaar niet kunstmatig opnieuw te ontmoeten.
-
-### Khea spelen
-
-**Uiterlijk:** verweerde mantel, leren handschoenen met herstelde naden, een wandelstok met koperen beslag.  
-**Houding:** rustig, praktisch, weinig woorden. Ze controleert een gesp terwijl ze praat.  
-**Wat ze wil:** iedereen veilig afleveren, haar betaling afronden en vóór het volgende slechte weer terugkeren.  
-**Wat ze niet weet:** dat er een hinderlaag klaarligt. Ze herkent de brugmythe, niet het zwarte zegel.
-
-Khea gaat niet mee over de brug: haar opdracht en bergroute eindigen hier. Ze heeft bovendien beloofd terug te keren naar een gezelschap dat aan de andere kant van de pas wacht. Als de spelers haar toch overtuigen mee te gaan, mag dat; geef haar tijdens de aanval ondersteunende taken en behoud de spelerkeuzes.
-
-> [!quote] Zinnen voor Khea
-> ‘Een berg is eerlijk. Als ge valt, doet hij niet alsof het iemand anders zijn schuld is.’  
-> ‘De wachters zien de brug. Aan die kant zijt ge niet meer mijn probleem.’  
-> ‘Dat klinkt harder dan ik het bedoel.’
-
-### Wat de helden kunnen meenemen
-
-Khea toont de ijzeren ogen langs de brugleuning en stelt voor dat iedereen een **eigen veiligheidstouw van 15 feet** aan een gordel en een leuningoog bevestigt. Ze heeft hiervoor vier korte touwen met haken klaarliggen. Voor dit encounter hoort het verplaatsen van de haak bij de beweging, zonder extra actie; zo blijft de beveiliging ook tijdens Dash bruikbaar. Dit zijn **geen touwen tussen de personages**: één val trekt niet de hele groep mee.
-
-Daarnaast ligt bij de hut een rood signaalvaandel. Khea geeft het mee als iemand ernaar vraagt of bezorgd is over hulp. De wacht aan de overkant kent dit signaal.
-
-> [!tip] Geen verborgen veiligheidsinformatie
-> Vertel duidelijk dat de touwen bedoeld zijn tegen een val en dat een rood signaal de wacht waarschuwt. Laat spelers bewust kiezen. Verstop hun beste hulpmiddelen niet achter een Perception-check.
-
-### Afscheid
-
-> [!readaloud] Tot hier
-> Khea trekt de deur van de hut dicht en legt haar hand een ogenblik op het verweerde hout. Dan gaat ze jullie voor, langs een bocht in het bergpad.
+> Vier stenen overspanningen liggen boven een kloof waarin de ochtend nog niet is doorgedrongen. Ze rusten op enorme rotspieken, uitgehouwen tot schouders die het gewicht van de weg dragen. In iedere tussenpijler wacht een donkere opening.
 >
-> Achter die bocht houdt de wereld op.
+> Aan de overzijde rijst de kolossus van Akros op. Het licht vangt zijn helm. Onder zijn voeten ligt een poort, klein als een sleutelgat.
 >
-> Geen helling. Geen volgende pas. Alleen een kloof, zo diep dat de ochtendnevel er geen bodem vindt.
+> Khea legt haar hand op de eerste leuning.
 >
-> Khea blijft staan en kijkt naar ieder van jullie.
->
-> ‘Tot hier ken ik elke steen,’ zegt ze. ‘Daarna zult ge op elkaar moeten letten.’
+> ‘Tot hier kende ik de weg,’ zegt ze.
 
 ---
 
-## 2. Een weg door de hemel
+## 2. De eerste stiltegrot
 
-> [!readaloud] De brug van Phanarax
-> Vier brede stukken steen spannen zich over de leegte. Ze rusten op uitgehouwen schouders van reusachtige rotspieken die uit de nevel oprijzen. Bronzen banden lopen door het wegdek, alsof iemand de berg zelf heeft gebroken en met gloeiend metaal weer aan elkaar heeft gezet.
+Op het eerste brugdeel zijn de stappen en de wind nog hoorbaar. Laat de groep de grotingang onderzoeken en eventuele voorbereiding treffen.
+
+> [!readaloud] De drempel
+> De laatste voetstap klinkt nog achter jullie. De volgende maakt geen geluid.
 >
-> Aan de overkant staat een kolossus. Zijn helm verdwijnt bijna in de wolken; een speer rust langs zijn schouder. Tussen zijn voeten ligt de toegang tot Akros.
+> In de rots branden twee bronzen lampen. Hun vlammen bewegen, maar knetteren niet. Een losse kiezel rolt over de vloer en komt zonder tik tot rust.
 >
-> Heel even vangt iets boven de stad het zonlicht: een paar witte vleugels, hoog tegen het blauw.
+> Voor jullie staan twee stenen deuren. Op de ene draagt een krijger een opgeheven speer en een lauwerkrans. Op de andere wacht een gekroonde gestalte, de open hand naar de drempel gekeerd.
 >
-> Onder jullie klinkt niets. Zelfs de wind lijkt de diepte te mijden.
-
-### De brug als speelveld
-
-De oorspronkelijke lore geeft geen afmetingen. Gebruik voor deze sessie **vier overspanningen van elk 60 feet**, met een breedte van **15 feet**. De hoogte en massieve steunpunten geven de brug haar monumentale indruk; de afstand houdt het vluchtgevecht speelbaar.
-
-```text
-Bergzijde                                                 Akros
-Hut → [S1] ── 60 ft ── [S2] ── 60 ft ── [S3] ── 60 ft ── [S4] ── 60 ft ── [S5]
-      Begin            Hinderlaag       Tussensteun       Laatste steun    Kolossus
-                       Zwart zegel      Dekking           Seinhoorn       Wachters
-```
-
-Een **station** is een rust- en steunplatform, niet een afzonderlijk brugdeel. De platforms S2–S4 zijn 25 feet breed. De afstanden worden van station tot station gemeten; voeg de platformbreedte niet nogmaals aan de route toe.
-
-| Station | Wat is hier? | Wat kunnen spelers ermee? |
-| --- | --- | --- |
-| **S1 — De drempel** | Reliëf van een smid, twee strijders en een gespleten berg | De mythe lezen; touwen vastmaken |
-| **S2 — Het bronzen anker** | Bakenvlam; bronzen ring met onderhoudsluik | Aanvalstrigger; het vertragende zegel bereiken |
-| **S3 — De gebroken lauwer** | Afgebroken borstbeeld op lage sokkel; brokken steen | Dekking en een bruikbaar knelpunt |
-| **S4 — De hoornwacht** | Vaste bronzen seinhoorn; zicht op de stadswacht | Hulp sneller laten komen |
-| **S5 — De voeten van de kolossus** | Wachtpost, veilige landingsplaats, toegang tot Akros | Veilige zone en slot van de sessie |
-
-**Leuningen:** circa heuphoogte, op sommige plaatsen afgebrokkeld. De brug is niet overal ingestort; gewone verplaatsing vraagt geen checks. De sokkel bij S3 biedt half cover als hij tussen een aanvaller en het personage staat.
-
-### De mythe van de brug
-
-Khea kan de kern vertellen; wie het reliëf onderzoekt, kan dezelfde informatie krijgen. Geen geslaagde check nodig om de bestaande wereldlore te horen.
-
-> [!quote] Khea's verhaal
-> ‘Purphoros bouwde deze weg nadat de goden hier ruzie hadden gemaakt. Iroas zou Akros beschermen. Maar Erebos had de stad aan Mogis beloofd.’
+> Tussen de deuren verschijnen letters in het gesteente.
 >
-> Ze wijst naar de scheur in het reliëf.
->
-> ‘Dat gebeurt er als goden vinden dat ze gelijk hebben.’
->
-> Haar vinger glijdt naar de bronzen lijn over de kloof.
->
-> ‘Mogis werd verdreven. De brug bleef. En beneden… beneden, zeggen ze, ligt geen aarde meer.’
+> *Twee wegen worden aangeboden. Slechts één keert naar de levenden terug.*
 
-### Onheil vóór de aanval
-
-Geef twee signalen zonder check:
-
-- Op het eerste brugdeel voelt de zon warm, maar het brons in het wegdek ijskoud.
-- De bakenvlam bij S2 buigt naar beneden, tegen de wind in.
-
-Wie bewust onderzoekt, kan met **Arcana of Religion CD 13** herkennen dat dit geen gewoon bergweer is. **Perception CD 14** onthult verse zwarte was onder de rand van S2. Mislukken geeft geen valse geruststelling: de oorzaak blijft gewoon onduidelijk.
-
-> [!note] Als ze de hinderlaag vóór zijn
-> Laat een vroege vondst tellen. Ze kunnen het zegel vóór de trigger onschadelijk maken met de methoden bij [[#Het zwarte zegel breken]]. De doden worden nog steeds door hun aanwezigheid naar boven gelokt, maar de vertragende magie werkt niet. Versnel de reddingsklok niet automatisch: de bakenvlammen doven zodra de doden verschijnen. De oversteek wordt merkbaar eenvoudiger — een verdiende beloning voor oplettendheid.
+Dezelfde twee deurbeelden keren in iedere grot terug. **Religion CD 12** kan de namen en hun rollen bevestigen. Bij mislukking blijven de visuele aanwijzingen en proeven volledig bruikbaar. Als een personage de goden al kent, is geen worp nodig.
 
 ---
 
-## 3. Het tweede station
+## 3. Grot I — Het Bloed van de Kampioen
 
-De hinderlaag begint wanneer de eerste held S2 betreedt, tenzij het zegel al gebroken is. Laat de achterste personages aangeven waar ze lopen; plaats ze niet zomaar allemaal samen op het platform.
+**Thema:** opoffering. **Iroas:** zelf bijdragen. **Erebos:** aanvaarden dat een ander de prijs betaalde.
 
-> [!readaloud] De brug ademt uit
-> Een dreun trekt door het steen onder jullie voeten.
+> [!readaloud] Het altaar
+> Twee bronzen schalen staan op een altaar dat door ontelbare handen is gladgesleten. In de eerste ligt een klein ceremonieel mes. In de tweede rust een donkere plas bloed. Het oppervlak beweegt niet.
 >
-> Niet boven de bergen. Niet in de verte.
+> Boven het altaar staat:
 >
-> Recht onder jullie.
+> *Geen overwinning zonder bloed. Maar wiens bloed verdient de overwinning?*
 >
-> De bronzen vlam zakt tot een blauwe punt en dooft. Uit de kloof stijgt een lucht op van natte aarde en oude graven. Zwarte damp loopt over het wegdek, tegen de wind in.
->
-> Jullie schaduwen rekken uit naar de leuningen. Wanneer jullie bewegen, blijven ze een ogenblik achter — en trekken dan terug, als banden rond jullie enkels.
->
-> Aan de rand verschijnt een hand. De vingers zijn kaal tot op het bot.
->
-> Een tweede hand grijpt naast de eerste.
->
-> En ergens onder de brug beginnen vleugels te slaan.
+> Onder de schalen loopt een reliëf langs de steen: een staande krijger naast een open hand; een gevallen krijger naast een gevulde kom.
 
-**Rol initiatief.** Geen automatische surprise: de schok en de handen zijn een zichtbare waarschuwing. Er staan aanvankelijk **twee kloofzombies** op S2, aan verschillende randen. Vanaf nu start de reddingsklok.
+### Wat er werkt
 
-Vertel spelers meteen, buiten het voorleesblok:
+- **Iroas:** iemand geeft vrijwillig eigen bloed in de schaal met het mes. Dat kost **1d6 HP**, eenmaal per offer; geen attack roll. De schaal vult zich met gouden licht en Iroas' deur opent. Een ander geschikt hulpmiddel of een vrijwillig alternatief dat werkelijk eigen levenskracht kost, kan hetzelfde bereiken.
+- **Erebos:** giet het aanwezige bloed in de andere schaal. De zwarte kroon licht op en zijn deur opent onmiddellijk. Het bloed van de gevallen krijger is door de proef bewaard; het levert geen identiteit of automatisch campagnespoor op.
+- **Andermans bloed afdwingen:** opent Iroas niet. Laat bij zo'n poging de zwarte kroon reageren, zodat het onderscheid zichtbaar blijft.
 
-> ‘Jullie snelheid is gehalveerd door de zwarte schaduwen. Acties en bonusacties blijven normaal werken. De vijanden blijven van beneden komen; Akros ligt voor jullie. Wat doen jullie?’
+Laat een vrijwillig offer nooit stilzwijgend een personage op 0 HP brengen: meld het mogelijke verlies vooraf. Er is geen minimumprijs aan goud of karakterachtergrond verbonden. Genezing achteraf maakt het offer niet ongeldig.
 
-### De Greep van de Diepte
+**Bij vastlopen:** laat een druppel van het aanwezige bloed over de rand naar de lege schaal kruipen; de kroon vangt een bleke glans. Het reliëf van de open hand wordt warmer wanneer iemand het mes naar zichzelf richt.
 
-> [!danger] Encounterregel — geen officiële spreuk
-> Dit is een **homebrew gebiedseffect**, niet de officiële spreuk *Slow*. Het begint bij het zegel op S2 en raakt de levende wezens boven het volledige brugdek.
->
-> - Aan het begin van een beurt op de brug: **Wisdom save CD 13**. Bij succes is de snelheid die beurt normaal; bij mislukking gehalveerd, afgerond naar beneden op een veelvoud van 5 feet.
-> - Buiten initiatief is de snelheid gehalveerd zolang het zegel actief is.
-> - Het effect veroorzaakt **geen** moeilijke ondergrond, schade, beperking van acties of disadvantage.
-> - Dash, springen, teleportatie, trekken en dragen blijven bruikbaar volgens jullie normale spelregels. Een sprong vanuit het brugdek gebruikt de aangepaste snelheid; vliegers boven de brug zijn ook getroffen, tenzij ze uit de damp stijgen.
-> - De damp reikt tot **30 feet boven het wegdek**. Buiten die zone werkt het effect niet. De ondoden zijn immuun.
-> - Het effect eindigt onmiddellijk wanneer het zegel breekt. Wie het gebied verlaat, is vrij van de vertraging.
-
-De zwarte damp en het knappen van de was wijzen zichtbaar terug naar S2. Er is geen extra check nodig om te begrijpen dat daar iets belangrijks zit.
-
-### Het zwarte zegel breken
-
-Het zegel hangt onder de buitenrand van S2, binnen bereik van iemand die knielt en over de leuning reikt. Dat kost geen verplichte klimcheck. De eerste keer dat iemand het onderzoekt, beschrijf je een zwarte wasplaat met een metalen splinter erin, vastgeklemd tussen bronzen tanden.
-
-Kies een aanpak, niet een verplichte oplossing:
-
-| Aanpak | Resolutie | Gevolg |
-| --- | --- | --- |
-| **Loswrikken** | Actie; Athletics CD 14 | Succes breekt de klem en het zegel |
-| **Ontgrendelen** | Actie; Dexterity met thieves' tools CD 14 | Succes opent de klem zonder het bronzen anker te beschadigen |
-| **Runen onderbreken** | Actie; Arcana of Religion CD 14 | Succes verbreekt de verbinding door de waslijnen te wissen |
-| **Kapotslaan** | AC 12, 15 HP; immuun voor poison en psychic | Op 0 HP eindigt het effect; schade stapelt op |
-| **Dispel Magic** | Eén toepassing op het zegel | Voor dit encounter telt het effect als een spreuk van level 3 en eindigt het |
-| **Andere goede ideeën** | Geen check bij een sluitende oplossing; anders CD 13–15 | Beloon uitleg en passende middelen |
-
-Een mislukte check kost alleen de actie; ze mogen opnieuw proberen of een andere aanpak kiezen. Bij breken ontsnapt een koude ademtocht en schieten de schaduwen los. **De ondoden verdwijnen niet.**
-
-**Aanwijzing:** een stukje zwarte was met de metalen splinter blijft achter. Het wijst op bewuste voorbereiding, maar identificeert geen god, sekte of opdrachtgever. Oprapen kost een gewone objectinteractie als het binnen bereik ligt.
+**Bij terugkeer:** beide schalen staan weer klaar, ongebruikte deuren sluiten. Verloren HP en verbruikte middelen herstellen niet. Als Iroas al geopend was maar de groep Erebos nam, is voor de nieuwe poging opnieuw een vrijwillig offer nodig.
 
 ---
 
-## 4. Waar de doden klimmen
+## 4. Grot II — De Schaduwen van het Verleden
 
-### Het gevecht leiden
+**Thema:** beheersing. **Iroas:** de confrontatie dragen zonder geweld. **Erebos:** het obstakel vernietigen.
 
-Speel dit als een bewegend gevecht. Laat monsters routes bedreigen, touwen grijpen en de groep opsplitsen. Vermijd dat iedere vijand steeds het personage met de minste HP aanvalt.
-
-**Maximaal vier actieve vijanden tegelijk.** Een nieuwe golf die boven die limiet zou komen, blijft zichtbaar onder de rand hangen en doet die ronde niets. Zet wachtende vijanden in latere rondes in als er ruimte ontstaat, tot de patrouille arriveert. Gedode monsters keren niet zomaar terug. Na de redding zijn er geen nieuwe golven.
-
-De noodsignalen worden bij S5 waargenomen, ook als de groep zelf niets doet. Hulp arriveert aan het begin van ronde 6; het signaal bij S4 kan dat vervroegen.
-
-| Ronde | Gebeurtenis aan het begin van de ronde | Zichtbare ontwikkeling |
-| --- | --- | --- |
-| **1** | De 2 startzombies staan op S2 | De andere bakenvlammen doven één voor één |
-| **2** | 1 ondode harpy verschijnt boven S3 | Een geschreeuw daalt af naar de brug |
-| **3** | Tot 2 nieuwe zombies klimmen bij S3; respecteer de limiet | Bij de kolossus antwoordt een verre hoorn |
-| **4** | De wight klimt bij S4 omhoog; bij een volle limiet wacht hij | Witte vleugels stijgen op achter de wachtpost |
-| **5** | De tweede harpy verschijnt als er plaats is | De patrouille draait tegen de zon in naar de brug |
-| **6** | De patrouille arriveert; geen verdere golven | Ga naar [[#5. Vleugels boven de afgrond]] |
-
-**Initiatief:** zombies handelen op 10, harpies op 15, de wight op 12. Een nieuw verschenen vijand handelt niet vóór zijn eerstvolgende initiatiefmoment die ronde. Wachters grijpen bij aankomst vóór alle andere beurten in.
-
-> [!tip] Laat zien waarom blijven staan slecht is
-> ‘Onder de rand grijpen nog meer handen naar het steen. Deze twee zijn niet de laatste.’ Dat is informatie, geen bevel. Als de groep stand wil houden en het zegel aanpakken, laat dat werken. De reddingsklok loopt door.
-
-### De eerste vleugels
-
-> [!readaloud] Een stem boven de nevel
-> Een vorm schiet langs de leuning omhoog. Gerafelde veren waaieren uit over een lichaam dat veel te mager is. Tussen de ribben beweegt geen adem.
+> [!readaloud] Wat volgt
+> Drie stenen figuren staan met gebogen hoofd tegen de achterwand. Hun schaduwen vallen naar de lampen toe.
 >
-> Het wezen hangt boven de brug en kantelt zijn hoofd.
+> In de vloer liggen drie cirkels: een oog, een schild en een gebroken zwaard. Waar het licht jullie raakt, begint de duisternis aan jullie voeten los te laten.
 >
-> Wanneer het zijn bek opent, klinkt er geen vogelroep, maar een zachte stem.
+> Boven de cirkels staat:
 >
-> ‘Rust maar. Ge hebt zo ver gelopen.’
+> *Wat achter je ligt, zal je altijd volgen. Tenzij je besluit het onder ogen te zien.*
 
-Deze harpies zijn **ondode varianten voor dit avontuur**, niet de gewone levende harpies. Hun stem vertraagt en leidt af; ze neemt nooit langdurig een personage uit het spel en verplicht niemand de afgrond in te wandelen.
+### Wat er werkt
 
-### De wight verschijnt
+- **Iroas:** drie personages bezetten tegelijk de cirkels, wenden zich naar de schaduwen en leggen hun wapens neer. Wie ongewapend is, toont lege, ontspannen handen. De schaduwen spiegelen de beweging, knielen en openen Iroas' deur. Het vierde personage kan observeren, aanwijzingen tekenen of helpen.
+- **Erebos:** vernietig alle drie de schaduwen. Zijn deur opent; de groep werpt op het volgende brugdeel geen schaduw. Dit is een zichtbaar verhalend effect, zonder voordeel op Stealth of andere checks.
 
-> [!readaloud] De dode die niet haast
-> Een geharnaste hand sluit zich om de leuning van het laatste steunplatform.
->
-> De gestalte die zich omhoogtrekt, draagt de resten van een bronzen borstplaat. In de helm branden twee bleke punten. Hij kijkt niet naar de stad. Hij kijkt naar jullie.
->
-> Achter hem slaat een harpy met haar vleugels. Beneden schrapen nagels over steen.
->
-> De krijger heft zijn zwaard.
->
-> ‘Alles wat ademt,’ zegt hij, ‘komt uiteindelijk beneden.’
+**De schaduwen zijn puzzelmanifestaties, geen monsters uit het Monster Manual.** Elk heeft **AC 12 en 10 HP**, zonder resistances, ability drain of eigen aanvallen. Gebruik bij gerichte aanvallen initiatief en de normale schade van de personages. Hun dreigende bewegingen spiegelen de helden; ze raken nooit uit zichzelf iemand. Ze spreken niet, grijpen niemand en blokkeren geen terugweg. Bij een technisch benodigde save: +0. Andere bruikbare manieren om een manifestatie te verdrijven tellen mee.
 
-De wight probeert S4 te blokkeren, maar vormt **geen verplichte boss fight**. Hij kan worden bestreden, weggeduwd, omzeild, afgeleid of door de wachters teruggedreven. Hij beschermt de seinhoorn niet met bovennatuurlijke kennis; hij ziet gewoon dat reizigers naar de stad willen.
+Een getroffen schaduw laat een scheur achter in het overeenkomstige beeld. Bij een neergelegd wapen ontspant haar houding. Zo kunnen spelers beide mogelijkheden afleiden. Als één schaduw al vernietigd is, kan het betreffende cirkelbeeld nog knielen: een eerdere aanval sluit een latere keuze voor beheersing niet af.
 
-### Bruikbare acties op de brug
+**Bij vastlopen:** geef de vierde speler expliciet het zicht dat de schaduwen iedere gespannen en ontspannen houding nadoen. Een neergelegd schild wordt door een schaduw zonder aarzeling gevolgd.
 
-| Spelersidee | Praktische uitwerking |
-| --- | --- |
-| **Een bondgenoot helpen met het zegel** | Help geeft advantage op de passende check als de helper ernaast staat en werkelijk kan bijdragen |
-| **Sokkel bij S3 benutten** | Half cover; de doorgang blijft breed genoeg om te passeren |
-| **Een steen naar klimmende handen gooien** | Actie; ranged attack tegen AC 10. Treffer stelt één wachtende vijand een ronde uit; geen effect op monsters die al boven zijn |
-| **Een monster over de rand duwen** | Gebruik jullie normale shove-regels. Zombies vallen weg; harpies kunnen vliegen; de wight kan zich eenmaal aan de rand vastgrijpen en moet daarna omhoog klimmen |
-| **Seinhoorn bij S4 blazen** | Actie, geen check: patrouille komt begin volgende ronde, uiterlijk ronde 6 |
-| **Het rode vaandel tonen** | Actie vanaf S3 of S4, geen check: hetzelfde effect als de hoorn |
-| **Met licht of magie signaleren** | Een duidelijk, zichtbaar noodsignaal vanaf S3 of verder werkt eveneens; spreek het effect af vóór de speler de actie besteedt |
-| **Vliegen of teleporteren** | Laat dit werken. Buiten de damp is vliegen normaal; S5 is een geldige zichtbare bestemming als afstand en vermogen dat toelaten |
-| **Terug naar de hut** | Leg een uitvoerbare terugtocht niet stil. De wachters bereiken ook de bergzijde en bieden begeleiding naar Akros aan |
-
-### Als iemand van de brug valt
-
-Gebruik een heldere, vooraf gedeelde procedure. De afgrond is angstaanjagend, maar geen onverwachte knop voor een onmiddellijke dood.
-
-1. **Met bevestigd veiligheidstouw:** het touw vangt de val op. Het personage hangt maximaal 15 feet onder de rand en neemt geen valschade. Terugklimmen kost een actie en Athletics CD 10; een helper boven kan met een actie zonder check omhoogtrekken. Geef vanuit de hangpositie alleen bereikbare doelen.
-2. **Zonder veiligheidstouw:** geef een Dexterity save CD 12 om de rand of een uitstekende steen vast te grijpen. Bij succes hangt de held aan de rand; omhoog komen kost een actie, of de actie van een helper.
-3. **Bij mislukking:** de held valt op een lager uitgehouwen steunvlak, 20 feet lager: **2d6 bludgeoning damage**. Terugkeer vraagt een touw en hulp, een passende vaardigheid of magie. De steunvlakken zijn vooraf zichtbaar; ze bestaan niet pas zodra iemand valt.
-4. **Wie op het steunvlak bewusteloos raakt:** normale death saves lopen door. De patrouille kan de held bij aankomst oppikken; dat wist mislukte saves of al opgelopen schade niet uit.
-
-Ondoden proberen levende tegenstanders vast te grijpen of richting de rand te drijven, maar gebruiken daarvoor hun beurt. Geen gratis val bovenop elke aanval. Een zombie kan een touw met één aanval beschadigen; pas een tweede gerichte treffer snijdt het door. Beschrijf de eerste beschadiging duidelijk.
-
-### Compacte vijandprofielen
-
-> [!info] Zelfgemaakte encounterprofielen
-> Onderstaande profielen zijn vereenvoudigde, originele versies voor deze scène, **geen officiële statblocks**. Ze combineren niet met extra eigenschappen uit een Monster Manual. Niet-vermelde saves en ability checks gebruiken +0. Alle drie zijn undead, immuun voor poison damage en de poisoned condition.
-
-#### Kloofzombie
-
-| AC | HP | Speed | Belangrijke checks |
-| --- | --- | --- | --- |
-| 8 | 22 | 20 ft; climb 20 ft | Athletics +3, Wisdom save −2 |
-
-- **Slaan:** melee +3, bereik 5 ft, één doel; **6 bludgeoning damage**.
-- **Grijpen:** in plaats van slaan, melee +3 tegen AC. Treffer: doel grappled, escape CD 11; ontsnappen kost een actie. Maximaal één doel per zombie. Geen extra schade.
-- **Nog niet dood:** eenmaal per zombie, als niet-radiant schade hem op 0 HP brengt, blijft hij op 1 HP staan. Een critical hit omzeilt dit eveneens.
-- **Gedrag:** grijpt eerst wie passeert. Een zombie die al iemand vastheeft, kan niet tegelijk een tweede held grijpen of zonder gevolgen doorslaan.
-
-#### Ondode kloofharpy
-
-| AC | HP | Speed | Belangrijke checks |
-| --- | --- | --- | --- |
-| 11 | 27 | 20 ft; fly 40 ft | Dexterity save +3, Wisdom save +1 |
-
-- **Klauwen:** melee +4, bereik 5 ft, één doel; **7 slashing damage**.
-- **Grafzang — eenmaal per harpy:** actie; maximaal twee levende doelen naar keuze binnen 30 ft die haar horen. Wisdom save CD 12. Bij mislukking kan het doel tot het einde van zijn volgende beurt geen reactions nemen en is de eerste attack roll die beurt met disadvantage. Geen gedwongen beweging of charm.
-- **Gedrag:** blijft binnen aanvalsbereik van de brug en bedreigt achterblijvers. Ze probeert niet een personage op te tillen en gratis te laten vallen.
-
-#### Wight van de benedenwereld
-
-| AC | HP | Speed | Belangrijke checks |
-| --- | --- | --- | --- |
-| 14 | 45 | 30 ft; climb 20 ft | Athletics +4, Wisdom save +2 |
-
-- **Twee zwaardaanvallen:** elk melee +4, bereik 5 ft, één doel; **6 slashing damage** per treffer.
-- **Doodskoude hand — maximaal eenmaal per beurt:** vervangt één zwaardaanval; melee +4; **6 necrotic damage**. Treffer: doel kan tot het begin van de volgende beurt van de wight geen HP herstellen. Geen permanente verlaging van maximale HP.
-- **Vasthouden aan de wereld:** eenmaal, wanneer hij over de rand wordt geduwd, blijft hij hangen. Zijn volgende actie is nodig om omhoog te komen. Een tweede succesvolle shove terwijl hij hangt, laat hem vallen.
-- **Gedrag:** houdt het laatste steunplatform bezet. Hij achtervolgt geen held die al bij S5 is en valt geen bewusteloze helden aan zolang er staande tegenstanders zijn.
-
-### Schalen en noodrem
-
-**Voor 4 personages van level 5:** gebruik de profielen en golven hierboven. Dit is een startinschatting, geen gegarandeerde encounterbalans: classes, spreuken en dobbelstenen maken verschil.
-
-- **Zwakker of al gewond:** één startzombie; tweede zombiegolf slechts één; geen tweede harpy; wight 30 HP en één aanval per beurt.
-- **Sterkere of grotere groep:** verhoog de wight naar 60 HP en de limiet naar vijf actieve vijanden. Voeg geen extra vertragende effecten toe.
-- **Als twee helden tegelijk op 0 HP staan:** laat de volgende golf vervallen en de patrouille begin volgende ronde aankomen. Geef vooraf de zichtbare waarschuwing van naderende vleugels; wacht niet op een TPK om het geplande reddingsmoment te starten.
-
-> [!warning] Geen uitputtingswedstrijd
-> Laat spelersmiddelen effectief zijn. Turn Undead mag meerdere zombies neutraliseren; area damage mag een golf uitwissen; een teleport kan iemand veilig brengen. Verhoog daarna niet heimelijk HP of vijandaantallen om de paniek toch te behouden. De dreiging zit ook in hoogte, tijd en het redden van elkaar.
+**Bij terugkeer:** drie nieuwe schaduwen wachten in dezelfde grot. Geen extra vijandengolf. Een ontbrekende eigen schaduw keert terug zodra het volgende brugdeel eindigt.
 
 ---
 
-## 5. Vleugels boven de afgrond
+## 5. Grot III — De Laatste Vlam
 
-De redding begint bij de eerste van deze momenten:
+**Thema:** samenwerking. **Iroas:** het licht samen beschermen. **Erebos:** het einde laten komen.
 
-- begin ronde 6;
-- begin van de ronde na een duidelijk signaal vanaf S3 of S4;
-- de aangekondigde vervroegde aankomst bij de noodrem.
+> [!readaloud] Wat overblijft
+> In het hart van de grot brandt een vlam, klein genoeg om met één hand te bedekken. Haar gouden licht rust op een lage stenen schaal.
+>
+> Twee hoge bronzen vuurschalen wachten bij de deuren. De ene draagt een lauwer, de andere een kroon. Tussen het midden en de lauwer staan drie lage zuiltjes, elk met de afdruk van twee handen.
+>
+> *Een vlam kan de weg wijzen. Of zij kan het einde verlichten.*
+>
+> Terwijl jullie kijken, wordt het licht een weinig kleiner.
 
-**Als iedereen al S5 heeft bereikt:** speel het voorleesblok met de patrouille die achter hen neerduikt. Zij hebben zichzelf gered; de wachters voorkomen achtervolging en ontvangen hen.
+### De vlamklok
 
-> [!readaloud] De hemel antwoordt
-> Een hoorn klinkt boven het geraas. Dichtbij deze keer.
->
-> Een witte schaduw valt over de brug.
->
-> Dan nog een.
->
-> Pegasi duiken langs de stenen steunpunten naar beneden. Op hun rug zitten wachters met bronzen helmen en rode mantels, speerpunten vooruit. Een harpy krijst wanneer een van de ruiters haar uit de lucht stoot.
->
-> De voorste pegasus slaat met zijn hoeven vonken uit het wegdek. Zijn ruiter kijkt niet naar de diepte, maar naar jullie.
->
-> ‘Naar de kolossus!’ roept ze. ‘Wij houden ze van de brug!’
+Leg **zes zichtbare lichtmarkers** neer. Buiten initiatief krijgt iedere speler per ronde gelegenheid één betekenisvolle handeling te doen; daarna dooft één marker. Geef eerst de volledige kamerbeschrijving. Regelvragen aan de DM verbruiken geen tijd. Start geen echte stopwatch.
 
-### De laatste inspanning
+Bij de derde verdwijnende marker bereikt het licht alleen nog de binnenste zuil. Bij de vijfde gloeit de kroon. Dat geeft de groep gelegenheid haar koers te wijzigen.
 
-Vier wachters grijpen in. Rol geen volledig tweede gevecht met acht extra beurten.
+### Wat er werkt
 
-1. **De eerste ruiter verjaagt de harpies.** Die trekken zich terug naar de kloof.
-2. **De tweede breekt het zegel**, als het nog actief is: een speer snijdt de wasplaat van het anker. De vertraging eindigt onmiddellijk.
-3. **De derde dringt de wight terug** en verhindert dat hij de helden nog aanvalt. Als de spelers hem zelf willen afmaken, geeft de wachter ruimte, geen automatische genadeklap.
-4. **De vierde haalt achterblijvers op.** Ook personages op lagere steunvlakken vallen binnen deze redding.
+- **Iroas:** draag de vlam met een voorwerp naar de lauwer-vuurschaal en bescherm haar samen. Een kom, helm of schild kan haar dragen; een tweede personage schermt haar af of ondersteunt het overgeven. De drie zuilen nodigen uit tot een keten, maar verplichten geen exact aantal helpers. Twee samenwerkende personages met een bruikbaar plan volstaan; de anderen kunnen het licht of de route bewaken. De vuurschaal ontbrandt en Iroas' deur opent.
+- **Erebos:** laat de vlam uitdoven, blaas haar doelbewust uit of raak haar rechtstreeks aan. Bij nul markers opent zijn deur. Rechtstreeks aanraken dooft haar zonder brandschade. De zwarte vuurschaal vangt de laatste rook op.
 
-De spelers krijgen vervolgens nog **één beurt in initiatief** om te bewegen, een bondgenoot op te pakken, te genezen, het wasfragment veilig te stellen of nog een vijand te raken. De wachters houden de vijanden van hen af; dit is geen extra schadepiek. Wie liever naar een aangeboden pegasus gaat, kan opstijgen met de hulp van de ruiter.
+De vlam kan op een voorwerp rusten, maar dooft bij direct contact met levende huid. Laat dat vooraf zien: zij wijkt terug wanneer een hand nadert. Maak een ongeluk niet onzichtbaar of onomkeerbaar voordat de speler de handeling bevestigt.
 
-Daarna begeleiden de ruiters iedereen naar S5. Verplaats de reddingslanding naar de positie van de groep als ze ver achterop zijn of teruggelopen zijn. Er is geen verplichte ‘haal station 4 of sterf’-voorwaarde.
+Een gewone fakkel aansteken of een eigen vuurspreuk gebruiken vervangt deze bijzondere vlam niet. Magische middelen kunnen haar wel dragen of beschutten als hun werking dat toelaat. Een goed samenwerkingsplan lukt zonder verplichte Acrobatics-check of behendigheidsketen.
 
-> [!readaloud] Vaste grond
-> Onder de voeten van de kolossus verandert de klank van jullie stappen. Geen holle dreun meer boven de leegte, maar steen die rust op steen.
->
-> Achter jullie brandt het brons van de brug in het ochtendlicht. De zwarte damp trekt langzaam terug over de leuningen.
->
-> Een pegasus schudt zijn vleugels uit. De ruiter stijgt af en schuift haar helm naar achteren. Op haar wang zit een dunne streep bloed.
->
-> Ze telt jullie. Nog eens.
->
-> ‘Iedereen?’ vraagt ze.
->
-> Dan kijkt ze voorbij jullie, naar de brug.
->
-> ‘Bij Iroas. Wat is daar gebeurd?’
+**Bij vastlopen:** de handafdrukken lichten per paar op wanneer twee personages elkaar helpen. De vlam buigt naar een aangeboden kom toe.
+
+**Bij terugkeer:** de vlam krijgt zes nieuwe markers. Verbruikte spell slots en uitrusting keren niet terug.
 
 ---
 
-## 6. In de schaduw van de kolossus
+## 6. De schaduwbrug van Erebos
+
+De eerste twee doorgangen van Erebos lijken aanvankelijk op de volgende echte overspanning. Buiten de grot keert geluid terug. Laat eerst herkenning ontstaan en toon dan de afwijkingen.
+
+> [!readaloud] Dezelfde stenen
+> De brug wacht aan de andere kant. Dezelfde leuning, dezelfde bronzen banden, dezelfde nevel onder het steen.
+>
+> Maar de vuurschalen branden niet. Zwarte rook stijgt op zonder uiteen te waaien.
+>
+> Ver beneden loopt water door de kloof. Bleke gezichten draaien mee met de stroom.
+>
+> De kolossus staat nog altijd in de verte. Na honderd stappen lijkt hij even ver weg als daarvoor.
+
+**Eerste omweg:** zwarte rook, koud licht, de verre stad zonder geluid. Na enkele minuten bereiken ze dezelfde grot; een herkenbare barst of eigen krijtmerk bevestigt de terugkeer.
+
+**Tweede omweg:** voeg een gebroken beeld toe dat eerder intact was. Aan het einde van het brugdeel blijft één extra gestalte staan wanneer de helden stoppen. Zij volgt hen op afstand, zonder aan te vallen. Als de groep later Akros bereikt, kan deze aanwezigheid een spoor voor een volgende sessie worden; leg identiteit en bedoelingen nog niet vast.
+
+Bij terugkeer verschijnt steeds:
+
+> *Niet elke stap brengt de reiziger dichter bij zijn bestemming.*
+
+Bij de tweede terugkeer verschijnt daaronder:
+
+> *Tweemaal nam het einde jullie aan. Een derde maal houdt het de weg open.*
+
+De derde keuze heeft zo een vooraf leesbaar gevolg. Vertel niet meteen de verborgen tellers, maar onthoud spelers het zichtbare bewijs niet. Een concrete vraag of gerichte observatie mag betrouwbare informatie opleveren zonder verplichte worp.
+
+**Teruglopen:** vóór het voltooien van de omweg kunnen ze terug naar de grot. De eenmaal bevestigde Erebosdoorgang blijft meetellen; dezelfde omweg opnieuw betreden geeft geen extra fiche. Na terugkeer is een nieuwe puzzeloplossing en bewuste doorgang nodig voor een volgende keuze.
+
+**Terugtrekken:** wie de hele beproeving verlaat, kan via de eerdere echte brugdelen naar de bergzijde terug. De tellers resetten niet door rusten of een nieuwe dag. Een terugtocht is een geldige keuze; voer geen gedwongen eindbestemming in.
+
+---
+
+## 7. Uitkomst — Akros
+
+Bij de derde voltooide Iroasproef verschijnt boven zijn deur:
+
+> *Hij die de dood vreest, zal nooit overwinnen.*  
+> *Hij die enkel de overwinning zoekt, zal nooit begrijpen wat zij kost.*
+
+Het laatste brugdeel voert naar de kolossus. Erebos' omwegen hebben echte tijd gekost; zij nemen de behaalde overwinning niet weg.
+
+> [!readaloud] De stad die klinkt
+> Eerst komt het geluid: metaal op steen, de roep van een verkoper, een verre hoorn boven de muren.
+>
+> Dan valt zonlicht op de brug. De laatste overspanning ligt voor jullie, tot aan de voeten van de kolossus. Ditmaal wordt de poort met iedere stap groter.
+>
+> Onder de bronzen schaduw wacht een vrouw in een verstelde rode mantel. Ze telt jullie, kijkt voorbij jullie en telt opnieuw.
+>
+> ‘Water,’ zegt ze tegen een wachter. ‘En haal iets om op te zitten.’
 
 ### Patrouillecommandant Ianthe
 
-**Nieuwe NPC voor deze sessie.** Ianthe leidt de vier ruiters. Ze is zakelijk en beschermend, niet achterdochtig om het achterdochtig zijn.
+Gebruik [[02 - Ianthe - De Ruiter die Tweemaal Telt|Ianthe's NPC-fiche]]. Zij leidt vier pegasusruiters. Haar eerste vragen gaan over gewonden, vermisten en de weg die de groep heeft afgelegd. Zij kent de twee goden, maar heeft de zojuist beschreven grotten niet zelf betreden. Haar getuigenis verklaart de goddelijke beproeving niet definitief.
 
-- **Eerste zorg:** gewonden, vermisten en de vraag of er nog reizigers op de brug zijn.
-- **Wat ze weet:** de bakens doofden tegelijk; daarna zag de wacht beweging onder het brugdek.
-- **Wat ze niet weet:** wie het zegel heeft aangebracht of waarom dit gezelschap er liep.
-- **Wat ze vraagt:** waar begon de aanval, wat deed de zwarte damp, hebben ze iets aangeraakt of meegenomen?
+De patrouille heeft **twee veldflacons van elk 2d4 + 2 HP** voor dringende hulp. Ianthe biedt water en een rustplek aan; een short rest gebruikt de gewone regels. Indien nodig regelt zij eenvoudig onderdak bij [[23 - Eryx - De Onvoltooide Heildronk|De Rustende Veteraan]].
 
-Laat haar eerst water en eenvoudige verzorging regelen. Voor bewusteloze of stervende helden heeft de patrouille twee genezende veldflacons, elk **2d4 + 2 HP**, die ze onmiddellijk inzet. De wachters stabiliseren overige stervende helden met hun medische uitrusting. Dit is nieuwe encounteruitrusting, geen onbeperkte genezingsbron. **De groep kan een short rest nemen** in de wachtpost; gebruik hit dice volgens jullie normale regels. Een gestabiliseerde held op 0 HP moet eerst bijkomen of genezing krijgen voordat die zelf hit dice kan gebruiken.
+| Erebosdoorgangen | Aankomst |
+| --- | --- |
+| 0 | Akros, zonder onderwereldgevolg. |
+| 1 | Akros, met herinneringen aan de schaduwbrug. |
+| 2 | Akros; de extra gestalte kan op afstand bij de laatste leuning zichtbaar zijn. Geen verplicht onmiddellijk gevecht. |
 
-Ianthe vraagt niet dat de groep een gevonden voorwerp zonder discussie afgeeft. Ze wil het zien, kan het tekenen en legt uit dat de wacht de brug moet onderzoeken. Geef ruimte voor Darius' onderhandeling, wantrouwen of een gezamenlijk besluit.
+Laat de spelers zelf bepalen wat zij vertellen. Verbind hun waarnemingen niet automatisch aan Varyas, Arlen, Gronk of gezochte relieken. Bestaande persoonlijke doelen kunnen weer richting geven aan hun eerste stappen in de stad.
 
-> [!quote] Ianthe over de aanval
-> ‘Doden uit de kloof… daar bestaan verhalen over. Maar alle bakens tegelijk? Dat heb ik nog nooit gezien.’
+---
 
-### Persoonlijke haakjes
+## 8. Uitkomst — De Onderwereld
 
-Gebruik er hooguit twee nadrukkelijk tijdens de sessie. De rest kan wachten op gesprekken in Akros. Deze haakjes geven richting, **geen antwoord op de mysteries uit de proloog**.
+Bij de derde bevestigde doorgang van Erebos leidt de brug niet meer terug naar een proef. Reeds verdiende Iroasfiches blijven deel van hun geschiedenis, maar veranderen deze bestemming niet.
 
-| Personage | Mogelijke scène | Wat blijft open? |
-| --- | --- | --- |
-| **Arowel** | Bij het tonen van Lysandra Kyros' uitnodiging biedt Ianthe een routebeschrijving naar de Gouden Lier aan. Een wachter vraagt of ze voor de Iroan Games komt. | Waarom Arowel precies werd uitgenodigd en waar haar gezochte artefacten zijn |
-| **Darius** | De wasplaat is duidelijk aangebracht, niet uit de oude brug gesleten. Met Investigation CD 12 ziet hij recente snijsporen. | Geen bewezen verband met Varyas, Lot XVII of de indringer |
-| **Dorian** | Als Dorian Sentinel Edge raadpleegt, voelt hij bezorgdheid bij de doden en rust bij de geredde reizigers. Het zwaard kan zijn keuzes ondersteunen zonder ze te sturen. | Geen bevestiging dat Arlen of een Bewaardersreliek in de kloof zit |
-| **Plink** | Het onderhoudsslot bood zijn vaardigheid een echt speelbaar moment. In de wachtpost vraagt iemand met een glimlach of al die sleutels voor stadspoorten bedoeld zijn. | Geen sleutel verandert vanzelf in nummer 27; Gronks deur blijft een apart spoor |
-
-### Beloning
-
-- **Veilige toegang tot Akros** en een betrouwbare eerste contactpersoon in Ianthe.
-- **De eigen overwinning:** benoem concreet wat de groep deed — wie het zegel brak, wie iemand optrok, wie het signaal gaf.
-- **Het wasfragment**, als ze het meenamen: een onderzoeksspoor zonder verplichte oplossing.
-- **Een bed voor de komende nacht:** Ianthe laat de wacht een eenvoudig gastenverblijf voor hen regelen. De naam en plek kunnen later worden ingevuld.
-
-Geef eventuele XP voor overwonnen gevaren en behaalde doelen, niet uitsluitend voor kills. Gebruik je milestones, dan is dit een sterke openingsmijlpaal maar geen verplicht level-upmoment.
-
-### Afsluitend voorleesblok
-
-> [!readaloud] Akros
-> De poort gaat open.
+> [!readaloud] Het andere einde
+> De wind valt weg.
 >
-> Warm licht valt over de stenen voor jullie. Achter de muur klinken hamers, roepende verkopers en ergens het oefenen van een melodie. Rode banieren bewegen tussen de daken. De lucht ruikt naar brood, olie en stof dat door honderden voeten wordt opgetild.
+> Voor jullie eindigt de brug. Waar Akros had moeten staan, strekt een vlakte van zwart gesteente zich uit, bezaaid met obelisken. Beneden de laatste boog bewegen bleke handen door donker water.
 >
-> Een stad die wakker is. Een stad die leeft.
+> Aan het einde van de weg wacht een gekroonde gestalte. Zijn schaduw raakt beide leuningen.
 >
-> Ianthe stapt opzij.
+> ‘Driemaal werd jullie een overwinning aangeboden. Driemaal namen jullie mijn weg.’
 >
-> ‘Welkom in Akros,’ zegt ze.
+> De open hand sluit zich niet.
 >
-> Achter jullie klinkt nog één keer een verre dreun uit de kloof.
->
-> Ditmaal staat er een muur tussen jullie en het geluid.
+> ‘Welkom in mijn rijk.’
 
-**Stop hier**, of vraag elke speler naar de eerste plek die die in Akros wil opzoeken. Daarmee hebben hun eigen doelen het laatste woord.
+De groep leeft nog. Een goddelijke passage is geen overlijden, geen automatisch verlies van uitrusting en geen verandering in Returned. Erebos behandelt hen als gasten die zijn uitnodiging hebben aanvaard.
+
+### Een weg terug
+
+Erebos biedt hun aan een vergeten ziel terug naar het land der levenden te begeleiden. Dit is een **door hem toegestane uitzondering voor deze queeste**, geen algemene wijziging van de wetten van Theros of een gratis opstanding.
+
+Kies voor het vervolg bijvoorbeeld een vergeten priester van Iroas. Laat naam, verblijfplaats en reden van diens terugkeer pas in het volgende avontuur vaststaan. Kennis over een campagnemysterie is een optionele DM-keuze, geen al bewezen verband met het masker van Varyas.
+
+> [!quote] Het aanbod
+> ‘Eén naam wordt boven niet meer uitgesproken. Zoek degene die hem droeg. Breng die ziel tot aan de grens, en ik zal jullie een weg naar de levenden wijzen.’
+
+De spelers mogen onderhandelen, weigeren of een andere ontsnappingsroute onderzoeken. Stop desgewenst na het aanbod; noteer hun antwoord en bereid daarop het vervolg voor. Er verschijnt geen pegasuspatrouille om deze uitkomst ongedaan te maken.
+
+---
+
+## Wisselopties — de oorspronkelijke drie proeven
+
+Deze komen uit de eerste uitwerking in de chat. Gebruik ze **in plaats van** een hoofdproef, niet als drie extra verplichte grotten. Dezelfde stilte-, deur- en tellerregels gelden.
+
+### De prijs van overwinning
+
+Een weegschaal draagt een gouden lauwerkrans; de andere schaal is leeg.
+
+- **Iroas:** *Overwinning wordt niet gegeven. Zij wordt verdiend.* Een vrijwillig afgestaan persoonlijk of waardevol bezit opent zijn deur. Beoordeel betekenis, niet een verborgen goudminimum. Het bezit blijft achter zodra de groep de doorgang neemt; meld dat vooraf.
+- **Erebos:** *Iedere overwinnaar laat iets achter.* Wie de lauwerkrans neemt zonder te offeren, opent zijn deur.
+- **Aanwijzing:** een reliëf toont een open hand tegenover een hand die de krans vastgrijpt.
+
+### De gevallen krijger
+
+Een hoplietenbeeld ligt gebroken op de grond. Zijn schild ligt verderop; tegenover hem wacht een gouden voetstuk.
+
+- **Iroas:** *Een ware kampioen overwint nooit alleen.* Richt samen het beeld op en geef het zijn schild terug. Een werkbaar plan lukt; hulpmiddelen of magie mogen de samenwerking ondersteunen.
+- **Erebos:** *De gevallenen zijn niet langer jouw last.* Leg alleen het schild op het voetstuk en laat de krijger liggen.
+- **Aanwijzing:** het beeld reikt naar het schild; zijn sokkel toont de afdruk van twee helpers.
+
+### De laatste overwinning
+
+Een gewapend beeld staat tegenover een knielende, ongewapende krijger. Op een sokkel ligt een gouden kroon.
+
+- **Iroas:** *De grootste overwinning vraagt de grootste beheersing.* Neem het zwaard van het staande beeld en leg het naast de knielende krijger. Beide beelden buigen.
+- **Erebos:** *Maak een einde aan het gevecht. Neem wat je toekomt.* Vernietig de knielende figuur of neem de kroon.
+- **Uitvoering:** het zwaard zit los genoeg om zonder Strength-check te verwijderen. Het knielende beeld heeft AC 12 en 10 HP; het valt niet aan.
 
 ---
 
 ## Snelle DM-referentie
 
-> [!summary] Tijdens het gevecht
-> **Trigger:** eerste levende reiziger op S2. Geen automatische surprise.  
-> **Doel:** elkaar levend naar S5 krijgen; vijanden hoeven niet allemaal dood.  
-> **Vertraging:** Wisdom CD 13 aan begin beurt; falen = halve speed. Verder normale acties.  
-> **Zegel op S2:** actie + CD 14, of AC 12 / 15 HP, of Dispel Magic. Breken beëindigt de vertraging.  
-> **Vijandlimiet:** 4 actief; wachtende klimmers handelen niet.  
-> **Initiatief:** harpies 15, wight 12, zombies 10.  
-> **Hulp:** begin ronde 6; hoorn of duidelijk signaal vanaf S3/S4 = begin volgende ronde.  
-> **Noodrem:** twee helden op 0 HP → geen volgende golf; hulp begin volgende ronde.  
-> **Val:** touw vangt op; anders Dex CD 12; bij falen 20 ft naar steunvlak, 2d6 schade.  
-> **Redding:** harpies weg, zegel breekt, wight teruggedrongen; helden krijgen één laatste eigen beurt.
+| Onderdeel | Aan tafel |
+| --- | --- |
+| Stilte | Binnen geen geluid of verbale spell components; gebaren en schrijven werken. Regelvragen blijven mogelijk. |
+| Iroas | +1 echte voortgang; volgende grot. Bij 3: Akros. |
+| Erebos | +1 cumulatieve omweg; geen echte voortgang. Bij 1–2: dezelfde proef opnieuw. Bij 3: Onderwereld. |
+| Keuzemoment | De bewuste passage door een geopende deur, geen toevallige aanraking van een puzzelvoorwerp. |
+| Bloed | Vrijwillig eigen bloed, 1d6 HP → Iroas. Bestaand bloed overgieten → Erebos. |
+| Schaduwen | Drie cirkels, wapens neerleggen → Iroas. Drie manifestaties vernietigen, elk AC 12 / 10 HP → Erebos. |
+| Vlam | Zes rondes; samen met voorwerp naar lauwer-vuurschaal → Iroas. Uitdoven → Erebos. |
+| Vastlopen | Geef zichtbare reacties en extra aanwijzingen; geen verborgen verplichte skill check. |
+| Gemengde route | Blijf spelen tot één van beide tellers 3 bereikt. Geen meerderheidssysteem. |
+| Hulp van Akros | Ianthe ontvangt reizigers aan de echte overzijde; geen redding uit de Onderwereld. |
 
 ## Na de sessie
 
-- [ ] Noteer wie de groep redde, het zegel brak en de wacht waarschuwde.
-- [ ] Noteer schade, verbruikte middelen en uitgevoerde rests.
-- [ ] Leg vast wie het wasfragment heeft; of dat het onder de brug achterbleef.
-- [ ] Noteer hoe de groep zich tegenover Ianthe opstelde.
-- [ ] Leg de eerste bestemmingen in Akros vast: Gouden Lier, Huis van de Gouden Speer, Arlens spoor en/of Gronks deur.
-- [ ] Beslis pas daarna wie het zegel plaatste; gebruik de theorieën van de spelers als inspiratie, niet als automatisch bewijs.
+- [ ] Noteer per passage: proef, gekozen deur, Iroasteller, Erebosteller.
+- [ ] Noteer offers, schade, verbruikte middelen en rests.
+- [ ] Noteer welke aanwijzingen de groep heeft gezien en hoe zij de twee goden interpreteert.
+- [ ] Noteer bij Akros of de extra gestalte is gevolgd en wat Ianthe werd verteld.
+- [ ] Noteer bij de Onderwereld het antwoord op Erebos' aanbod.
+- [ ] Leg de volgende bestemming vast op basis van de keuzes van de spelers.
 
 ### Sessieverslag
 
 *Na het spelen in te vullen.*
-
-### Openstaande vragen
-
-- Wie bracht het zwarte zegel aan, en wanneer?
-- Was deze aanval op het gezelschap gericht, of op iedere reiziger naar Akros?
-- Wat onderzoekt de wacht aan de brug terwijl de helden de stad betreden?

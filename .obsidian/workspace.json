@@ -11,12 +11,14 @@
             "id": "ef75541d1052350f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "The Last Wish/Artefacts/NPCS/Akros/Portretten/30-Theris.png"
+                "file": "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Phanarax Brug.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "30-Theris"
+              "icon": "lucide-file",
+              "title": "001 - Phanarax Brug"
             }
           },
           {
@@ -368,6 +370,10 @@
   },
   "active": "ef75541d1052350f",
   "lastOpenFiles": [
+    "The Last Wish/Artefacts/NPCS/Akros/Portretten/30-Theris.png",
+    "The Last Wish/Artefacts/NPCS/Akros/Portretten/01-Melantho-v2.png",
+    "tmp/npc-diversiteit/profiles.json",
+    "tmp/npc-diversiteit",
     "The Last Wish/Artefacts/NPCS/Akros/Portretten/29-Timon.png",
     "The Last Wish/Artefacts/NPCS/Akros/Portretten/28-Ione.png",
     "The Last Wish/Artefacts/NPCS/Akros/Portretten/27-Sostrate.png",
@@ -377,8 +383,6 @@
     "The Last Wish/Artefacts/NPCS/Akros/Portretten/23-Eryx.png",
     "The Last Wish/Artefacts/NPCS/Akros/Portretten/22-Kallias.png",
     "The Last Wish/Artefacts/NPCS/Akros/Portretten/21-Maia.png",
-    "The Last Wish/Artefacts/NPCS/Akros/Portretten/20-Timarete.png",
-    "The Last Wish/Artefacts/NPCS/Akros/Portretten/19-Myrrine.png",
     "The Last Wish/Artefacts/NPCS/Akros/02 - Ianthe - De Ruiter die Tweemaal Telt.md",
     "The Last Wish/Artefacts/NPCS/Akros/Akros - Portretgalerij.md",
     "The Last Wish/Artefacts/NPCS/Akros/01 - Melantho - Hoedster van de Vier Overspanningen.md",
@@ -400,8 +404,6 @@
     "output/pdf/bron/maak_kaarten.py",
     "output/pdf/bron",
     "tmp/pdfs/maak_kaarten.py",
-    "tmp/pdfs",
-    "tmp",
     "The Last Wish/Artefacts/Scenery/Akros - Banner Reduction Prompts.md",
     "The Last Wish/Artefacts/Scenery/Akros - Generation Prompts.md",
     "The Last Wish/Artefacts/NPCS/Akros/25 - Antigone - De Dochter van de Sintel.md",
