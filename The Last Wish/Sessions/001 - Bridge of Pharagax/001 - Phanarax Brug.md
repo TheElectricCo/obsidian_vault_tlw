@@ -66,13 +66,13 @@ De vier delen en de steunpunten blijven behouden uit de plaatsbeschrijving. Een 
 
 Gebruik [[002 - Encounters op de brugdelen]] voor de volledige scènes, voorleesteksten en spelregels.
 
-| Moment | Scène |
-| --- | --- |
-| Vóór Grot I | [[01 - Het gewicht van een leven|Een brugwerker hangt onder een gekantelde kar]]. |
-| Na Iroas 1, vóór Grot II | [[02 - Het lied onder de stenen|Twee harpies jagen met hun lokzang]]. |
-| Na Iroas 2, vóór Grot III | [[03 - Het bevel dat bleef|Bronzen wachters houden een herstelde onderhoudspost gesloten]]. |
-| Na Iroas 3, vóór Ianthe | [[04 - Het laatste vaandel|Een dode vaandeldrager wacht op aflossing]]. |
-| Tijdens Erebos 1 en 2 | [[05 - Schaduwbrug - De reiziger zonder voetstappen|Een verdwaalde ziel]] en [[06 - Schaduwbrug - De vijfde schaduw|de al beschreven extra gestalte]]. |
+| Moment                    | Scène                                                 |                                                                 |                                 |
+| ------------------------- | ----------------------------------------------------- | --------------------------------------------------------------- | ------------------------------- |
+| Vóór Grot I               | [[01 - Het gewicht van een leven]]                    | Een brugwerker hangt onder een gekantelde kar.                  |                                 |
+| Na Iroas 1, vóór Grot II  | [[02 - Het lied onder de stenen]]                     | Twee harpies jagen met hun lokzang                              |                                 |
+| Na Iroas 2, vóór Grot III | [[03 - Het bevel dat bleef]]                          | Bronzen wachters houden een herstelde onderhoudspost gesloten.  |                                 |
+| Na Iroas 3, vóór Ianthe   | [[04 - Het laatste vaandel]]                          | Een dode vaandeldrager wacht op aflossing                       |                                 |
+| Tijdens Erebos 1 en 2     | [[05 - Schaduwbrug - De reiziger zonder voetstappen]] | Een verdwaalde ziel en [[06 - Schaduwbrug - De vijfde schaduw]] | de al beschreven extra gestalte |
 
 De brugscènes geven geen godenfiches en herhalen zich niet bij omwegen. Drie Iroasdoorgangen brengen de groep op het echte laatste brugdeel; daar kan nog een ontmoeting volgen, maar geen vierde goddelijke toegangsproef. Oplossingen via redding, onderhandeling, reparatie of magie zijn even geldig als een gevecht.
 
