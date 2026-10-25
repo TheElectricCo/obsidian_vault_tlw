@@ -83,7 +83,7 @@ Deze lijst bevat bestaande notitienamen. Neem namen alleen in het verslag op als
 - [[Darius Voss]]
 - [[Dorian Veldt]]
 - [[Plink Bugmoss (RIB)]]
-- [[Khea]]
+- [[Nyima]]
 - [[De brug van Phanarax]]
 - [[AKROS - The city of wishes]]
 - [[THE AKROAN - Army of Akros]]

@@ -1,17 +1,17 @@
-# De Brug der Twee Bestemmingen
+/a# De Brug der Twee Bestemmingen
 
 *Een woordloze beproeving op de brug van Pharagax, tussen Akros en het rijk van Erebos.*
 
 > [!abstract] In één oogopslag
 > **Groep:** 4 personages van level 5.  
-> **Speelduur:** circa 3–4 uur, met ruimte voor omwegen.  
-> **Verloop:** laatste berghut → afscheid van Khea → vier brugdelen en drie stiltegrotten → Akros óf de Onderwereld.  
+> **Speelduur:** circa 4½–6 uur met alle brugencounters; 3–4 uur met de korte selectie uit de encounternotitie.
+> **Verloop:** laatste berghut → afscheid van Nyima → vier brugdelen en drie stiltegrotten → Akros óf de Onderwereld.
 > **Kern:** Iroas biedt vooruitgang door opoffering, beheersing en samenwerking. Erebos biedt een andere bestemming.  
 > **DM:** drie doorgangen van Iroas bereiken Akros; de derde doorgang van Erebos bereikt de Onderwereld. Houd beide tellers afzonderlijk bij.
 
 ## Goal
 
-Na vijf dagen door het gebergte bereiken de helden met [[Khea]] de [[De brug van Phanarax|brug van Pharagax]]. De vier overspanningen rusten op reusachtige rotspieken. In de drie tussenliggende steunpunten liggen grotten met telkens twee uitgangen: één van Iroas en één van Erebos.
+Na vijf dagen door het gebergte bereiken de helden met [[Nyima]] de [[De brug van Phanarax|brug van Pharagax]]. De vier overspanningen rusten op reusachtige rotspieken. In de drie tussenliggende steunpunten liggen grotten met telkens twee uitgangen: één van Iroas en één van Erebos.
 
 In iedere grot verstomt het geluid. De helden moeten zonder gesproken overleg ontdekken hoe de deuren op hun handelingen reageren. De uitgang van Iroas brengt hen werkelijk dichter bij Akros. Die van Erebos voert over een bijna identieke brug in de Onderwereld en terug naar dezelfde, nog niet voltooide proef. Na de derde keuze voor Erebos keert die weg niet meer terug: hij eindigt in zijn rijk.
 
@@ -19,9 +19,10 @@ In iedere grot verstomt het geluid. De helden moeten zonder gesproken overleg on
 
 - **Bron van de herwerking:** [Chat — Puzzelmechaniek voor Iroas Erebos](https://chatgpt.com/share/6ade306d-a3ec-83eb-98bc-63b5182e8195).
 - **Plaatsen:** [[De brug van Phanarax|Brug van Pharagax]], [[AKROS - The city of wishes]], [[THE TITAN STAIRS]].
-- **NPC's:** [[Khea]], [[02 - Ianthe - De Ruiter die Tweemaal Telt|Ianthe]].
+- **NPC's:** [[Nyima]], [[02 - Ianthe - De Ruiter die Tweemaal Telt|Ianthe]].
 - **Personages:** [[Arowel Starweaver]], [[Darius Voss]], [[Dorian Veldt]], [[Plink Bugmoss (RIB)]].
 - **Aanloop:** [[__ReadMeFirst|De persoonlijke prologen]].
+- **Brugdelen:** [[002 - Encounters op de brugdelen|Vier encounters en twee scènes op de schaduwbrug]].
 - **Regels:** [[D&D 5E/Base Edition/Spells/Silence|Silence (2014)]], [[D&D 5E/Base Edition/Spells/Dispel Magic|Dispel Magic (2014)]].
 
 > [!note] Keuzes uit de chat en verdere uitwerking
@@ -48,6 +49,7 @@ De proeven vervangen de eerdere hinderlaag. Er is geen zwart wassen zegel, vertr
 - [ ] Noteer persoonlijke voorwerpen die spelers vrijwillig zouden kunnen aanbieden; kies nooit in hun plaats.
 - [ ] Gebruik de drie hoofdproeven, of vervang een proef vooraf door een wisseloptie.
 - [ ] Houd de Onderwerelduitkomst klaar als volwaardig vervolg.
+- [ ] Kies het tempo voor de [[002 - Encounters op de brugdelen|encounters op de brugdelen]]; leg de benodigde monsterprofielen en veiligheidstouwen klaar.
 
 ### De brug als speelveld
 
@@ -59,6 +61,20 @@ Bergzijde → Brugdeel 1 → Grot I → Brugdeel 2 → Grot II → Brugdeel 3 �
 ```
 
 De vier delen en de steunpunten blijven behouden uit de plaatsbeschrijving. Een grot is uitgehouwen in een steunpunt; zij vervangt geen overspanning. Gebruik buiten gevechten verhalende afstanden. Normaal lopen over de brug vraagt geen checks.
+
+### Encounters tussen de grotten
+
+Gebruik [[002 - Encounters op de brugdelen]] voor de volledige scènes, voorleesteksten en spelregels.
+
+| Moment | Scène |
+| --- | --- |
+| Vóór Grot I | [[002 - Encounters op de brugdelen#Brugdeel 1 — Het gewicht van een leven|Een brugwerker hangt onder een gekantelde kar]]. |
+| Na Iroas 1, vóór Grot II | [[002 - Encounters op de brugdelen#Brugdeel 2 — Het lied onder de stenen|Twee harpies jagen met hun lokzang]]. |
+| Na Iroas 2, vóór Grot III | [[002 - Encounters op de brugdelen#Brugdeel 3 — Het bevel dat bleef|Bronzen wachters houden een herstelde onderhoudspost gesloten]]. |
+| Na Iroas 3, vóór Ianthe | [[002 - Encounters op de brugdelen#Brugdeel 4 — Het laatste vaandel|Een dode vaandeldrager wacht op aflossing]]. |
+| Tijdens Erebos 1 en 2 | [[002 - Encounters op de brugdelen#Eerste schaduwbrug — De reiziger zonder voetstappen|Een verdwaalde ziel]] en [[002 - Encounters op de brugdelen#Tweede schaduwbrug — De vijfde schaduw|de al beschreven extra gestalte]]. |
+
+De brugscènes geven geen godenfiches en herhalen zich niet bij omwegen. Drie Iroasdoorgangen brengen de groep op het echte laatste brugdeel; daar kan nog een ontmoeting volgen, maar geen vierde goddelijke toegangsproef. Oplossingen via redding, onderhandeling, reparatie of magie zijn even geldig als een gevecht.
 
 ### Voortgang en gemengde keuzes
 
@@ -90,12 +106,12 @@ Elke grot is maximaal 40 feet in doorsnede en valt geheel binnen een effect met 
 
 ## 1. De laatste haard
 
-De sessie begint in de laatste berghut. De groep heeft vijf dagen met Khea gereisd. Behandel de nacht als een voltooide long rest als de proloog niets anders bepaalt.
+De sessie begint in de laatste berghut. De groep heeft vijf dagen met Nyima gereisd. Behandel de nacht als een voltooide long rest als de proloog niets anders bepaalt.
 
 > [!readaloud] Ochtend in de hut
 > Onder de as houdt de haard nog een rode gloed vast. Smeltwater tikt van het dak; achter de luiken schuurt de wind langs de stenen.
 >
-> Khea heeft vier bekers naast de ketel gezet. Haar rugzak staat bij de deur, dichtgesnoerd. De bergstok ligt erbovenop.
+> Nyima heeft vier bekers naast de ketel gezet. Haar rugzak staat bij de deur, dichtgesnoerd. De bergstok ligt erbovenop.
 >
 > ‘Vandaag geen klim meer,’ zegt ze. ‘Alleen de brug.’
 >
@@ -103,9 +119,9 @@ De sessie begint in de laatste berghut. De groep heeft vijf dagen met Khea gerei
 >
 > ‘Eet terwijl het warm is.’
 
-Vraag iedere speler wat Khea tijdens de tocht over hun personage heeft geleerd. Laat de antwoorden en het gesprek aan de spelers.
+Vraag iedere speler wat Nyima tijdens de tocht over hun personage heeft geleerd. Laat de antwoorden en het gesprek aan de spelers.
 
-**Khea spelen:** praktisch, weinig woorden, zorg zichtbaar in kleine handelingen. Haar opdracht eindigt aan de bergzijde; ze keert terug naar de pas. Als de groep haar overtuigt mee te gaan, ondersteunt ze hun plannen zonder puzzels voor hen op te lossen.
+**Nyima spelen:** praktisch, weinig woorden, zorg zichtbaar in kleine handelingen. Haar opdracht eindigt aan de bergzijde; ze keert terug naar de pas. Als de groep haar overtuigt mee te gaan, ondersteunt ze hun plannen zonder puzzels voor hen op te lossen.
 
 Ze kent de brugmythe uit [[De brug van Phanarax|de plaatsbeschrijving]], maar heeft de huidige beproeving nooit meegemaakt. Ze kan vertellen over Iroas, Erebos, Mogis en de brug die na de godentwist werd gebouwd. Ze kent geen oplossing of verborgen teller.
 
@@ -118,7 +134,7 @@ Ze kent de brugmythe uit [[De brug van Phanarax|de plaatsbeschrijving]], maar he
 >
 > Aan de overzijde rijst de kolossus van Akros op. Het licht vangt zijn helm. Onder zijn voeten ligt een poort, klein als een sleutelgat.
 >
-> Khea legt haar hand op de eerste leuning.
+> Nyima legt haar hand op de eerste leuning.
 >
 > ‘Tot hier kende ik de weg,’ zegt ze.
 
@@ -126,7 +142,7 @@ Ze kent de brugmythe uit [[De brug van Phanarax|de plaatsbeschrijving]], maar he
 
 ## 2. De eerste stiltegrot
 
-Op het eerste brugdeel zijn de stappen en de wind nog hoorbaar. Laat de groep de grotingang onderzoeken en eventuele voorbereiding treffen.
+Speel op het eerste brugdeel eerst [[002 - Encounters op de brugdelen#Brugdeel 1 — Het gewicht van een leven|de redding van Nereon]]. Daarna kan de groep de grotingang onderzoeken en eventuele voorbereiding treffen. Buiten de grot zijn stappen en wind nog hoorbaar.
 
 > [!readaloud] De drempel
 > De laatste voetstap klinkt nog achter jullie. De volgende maakt geen geluid.
@@ -272,7 +288,7 @@ Bij de derde voltooide Iroasproef verschijnt boven zijn deur:
 > *Hij die de dood vreest, zal nooit overwinnen.*  
 > *Hij die enkel de overwinning zoekt, zal nooit begrijpen wat zij kost.*
 
-Het laatste brugdeel voert naar de kolossus. Erebos' omwegen hebben echte tijd gekost; zij nemen de behaalde overwinning niet weg.
+Het laatste brugdeel voert naar de kolossus. Speel hier [[002 - Encounters op de brugdelen#Brugdeel 4 — Het laatste vaandel|Het laatste vaandel]] vóór de ontvangst hieronder. Erebos' omwegen hebben echte tijd gekost; zij nemen de behaalde overwinning niet weg.
 
 > [!readaloud] De stad die klinkt
 > Eerst komt het geluid: metaal op steen, de roep van een verkoper, een verre hoorn boven de muren.
@@ -374,12 +390,14 @@ Een gewapend beeld staat tegenover een knielende, ongewapende krijger. Op een so
 | Vlam | Zes rondes; samen met voorwerp naar lauwer-vuurschaal → Iroas. Uitdoven → Erebos. |
 | Vastlopen | Geef zichtbare reacties en extra aanwijzingen; geen verborgen verplichte skill check. |
 | Gemengde route | Blijf spelen tot één van beide tellers 3 bereikt. Geen meerderheidssysteem. |
+| Brugencounters | Nereon → harpies → bronzen wachters → Orestans vaandel. Zie [[002 - Encounters op de brugdelen]]. Geen extra godenfiches. |
 | Hulp van Akros | Ianthe ontvangt reizigers aan de echte overzijde; geen redding uit de Onderwereld. |
 
 ## Na de sessie
 
 - [ ] Noteer per passage: proef, gekozen deur, Iroasteller, Erebosteller.
 - [ ] Noteer offers, schade, verbruikte middelen en rests.
+- [ ] Werk de [[002 - Encounters op de brugdelen#Na het spelen|gevolgen van de brugencounters]] bij.
 - [ ] Noteer welke aanwijzingen de groep heeft gezien en hoe zij de twee goden interpreteert.
 - [ ] Noteer bij Akros of de extra gestalte is gevolgd en wat Ianthe werd verteld.
 - [ ] Noteer bij de Onderwereld het antwoord op Erebos' aanbod.
