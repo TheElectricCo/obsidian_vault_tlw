@@ -13,6 +13,8 @@ tags: ["npc/akros"]
 
 # Dione — Het Schild aan de Deur
 
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/24-Dione.png|400]]
+
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 

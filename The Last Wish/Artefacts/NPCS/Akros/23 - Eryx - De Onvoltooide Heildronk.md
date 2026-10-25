@@ -13,6 +13,8 @@ tags: ["npc/akros"]
 
 # Eryx — De Onvoltooide Heildronk
 
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/23-Eryx.png|400]]
+
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 

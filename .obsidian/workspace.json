@@ -11,14 +11,12 @@
             "id": "ef75541d1052350f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "The Last Wish/Artefacts/NPCS/Akros/02 - Ianthe - De Ruiter die Tweemaal Telt.md",
-                "mode": "source",
-                "source": false
+                "file": "The Last Wish/Artefacts/NPCS/Akros/Portretten/30-Theris.png"
               },
-              "icon": "lucide-file",
-              "title": "02 - Ianthe - De Ruiter die Tweemaal Telt"
+              "icon": "lucide-image",
+              "title": "30-Theris"
             }
           },
           {
@@ -368,19 +366,21 @@
       }
     ]
   },
-  "active": "700f22b8a8bcec66",
+  "active": "ef75541d1052350f",
   "lastOpenFiles": [
+    "The Last Wish/Artefacts/NPCS/Akros/Portretten/29-Timon.png",
+    "The Last Wish/Artefacts/NPCS/Akros/Portretten/28-Ione.png",
+    "The Last Wish/Artefacts/NPCS/Akros/Portretten/27-Sostrate.png",
+    "The Last Wish/Artefacts/NPCS/Akros/Portretten/26-Rhode.png",
+    "The Last Wish/Artefacts/NPCS/Akros/Portretten/25-Antigone.png",
+    "The Last Wish/Artefacts/NPCS/Akros/Portretten/24-Dione.png",
+    "The Last Wish/Artefacts/NPCS/Akros/Portretten/23-Eryx.png",
+    "The Last Wish/Artefacts/NPCS/Akros/Portretten/22-Kallias.png",
     "The Last Wish/Artefacts/NPCS/Akros/Portretten/21-Maia.png",
     "The Last Wish/Artefacts/NPCS/Akros/Portretten/20-Timarete.png",
     "The Last Wish/Artefacts/NPCS/Akros/Portretten/19-Myrrine.png",
-    "The Last Wish/Artefacts/NPCS/Akros/Portretten/18-Chryse.png",
-    "The Last Wish/Artefacts/NPCS/Akros/Portretten/17-Eudora.png",
-    "The Last Wish/Artefacts/NPCS/Akros/Portretten/15-Praxilla.png",
-    "The Last Wish/Artefacts/NPCS/Akros/Portretten/14-Brontes.png",
-    "The Last Wish/Artefacts/NPCS/Akros/Portretten/13-Phaedra.png",
-    "The Last Wish/Artefacts/NPCS/Akros/Portretten/12-Menekles.png",
-    "The Last Wish/Artefacts/NPCS/Akros/Portretten/11-Nerissa.png",
-    "The Last Wish/Artefacts/NPCS/Akros/Portretten/10-Leandra.png",
+    "The Last Wish/Artefacts/NPCS/Akros/02 - Ianthe - De Ruiter die Tweemaal Telt.md",
+    "The Last Wish/Artefacts/NPCS/Akros/Akros - Portretgalerij.md",
     "The Last Wish/Artefacts/NPCS/Akros/01 - Melantho - Hoedster van de Vier Overspanningen.md",
     "The Last Wish/Artefacts/NPCS/Akros/10 - Leandra - De Kromme Speer.md",
     "The Last Wish/Artefacts/NPCS/Akros/09 - Damon - Het Rode Grootboek.md",
@@ -391,7 +391,6 @@
     "The Last Wish/Artefacts/NPCS/Akros/03 - Orestes - De Geduldige Poort.md",
     "The Last Wish/Artefacts/NPCS/Akros/Portretten/Akros - Overige portretprompts.md",
     "The Last Wish/Artefacts/NPCS/Akros/Portretten/Akros - Portretprompts.md",
-    "The Last Wish/Artefacts/NPCS/Akros/02 - Ianthe - De Ruiter die Tweemaal Telt.md",
     "The Last Wish/Artefacts/Items/Akros/De Rustende Veteraan - Spijzen en dranken.pdf",
     "The Last Wish/Artefacts/Items/Akros/Klifwacht - Spijzen en dranken.pdf",
     "The Last Wish/Artefacts/Items/Akros",
@@ -415,7 +414,6 @@
     "The Last Wish/Artefacts/NPCS/Akros/23 - Eryx - De Onvoltooide Heildronk.md",
     "The Last Wish/Artefacts/NPCS/Akros/22 - Kallias - Hoeder van de Kantlijn.md",
     "The Last Wish/Artefacts/NPCS/Akros/21 - Maia - De Lantaarn van het Binnenhof.md",
-    "The Last Wish/Artefacts/NPCS/Akros/20 - Timarete - De Geduldige Beitel.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

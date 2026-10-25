@@ -13,6 +13,8 @@ tags: ["npc/akros"]
 
 # Theris — De Poort die Wacht
 
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/30-Theris.png|400]]
+
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC. Het sfeerbeeld toont een Oostpoort die op een bergpad uitkomt; [[1ste versie overkoepelend verhaal]] legt Akros’ afzondering en de brug als enige toegangsweg vast. Het pad biedt tijdens de huidige crisis dus geen bruikbare omweg. De precieze hindernis blijft aan de DM.
 

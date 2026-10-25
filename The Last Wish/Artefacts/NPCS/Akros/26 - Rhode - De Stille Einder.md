@@ -13,6 +13,8 @@ tags: ["npc/akros"]
 
 # Rhode — De Stille Einder
 
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/26-Rhode.png|400]]
+
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 

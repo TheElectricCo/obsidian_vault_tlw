@@ -9,6 +9,8 @@ tags:
 
 # Akros — NPC-overzicht
 
+[[Akros - Portretgalerij|Bekijk alle dertig NPC-portretten]]
+
 Dertig contacten, één voor elke bezienswaardigheid in [[Akros - Scenery Gallery|het overzicht van Akros’ sfeerbeelden]]. Elk heeft een vaste plek, een herkenbare houding, iets te bieden, een persoonlijke kwetsbaarheid en een ontmoeting met meerdere mogelijke oplossingen. Hun onderlinge banden verbinden de stad zonder dat achter elk plaatselijk probleem dezelfde samenzweerder hoeft te zitten.
 
 > [!warning] Naslag voor de DM
