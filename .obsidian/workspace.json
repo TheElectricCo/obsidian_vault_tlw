@@ -34,6 +34,23 @@
             }
           },
           {
+            "id": "88cb076b037a8246",
+            "type": "leaf",
+            "dimension": 16.666666666666668,
+            "state": {
+              "type": "ttrpg-tools-screen-controller",
+              "state": {
+                "payload": {
+                  "kind": "image",
+                  "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Sessions/001%20-%20Bridge%20of%20Pharagax/Media/Scenery/05%20-%20The%20Titan%20Stairs.png?1792938568563",
+                  "filePath": "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/05 - The Titan Stairs.png"
+                }
+              },
+              "icon": "layout-dashboard",
+              "title": "Player screen controller"
+            }
+          },
+          {
             "id": "bba6434e36aa8bcc",
             "type": "leaf",
             "state": {
@@ -71,18 +88,52 @@
             "id": "56c966b3c8b76d74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "The Last Wish/Players/Plink Bugmoss (RIB).md",
-                "mode": "source",
-                "source": false
+                "file": "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/04 - Mountain Descent.png"
               },
-              "icon": "lucide-file",
-              "title": "Plink Bugmoss (RIB)"
+              "icon": "lucide-image",
+              "title": "04 - Mountain Descent"
+            }
+          },
+          {
+            "id": "b0c69163c657f65a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/01 - Green Foothills.png"
+              },
+              "icon": "lucide-image",
+              "title": "01 - Green Foothills"
+            }
+          },
+          {
+            "id": "cb1c3ebaea56ef67",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/03 - Snowbound Pass.png"
+              },
+              "icon": "lucide-image",
+              "title": "03 - Snowbound Pass"
+            }
+          },
+          {
+            "id": "9b3c2d3db920bbd2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/05 - The Titan Stairs.png"
+              },
+              "icon": "lucide-image",
+              "title": "05 - The Titan Stairs"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -332,15 +383,69 @@
       "farore-session-recorder:Tales from Farore — open het kompas": false
     }
   },
-  "active": "56c966b3c8b76d74",
+  "floating": {
+    "id": "02e2c39a77d8a7bd",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b049aab598f027cb",
+        "type": "window",
+        "children": [
+          {
+            "id": "cec259f793d5f6cd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c0c1bc54106188aa",
+                "type": "leaf",
+                "state": {
+                  "type": "ttrpg-tools-screen-view",
+                  "state": {
+                    "payload": {
+                      "kind": "image",
+                      "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Sessions/001%20-%20Bridge%20of%20Pharagax/Media/Scenery/05%20-%20The%20Titan%20Stairs.png?1792938568563",
+                      "filePath": "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/05 - The Titan Stairs.png"
+                    }
+                  },
+                  "icon": "monitor-up",
+                  "title": "Screen"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 352,
+        "y": 95,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "88cb076b037a8246",
   "lastOpenFiles": [
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/03 - Snowbound Pass.png",
+    "ZoomMap/PlayerScreen/Fog/image-The Last Wish-Sessions-001 - Bridge of Pharagax-Media-Scenery-03 - Snowbound Pass.png.png",
+    "ZoomMap/PlayerScreen/Fog",
+    "ZoomMap/PlayerScreen",
+    "ZoomMap",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/01 - Green Foothills.png",
+    "AGENTS.md",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/04 - Mountain Descent.png",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/05 - The Titan Stairs.png",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/02 - Cliffside Trail.png",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery - Generation Prompts.md",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Phanarax Brug.md",
+    "The Last Wish/Artefacts/Maps/Meletis.png",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery",
+    "The Last Wish/Players/Plink Bugmoss (RIB).md",
     "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
     "The Last Wish/NPCS/Daxos.md",
     "The Last Wish/NPCS/DAXOS - Trapped Hero of Meletis.md",
     "The Last Wish/Locations/Akros/THE AKROAN - Army of Akros.md",
     "The Last Wish/Artefacts/Maps/Theros.png",
-    "The Last Wish/Artefacts/Maps/Meletis.png",
-    "AGENTS.md",
     "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
     "atlas-vtt/collections/The Last Wish/scenes/Meletis.thumb.jpg",
     "atlas-vtt/collections/The Last Wish/scenes/scene-1791645656018-7k98qz.json",
@@ -350,18 +455,9 @@
     "Untitled 1.canvas",
     "Untitled 1.base",
     "Untitled.base",
-    "The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden/Beelden/2026-10-09T14-46-37-294Z-4b74a101.png",
-    "The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden/Beelden/2026-10-09T14-43-11-088Z-8b81aeca.png",
     "The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden/Beeldgalerij.md",
     "agents/plugins/farore-session-recorder/README.md",
-    "The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden/Beelden",
-    "The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden",
-    "agents/plugins/farore-session-recorder/dist/assets/farore-logo-transparent.png",
-    "agents/plugins/farore-session-recorder/assets/farore-logo-transparent.png",
-    "agents/plugins/farore-session-recorder/dist/assets/farore-logo.png",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Verslag-2026-10-09T13-44-29-987Z-e7c719b4.md",
-    "agents/plugins/farore-session-recorder/dist/assets",
-    "agents/plugins/farore-session-recorder/gateway.test.js",
     "2026-10-08.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Transcript.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T12-44-24-106Z-e52853da/Verslag-2026-10-09T12-46-14-241Z-16752355.md",
@@ -377,9 +473,6 @@
     "agents/docs/session-recording/Sessienotities-prompt.md",
     "agents/docs/session-recording/Opname en transcriptie.md",
     "The Last Wish/Lore/Dodenmaskers van Theros.md",
-    "The Last Wish/Sessions/000 - Backstories/Drafts/Darius.md",
-    "The Last Wish/Sessions/000 - Backstories/Log/Darius.md",
-    "The Last Wish/Artefacts/Items/Loep van de Tweede Blik.md",
-    "D&D 5E/Base Edition/Spells/Detect Magic.md"
+    "The Last Wish/Sessions/000 - Backstories/Drafts/Darius.md"
   ]
 }
