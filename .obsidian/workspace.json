@@ -42,8 +42,8 @@
               "state": {
                 "payload": {
                   "kind": "image",
-                  "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Sessions/001%20-%20Bridge%20of%20Pharagax/Media/Scenery/05%20-%20The%20Titan%20Stairs.png?1792938568563",
-                  "filePath": "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/05 - The Titan Stairs.png"
+                  "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Maps/Akros.png?1792938703507",
+                  "filePath": "The Last Wish/Artefacts/Maps/Akros.png"
                 }
               },
               "icon": "layout-dashboard",
@@ -90,7 +90,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/04 - Mountain Descent.png"
+                "file": "The Last Wish/Artefacts/Scenery/Road to Pharagax/04 - Mountain Descent.png"
               },
               "icon": "lucide-image",
               "title": "04 - Mountain Descent"
@@ -102,7 +102,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/01 - Green Foothills.png"
+                "file": "The Last Wish/Artefacts/Scenery/Road to Pharagax/01 - Green Foothills.png"
               },
               "icon": "lucide-image",
               "title": "01 - Green Foothills"
@@ -114,7 +114,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/03 - Snowbound Pass.png"
+                "file": "The Last Wish/Artefacts/Scenery/Road to Pharagax/03 - Snowbound Pass.png"
               },
               "icon": "lucide-image",
               "title": "03 - Snowbound Pass"
@@ -126,14 +126,50 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/05 - The Titan Stairs.png"
+                "file": "The Last Wish/Artefacts/Scenery/Road to Pharagax/05 - The Titan Stairs.png"
               },
               "icon": "lucide-image",
               "title": "05 - The Titan Stairs"
             }
+          },
+          {
+            "id": "e6f240bd8255adad",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Artefacts/Maps/Akros.png"
+              },
+              "icon": "lucide-image",
+              "title": "Akros"
+            }
+          },
+          {
+            "id": "f217dbf0551b8783",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Artefacts/Scenery/Akros/15-Arena.png"
+              },
+              "icon": "lucide-image",
+              "title": "15-Arena"
+            }
+          },
+          {
+            "id": "78635b979350d350",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Artefacts/Scenery/Akros/03-Lower-Gate.png"
+              },
+              "icon": "lucide-image",
+              "title": "03-Lower-Gate"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -403,8 +439,8 @@
                   "state": {
                     "payload": {
                       "kind": "image",
-                      "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Sessions/001%20-%20Bridge%20of%20Pharagax/Media/Scenery/05%20-%20The%20Titan%20Stairs.png?1792938568563",
-                      "filePath": "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/05 - The Titan Stairs.png"
+                      "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Maps/Akros.png?1792938703507",
+                      "filePath": "The Last Wish/Artefacts/Maps/Akros.png"
                     }
                   },
                   "icon": "monitor-up",
@@ -424,37 +460,38 @@
       }
     ]
   },
-  "active": "88cb076b037a8246",
+  "active": "78635b979350d350",
   "lastOpenFiles": [
-    "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/03 - Snowbound Pass.png",
+    "The Last Wish/Artefacts/Scenery/Akros/02-Colossus-of-Akros.png",
+    "The Last Wish/Artefacts/Scenery/Akros/01-Bridge-of-Pharagax.png",
+    "The Last Wish/Artefacts/Scenery/Akros/15-Arena.png",
+    "The Last Wish/Artefacts/Scenery/Akros/03-Lower-Gate.png",
+    "The Last Wish/Artefacts/Scenery/Akros - Generation Prompts.md",
+    "The Last Wish/Artefacts/Scenery/Road to Pharagax/01 - Green Foothills.png",
+    "The Last Wish/Artefacts/Scenery/Akros/Shadowed Gate to the Ancient Arena.png",
+    "The Last Wish/Artefacts/Scenery/Akros",
+    "The Last Wish/Artefacts/Maps/Akros.png",
+    "The Last Wish/Artefacts/Scenery/Road to Pharagax",
+    "The Last Wish/Artefacts/Scenery/Road to Pharagax/05 - The Titan Stairs.png",
+    "The Last Wish/Artefacts/Maps/Akros_ Illustrated Fantasy City Map.png",
+    "The Last Wish/Artefacts/Scenery/Road to Pharagax/03 - Snowbound Pass.png",
     "ZoomMap/PlayerScreen/Fog/image-The Last Wish-Sessions-001 - Bridge of Pharagax-Media-Scenery-03 - Snowbound Pass.png.png",
     "ZoomMap/PlayerScreen/Fog",
     "ZoomMap/PlayerScreen",
     "ZoomMap",
-    "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/01 - Green Foothills.png",
     "AGENTS.md",
-    "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/04 - Mountain Descent.png",
-    "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/05 - The Titan Stairs.png",
-    "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/02 - Cliffside Trail.png",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery - Generation Prompts.md",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Phanarax Brug.md",
-    "The Last Wish/Artefacts/Maps/Meletis.png",
-    "The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery",
+    "The Last Wish/Artefacts/Scenery",
     "The Last Wish/Players/Plink Bugmoss (RIB).md",
     "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
     "The Last Wish/NPCS/Daxos.md",
     "The Last Wish/NPCS/DAXOS - Trapped Hero of Meletis.md",
     "The Last Wish/Locations/Akros/THE AKROAN - Army of Akros.md",
-    "The Last Wish/Artefacts/Maps/Theros.png",
     "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
-    "atlas-vtt/collections/The Last Wish/scenes/Meletis.thumb.jpg",
     "atlas-vtt/collections/The Last Wish/scenes/scene-1791645656018-7k98qz.json",
     "atlas-vtt/collections/The Last Wish/maps/map-1791645625534-ipmqxz.json",
-    "atlas-vtt/assets/thumbnails/Meletis_1791645625525_8udnsm-039a9c8e.webp",
-    "atlas-vtt/assets/Meletis_1791645625525_8udnsm.webp",
     "Untitled 1.canvas",
-    "Untitled 1.base",
-    "Untitled.base",
     "The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden/Beeldgalerij.md",
     "agents/plugins/farore-session-recorder/README.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-09T13-44-04-690Z-7a701add/Verslag-2026-10-09T13-44-29-987Z-e7c719b4.md",
@@ -472,7 +509,6 @@
     "agents/docs/session-recording/Automatische scenebeelden.md",
     "agents/docs/session-recording/Sessienotities-prompt.md",
     "agents/docs/session-recording/Opname en transcriptie.md",
-    "The Last Wish/Lore/Dodenmaskers van Theros.md",
-    "The Last Wish/Sessions/000 - Backstories/Drafts/Darius.md"
+    "The Last Wish/Lore/Dodenmaskers van Theros.md"
   ]
 }
