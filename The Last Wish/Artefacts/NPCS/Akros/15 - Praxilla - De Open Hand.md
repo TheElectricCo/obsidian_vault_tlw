@@ -13,6 +13,8 @@ tags: ["npc/akros"]
 
 # Praxilla — De Open Hand
 
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/15-Praxilla.png|400]]
+
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 

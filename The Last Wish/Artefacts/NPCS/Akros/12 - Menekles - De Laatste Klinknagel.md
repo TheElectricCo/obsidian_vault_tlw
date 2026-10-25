@@ -13,6 +13,8 @@ tags: ["npc/akros"]
 
 # Menekles — De Laatste Klinknagel
 
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/12-Menekles.png|400]]
+
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 

@@ -13,6 +13,8 @@ tags: ["npc/akros"]
 
 # Maia — De Lantaarn van het Binnenhof
 
+![[The Last Wish/Artefacts/NPCS/Akros/Portretten/21-Maia.png|400]]
+
 > [!warning] Alleen voor de DM — samenhang met de campagne
 > Nieuwe NPC voor de campagne; de persoonlijke voorgeschiedenis en verhaalhaakjes hieronder zijn nieuw materiaal.
 
