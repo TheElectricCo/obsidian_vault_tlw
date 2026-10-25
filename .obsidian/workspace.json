@@ -26,9 +26,9 @@
               "type": "ttrpg-tools-screen-controller",
               "state": {
                 "payload": {
-                  "kind": "video",
-                  "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Akros/06-Temple-Of-Triumph--Monolith_Animated.mp4?1792942096449",
-                  "filePath": "The Last Wish/Artefacts/Scenery/Akros/06-Temple-Of-Triumph--Monolith_Animated.mp4"
+                  "kind": "image",
+                  "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png?1792943444155",
+                  "filePath": "The Last Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png"
                 }
               },
               "icon": "layout-dashboard",
@@ -53,18 +53,28 @@
             "id": "94daf889dc473033",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "The Last Wish/Artefacts/NPCS/Akros/17 - Eudora - Het Ongebroken Zegel.md",
-                "mode": "source",
-                "source": false
+                "file": "The Last Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png"
               },
-              "icon": "lucide-file",
-              "title": "17 - Eudora - Het Ongebroken Zegel"
+              "icon": "lucide-image",
+              "title": "26-Cliffwatch"
+            }
+          },
+          {
+            "id": "9106d4f08eb2eb4d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Artefacts/Scenery/Akros/05-Akropolis-of-Iroas.png"
+              },
+              "icon": "lucide-image",
+              "title": "05-Akropolis-of-Iroas"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -333,9 +343,9 @@
                   "type": "ttrpg-tools-screen-view",
                   "state": {
                     "payload": {
-                      "kind": "video",
-                      "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Akros/06-Temple-Of-Triumph--Monolith_Animated.mp4?1792942096449",
-                      "filePath": "The Last Wish/Artefacts/Scenery/Akros/06-Temple-Of-Triumph--Monolith_Animated.mp4"
+                      "kind": "image",
+                      "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png?1792943444155",
+                      "filePath": "The Last Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png"
                     }
                   },
                   "icon": "monitor-up",
@@ -355,49 +365,49 @@
       }
     ]
   },
-  "active": "94daf889dc473033",
+  "active": "9106d4f08eb2eb4d",
   "lastOpenFiles": [
-    "The Last Wish/Artefacts/NPCS/Akros/30 - Theris - De Poort die Wacht.md",
-    "The Last Wish/Artefacts/NPCS/Akros/29 - Timon - De Geleende Staf.md",
-    "The Last Wish/Artefacts/NPCS/Akros/05 - Thaleia - De Lauwer zonder Goud.md",
-    "The Last Wish/Artefacts/NPCS/Akros/04 - Asterion - De Ongebogene.md",
-    "The Last Wish/Artefacts/Scenery/Akros/06-Temple-Of-Triumph--Monolith_Animated.mp4",
-    "The Last Wish/Artefacts/NPCS/Akros/16 - Lysandra Kyros - Mistress of the Golden Lyre.md",
-    "The Last Wish/Artefacts/NPCS/Akros/Akros - NPC-overzicht.md",
-    "The Last Wish/Artefacts/NPCS/Akros/28 - Ione - Wortel en Steen.md",
-    "The Last Wish/Artefacts/NPCS/Akros/27 - Sostrate - Hoedster van de Kleine Vlammen.md",
-    "The Last Wish/Artefacts/NPCS/Akros/26 - Rhode - De Stille Einder.md",
+    "The Last Wish/Artefacts/Scenery/Akros/04-Upper-Gate.png",
+    "The Last Wish/Artefacts/Scenery/Akros/03-Lower-Gate.png",
+    "The Last Wish/Artefacts/Scenery/Akros/02-Colossus-of-Akros.png",
+    "The Last Wish/Artefacts/Scenery/Akros/25-The-Ember-Anvil.png",
+    "The Last Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png",
+    "The Last Wish/Artefacts/Scenery/Akros/27-Temple-Terraces.png",
+    "The Last Wish/Artefacts/Scenery/Akros/28-Olive-Terraces.png",
+    "The Last Wish/Artefacts/Scenery/Akros/29-The-Pilgrim-Road.png",
+    "The Last Wish/Artefacts/Scenery/Akros/30-East-Gate.png",
+    "The Last Wish/Artefacts/Scenery/Akros/22-Archive-of-Deeds.png",
+    "The Last Wish/Artefacts/Scenery/Akros - Banner Reduction Prompts.md",
+    "The Last Wish/Artefacts/Scenery/Akros/23-The-Veterans-Rest.png",
     "The Last Wish/Artefacts/NPCS/Akros/25 - Antigone - De Dochter van de Sintel.md",
+    "The Last Wish/Artefacts/NPCS/Akros/27 - Sostrate - Hoedster van de Kleine Vlammen.md",
+    "The Last Wish/Artefacts/NPCS/Akros/29 - Timon - De Geleende Staf.md",
+    "The Last Wish/Artefacts/NPCS/Akros/28 - Ione - Wortel en Steen.md",
+    "The Last Wish/Artefacts/NPCS/Akros/30 - Theris - De Poort die Wacht.md",
+    "The Last Wish/Artefacts/NPCS/Akros/26 - Rhode - De Stille Einder.md",
     "The Last Wish/Artefacts/NPCS/Akros/24 - Dione - Het Schild aan de Deur.md",
     "The Last Wish/Artefacts/NPCS/Akros/23 - Eryx - De Onvoltooide Heildronk.md",
     "The Last Wish/Artefacts/NPCS/Akros/22 - Kallias - Hoeder van de Kantlijn.md",
     "The Last Wish/Artefacts/NPCS/Akros/21 - Maia - De Lantaarn van het Binnenhof.md",
     "The Last Wish/Artefacts/NPCS/Akros/20 - Timarete - De Geduldige Beitel.md",
-    "The Last Wish/Artefacts/NPCS/Akros/19 - Myrrine - De Tweede Snede.md",
-    "The Last Wish/Artefacts/NPCS/Akros/18 - Chryse - De Eerlijke Maat.md",
-    "The Last Wish/Artefacts/NPCS/Akros/17 - Eudora - Het Ongebroken Zegel.md",
     "The Last Wish/Artefacts/NPCS/Akros/16 - Lysandra Kyros - Meesteres van de Gouden Lier.md",
-    "The Last Wish/Artefacts/NPCS/Akros/15 - Praxilla - De Open Hand.md",
     "The Last Wish/Artefacts/NPCS/Akros/14 - Brontes - De Beheerste Vlam.md",
     "The Last Wish/Artefacts/NPCS/Akros/13 - Phaedra - De Ongetemde.md",
+    "The Last Wish/Artefacts/NPCS/Akros/17 - Eudora - Het Ongebroken Zegel.md",
+    "The Last Wish/Artefacts/NPCS/Akros/05 - Thaleia - De Lauwer zonder Goud.md",
+    "The Last Wish/Artefacts/NPCS/Akros/04 - Asterion - De Ongebogene.md",
+    "The Last Wish/Artefacts/Scenery/Akros/06-Temple-Of-Triumph--Monolith_Animated.mp4",
+    "The Last Wish/Artefacts/NPCS/Akros/16 - Lysandra Kyros - Mistress of the Golden Lyre.md",
+    "The Last Wish/Artefacts/NPCS/Akros/Akros - NPC-overzicht.md",
+    "The Last Wish/Artefacts/NPCS/Akros/19 - Myrrine - De Tweede Snede.md",
+    "The Last Wish/Artefacts/NPCS/Akros/18 - Chryse - De Eerlijke Maat.md",
+    "The Last Wish/Artefacts/NPCS/Akros/15 - Praxilla - De Open Hand.md",
     "The Last Wish/Artefacts/NPCS/Akros/12 - Menekles - De Laatste Klinknagel.md",
     "The Last Wish/Artefacts/NPCS/Akros/11 - Nerissa - De Nachtelijke Kom.md",
-    "The Last Wish/Artefacts/NPCS/Akros/10 - Leandra - De Kromme Speer.md",
-    "The Last Wish/Artefacts/NPCS/Akros/09 - Damon - Het Rode Grootboek.md",
-    "The Last Wish/Artefacts/Scenery/Akros/18-Agora---Main-Market.png",
-    "The Last Wish/Artefacts/Scenery/Akros/17-Town-Hall.png",
-    "The Last Wish/Artefacts/Scenery/Akros/19-Warriors-Market.png",
-    "The Last Wish/Artefacts/Scenery/Akros/23-The-Veterans-Rest.png",
-    "The Last Wish/Artefacts/Scenery/Akros/25-The-Ember-Anvil.png",
     "The Last Wish/Artefacts/NPCS/Akros",
     "The Last Wish/Artefacts/NPCS",
-    "The Last Wish/Artefacts/Scenery/Akros/22-Archive-of-Deeds.png",
     "ElevenLabs_video_google-veo-3-1-lite_Animate this an_2026-10-25T15_16_27.mp4",
-    "The Last Wish/Artefacts/Scenery/Akros/24-The-Spear-and-Shield.png",
-    "The Last Wish/Artefacts/Scenery/Akros/29-The-Pilgrim-Road.png",
-    "The Last Wish/Artefacts/Scenery/Akros/07-House-of-the-Golden-Spear.png",
     "The Last Wish/Artefacts/Scenery/Akros/07-House-Of-The-Golden-Spear_Animated.mp4",
-    "The Last Wish/Artefacts/Scenery/Akros/08-Hall-of-Champions.png",
     "The Last Wish/Artefacts/Scenery/Akros/ElevenLabs_video_google-veo-3-1-lite_Animate this an_2026-10-25T15_14_17.mp4",
     "The Last Wish/Artefacts/Scenery/Akros/02-Colossus-of-Akros_Animated.mp4",
     "The Last Wish/Artefacts/Scenery/Akros - Before Banner Reduction.zip",
