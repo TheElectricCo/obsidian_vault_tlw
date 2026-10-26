@@ -67,12 +67,14 @@
             "id": "44381cc13d942d6d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "The Last Wish/Players/Media/Arowel - Performance.png"
+                "file": "The Last Wish/Players/Media/Arowel - Portrait prompt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Arowel - Performance"
+              "icon": "lucide-file",
+              "title": "Arowel - Portrait prompt"
             }
           }
         ],
@@ -367,34 +369,35 @@
       }
     ]
   },
-  "active": "700f22b8a8bcec66",
+  "active": "44381cc13d942d6d",
   "lastOpenFiles": [
-    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_03.avif",
+    "The Last Wish/Players/Media/Darius - Behind his desk.png",
+    "The Last Wish/Players/Media/Darius - Portrait prompt.md",
+    "The Last Wish/Players/Media/Arowel - Portrait prompt.md",
+    "The Last Wish/Players/Media/Arowel - Performance.png",
+    "The Last Wish/Players/Media/Dorian - Archaeology and giant shield.png",
+    "The Last Wish/Players/Media/Dorian - Archaeology and giant shield v2.png",
+    "The Last Wish/Players/Media/Dorian - Portrait prompt.md",
+    "The Last Wish/Players/Media/Dorian - Portrait v2 prompt.md",
+    "The Last Wish/Players/Media/Plink - Portrait prompt.md",
+    "The Last Wish/Players/Media/Plink - Prying open a door.png",
+    "AGENTS.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_08.webp",
+    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_07.png",
+    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_07.png.crdownload",
+    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_06.webp",
+    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_06.webp.crdownload",
+    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_05.jpeg",
+    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_05.jpeg.crdownload",
+    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_04.jpeg",
+    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_04.jpeg.crdownload",
     "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_03.avif.crdownload",
-    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_02.jpeg",
     "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_02.jpeg.crdownload",
-    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_01.png",
     "D&D 5E/Mythic Oddysseys Of Theros/Art",
     "The Last Wish/Untitled",
-    "The Last Wish/Players/Media/Dorian - Archaeology and giant shield.png",
-    "The Last Wish/Players/Media/Screenshot 2026-10-26 at 12.40.25.png",
-    "The Last Wish/Players/Media/Dorian - Portrait prompt.md",
-    "The Last Wish/Players/Media/Darius - Behind his desk.png",
-    "The Last Wish/Players/Media/Arowel - Performance.png",
-    "The Last Wish/Players/Media/Arowel - Portrait prompt.md",
-    "The Last Wish/Players/Media/Plink - Prying open a door.png",
-    "The Last Wish/Players/Media/Plink - Portrait prompt.md",
-    "The Last Wish/Artefacts/Movies/Intro/References/Act I/Kruphix-God-of-Horizons.jpg",
-    "The Last Wish/Players/Media/Darius - Portrait prompt.md",
     "The Last Wish/Players/Media",
-    "The Last Wish/Artefacts/Movies/Intro/References/Act I/Kametra-God-of-Harvests.jpg",
-    "The Last Wish/Artefacts/Movies/Intro/References/Act I/images (4).jpeg",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Phanarax Brug.md",
     "The Last Wish/Artefacts/Movies/Intro/References/Act I/images (4).jpeg.crdownload",
-    "The Last Wish/Artefacts/Movies/Intro/References/Act I/thb-004-banishing-light-art-by-william-murai.webp.crdownload",
-    "The Last Wish/Artefacts/Movies/Intro/References/Act I/413063_Hook-ClawedDragon_Final_Print_2000x.webp.crdownload",
-    "The Last Wish/Artefacts/Movies/Intro/References/Act I/phydr.jpg.crdownload",
-    "The Last Wish/Artefacts/Movies/Intro/References/Act I/images (3).jpeg.crdownload",
     "The Last Wish/Artefacts/NPCS/Akros/14 - Brontes - De Beheerste Vlam.md",
     "The Last Wish/Artefacts/NPCS/Akros/01 - Melantho - Hoedster van de Vier Overspanningen.md",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen/01 - Het gewicht van een leven.md",
@@ -413,8 +416,6 @@
     "The Last Wish/Artefacts/NPCS/Akros/Akros - NPC-overzicht.md",
     "The Last Wish/Artefacts/NPCS/Akros/29 - Timon - De Geleende Staf.md",
     "The Last Wish/Artefacts/NPCS/Akros/28 - Ione - Wortel en Steen.md",
-    "The Last Wish/Artefacts/NPCS/Akros/27 - Sostrate - Hoedster van de Kleine Vlammen.md",
-    "The Last Wish/Artefacts/NPCS/Akros/26 - Rhode - De Stille Einder.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
