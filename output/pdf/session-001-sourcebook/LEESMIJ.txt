@@ -1,0 +1,25 @@
+THE LAST WISH - ACT I - SOURCEBOOKEDITIE
+
+Print het complete boek OF de losse delen, niet beide.
+A4, enkelzijdig, 100% / ware grootte. Linkermarge 30 mm voor perforatie.
+Tab A: DM. Tab B: spelers. Tab C: tafelkaarten. Tab D: eigen character sheets en magische itemkaarten.
+Kaarten: kalibratie 100 mm. Brug en grot op 1-inch-raster.
+
+{
+  "04-Tafelkaarten-ware-grootte.pdf": {
+    "pages": 11,
+    "bytes": 1294785
+  },
+  "00-Sessie-001-complete-binder.pdf": {
+    "pages": 60,
+    "bytes": 24046981
+  },
+  "03-Spelerspakket-handouts-en-kaarten.pdf": {
+    "pages": 17,
+    "bytes": 13989147
+  },
+  "01-DM-draaiboek.pdf": {
+    "pages": 30,
+    "bytes": 7641810
+  }
+}
