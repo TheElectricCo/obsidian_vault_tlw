@@ -91,10 +91,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "output/pdf/session-001/04-Tafelkaarten-ware-grootte.pdf"
+                "file": "output/pdf/session-001/01-DM-draaiboek.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "04-Tafelkaarten-ware-grootte"
+              "title": "01-DM-draaiboek"
             }
           }
         ],
@@ -430,6 +430,7 @@
   "active": "35e837475ddfb861",
   "lastOpenFiles": [
     "output/pdf/session-001/03-Spelerspakket-handouts-en-kaarten.pdf",
+    "output/pdf/session-001/04-Tafelkaarten-ware-grootte.pdf",
     "output/pdf/session-001/01-DM-draaiboek.pdf",
     "output/pdf/session-001/00-Sessie-001-complete-binder.pdf",
     "output/pdf/Sessie-001-Printpakket.zip",
@@ -447,7 +448,6 @@
     "tmp/pdfs/final-74.jpg",
     "output/pdf/session-001/02-Spelersbladen-in-te-vullen.pdf",
     "output/pdf/session-001/LEESMIJ.txt",
-    "output/pdf/session-001/04-Tafelkaarten-ware-grootte.pdf",
     "tmp/pdfs/index.pdf",
     "tmp/pdfs/04-Tafelkaarten-100-procent.pdf",
     "The Last Wish/Players/Media/Plink - Theros boots edit prompt.md",
