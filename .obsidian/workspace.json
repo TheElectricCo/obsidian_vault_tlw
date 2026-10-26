@@ -91,10 +91,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "output/pdf/session-001/03-Spelerspakket-handouts-en-kaarten.pdf"
+                "file": "output/pdf/session-001-sourcebook/00-Sessie-001-complete-binder.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "03-Spelerspakket-handouts-en-kaarten"
+              "title": "00-Sessie-001-complete-binder"
             }
           }
         ],
@@ -429,6 +429,8 @@
   },
   "active": "35e837475ddfb861",
   "lastOpenFiles": [
+    "output/pdf/session-001/00-Sessie-001-complete-binder.pdf",
+    "output/pdf/session-001/03-Spelerspakket-handouts-en-kaarten.pdf",
     "tmp/pdfs/sourcebook/checked-contact-02.jpg",
     "tmp/pdfs/sourcebook/checked-contact-01.jpg",
     "tmp/pdfs/sourcebook/checked-contact-00.jpg",
@@ -439,7 +441,6 @@
     "tmp/pdfs/sourcebook/checked-56.jpg",
     "tmp/pdfs/sourcebook/checked-55.jpg",
     "tmp/pdfs/sourcebook/checked-54.jpg",
-    "tmp/pdfs/sourcebook/checked-53.jpg",
     "output/pdf/Sessie-001-Sourcebook-Printpakket.zip",
     "output/pdf/session-001-sourcebook/LEESMIJ.txt",
     "output/pdf/session-001-sourcebook/00-Sessie-001-complete-binder.pdf",
@@ -449,7 +450,6 @@
     "output/pdf/session-001-sourcebook/03-Spelerspakket-handouts-en-kaarten.pdf",
     "tmp/pdfs/sourcebook/Ianthe.pdf",
     "tmp/pdfs/sourcebook/Nyima.pdf",
-    "tmp/pdfs/sourcebook/Meletis.pdf",
     "The Last Wish/Players/Media/Plink - Theros boots edit prompt.md",
     "The Last Wish/Players/Media/Player portraits - Theros recreation prompts.md",
     "The Last Wish/Players/Media/Arowel - Portrait prompt.md",
