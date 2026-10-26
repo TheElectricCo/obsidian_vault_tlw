@@ -1,5 +1,7 @@
 # Plink — portrait
 
+User-confirmed appearance requirement: Plink wears sturdy closed-toe brown leather adventuring boots on both feet; no exposed furry feet. See [[Plink - Prying open a door - Theros - Boots.png]] for the corrected portrait.
+
 Generated with the built-in imagegen tool. Physical details not specified in the character notes or by the user are artistic interpretations.
 
 Use case: illustration-story. Asset type: standalone vertical Dungeons & Dragons character portrait for The Last Wish campaign in an Obsidian vault.

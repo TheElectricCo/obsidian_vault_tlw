@@ -67,14 +67,12 @@
             "id": "44381cc13d942d6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "The Last Wish/Players/Media/Arowel - Portrait prompt.md",
-                "mode": "source",
-                "source": false
+                "file": "The Last Wish/Players/Media/Plink - Prying open a door - Theros - Boots.png"
               },
-              "icon": "lucide-file",
-              "title": "Arowel - Portrait prompt"
+              "icon": "lucide-image",
+              "title": "Plink - Prying open a door - Theros - Boots"
             }
           }
         ],
@@ -307,8 +305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 536.34765625,
-    "collapsed": true
+    "width": 536.34765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -371,25 +368,28 @@
   },
   "active": "44381cc13d942d6d",
   "lastOpenFiles": [
-    "The Last Wish/Players/Media/Darius - Behind his desk.png",
-    "The Last Wish/Players/Media/Darius - Portrait prompt.md",
-    "The Last Wish/Players/Media/Arowel - Portrait prompt.md",
-    "The Last Wish/Players/Media/Arowel - Performance.png",
+    "The Last Wish/Players/Media/Plink - Prying open a door - Theros.png",
+    "The Last Wish/Players/Media/Plink - Theros boots edit prompt.md",
+    "The Last Wish/Players/Media/Plink - Prying open a door - Theros - Boots.png",
+    "The Last Wish/Players/Media/Screenshot 2026-10-26 at 12.40.25.png",
+    "The Last Wish/Players/Media/Plink - Prying open a door.png",
+    "The Last Wish/Players/Media/Player portraits - Theros recreation prompts.md",
+    "The Last Wish/Players/Media/Dorian - Archaeology and giant shield - Theros.png",
     "The Last Wish/Players/Media/Dorian - Archaeology and giant shield.png",
-    "The Last Wish/Players/Media/Dorian - Archaeology and giant shield v2.png",
+    "The Last Wish/Players/Media/Darius - Behind his desk - Theros.png",
+    "The Last Wish/Players/Media/Arowel - Performance - Theros.png",
+    "The Last Wish/Players/Media/Arowel - Performance.png",
+    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_08.webp",
+    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_07.png",
+    "The Last Wish/Players/Media/Arowel - Portrait prompt.md",
+    "The Last Wish/Players/Media/Darius - Portrait prompt.md",
     "The Last Wish/Players/Media/Dorian - Portrait prompt.md",
     "The Last Wish/Players/Media/Dorian - Portrait v2 prompt.md",
     "The Last Wish/Players/Media/Plink - Portrait prompt.md",
-    "The Last Wish/Players/Media/Plink - Prying open a door.png",
     "AGENTS.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_08.webp",
-    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_07.png",
     "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_07.png.crdownload",
-    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_06.webp",
     "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_06.webp.crdownload",
-    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_05.jpeg",
     "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_05.jpeg.crdownload",
-    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_04.jpeg",
     "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_04.jpeg.crdownload",
     "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_03.avif.crdownload",
     "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_02.jpeg.crdownload",
@@ -414,8 +414,6 @@
     "D&D 5E/Base Edition/Monsters/Animated Armor.md",
     "The Last Wish/Artefacts/NPCS/Akros/30 - Theris - De Poort die Wacht.md",
     "The Last Wish/Artefacts/NPCS/Akros/Akros - NPC-overzicht.md",
-    "The Last Wish/Artefacts/NPCS/Akros/29 - Timon - De Geleende Staf.md",
-    "The Last Wish/Artefacts/NPCS/Akros/28 - Ione - Wortel en Steen.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
