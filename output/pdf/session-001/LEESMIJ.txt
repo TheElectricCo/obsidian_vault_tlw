@@ -1,0 +1,22 @@
+THE LAST WISH - SESSIE 001
+
+Print A4 enkelzijdig op 100% / ware grootte. Linkermarge 30 mm voor perforatie.
+00 is de volledige binder; 01, 03 en 04 zijn alternatieve losse printdelen. Print die niet allemaal dubbel.
+Character sheets en magische voorwerpkaarten voeg je zelf toe achter tab D.
+Brugtegels A-D: één rij overlap; kalibratielijn is 100 mm.
+Grottegels NW/NO/ZW/ZO: één rij en één kolom overlap.
+
+{
+  "pdfs": {
+    "04-Tafelkaarten-ware-grootte.pdf": 11,
+    "00-Sessie-001-complete-binder.pdf": 77,
+    "03-Spelerspakket-handouts-en-kaarten.pdf": 17,
+    "01-DM-draaiboek.pdf": 47
+  },
+  "sections": {
+    "DM": 47,
+    "Handouts": 17,
+    "Tafelkaarten": 11
+  },
+  "user_additions": "Character sheets en magische voorwerphandouts op verzoek weggelaten."
+}

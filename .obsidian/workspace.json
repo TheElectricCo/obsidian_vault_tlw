@@ -74,9 +74,31 @@
               "icon": "lucide-image",
               "title": "Plink - Prying open a door - Theros - Boots"
             }
+          },
+          {
+            "id": "c9f413544166c32a",
+            "type": "leaf",
+            "state": {
+              "type": "atlas-vtt-dashboard",
+              "state": {},
+              "icon": "home",
+              "title": "Atlas dashboard"
+            }
+          },
+          {
+            "id": "35e837475ddfb861",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "output/pdf/session-001/04-Tafelkaarten-ware-grootte.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "04-Tafelkaarten-ware-grootte"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -364,41 +386,79 @@
         "height": 800,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "34488e9e26e1229b",
+        "type": "window",
+        "children": [
+          {
+            "id": "be674112143bada0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7d745380c3933dbb",
+                "type": "leaf",
+                "state": {
+                  "type": "atlas-vtt-local-player",
+                  "state": {
+                    "tabId": "tab-1793031122505-z9hbmz",
+                    "filePath": "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
+                    "frozen": false,
+                    "camera": {
+                      "centerX": 1275,
+                      "centerY": 1015.5,
+                      "scale": 0.2936470588235294
+                    }
+                  },
+                  "icon": "presentation",
+                  "title": "Player view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 352,
+        "y": 95,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "700f22b8a8bcec66",
+  "active": "35e837475ddfb861",
   "lastOpenFiles": [
-    "The Last Wish/Players/Media/Plink - Prying open a door - Theros.png",
-    "The Last Wish/Players/Media/Plink - Theros boots edit prompt.md",
+    "output/pdf/session-001/03-Spelerspakket-handouts-en-kaarten.pdf",
+    "output/pdf/session-001/01-DM-draaiboek.pdf",
+    "output/pdf/session-001/00-Sessie-001-complete-binder.pdf",
+    "output/pdf/Sessie-001-Printpakket.zip",
+    "tmp/pdfs/final-contact-04.jpg",
+    "tmp/pdfs/final-contact-03.jpg",
+    "tmp/pdfs/final-contact-02.jpg",
+    "tmp/pdfs/final-contact-01.jpg",
+    "tmp/pdfs/final-contact-00.jpg",
+    "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
     "The Last Wish/Players/Media/Plink - Prying open a door - Theros - Boots.png",
-    "The Last Wish/Players/Media/Screenshot 2026-10-26 at 12.40.25.png",
-    "The Last Wish/Players/Media/Plink - Prying open a door.png",
+    "atlas-vtt/collections/The Last Wish/scenes/Meletis.atlasmap",
+    "tmp/pdfs/final-77.jpg",
+    "tmp/pdfs/final-76.jpg",
+    "tmp/pdfs/final-75.jpg",
+    "tmp/pdfs/final-74.jpg",
+    "output/pdf/session-001/02-Spelersbladen-in-te-vullen.pdf",
+    "output/pdf/session-001/LEESMIJ.txt",
+    "output/pdf/session-001/04-Tafelkaarten-ware-grootte.pdf",
+    "tmp/pdfs/index.pdf",
+    "tmp/pdfs/04-Tafelkaarten-100-procent.pdf",
+    "The Last Wish/Players/Media/Plink - Theros boots edit prompt.md",
     "The Last Wish/Players/Media/Player portraits - Theros recreation prompts.md",
-    "The Last Wish/Players/Media/Dorian - Archaeology and giant shield - Theros.png",
-    "The Last Wish/Players/Media/Dorian - Archaeology and giant shield.png",
-    "The Last Wish/Players/Media/Darius - Behind his desk - Theros.png",
-    "The Last Wish/Players/Media/Arowel - Performance - Theros.png",
-    "The Last Wish/Players/Media/Arowel - Performance.png",
-    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_08.webp",
-    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_07.png",
     "The Last Wish/Players/Media/Arowel - Portrait prompt.md",
     "The Last Wish/Players/Media/Darius - Portrait prompt.md",
     "The Last Wish/Players/Media/Dorian - Portrait prompt.md",
     "The Last Wish/Players/Media/Dorian - Portrait v2 prompt.md",
     "The Last Wish/Players/Media/Plink - Portrait prompt.md",
     "AGENTS.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_07.png.crdownload",
-    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_06.webp.crdownload",
-    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_05.jpeg.crdownload",
-    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_04.jpeg.crdownload",
-    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_03.avif.crdownload",
-    "D&D 5E/Mythic Oddysseys Of Theros/Art/Reference_02.jpeg.crdownload",
-    "D&D 5E/Mythic Oddysseys Of Theros/Art",
-    "The Last Wish/Untitled",
-    "The Last Wish/Players/Media",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Phanarax Brug.md",
-    "The Last Wish/Artefacts/Movies/Intro/References/Act I/images (4).jpeg.crdownload",
     "The Last Wish/Artefacts/NPCS/Akros/14 - Brontes - De Beheerste Vlam.md",
     "The Last Wish/Artefacts/NPCS/Akros/01 - Melantho - Hoedster van de Vier Overspanningen.md",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen/01 - Het gewicht van een leven.md",
