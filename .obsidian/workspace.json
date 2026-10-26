@@ -149,7 +149,7 @@
                         }
                       ]
                     },
-                    4
+                    6
                   ],
                   [
                     {
@@ -223,12 +223,24 @@
                         }
                       ]
                     },
-                    1
+                    3
                   ]
                 ]
               },
               "icon": "intiative-tracker-encounter-builder",
               "title": "Encounter Builder"
+            }
+          },
+          {
+            "id": "1a6e676c3f890093",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "D&D 5E/Mythic Oddysseys Of Theros/Source/source_book.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "source_book"
             }
           }
         ],
@@ -469,8 +481,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_49496a595b2b",
-                "creatureName": "Skeleton"
+                "creatureId": "ID_8a1868eba949",
+                "creatureName": "Wight"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -581,6 +593,14 @@
   },
   "active": "e2458fff0b5fb9c4",
   "lastOpenFiles": [
+    "The Last Wish/Battle Logs/1793039083355 - Encounter.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Source/source_book.pdf",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Returned Kakomantis.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Returned Drifter.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Fleecemane Lion.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Bronze Sable.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Blood-Toll Harpy.md",
+    "output/pdf/session-001-sourcebook/00-Sessie-001-complete-binder.pdf",
     "output/pdf/session-001/00-Sessie-001-complete-binder.pdf",
     "output/pdf/session-001/03-Spelerspakket-handouts-en-kaarten.pdf",
     "tmp/pdfs/sourcebook/checked-contact-02.jpg",
@@ -595,13 +615,10 @@
     "tmp/pdfs/sourcebook/checked-54.jpg",
     "output/pdf/Sessie-001-Sourcebook-Printpakket.zip",
     "output/pdf/session-001-sourcebook/LEESMIJ.txt",
-    "output/pdf/session-001-sourcebook/00-Sessie-001-complete-binder.pdf",
     "tmp/pdfs/sourcebook/cover.pdf",
     "tmp/pdfs/sourcebook/index.pdf",
     "output/pdf/session-001-sourcebook/04-Tafelkaarten-ware-grootte.pdf",
     "output/pdf/session-001-sourcebook/03-Spelerspakket-handouts-en-kaarten.pdf",
-    "tmp/pdfs/sourcebook/Ianthe.pdf",
-    "tmp/pdfs/sourcebook/Nyima.pdf",
     "The Last Wish/Players/Media/Plink - Theros boots edit prompt.md",
     "The Last Wish/Players/Media/Player portraits - Theros recreation prompts.md",
     "The Last Wish/Players/Media/Arowel - Portrait prompt.md",
@@ -621,12 +638,6 @@
     "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen/05 - Schaduwbrug - De reiziger zonder voetstappen.md",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen/04 - Het laatste vaandel.md",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen/03 - Het bevel dat bleef.md",
-    "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen/02 - Het lied onder de stenen.md",
-    "The Last Wish/Sessions/001 - Bridge of Pharagax/002 - Encounters op de brugdelen.md",
-    "The Last Wish/Artefacts/Scenery/Akros/Akros - Scenery Gallery.md",
-    "D&D 5E/Base Edition/Monsters/Animated Armor.md",
-    "The Last Wish/Artefacts/NPCS/Akros/30 - Theris - De Poort die Wacht.md",
-    "The Last Wish/Artefacts/NPCS/Akros/Akros - NPC-overzicht.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
