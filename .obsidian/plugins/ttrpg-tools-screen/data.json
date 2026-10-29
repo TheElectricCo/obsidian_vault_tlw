@@ -2,6 +2,7 @@
   "autoOpenOnSend": true,
   "fogMaskFolder": "ZoomMap/PlayerScreen/Fog",
   "fogMaskFiles": {
-    "image:The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/03 - Snowbound Pass.png": "ZoomMap/PlayerScreen/Fog/image-The Last Wish-Sessions-001 - Bridge of Pharagax-Media-Scenery-03 - Snowbound Pass.png.png"
+    "image:The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/03 - Snowbound Pass.png": "ZoomMap/PlayerScreen/Fog/image-The Last Wish-Sessions-001 - Bridge of Pharagax-Media-Scenery-03 - Snowbound Pass.png.png",
+    "image:The Last Wish/Artefacts/Maps/Lyth.png": "ZoomMap/PlayerScreen/Fog/image-The Last Wish-Artefacts-Maps-Lyth.png.png"
   }
 }
