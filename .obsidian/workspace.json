@@ -90,21 +90,9 @@
               "icon": "layout-dashboard",
               "title": "Player screen controller"
             }
-          },
-          {
-            "id": "aa3fe52a6ea8825a",
-            "type": "leaf",
-            "state": {
-              "type": "audio",
-              "state": {
-                "file": "The Last Wish/Artefacts/Scenery/Music/Sanctuary_of_Katachton_2026-10-29T180325.mp3"
-              },
-              "icon": "lucide-file-audio",
-              "title": "Sanctuary_of_Katachton_2026-10-29T180325"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -451,23 +439,34 @@
       }
     ]
   },
-  "active": "aa3fe52a6ea8825a",
+  "active": "700f22b8a8bcec66",
   "lastOpenFiles": [
-    "The Last Wish/Artefacts/Scenery/Road to Pharagax/01 - Green Foothills.png",
+    "The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden/Beelden/2026-10-09T14-46-37-294Z-4b74a101.png",
+    "The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden/Beeldgalerij.md",
+    "The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden/Beelden/2026-10-09T14-43-11-088Z-8b81aeca.png",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T18-10-36-834Z-7505b15b/Transcript.md",
+    "2026-10-29.md",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T18-10-36-834Z-7505b15b/Verslag-2026-10-29T18-10-50-345Z-b94e561a.md",
     "The Last Wish/Artefacts/Scenery/Music/Sanctuary_of_Katachton_2026-10-29T180325.mp3",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T18-10-36-834Z-7505b15b/Audio/00001-00-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T18-10-36-834Z-7505b15b/Etat.json",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T18-10-36-834Z-7505b15b/Audio",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T18-10-36-834Z-7505b15b",
+    "The Last Wish/Artefacts/Scenery/Encounter/chimera.png",
+    "The Last Wish/Artefacts/Scenery/Akros - Generation Prompts.md",
+    "The Last Wish/Artefacts/Scenery/Encounter",
+    "The Last Wish/Artefacts/Scenery/Road to Pharagax/01 - Green Foothills.png",
     "The Last Wish/Artefacts/Scenery/Music/The_Last_Wish_2026-10-26T091618.mp3",
     "The Last Wish/Artefacts/Scenery/Music/The_Last_Wish_2026-10-26T091618.mp4",
     "The Last Wish/Artefacts/Scenery/Music/The_Bridge_of_Pharagax_2026-10-26T092104.mp4",
     "The Last Wish/Artefacts/Scenery/Music/a_cold_wind_blowing__#2-1793296661515.mp3",
     "The Last Wish/Artefacts/Maps/Akros.png",
-    "The Last Wish/Artefacts/Scenery/Music",
-    "The Last Wish/Artefacts/Scenery/untitled folder",
     "ZoomMap/PlayerScreen/Fog/image-The Last Wish-Artefacts-Maps-Lyth.png.png",
     "The Last Wish/Artefacts/Maps/Lyth.png",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Lyth.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Blood-Toll Harpy.md",
     "The Last Wish/Artefacts/NPCS/Akros/15 - Praxilla - De Open Hand.md",
-    "The Last Wish/Artefacts/Scenery/Pools.webp",
+    "The Last Wish/Artefacts/Maps/Pools.webp",
     "The Last Wish/Artefacts/NPCS/Akros/17 - Eudora - Het Ongebroken Zegel.md",
     "The Last Wish/Artefacts/NPCS/Akros/18 - Chryse - De Eerlijke Maat.md",
     "The Last Wish/Artefacts/NPCS/Akros/19 - Myrrine - De Tweede Snede.md",
@@ -481,25 +480,14 @@
     "The Last Wish/Artefacts/NPCS/Akros/16 - Lysandra Kyros - Meesteres van de Gouden Lier.md",
     "The Last Wish/Artefacts/Scenery/Akros/16-House-of-the-Golden-Lyre.png",
     "The Last Wish/Artefacts/Scenery/Akros/17-Town-Hall.png",
-    "atlas-vtt/collections/The Last Wish/scenes/Akros.atlasmap",
     "atlas-vtt/collections/The Last Wish/scenes/Akros.thumb.jpg",
-    "atlas-vtt/collections/The Last Wish/scenes/scene-1793289832054-frrgm2.json",
-    "atlas-vtt/collections/The Last Wish/maps/map-1793289809373-9szfvb.json",
-    "atlas-vtt/assets/thumbnails/Akros_1793289809367_zo43kt-f6082153.webp",
-    "atlas-vtt/assets/Akros_1793289809367_zo43kt.webp",
-    "The Last Wish/Artefacts/Scenery/chimera.png",
     "The Last Wish/Artefacts/Scenery/Akros/Akros - Scenery Gallery.md",
     "Untitled.canvas",
-    "2026-10-29.md",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/002 - Encounters op de brugdelen.md",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Phanarax Brug.md",
     "The Last Wish/Locations/Akros/De brug van Phanarax.md",
     "The Last Wish/Battle Logs/1793039083355 - Encounter.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Returned Kakomantis.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Returned Drifter.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Fleecemane Lion.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Bronze Sable.md",
-    "The Last Wish/Players/Media/Plink - Theros boots edit prompt.md",
     "Untitled 1.canvas"
   ]
 }
