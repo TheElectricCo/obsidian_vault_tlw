@@ -242,7 +242,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kolossus akros",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -266,7 +266,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -576,7 +577,7 @@
       }
     ]
   },
-  "active": "ec8707c6c3484fea",
+  "active": "211d96376753d4fd",
   "lastOpenFiles": [
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Fleecemane Lion.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Theran Chimera.md",
