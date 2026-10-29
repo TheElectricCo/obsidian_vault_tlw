@@ -83,8 +83,8 @@
               "state": {
                 "payload": {
                   "kind": "image",
-                  "source": "app://7ab8176c665d1a7a2daa4639bfd7a594cbe7/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Road%20to%20Pharagax/04%20-%20Mountain%20Descent.png?1792938383003",
-                  "filePath": "The Last Wish/Artefacts/Scenery/Road to Pharagax/04 - Mountain Descent.png"
+                  "source": "app://7ab8176c665d1a7a2daa4639bfd7a594cbe7/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Maps/Lyth.png?1793292485882",
+                  "filePath": "The Last Wish/Artefacts/Maps/Lyth.png"
                 }
               },
               "icon": "layout-dashboard",
@@ -133,6 +133,30 @@
             "id": "158cfc507739b260",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Artefacts/Scenery/138-04-40.webp"
+              },
+              "icon": "lucide-image",
+              "title": "138-04-40"
+            }
+          },
+          {
+            "id": "232a62342fdfaa1d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Artefacts/Maps/Lyth.png"
+              },
+              "icon": "lucide-image",
+              "title": "Lyth"
+            }
+          },
+          {
+            "id": "c8e646254c0d73a9",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Lyth.md",
@@ -144,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -215,6 +239,7 @@
       {
         "id": "3bd0fe16407d4ba3",
         "type": "tabs",
+        "dimension": 36.99261992619926,
         "children": [
           {
             "id": "28150024b71f7c2d",
@@ -369,11 +394,12 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 8
       },
       {
         "id": "b765ec4cc655051c",
         "type": "tabs",
+        "dimension": 18.45018450184502,
         "children": [
           {
             "id": "597b5195b30e2277",
@@ -383,6 +409,26 @@
               "state": {
                 "creatureId": null,
                 "creatureName": null
+              },
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9bd5617261007a14",
+        "type": "tabs",
+        "dimension": 44.557195571955724,
+        "children": [
+          {
+            "id": "fc43a620b509ecaf",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {
+                "creatureId": "ID_9b8b58982969",
+                "creatureName": "Harpy"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -470,8 +516,8 @@
                   "state": {
                     "payload": {
                       "kind": "image",
-                      "source": "app://7ab8176c665d1a7a2daa4639bfd7a594cbe7/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Road%20to%20Pharagax/04%20-%20Mountain%20Descent.png?1792938383003",
-                      "filePath": "The Last Wish/Artefacts/Scenery/Road to Pharagax/04 - Mountain Descent.png"
+                      "source": "app://7ab8176c665d1a7a2daa4639bfd7a594cbe7/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Maps/Lyth.png?1793292485882",
+                      "filePath": "The Last Wish/Artefacts/Maps/Lyth.png"
                     }
                   },
                   "icon": "monitor-up",
@@ -491,40 +537,42 @@
       }
     ]
   },
-  "active": "158cfc507739b260",
+  "active": "8c4d34f362367860",
   "lastOpenFiles": [
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T19-47-42-035Z-5ae47b49.md",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00025-24-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00024-23-00.wav",
+    "The Last Wish/Artefacts/Maps/Lyth.png",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00023-22-00.wav",
+    "The Last Wish/Artefacts/Maps/Meletis.png",
+    "The Last Wish/Artefacts/Maps/Theros.png",
+    "The Last Wish/Artefacts/Maps/Pools.webp",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Lyth.md",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00022-21-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00021-20-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T19-42-22-898Z-e59c3f9c.md",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00020-19-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00019-18-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00018-17-00.wav",
+    "The Last Wish/Artefacts/Scenery/138-04-40.webp",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00017-16-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00016-15-00.wav",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T19-37-18-796Z-8f4dc41f.md",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00015-14-00.wav",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00014-13-00.wav",
     "The Last Wish/Players/Media/Arowel - Performance.png",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00013-12-00.wav",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00012-11-00.wav",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00011-10-00.wav",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T19-32-18-809Z-9fe39b4d.md",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00010-09-00.wav",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00009-08-00.wav",
     "The Last Wish/Players/Media/Dorian - Archaeology and giant shield v2.png",
     "The Last Wish/Players/Media/Dorian - Archaeology and giant shield - Theros.png",
     "The Last Wish/Players/Media/Dorian - Archaeology and giant shield.png",
     "The Last Wish/Artefacts/Scenery/Road to Pharagax/04 - Mountain Descent.png",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00008-07-00.wav",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00007-06-00.wav",
-    "The Last Wish/Artefacts/Scenery/Road to Pharagax/05 - The Titan Stairs.png",
-    "The Last Wish/Artefacts/Scenery/Road to Pharagax/01 - Green Foothills.png",
-    "The Last Wish/Artefacts/Scenery/Road to Pharagax/02 - Cliffside Trail.png",
-    "The Last Wish/Artefacts/Scenery/Road to Pharagax/03 - Snowbound Pass.png",
-    "The Last Wish/Artefacts/Scenery/Music/The_Last_Wish_2026-10-26T091618.mp3",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T19-27-20-610Z-73dafc97.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Transcript.md",
     "D&D 5E/Base Edition/Monsters/Chimera.md",
     "D&D 5E/Base Edition/Monsters Glossary.md",
-    "The Last Wish/Artefacts/Scenery/TLW.png",
     "The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden/Beeldgalerij.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T18-10-36-834Z-7505b15b/Transcript.md",
     "2026-10-29.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T18-10-36-834Z-7505b15b/Verslag-2026-10-29T18-10-50-345Z-b94e561a.md",
     "The Last Wish/Artefacts/Scenery/Akros - Generation Prompts.md",
-    "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Lyth.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Blood-Toll Harpy.md",
     "The Last Wish/Artefacts/NPCS/Akros/15 - Praxilla - De Open Hand.md",
     "The Last Wish/Artefacts/NPCS/Akros/17 - Eudora - Het Ongebroken Zegel.md",
@@ -537,8 +585,6 @@
     "The Last Wish/Artefacts/NPCS/Akros/29 - Timon - De Geleende Staf.md",
     "The Last Wish/Artefacts/NPCS/Akros/30 - Theris - De Poort die Wacht.md",
     "The Last Wish/Artefacts/NPCS/Akros/20 - Timarete - De Geduldige Beitel.md",
-    "The Last Wish/Artefacts/NPCS/Akros/16 - Lysandra Kyros - Meesteres van de Gouden Lier.md",
-    "The Last Wish/Artefacts/Scenery/Akros/Akros - Scenery Gallery.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
