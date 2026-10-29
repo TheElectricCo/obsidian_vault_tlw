@@ -180,7 +180,7 @@
             }
           },
           {
-            "id": "06f9f37df490294d",
+            "id": "ec8707c6c3484fea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -191,6 +191,20 @@
               },
               "icon": "lucide-file",
               "title": "Theran Chimera"
+            }
+          },
+          {
+            "id": "06f9f37df490294d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Fleecemane Lion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fleecemane Lion"
             }
           }
         ],
@@ -228,7 +242,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chimera",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,8 +266,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -420,8 +433,7 @@
               "title": "Tales from Farore"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       },
       {
         "id": "b765ec4cc655051c",
@@ -564,9 +576,15 @@
       }
     ]
   },
-  "active": "06f9f37df490294d",
+  "active": "700f22b8a8bcec66",
   "lastOpenFiles": [
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters Glossary.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Fleecemane Lion.md",
+    "Untitled 2.canvas",
+    "Untitled 1.base",
+    "2026-10-29.md",
+    "Untitled 1.canvas",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Theran Chimera.md",
     "D&D 5E/Base Edition/Monsters Glossary.md",
     "The Last Wish/Artefacts/Scenery/Encounter/chimera.png",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T21-00-05-684Z-37230a14.md",
@@ -580,7 +598,6 @@
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-53-54-021Z-cf4baad1.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00091-90-00.wav",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00090-89-00.wav",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00089-88-00.wav",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Lyth.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-46-01-290Z-6a2123a4.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-40-14-984Z-da2c9515.md",
@@ -609,10 +626,6 @@
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T19-27-20-610Z-73dafc97.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Transcript.md",
     "D&D 5E/Base Edition/Monsters/Chimera.md",
-    "The Last Wish/Sessions/Opnames/Farore/Losse scenebeelden/Beeldgalerij.md",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T18-10-36-834Z-7505b15b/Transcript.md",
-    "2026-10-29.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Untitled.canvas"
   ]
 }
