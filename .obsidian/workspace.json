@@ -121,14 +121,12 @@
             "id": "9f74a321ced42d82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "audio",
               "state": {
-                "file": "D&D 5E/Base Edition/Monsters/Chimera.md",
-                "mode": "source",
-                "source": false
+                "file": "The Last Wish/Artefacts/Scenery/Music/The_Last_Wish_2026-10-26T091618.mp3"
               },
-              "icon": "lucide-file",
-              "title": "Chimera"
+              "icon": "lucide-file-audio",
+              "title": "The_Last_Wish_2026-10-26T091618"
             }
           }
         ],
@@ -190,8 +188,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -482,6 +479,7 @@
   },
   "active": "9f74a321ced42d82",
   "lastOpenFiles": [
+    "D&D 5E/Base Edition/Monsters/Chimera.md",
     "D&D 5E/Base Edition/Monsters Glossary.md",
     "The Last Wish/Artefacts/Scenery/TLW.png",
     "The Last Wish/Artefacts/Scenery/Road to Pharagax/01 - Green Foothills.png",
@@ -528,7 +526,6 @@
     "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Phanarax Brug.md",
     "The Last Wish/Locations/Akros/De brug van Phanarax.md",
     "The Last Wish/Battle Logs/1793039083355 - Encounter.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Returned Kakomantis.md",
     "Untitled 1.canvas"
   ]
 }
