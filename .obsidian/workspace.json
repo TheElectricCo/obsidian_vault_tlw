@@ -22,7 +22,6 @@
           {
             "id": "4e8ec5935215737d",
             "type": "leaf",
-            "dimension": 33.333333333333336,
             "state": {
               "type": "ttrpg-tools-screen-controller",
               "state": {
@@ -62,9 +61,50 @@
               "icon": "lucide-image",
               "title": "Lyth"
             }
+          },
+          {
+            "id": "76f2f501fd0694a6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Artefacts/Scenery/Road to Pharagax/01 - Green Foothills.png"
+              },
+              "icon": "lucide-image",
+              "title": "01 - Green Foothills"
+            }
+          },
+          {
+            "id": "ce96d8ff293ca1a5",
+            "type": "leaf",
+            "dimension": 20,
+            "state": {
+              "type": "ttrpg-tools-screen-controller",
+              "state": {
+                "payload": {
+                  "kind": "image",
+                  "source": "app://7ab8176c665d1a7a2daa4639bfd7a594cbe7/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Road%20to%20Pharagax/01%20-%20Green%20Foothills.png?1792938248405",
+                  "filePath": "The Last Wish/Artefacts/Scenery/Road to Pharagax/01 - Green Foothills.png"
+                }
+              },
+              "icon": "layout-dashboard",
+              "title": "Player screen controller"
+            }
+          },
+          {
+            "id": "aa3fe52a6ea8825a",
+            "type": "leaf",
+            "state": {
+              "type": "audio",
+              "state": {
+                "file": "The Last Wish/Artefacts/Scenery/Music/Sanctuary_of_Katachton_2026-10-29T180325.mp3"
+              },
+              "icon": "lucide-file-audio",
+              "title": "Sanctuary_of_Katachton_2026-10-29T180325"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -165,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Last Wish/Artefacts/Maps/Akros.png",
+                "file": "The Last Wish/Artefacts/Scenery/Music/The_Last_Wish_2026-10-26T091618.mp3",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Last Wish/Artefacts/Maps/Akros.png",
+                "file": "The Last Wish/Artefacts/Scenery/Music/The_Last_Wish_2026-10-26T091618.mp3",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -227,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Last Wish/Artefacts/Maps/Akros.png",
+                "file": "The Last Wish/Artefacts/Scenery/Music/The_Last_Wish_2026-10-26T091618.mp3",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -289,7 +329,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       },
       {
         "id": "b765ec4cc655051c",
@@ -301,7 +341,7 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_e97a0bc8fb98",
+                "creatureId": "ID_78d8e9096a7b",
                 "creatureName": "Chimera"
               },
               "icon": "initiative-tracker-creature-view",
@@ -312,8 +352,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 536.34765625,
-    "collapsed": true
+    "width": 536.34765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -337,46 +376,6 @@
     "id": "02e2c39a77d8a7bd",
     "type": "floating",
     "children": [
-      {
-        "id": "b049aab598f027cb",
-        "type": "window",
-        "children": [
-          {
-            "id": "cec259f793d5f6cd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c0c1bc54106188aa",
-                "type": "leaf",
-                "state": {
-                  "type": "ttrpg-tools-screen-view",
-                  "state": {
-                    "payload": {
-                      "kind": "image",
-                      "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Maps/Lyth.png?1793292485882",
-                      "filePath": "The Last Wish/Artefacts/Maps/Lyth.png",
-                      "fog": {
-                        "enabled": true,
-                        "key": "image:The Last Wish/Artefacts/Maps/Lyth.png",
-                        "label": "Lyth"
-                      }
-                    }
-                  },
-                  "icon": "monitor-up",
-                  "title": "Screen"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 352,
-        "y": 95,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      },
       {
         "id": "34488e9e26e1229b",
         "type": "window",
@@ -414,14 +413,57 @@
         "height": 800,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "e580f4c5426b0c20",
+        "type": "window",
+        "children": [
+          {
+            "id": "6db5baee0bdbf8f3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f46f1495335ffaf0",
+                "type": "leaf",
+                "state": {
+                  "type": "ttrpg-tools-screen-view",
+                  "state": {
+                    "payload": {
+                      "kind": "image",
+                      "source": "app://7ab8176c665d1a7a2daa4639bfd7a594cbe7/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Road%20to%20Pharagax/01%20-%20Green%20Foothills.png?1792938248405",
+                      "filePath": "The Last Wish/Artefacts/Scenery/Road to Pharagax/01 - Green Foothills.png"
+                    }
+                  },
+                  "icon": "monitor-up",
+                  "title": "Screen"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 352,
+        "y": 95,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "4e8ec5935215737d",
+  "active": "aa3fe52a6ea8825a",
   "lastOpenFiles": [
+    "The Last Wish/Artefacts/Scenery/Road to Pharagax/01 - Green Foothills.png",
+    "The Last Wish/Artefacts/Scenery/Music/Sanctuary_of_Katachton_2026-10-29T180325.mp3",
+    "The Last Wish/Artefacts/Scenery/Music/The_Last_Wish_2026-10-26T091618.mp3",
+    "The Last Wish/Artefacts/Scenery/Music/The_Last_Wish_2026-10-26T091618.mp4",
+    "The Last Wish/Artefacts/Scenery/Music/The_Bridge_of_Pharagax_2026-10-26T092104.mp4",
+    "The Last Wish/Artefacts/Scenery/Music/a_cold_wind_blowing__#2-1793296661515.mp3",
+    "The Last Wish/Artefacts/Maps/Akros.png",
+    "The Last Wish/Artefacts/Scenery/Music",
+    "The Last Wish/Artefacts/Scenery/untitled folder",
     "ZoomMap/PlayerScreen/Fog/image-The Last Wish-Artefacts-Maps-Lyth.png.png",
     "The Last Wish/Artefacts/Maps/Lyth.png",
-    "The Last Wish/Artefacts/Maps/Akros.png",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Lyth.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Blood-Toll Harpy.md",
     "The Last Wish/Artefacts/NPCS/Akros/15 - Praxilla - De Open Hand.md",
@@ -446,13 +488,9 @@
     "atlas-vtt/assets/thumbnails/Akros_1793289809367_zo43kt-f6082153.webp",
     "atlas-vtt/assets/Akros_1793289809367_zo43kt.webp",
     "The Last Wish/Artefacts/Scenery/chimera.png",
-    "output/pdf/session-001-sourcebook/00-Sessie-001-complete-binder.pdf",
-    "The Last Wish/Players/Media/Plink - Prying open a door - Theros - Boots.png",
     "The Last Wish/Artefacts/Scenery/Akros/Akros - Scenery Gallery.md",
     "Untitled.canvas",
     "2026-10-29.md",
-    "Untitled.base",
-    "D&D 5E/Mythic Oddysseys Of Theros/Source/source_book.pdf",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/002 - Encounters op de brugdelen.md",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Phanarax Brug.md",
     "The Last Wish/Locations/Akros/De brug van Phanarax.md",
@@ -461,10 +499,6 @@
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Returned Drifter.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Fleecemane Lion.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Bronze Sable.md",
-    "output/pdf/session-001/00-Sessie-001-complete-binder.pdf",
-    "output/pdf/session-001/03-Spelerspakket-handouts-en-kaarten.pdf",
-    "output/pdf/Sessie-001-Sourcebook-Printpakket.zip",
-    "output/pdf/session-001-sourcebook/LEESMIJ.txt",
     "The Last Wish/Players/Media/Plink - Theros boots edit prompt.md",
     "Untitled 1.canvas"
   ]
