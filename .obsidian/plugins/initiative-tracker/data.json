@@ -173,28 +173,6 @@
         "friendly": false
       },
       {
-        "name": "Darius Voss",
-        "initiative": 21,
-        "static": false,
-        "modifier": 3,
-        "hp": 40,
-        "currentMaxHP": 40,
-        "ac": "15",
-        "currentAC": "15",
-        "note": "Darius Voss",
-        "path": "The Last Wish/Players/Darius Voss.md",
-        "id": "ID_eb5b1858bb98",
-        "currentHP": 40,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": 5,
-        "player": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      },
-      {
         "name": "Dorian Veldt",
         "initiative": 13,
         "static": false,

@@ -11,10 +11,12 @@
             "id": "1adb8053a385846d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "The Last Wish/Artefacts/Scenery/chimera.png"
+              },
+              "icon": "lucide-image",
+              "title": "chimera"
             }
           }
         ]
@@ -118,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Last Wish/Artefacts/Scenery/chimera.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Last Wish/Artefacts/Scenery/chimera.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -178,6 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "The Last Wish/Artefacts/Scenery/chimera.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -251,8 +256,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_8a1868eba949",
-                "creatureName": "Wight"
+                "creatureId": "ID_e97a0bc8fb98",
+                "creatureName": "Chimera"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -361,8 +366,9 @@
       }
     ]
   },
-  "active": "8c4d34f362367860",
+  "active": "1adb8053a385846d",
   "lastOpenFiles": [
+    "The Last Wish/Artefacts/Scenery/chimera.png",
     "output/pdf/session-001-sourcebook/00-Sessie-001-complete-binder.pdf",
     "The Last Wish/Players/Media/Plink - Prying open a door - Theros - Boots.png",
     "The Last Wish/Artefacts/Scenery/Akros/Akros - Scenery Gallery.md",
