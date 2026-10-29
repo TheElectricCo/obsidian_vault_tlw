@@ -174,7 +174,7 @@
       },
       {
         "name": "Plink Bugmoss (RIB)",
-        "initiative": 19,
+        "initiative": 10,
         "static": false,
         "modifier": 2,
         "hp": 42,
@@ -247,7 +247,7 @@
         "ac": 11,
         "currentAC": 11,
         "id": "ID_9b8b58982969",
-        "currentHP": 38,
+        "currentHP": 14,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -267,9 +267,11 @@
         "ac": 11,
         "currentAC": 11,
         "id": "ID_3adb38cbb8e8",
-        "currentHP": 19,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
