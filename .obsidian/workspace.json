@@ -4,247 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1dccdc131119d4f8",
+        "id": "c5c5efd989dcd182",
         "type": "tabs",
         "children": [
           {
-            "id": "a6fa30e49b977f5f",
+            "id": "1adb8053a385846d",
             "type": "leaf",
             "state": {
-              "type": "ttrpg-tools-screen-controller",
-              "state": {
-                "payload": {
-                  "kind": "image",
-                  "source": "app://b909ad06f0f353b5130b82d120d9e739c0cd/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Akros/13-Stables.png?1792941393473",
-                  "filePath": "The Last Wish/Artefacts/Scenery/Akros/13-Stables.png"
-                }
-              },
-              "icon": "layout-dashboard",
-              "title": "Player screen controller"
-            }
-          },
-          {
-            "id": "5e92b67901292680",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Last Wish/Artefacts/NPCS/Akros/30 - Theris - De Poort die Wacht.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "30 - Theris - De Poort die Wacht"
-            }
-          },
-          {
-            "id": "94daf889dc473033",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "The Last Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png"
-              },
-              "icon": "lucide-image",
-              "title": "26-Cliffwatch"
-            }
-          },
-          {
-            "id": "9106d4f08eb2eb4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Last Wish/Artefacts/Scenery/Akros/Akros - Scenery Gallery.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Akros - Scenery Gallery"
-            }
-          },
-          {
-            "id": "44381cc13d942d6d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "The Last Wish/Players/Media/Plink - Prying open a door - Theros - Boots.png"
-              },
-              "icon": "lucide-image",
-              "title": "Plink - Prying open a door - Theros - Boots"
-            }
-          },
-          {
-            "id": "c9f413544166c32a",
-            "type": "leaf",
-            "state": {
-              "type": "atlas-vtt-dashboard",
+              "type": "empty",
               "state": {},
-              "icon": "home",
-              "title": "Atlas dashboard"
-            }
-          },
-          {
-            "id": "35e837475ddfb861",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "output/pdf/session-001-sourcebook/00-Sessie-001-complete-binder.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "00-Sessie-001-complete-binder"
-            }
-          },
-          {
-            "id": "e2458fff0b5fb9c4",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": {
-                "encounter": [
-                  [
-                    {
-                      "name": "Skeleton",
-                      "source": "5e SRD",
-                      "size": "Medium",
-                      "type": "undead",
-                      "subtype": "",
-                      "alignment": "lawful evil",
-                      "ac": 13,
-                      "hp": 13,
-                      "hit_dice": "2d8 + 4",
-                      "speed": "30 ft.",
-                      "stats": [
-                        10,
-                        14,
-                        15,
-                        6,
-                        8,
-                        5
-                      ],
-                      "damage_vulnerabilities": "bludgeoning",
-                      "damage_resistances": "",
-                      "damage_immunities": "",
-                      "condition_immunities": "poisoned",
-                      "senses": "darkvision 60 ft., passive Perception 9",
-                      "languages": "understands all languages it spoke in life but can't speak",
-                      "cr": "1/4",
-                      "bestiary": true,
-                      "actions": [
-                        {
-                          "name": "Shortsword",
-                          "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
-                          "attack_bonus": 4,
-                          "damage_dice": "1d6",
-                          "damage_bonus": 2
-                        },
-                        {
-                          "name": "Shortbow",
-                          "desc": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
-                          "attack_bonus": 4,
-                          "damage_dice": "1d6",
-                          "damage_bonus": 2
-                        }
-                      ]
-                    },
-                    6
-                  ],
-                  [
-                    {
-                      "name": "Wight",
-                      "source": "5e SRD",
-                      "size": "Medium",
-                      "type": "undead",
-                      "subtype": "",
-                      "alignment": "neutral evil",
-                      "ac": 14,
-                      "hp": 45,
-                      "hit_dice": "6d8 + 18",
-                      "speed": "30 ft.",
-                      "stats": [
-                        15,
-                        14,
-                        16,
-                        10,
-                        13,
-                        15
-                      ],
-                      "skillsaves": [
-                        {
-                          "perception": 3
-                        },
-                        {
-                          "stealth": 4
-                        }
-                      ],
-                      "damage_vulnerabilities": "",
-                      "damage_resistances": "",
-                      "damage_immunities": "necrotic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",
-                      "condition_immunities": "poisoned",
-                      "senses": "darkvision 60 ft., passive Perception 13",
-                      "languages": "the languages it knew in life",
-                      "cr": "3",
-                      "bestiary": true,
-                      "traits": [
-                        {
-                          "name": "Sunlight Sensitivity",
-                          "desc": "While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
-                          "attack_bonus": 0
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "name": "Multiattack",
-                          "desc": "The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.",
-                          "attack_bonus": 0
-                        },
-                        {
-                          "name": "Life Drain",
-                          "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.\nA humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.",
-                          "attack_bonus": 4,
-                          "damage_dice": "1d6",
-                          "damage_bonus": 2
-                        },
-                        {
-                          "name": "Longsword",
-                          "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.",
-                          "attack_bonus": 4,
-                          "damage_dice": "1d8",
-                          "damage_bonus": 2
-                        },
-                        {
-                          "name": "Longbow",
-                          "desc": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.",
-                          "attack_bonus": 4,
-                          "damage_dice": "1d8",
-                          "damage_bonus": 2
-                        }
-                      ]
-                    },
-                    3
-                  ]
-                ]
-              },
-              "icon": "intiative-tracker-encounter-builder",
-              "title": "Encounter Builder"
-            }
-          },
-          {
-            "id": "1a6e676c3f890093",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "D&D 5E/Mythic Oddysseys Of Theros/Source/source_book.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "source_book"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -345,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D 5E/Base Edition/Magic Items/Arrow-Catching Shield.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -407,7 +178,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atlas-vtt/collections/The Last Wish/scenes/Theros.atlasmap",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -591,34 +361,41 @@
       }
     ]
   },
-  "active": "e2458fff0b5fb9c4",
+  "active": "8c4d34f362367860",
   "lastOpenFiles": [
-    "The Last Wish/Battle Logs/1793039083355 - Encounter.md",
+    "output/pdf/session-001-sourcebook/00-Sessie-001-complete-binder.pdf",
+    "The Last Wish/Players/Media/Plink - Prying open a door - Theros - Boots.png",
+    "The Last Wish/Artefacts/Scenery/Akros/Akros - Scenery Gallery.md",
+    "The Last Wish/Artefacts/Scenery/Akros/26-Cliffwatch.png",
+    "The Last Wish/Artefacts/NPCS/Akros/30 - Theris - De Poort die Wacht.md",
+    "Untitled.canvas",
+    "2026-10-29.md",
+    "Untitled.base",
     "D&D 5E/Mythic Oddysseys Of Theros/Source/source_book.pdf",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/002 - Encounters op de brugdelen.md",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Phanarax Brug.md",
+    "The Last Wish/Locations/Akros/De brug van Phanarax.md",
+    "The Last Wish/Artefacts/Scenery/Road to Pharagax/02 - Cliffside Trail.png",
+    "The Last Wish/Artefacts/Scenery/Road to Pharagax/01 - Green Foothills.png",
+    "The Last Wish/Artefacts/Scenery/Road to Pharagax/03 - Snowbound Pass.png",
+    "The Last Wish/Artefacts/Scenery/Road to Pharagax/05 - The Titan Stairs.png",
+    "The Last Wish/Artefacts/Scenery/Road to Pharagax/04 - Mountain Descent.png",
+    "The Last Wish/Artefacts/Scenery/Akros/03-Lower-Gate.png",
+    "The Last Wish/Artefacts/Maps/Akros.png",
+    "The Last Wish/Battle Logs/1793039083355 - Encounter.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Returned Kakomantis.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Returned Drifter.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Fleecemane Lion.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Bronze Sable.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Blood-Toll Harpy.md",
-    "output/pdf/session-001-sourcebook/00-Sessie-001-complete-binder.pdf",
     "output/pdf/session-001/00-Sessie-001-complete-binder.pdf",
     "output/pdf/session-001/03-Spelerspakket-handouts-en-kaarten.pdf",
     "tmp/pdfs/sourcebook/checked-contact-02.jpg",
-    "tmp/pdfs/sourcebook/checked-contact-01.jpg",
-    "tmp/pdfs/sourcebook/checked-contact-00.jpg",
-    "tmp/pdfs/sourcebook/checked-60.jpg",
-    "tmp/pdfs/sourcebook/checked-59.jpg",
-    "tmp/pdfs/sourcebook/checked-58.jpg",
-    "tmp/pdfs/sourcebook/checked-57.jpg",
-    "tmp/pdfs/sourcebook/checked-56.jpg",
-    "tmp/pdfs/sourcebook/checked-55.jpg",
-    "tmp/pdfs/sourcebook/checked-54.jpg",
     "output/pdf/Sessie-001-Sourcebook-Printpakket.zip",
     "output/pdf/session-001-sourcebook/LEESMIJ.txt",
     "tmp/pdfs/sourcebook/cover.pdf",
     "tmp/pdfs/sourcebook/index.pdf",
     "output/pdf/session-001-sourcebook/04-Tafelkaarten-ware-grootte.pdf",
-    "output/pdf/session-001-sourcebook/03-Spelerspakket-handouts-en-kaarten.pdf",
     "The Last Wish/Players/Media/Plink - Theros boots edit prompt.md",
     "The Last Wish/Players/Media/Player portraits - Theros recreation prompts.md",
     "The Last Wish/Players/Media/Arowel - Portrait prompt.md",
@@ -627,18 +404,11 @@
     "The Last Wish/Players/Media/Dorian - Portrait v2 prompt.md",
     "The Last Wish/Players/Media/Plink - Portrait prompt.md",
     "AGENTS.md",
-    "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Phanarax Brug.md",
     "The Last Wish/Artefacts/NPCS/Akros/14 - Brontes - De Beheerste Vlam.md",
     "The Last Wish/Artefacts/NPCS/Akros/01 - Melantho - Hoedster van de Vier Overspanningen.md",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen/01 - Het gewicht van een leven.md",
     "The Last Wish/NPCS/Media/Nyima - Portret v2 prompt.md",
     "The Last Wish/NPCS/Nyima.md",
-    "The Last Wish/NPCS/Media/Nyima - Portret prompt.md",
-    "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen/06 - Schaduwbrug - De vijfde schaduw.md",
-    "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen/05 - Schaduwbrug - De reiziger zonder voetstappen.md",
-    "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen/04 - Het laatste vaandel.md",
-    "The Last Wish/Sessions/001 - Bridge of Pharagax/Brugdelen/03 - Het bevel dat bleef.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }
