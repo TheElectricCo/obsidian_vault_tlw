@@ -327,6 +327,31 @@
       "createdAt": 1791645656018,
       "modifiedAt": 1791645656018,
       "filePath": "atlas-vtt/collections/The Last Wish/scenes/scene-1791645656018-7k98qz.json"
+    },
+    "map-1793289809373-9szfvb": {
+      "type": "map",
+      "name": "Akros",
+      "mapFilePath": "atlas-vtt/assets/Akros_1793289809367_zo43kt.webp",
+      "collection": "The Last Wish",
+      "tags": [],
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Akros_1793289809367_zo43kt-f6082153.webp",
+      "id": "map-1793289809373-9szfvb",
+      "createdAt": 1793289809373,
+      "modifiedAt": 1793289809373,
+      "filePath": "atlas-vtt/collections/The Last Wish/maps/map-1793289809373-9szfvb.json"
+    },
+    "scene-1793289832054-frrgm2": {
+      "type": "scene",
+      "name": "Akros",
+      "collection": "The Last Wish",
+      "tags": [],
+      "data": {
+        "mapPath": "atlas-vtt/collections/The Last Wish/scenes/Akros.atlasmap"
+      },
+      "id": "scene-1793289832054-frrgm2",
+      "createdAt": 1793289832054,
+      "modifiedAt": 1793289832054,
+      "filePath": "atlas-vtt/collections/The Last Wish/scenes/scene-1793289832054-frrgm2.json"
     }
   },
   "version": 2,
