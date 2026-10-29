@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Last Wish/Artefacts/NPCS/Akros/15 - Praxilla - De Open Hand.md",
+                "file": "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Lyth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 - Praxilla - De Open Hand"
+              "title": "001 - Lyth"
             }
           }
         ],
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "blood",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Last Wish/Artefacts/NPCS/Akros/15 - Praxilla - De Open Hand.md",
+                "file": "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Lyth.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Last Wish/Artefacts/NPCS/Akros/15 - Praxilla - De Open Hand.md",
+                "file": "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Lyth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Last Wish/Artefacts/NPCS/Akros/15 - Praxilla - De Open Hand.md",
+                "file": "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Lyth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -392,8 +392,12 @@
       }
     ]
   },
-  "active": "f7a7259283c765cf",
+  "active": "700f22b8a8bcec66",
   "lastOpenFiles": [
+    "The Last Wish/Artefacts/Maps/Lyth.png",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Blood-Toll Harpy.md",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Lyth.md",
+    "The Last Wish/Artefacts/NPCS/Akros/15 - Praxilla - De Open Hand.md",
     "The Last Wish/Artefacts/Scenery/Pools.webp",
     "The Last Wish/Artefacts/NPCS/Akros/17 - Eudora - Het Ongebroken Zegel.md",
     "The Last Wish/Artefacts/NPCS/Akros/18 - Chryse - De Eerlijke Maat.md",
@@ -427,20 +431,16 @@
     "The Last Wish/Sessions/001 - Bridge of Pharagax/002 - Encounters op de brugdelen.md",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Phanarax Brug.md",
     "The Last Wish/Locations/Akros/De brug van Phanarax.md",
-    "The Last Wish/Artefacts/Scenery/Road to Pharagax/02 - Cliffside Trail.png",
     "The Last Wish/Battle Logs/1793039083355 - Encounter.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Returned Kakomantis.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Returned Drifter.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Fleecemane Lion.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Bronze Sable.md",
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Blood-Toll Harpy.md",
     "output/pdf/session-001/00-Sessie-001-complete-binder.pdf",
     "output/pdf/session-001/03-Spelerspakket-handouts-en-kaarten.pdf",
     "output/pdf/Sessie-001-Sourcebook-Printpakket.zip",
     "output/pdf/session-001-sourcebook/LEESMIJ.txt",
     "The Last Wish/Players/Media/Plink - Theros boots edit prompt.md",
-    "The Last Wish/Players/Media/Player portraits - Theros recreation prompts.md",
-    "The Last Wish/Players/Media/Arowel - Portrait prompt.md",
     "Untitled 1.canvas"
   ]
 }
