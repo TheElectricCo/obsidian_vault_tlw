@@ -184,7 +184,7 @@
         "note": "Plink Bugmoss (RIB)",
         "path": "The Last Wish/Players/Plink Bugmoss (RIB).md",
         "id": "ID_9afa4b7b296b",
-        "currentHP": 42,
+        "currentHP": 36,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -247,9 +247,11 @@
         "ac": 11,
         "currentAC": 11,
         "id": "ID_9b8b58982969",
-        "currentHP": 14,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
