@@ -157,14 +157,12 @@
             "id": "c8e646254c0d73a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "audio",
               "state": {
-                "file": "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Lyth.md",
-                "mode": "source",
-                "source": false
+                "file": "The Last Wish/Artefacts/Scenery/Music/Sanctuary_of_Katachton_2026-10-29T180325.mp3"
               },
-              "icon": "lucide-file",
-              "title": "001 - Lyth"
+              "icon": "lucide-file-audio",
+              "title": "Sanctuary_of_Katachton_2026-10-29T180325"
             }
           }
         ],
@@ -394,7 +392,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       },
       {
         "id": "b765ec4cc655051c",
@@ -537,21 +535,23 @@
       }
     ]
   },
-  "active": "8c4d34f362367860",
+  "active": "700f22b8a8bcec66",
   "lastOpenFiles": [
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00085-84-00.wav",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00084-83-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00096-95-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00095-94-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00094-93-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00093-92-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00092-91-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-53-54-021Z-cf4baad1.md",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00091-90-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00090-89-00.wav",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00089-88-00.wav",
+    "The Last Wish/Artefacts/Scenery/Music/The_Bridge_of_Pharagax_2026-10-26T092104.mp4",
+    "The Last Wish/Artefacts/Scenery/Music/a_cold_wind_blowing__#2-1793296661515.mp3",
+    "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Lyth.md",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00088-87-00.wav",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-46-01-290Z-6a2123a4.md",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00083-82-00.wav",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00082-81-00.wav",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00081-80-00.wav",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00080-79-00.wav",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00079-78-00.wav",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-40-14-984Z-da2c9515.md",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00078-77-00.wav",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00077-76-00.wav",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00076-75-00.wav",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00075-74-00.wav",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-33-37-551Z-889ad059.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-28-25-358Z-18ba10ad.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-23-19-431Z-bf3bf477.md",
@@ -566,7 +566,6 @@
     "The Last Wish/Artefacts/Maps/Meletis.png",
     "The Last Wish/Artefacts/Maps/Theros.png",
     "The Last Wish/Artefacts/Maps/Pools.webp",
-    "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Lyth.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T19-42-22-898Z-e59c3f9c.md",
     "The Last Wish/Artefacts/Scenery/138-04-40.webp",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T19-37-18-796Z-8f4dc41f.md",
@@ -584,7 +583,6 @@
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T18-10-36-834Z-7505b15b/Transcript.md",
     "2026-10-29.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T18-10-36-834Z-7505b15b/Verslag-2026-10-29T18-10-50-345Z-b94e561a.md",
-    "The Last Wish/Artefacts/Scenery/Akros - Generation Prompts.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
