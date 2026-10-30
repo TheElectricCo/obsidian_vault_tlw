@@ -1,4 +1,8 @@
 - Belangrijk:
+	- Duidelijk zijn wanneer:
+		- a) de veiling er is
+		- b) de zangwedstrijd
+		- c) de Iroaanse spelen beginnen
 	- battlemap (om te tonen) van het huis van de gebroken speer 
 	- battlemap van de gouden lier
 	- VR Locaties!
@@ -8,9 +12,15 @@
 	- Bart meldt ook aan Iante, de bevelhebber van de wacht, dat het gezelschap in naam van Anax naar Akros zijn gekomen (welke voor ontstentenis zorgt want Anax is al maanden vermist)
 	- Iante zorgt dat de helden een plaats voor te slapen krijgen in Akros en gaat ook uithoren wat Anax van hen verlangt
 - Darius & de veiling:
-	- Darius kent een kleinere winkel van curiositeiten in Akros waar hij al langer handel mee drijft (kijk eens in de adventures of Theros voor de info hierom - maak de uitbater een dwarf)
+	- Darius kent een kleinere winkel van curiositeiten in Akros waar hij al langer handel mee drijft (kijk eens in de adventures of Theros voor de info hierom - maak de uitbater een dwarf & geef naam die Dorian ook kent)
 		- de uitbater is verrast om Darius te zien,  maar al snel valt zijn gold piece: de veiling zal wellicht Darius verleidt hebben om te komen
 		- deze weet te vertellen dat er recentelijk een nieuw bewind is in het huis van de gebroken speer en dat hij al deze opmerkelijke rariteiten niet vertrouwt
 		- hij brengt ter ore dat er een gerucht gaat dat de nieuwe baas ook een dievenbende runt die de gestolen goederen dan verkoopt via de veiling
-	- Als Darius zijn munt wilt tonen aan de zij-ingang van het huis is er een goblin die eerst verwijst dat leveranciers zich moeten melden aan de ingang; Als Darius de munt toesteekt, gaat de deur op een kier open en zegt de goblin "snel, voordat "
-	- 
+	- Als Darius zijn munt wilt tonen aan de zij-ingang van het huis is er een goblin die eerst verwijst dat leveranciers zich moeten melden aan de ingang; Als Darius de munt toesteekt, gaat de deur op een kier open en zegt de goblin "snel, voordat ze jou/jullie zien". De goblin is nacht toezicht en verdient wat geld "on the side" met het voorvertonen van exclusieve stukken.
+- Arowel & de zangwedstrijd
+	- Arowel kan zich inschrijven voor de zangwestrijd en krijgt de kans om haar talenten te tonen aan de jury. 
+	-  Bij de grote finale worden nobelen van heinde en verre uitgenodigd naar de wedstrijd. Zo bevindt ook de koning van Arowel's hometown zich bij het publiek.
+- Dorian & zijn broer:
+	- nakijken van de brief - 2 mogelijkheden: ofwel is brief niet origineel van hem
+- Plink:
+	- Plink moet zijn interesse wekken om naar de onderwereld af te reizen om Gronk te redden. Hij krijgt een nachtmerrie waar Gronk hem roept voor redding. Ook begint Plink overal het nummer 27 te zien. Wanneer het masker van Varyas zichtbaar zal Plink dit herkennen.
