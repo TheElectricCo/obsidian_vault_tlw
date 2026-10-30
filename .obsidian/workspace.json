@@ -183,12 +183,14 @@
             "id": "ec8707c6c3484fea",
             "type": "leaf",
             "state": {
-              "type": "audio",
+              "type": "markdown",
               "state": {
-                "file": "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00097-96-00.wav"
+                "file": "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T21-00-05-684Z-37230a14.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-audio",
-              "title": "00097-96-00"
+              "icon": "lucide-file",
+              "title": "Verslag-2026-10-29T21-00-05-684Z-37230a14"
             }
           },
           {
@@ -502,6 +504,7 @@
   },
   "active": "ec8707c6c3484fea",
   "lastOpenFiles": [
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00097-96-00.wav",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T21-00-05-684Z-37230a14.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-53-54-021Z-cf4baad1.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T19-27-20-610Z-73dafc97.md",
@@ -517,7 +520,6 @@
     "Untitled 1.canvas",
     "D&D 5E/Base Edition/Monsters Glossary.md",
     "The Last Wish/Artefacts/Scenery/Encounter/chimera.png",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00097-96-00.wav",
     "The Last Wish/Artefacts/Scenery/Music/Sanctuary_of_Katachton_2026-10-29T180325.mp3",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00096-95-00.wav",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00095-94-00.wav",
@@ -549,7 +551,6 @@
     "The Last Wish/Players/Media/Dorian - Archaeology and giant shield v2.png",
     "The Last Wish/Players/Media/Dorian - Archaeology and giant shield - Theros.png",
     "The Last Wish/Players/Media/Dorian - Archaeology and giant shield.png",
-    "D&D 5E/Base Edition/Monsters/Chimera.md",
     "Untitled.canvas"
   ]
 }
