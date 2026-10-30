@@ -1,9 +1,9 @@
 {
   "autoOpenOnSend": true,
-  "savedWindowX": 1728,
-  "savedWindowY": 0,
-  "savedWindowWidth": 1920,
-  "savedWindowHeight": 1080,
+  "savedWindowX": 0,
+  "savedWindowY": 33,
+  "savedWindowWidth": 1728,
+  "savedWindowHeight": 1084,
   "fogMaskFolder": "ZoomMap/PlayerScreen/Fog",
   "fogMaskFiles": {
     "image:The Last Wish/Sessions/001 - Bridge of Pharagax/Media/Scenery/03 - Snowbound Pass.png": "ZoomMap/PlayerScreen/Fog/image-The Last Wish-Sessions-001 - Bridge of Pharagax-Media-Scenery-03 - Snowbound Pass.png.png",

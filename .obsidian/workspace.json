@@ -183,14 +183,12 @@
             "id": "ec8707c6c3484fea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "audio",
               "state": {
-                "file": "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T21-00-05-684Z-37230a14.md",
-                "mode": "source",
-                "source": false
+                "file": "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00097-96-00.wav"
               },
-              "icon": "lucide-file",
-              "title": "Verslag-2026-10-29T21-00-05-684Z-37230a14"
+              "icon": "lucide-file-audio",
+              "title": "00097-96-00"
             }
           },
           {
@@ -437,7 +435,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 536.34765625
+    "width": 536.34765625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -498,48 +497,17 @@
         "height": 800,
         "maximize": false,
         "zoom": 0
-      },
-      {
-        "id": "e580f4c5426b0c20",
-        "type": "window",
-        "children": [
-          {
-            "id": "6db5baee0bdbf8f3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f46f1495335ffaf0",
-                "type": "leaf",
-                "state": {
-                  "type": "ttrpg-tools-screen-view",
-                  "state": {
-                    "payload": {
-                      "kind": "image",
-                      "source": "app://7ab8176c665d1a7a2daa4639bfd7a594cbe7/Users/codelens/Development/Vaults/Farore%20Vault/The%20Last%20Wish/Artefacts/Scenery/Encounter/chimera.png?1793289667941",
-                      "filePath": "The Last Wish/Artefacts/Scenery/Encounter/chimera.png"
-                    }
-                  },
-                  "icon": "monitor-up",
-                  "title": "Screen"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 352,
-        "y": 95,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
       }
     ]
   },
   "active": "ec8707c6c3484fea",
   "lastOpenFiles": [
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Transcript.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T21-00-05-684Z-37230a14.md",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-53-54-021Z-cf4baad1.md",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T19-27-20-610Z-73dafc97.md",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-40-14-984Z-da2c9515.md",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-46-01-290Z-6a2123a4.md",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Transcript.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Theran Chimera.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Fleecemane Lion.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters Glossary.md",
@@ -556,12 +524,9 @@
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00094-93-00.wav",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00093-92-00.wav",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00092-91-00.wav",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-53-54-021Z-cf4baad1.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00091-90-00.wav",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00090-89-00.wav",
     "The Last Wish/Sessions/001 - Bridge of Pharagax/001 - Lyth.md",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-46-01-290Z-6a2123a4.md",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-40-14-984Z-da2c9515.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-33-37-551Z-889ad059.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-28-25-358Z-18ba10ad.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T20-23-19-431Z-bf3bf477.md",
@@ -584,7 +549,6 @@
     "The Last Wish/Players/Media/Dorian - Archaeology and giant shield v2.png",
     "The Last Wish/Players/Media/Dorian - Archaeology and giant shield - Theros.png",
     "The Last Wish/Players/Media/Dorian - Archaeology and giant shield.png",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T19-27-20-610Z-73dafc97.md",
     "D&D 5E/Base Edition/Monsters/Chimera.md",
     "Untitled.canvas"
   ]
