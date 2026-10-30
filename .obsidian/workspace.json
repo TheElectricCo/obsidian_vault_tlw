@@ -185,12 +185,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Theran Chimera.md",
+                "file": "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T21-00-05-684Z-37230a14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theran Chimera"
+              "title": "Verslag-2026-10-29T21-00-05-684Z-37230a14"
             }
           },
           {
@@ -266,8 +266,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -280,7 +279,6 @@
       {
         "id": "3bd0fe16407d4ba3",
         "type": "tabs",
-        "dimension": 27.85977859778598,
         "children": [
           {
             "id": "28150024b71f7c2d",
@@ -434,47 +432,8 @@
               "title": "Tales from Farore"
             }
           }
-        ]
-      },
-      {
-        "id": "b765ec4cc655051c",
-        "type": "tabs",
-        "dimension": 18.45018450184502,
-        "children": [
-          {
-            "id": "597b5195b30e2277",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {
-                "creatureId": null,
-                "creatureName": null
-              },
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9bd5617261007a14",
-        "type": "tabs",
-        "dimension": 53.69003690036901,
-        "children": [
-          {
-            "id": "fc43a620b509ecaf",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {
-                "creatureId": "ID_9b8b58982969",
-                "creatureName": "Harpy"
-              },
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -577,10 +536,12 @@
       }
     ]
   },
-  "active": "211d96376753d4fd",
+  "active": "ec8707c6c3484fea",
   "lastOpenFiles": [
-    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Fleecemane Lion.md",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Transcript.md",
+    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T21-00-05-684Z-37230a14.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Theran Chimera.md",
+    "D&D 5E/Mythic Oddysseys Of Theros/Monsters/Fleecemane Lion.md",
     "D&D 5E/Mythic Oddysseys Of Theros/Monsters Glossary.md",
     "Untitled 2.canvas",
     "Untitled 1.base",
@@ -588,7 +549,6 @@
     "Untitled 1.canvas",
     "D&D 5E/Base Edition/Monsters Glossary.md",
     "The Last Wish/Artefacts/Scenery/Encounter/chimera.png",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T21-00-05-684Z-37230a14.md",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00097-96-00.wav",
     "The Last Wish/Artefacts/Scenery/Music/Sanctuary_of_Katachton_2026-10-29T180325.mp3",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Audio/00096-95-00.wav",
@@ -625,7 +585,6 @@
     "The Last Wish/Players/Media/Dorian - Archaeology and giant shield - Theros.png",
     "The Last Wish/Players/Media/Dorian - Archaeology and giant shield.png",
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T19-27-20-610Z-73dafc97.md",
-    "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Transcript.md",
     "D&D 5E/Base Edition/Monsters/Chimera.md",
     "Untitled.canvas"
   ]
