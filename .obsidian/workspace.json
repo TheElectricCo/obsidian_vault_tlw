@@ -77,7 +77,6 @@
           {
             "id": "ce96d8ff293ca1a5",
             "type": "leaf",
-            "dimension": 20,
             "state": {
               "type": "ttrpg-tools-screen-controller",
               "state": {
@@ -502,7 +501,7 @@
       }
     ]
   },
-  "active": "ec8707c6c3484fea",
+  "active": "7d745380c3933dbb",
   "lastOpenFiles": [
     "The Last Wish/Sessions/Opnames/Farore/2026-10-29T19-22-06-856Z-85d7fb5b/Verslag-2026-10-29T21-00-05-684Z-37230a14.md",
     "The Last Wish/Sessions/002 - Akros/Voorbereiding.md",
